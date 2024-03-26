@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Alle Kontakte</h1>
+    {% if all_contacts %}
+    <ul>
+    {% for contact in all_contacts %} <!--variable wie in render_template in server.py -> all-contacts -->
+        <li>
+            <a href="{{ url_for('route_contact', contact_id=contact.id) }}">{{ contact.firstname }} {{ contact.lastname }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+    {% else %}
+    <p>Noch keine Kontakte.</p>
+    {% endif %}
+{% endblock %}

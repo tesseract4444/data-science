@@ -1,0 +1,9 @@
+Kontaktliste in Flask
+=====================
+
+Ihre Aufgabe ist es, eine Kontaktliste mit Weboberfläche zu erstellen.
+Vervollständigen Sie hierzu die Routen in `server.py` sowie die Templates
+`index.html`, `contact.html` und `newContactForm.html`. Die entsprechenden
+Angaben finden Sie in den Dateien.
+
+Die Dateien `contact.py`, `base.html` und `contactBookStyle.css` müssen nicht geändert werden.

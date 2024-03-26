@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="de">
+    <head>
+        <title>KontaktListe</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='contactBookStyle.css') }}">
+    </head>
+    <body>
+        <div class="container">
+            <nav class="navbar">
+                <a class="nav-brand" href="{{ url_for('route_index') }}">KontaktListe</a>
+                <a class="nav-item" href="{{ url_for('route_create_contact_form') }}">Kontakt erstellen</a>
+            </nav>
+            {% block content %}{% endblock %}
+        </div>
+    </body>
+</html>

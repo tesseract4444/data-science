@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="de">
+    <head>
+        <meta charset="UTF-8">
+        <title>Passwortstärke</title>
+        <script src="./02_pwChecker.js">
+        </script>
+    </head>
+    <body>
+      <div>
+        <label for="vorname">Vorname:</label>
+        <input id="vorname">
+      </div>
+      <div>
+        <label for="nachname">Nachname:</label>
+        <input id="nachname">
+      </div>
+      <div>
+        <label for="password">Passwort</label>
+        <input type="password" id="password" onchange="passwordStrength()">
+      </div>
+      <div>
+        <span id=errors></span>
+      </div>
+    </body>
+</html>

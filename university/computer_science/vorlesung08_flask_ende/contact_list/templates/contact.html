@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>{{ contact.firstname }} {{ contact.lastname }}</h1>
+
+    {% if contact.mobile_phone %}
+        <p>Mobil: {{ contact.mobile_phone }}</p>
+    {% endif %}
+
+    {% if contact.work_phone %}
+        <p>Mobil: {{ contact.work_phone }}</p>
+    {% endif %}
+
+    {% if contact.email %}
+        <p>Mobil: {{ contact.email }}</p>
+    {% endif %}
+{% endblock %}

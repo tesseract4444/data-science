@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+{# Block für Titel, damit dieser geändert werden kann #}
+<title>{% block title %}Standardtitel{% endblock %}</title>
+{# Binde CSS auf *allen* Seiten ein, die von dieser "erben" #}
+<link href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+{# Block für den eigentlichen Inhalt der Seite #}
+{% block content %}{% endblock %}
+</body>
+</html>

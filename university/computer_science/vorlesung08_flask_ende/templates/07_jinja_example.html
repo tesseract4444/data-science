@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="de">
+    <head>
+        <title>Jinja-Beispiel</title>
+    </head>
+    <body>
+        {# Kommentar: product_names ist eine List[str] #}
+        {% if product_names %}
+            {% for product_name in product_names %}
+                <p>{{ product_name }}</p>
+            {% endfor %}
+        {% else %}
+            <p>Es konnten keine Produkte gefunden werden!</p>
+        {% endif %}
+    </body>
+</html>

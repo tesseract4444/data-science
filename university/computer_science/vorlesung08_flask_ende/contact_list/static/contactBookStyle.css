@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.navbar {
+    padding: 20px;
+    background: oldlace;
+    margin-bottom: 20px;
+}
+
+.nav-brand {
+    text-decoration: none;
+    font-weight: bold;
+    color: cadetblue;
+    margin-right: 20px;
+}
+
+.nav-item {
+    text-decoration: none;
+    color: cadetblue;
+}
+
+.text-centered {
+    text-align: center;
+}
+
+.field {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.control {
+    margin-top: 10px;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], {
+    width: 100%;
+    box-sizing: border-box;
+
+    padding: 10px;
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+}
+
+input[type="submit"], .button {
+    padding: 10px;
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+    background: cadetblue;
+}

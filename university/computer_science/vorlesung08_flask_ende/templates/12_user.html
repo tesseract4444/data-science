@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}Nutzer {{ user.username }}{% endblock %}
+{% block content %}
+<p>ID: {{ user.id }}</p>
+<p>Nutzername: {{ user.username }}</p>
+<p>Realer Name: {{ user.real_name }}</p>
+<p>Alter: {{ user.age }}</p>
+{% endblock %}

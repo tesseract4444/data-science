@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Nutzerübersicht{% endblock %}
+{% block content %}
+{% if users %}
+<ul>
+{% for id, user in users.items() %}
+<li>
+<a href="{{ url_for('route_user_by_id', id=id) }}">{{ user.username }}
+</li>
+{% endfor %}
+</ul>
+{% else %}
+<p>Es konnten keine Nutzer gefunden werden!</p>
+{% endif %}
+{% endblock %}

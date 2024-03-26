@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="de">
+
+{% extends "11_base_template.html" %}
+{% block title %}Kunden{% endblock %}
+{% block content %}
+{% for customer in customers %}
+<p>{{ customer }}</p>
+{% endfor %}
+{% endblock %}
+
+</html>
