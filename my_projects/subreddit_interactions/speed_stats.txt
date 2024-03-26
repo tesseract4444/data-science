@@ -1,0 +1,23 @@
+Logistic Regression:  2 min. 5s (Grid: ca. 36 min.)
+accuracy: 0.9557042498632627
+precision: 0.9556597474447306
+recall: 0.9985203584872391
+f1 score: 0.9766200266942607
+
+Naives Bayes: 40s  (Grid: 26s)
+accuracy: 0.9071962835894049
+precision: 0.9380663750503859
+recall: 0.9634459547521026
+f1 score: 0.9505867936445502
+
+Decision Tree Classifier: 2h 8 min. (33 min.; Grid: split10k; best: max_depth=5 max_leaf_nodes=10, min_samples_leaf=1 score=0.9218)
+accuracy: 0.9967751330080054
+precision: 0.9986993753932567
+recall: 0.9978188704125364
+f1 score: 0.9982589287426321
+
+Random Forest: 5h 46 min.  (Grid: 1h; split10k; best: n_esti=25 score=0.9224)
+accuracy: 0.9967112039266662
+precision: 0.9970515124861371
+recall: 0.999405843433995
+f1 score: 0.9982272897826038

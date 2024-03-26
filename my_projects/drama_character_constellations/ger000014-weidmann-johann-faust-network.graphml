@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="wagner">
+            <data key="label">Wagner</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">751</data>
+        </node>
+        <node id="theodor">
+            <data key="label">Theodor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">996</data>
+        </node>
+        <node id="elisabeth">
+            <data key="label">Elisabeth</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">529</data>
+        </node>
+        <node id="donnerschlag">
+            <data key="label">Donnerschlag</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">287</data>
+        </node>
+        <node id="spuraus">
+            <data key="label">Spuraus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">175</data>
+        </node>
+        <node id="emilie">
+            <data key="label">Emilie</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">106</data>
+        </node>
+        <node id="faust">
+            <data key="label">Faust</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2730</data>
+        </node>
+        <node id="ithuriel">
+            <data key="label">Ithuriel</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1460</data>
+        </node>
+        <node id="helena">
+            <data key="label">Helena</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1457</data>
+        </node>
+        <node id="mephistopheles">
+            <data key="label">Mephistopheles</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2333</data>
+        </node>
+        <node id="friedreich">
+            <data key="label">Friedreich</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">129</data>
+        </node>
+        <node id="silbergeitz">
+            <data key="label">Silbergeitz</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">323</data>
+        </node>
+        <node id="schoenheitlieb">
+            <data key="label">Schönheitlieb</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">201</data>
+        </node>
+        <node id="raufgern">
+            <data key="label">Raufgern</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">212</data>
+        </node>
+        <node id="sorgenvoll">
+            <data key="label">Sorgenvoll</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">255</data>
+        </node>
+        <node id="waisenplag">
+            <data key="label">Waisenplag</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">239</data>
+        </node>
+        <node id="chor_3-4">
+            <data key="label">Chor (III/4)</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">23</data>
+        </node>
+        <edge id="wagner|theodor" source="wagner" target="theodor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="wagner|elisabeth" source="wagner" target="elisabeth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="wagner|donnerschlag" source="wagner" target="donnerschlag">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="wagner|spuraus" source="wagner" target="spuraus">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="wagner|emilie" source="wagner" target="emilie">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="wagner|faust" source="wagner" target="faust">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="wagner|ithuriel" source="wagner" target="ithuriel">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="wagner|mephistopheles" source="wagner" target="mephistopheles">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="wagner|helena" source="wagner" target="helena">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="wagner|chor_3-4" source="wagner" target="chor_3-4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="theodor|elisabeth" source="theodor" target="elisabeth">
+            <data key="weight">8</data>
+        </edge>
+        <edge id="theodor|ithuriel" source="theodor" target="ithuriel">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="theodor|faust" source="theodor" target="faust">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="theodor|mephistopheles" source="theodor" target="mephistopheles">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="theodor|helena" source="theodor" target="helena">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="elisabeth|ithuriel" source="elisabeth" target="ithuriel">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="elisabeth|faust" source="elisabeth" target="faust">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="elisabeth|mephistopheles" source="elisabeth" target="mephistopheles">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="elisabeth|helena" source="elisabeth" target="helena">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="donnerschlag|spuraus" source="donnerschlag" target="spuraus">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="spuraus|emilie" source="spuraus" target="emilie">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="faust|ithuriel" source="faust" target="ithuriel">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="faust|helena" source="faust" target="helena">
+            <data key="weight">8</data>
+        </edge>
+        <edge id="faust|mephistopheles" source="faust" target="mephistopheles">
+            <data key="weight">14</data>
+        </edge>
+        <edge id="faust|friedreich" source="faust" target="friedreich">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="faust|silbergeitz" source="faust" target="silbergeitz">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="faust|schoenheitlieb" source="faust" target="schoenheitlieb">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="faust|raufgern" source="faust" target="raufgern">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="faust|sorgenvoll" source="faust" target="sorgenvoll">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="faust|waisenplag" source="faust" target="waisenplag">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="faust|chor_3-4" source="faust" target="chor_3-4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ithuriel|helena" source="ithuriel" target="helena">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="ithuriel|mephistopheles" source="ithuriel" target="mephistopheles">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="helena|chor_3-4" source="helena" target="chor_3-4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="helena|mephistopheles" source="helena" target="mephistopheles">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="mephistopheles|friedreich" source="mephistopheles" target="friedreich">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="mephistopheles|silbergeitz" source="mephistopheles" target="silbergeitz">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="mephistopheles|schoenheitlieb" source="mephistopheles" target="schoenheitlieb">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="mephistopheles|raufgern" source="mephistopheles" target="raufgern">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="mephistopheles|sorgenvoll" source="mephistopheles" target="sorgenvoll">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="mephistopheles|waisenplag" source="mephistopheles" target="waisenplag">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

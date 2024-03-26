@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Relation" attr.type="string" for="edge" id="relation"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <graph edgedefault="undirected">
+        <node id="wagner">
+            <data key="label">Wagner</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="theodor">
+            <data key="label">Theodor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="elisabeth">
+            <data key="label">Elisabeth</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="donnerschlag">
+            <data key="label">Donnerschlag</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="spuraus">
+            <data key="label">Spuraus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="emilie">
+            <data key="label">Emilie</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="faust">
+            <data key="label">Faust</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="ithuriel">
+            <data key="label">Ithuriel</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="helena">
+            <data key="label">Helena</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="mephistopheles">
+            <data key="label">Mephistopheles</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="friedreich">
+            <data key="label">Friedreich</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="silbergeitz">
+            <data key="label">Silbergeitz</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="schoenheitlieb">
+            <data key="label">Schönheitlieb</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="raufgern">
+            <data key="label">Raufgern</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="sorgenvoll">
+            <data key="label">Sorgenvoll</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="waisenplag">
+            <data key="label">Waisenplag</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+        </node>
+        <node id="chor_3-4">
+            <data key="label">Chor (III/4)</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+        </node>
+        <edge id="1" directed="false" source="theodor" target="faust">
+            <data key="relation">parent_of</data>
+        </edge>
+        <edge id="2" directed="false" source="elisabeth" target="faust">
+            <data key="relation">parent_of</data>
+        </edge>
+        <edge id="3" directed="false" source="helena" target="faust">
+            <data key="relation">lover_of</data>
+        </edge>
+        <edge id="4" directed="false" source="helena" target="eduard">
+            <data key="relation">parent_of</data>
+        </edge>
+        <edge id="5" directed="false" source="wagner" target="faust">
+            <data key="relation">associated_with</data>
+        </edge>
+    </graph>
+</graphml>
