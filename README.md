@@ -2,7 +2,7 @@ folder sololearn:
 - code data science courses from https://www.sololearn.com/
 
 folder university:
-- files from lectures
+- code files from lectures
 
 folder my_projects:
 - indivudal projects
