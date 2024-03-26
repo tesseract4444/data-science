@@ -1,5 +1,5 @@
 folder sololearn:
-- code data science course from https://www.sololearn.com/
+- code data science courses from https://www.sololearn.com/
 
 folder university:
 - files from lectures
