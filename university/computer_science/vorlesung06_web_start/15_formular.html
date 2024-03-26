@@ -1,0 +1,40 @@
+<form action="/newUser" method="post">
+  <div>
+    <label for="name">Name:</label>
+    <input name="name" id="name" required>
+  </div>
+  <div>
+    <label for="email">Email:</label>
+    <input type="email" name="email" id="email" required>
+  </div>
+  <div>
+    <label for="password">Passwort:</label>
+    <input type="password" name="passwort" id="passwort" required>
+  </div>
+  <div>
+    <label for="comment">Kommentar:</label>
+    <textarea name="comment" id="comment" placeholder=""Ihr Kommentar...">
+    </textarea>
+  </div>
+  <div>
+    <label for="geschl">Geschlecht:</label>
+    <select name="geschl" id="geschl" required>
+      <option value="" selected>Bitte wählen...</option>
+      <option value="m">Männlich</option>
+      <option value="f">Weiblich</option>
+    </select>
+  </div>
+  <div>
+    <label for="owns_car">
+      <input type="checkbox" name="owns_car" id="owns_car">
+      Ich besitze ein Auto
+    </label>
+    <label for="owns_bike">
+      <input type="checkbox" name="owns_bike" id="owns_bike">
+      Ich besitze ein Fahrrad
+    </label>
+  </div>
+  <div>
+    <input type="reset"><input type="submit">
+  </div>
+</form>
