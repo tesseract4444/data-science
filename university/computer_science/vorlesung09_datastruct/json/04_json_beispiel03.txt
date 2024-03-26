@@ -1,0 +1,30 @@
+{
+	"herausgeber": "Xema",
+	"nummer": "1234-5678-9012-3456",
+	"deckung": 2e+6,
+	"waehrung": "EURO",
+	"deaktivierbar": false,
+	"inhaber": {
+		"name": "Mustermann",
+		"vorname": "Max",
+		"geschlecht": "maennlich",
+		"hobbies": [
+			"Reiten",
+			"Golfen"
+		],
+		"alter": 42,
+		"kinder": [
+		{
+			"name": "Mustermann",
+			"vorname": "Sandra",
+			"alter": 17
+		}
+			"name": "Mustermann",
+			"vorname": "Michael",
+			"alter": 15
+		}
+		]
+		"partner": null
+	}
+}
+			

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE party SYSTEM "01_party_dtd.dtd">
+<party datum='2018-05-03'>
+    <gast ledig="true" nuechtern="false">
+        <vorname>Hans</vorname>
+        <nachname>Pans</nachname>
+        <getraenk>Vodka</getraenk>    
+    </gast>
+    <gast ledig="false" nuechtern="true">
+        <vorname>Candy</vorname>
+        <nachname>Love</nachname>
+        <getraenk>Jaegermeister</getraenk>
+        <getraenk>Vodka</getraenk> 
+        <getraenk>Rum</getraenk> 
+    </gast>
+</party>

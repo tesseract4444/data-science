@@ -1,0 +1,25 @@
+Standard, danach Referenz:
+{
+	"type": "object",
+	"properties": {
+		"to": {
+			"$ref": "#/definitions/Receiver"
+		},
+		"from": {"type": "string"},
+		"heading": {"type": "string"},
+		"body": {"type": "string"}
+	},
+	"required": [
+		"to", "from", "heading", "body"
+	],
+	"defintions":{
+		"Receiver":{
+			"type": "object",
+			"properties":{
+				"id": {"type": "string"},
+				"name": {"type": "string"}
+			},
+			"required": ["id", "name"]
+		},
+	}
+}

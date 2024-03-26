@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE praxis SYSTEM "03_praxis_dtd.dtd">
+<praxis>
+    <arzt>
+        <name>Dr. Kopfabschneider</name>
+        <termin art="operation">
+            <datum>20.10.2021</datum>
+            <uhrzeit>07.00</uhrzeit>
+            <patient>Hans Eierklopfer</patient>
+            <beschreibung>Die Nase muss weg!</beschreibung>
+        </termin>
+    </arzt>
+    <arzt>
+        <name>Dr. Killemall</name>
+        <termin art="untersuchung">
+            <datum>21.10.2021</datum>
+            <uhrzeit>08.00</uhrzeit>
+            <patient>Ursula Ungemach</patient>
+        </termin>
+    </arzt>
+</praxis>

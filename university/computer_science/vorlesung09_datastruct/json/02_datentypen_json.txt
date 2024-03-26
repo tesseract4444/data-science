@@ -1,0 +1,14 @@
+{
+	"null_value": null,
+	"boolean": true,
+	"number": {
+		"integer": 1,
+		"float": 3.14159
+	}
+	"string": "my_string",
+	"array": [
+		"this", "is", "an",
+		"array", "of", "strings"
+	]
+}
+	

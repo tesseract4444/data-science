@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lecture SYSTEM "02_lecture_dtd.dtd">
+<lecture>
+    <lecturer  title="Prof. Dr.">
+        <name>Hans Dödel</name>
+    </lecturer>
+    <date weekday = "mon">
+        <hours>16.00-18.00</hours>
+    </date>
+    <date weekday="sat">
+        <hours>20.00-22.00</hours>
+    </date>
+    <student matrikel="4563463453">
+        <name>Henrietta Hot</name>
+    </student>
+    <student matrikel="4634342323">
+        <name>Lukas Loser</name>
+    </student>
+</lecture>

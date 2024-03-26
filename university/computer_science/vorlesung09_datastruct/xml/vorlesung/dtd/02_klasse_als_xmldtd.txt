@@ -1,0 +1,6 @@
+<!ELEMENT owner (name, pet*)> <!-- Element owner besitzt Subelement name und beliebige Anzahl von Subelementen pet -->
+<!ELEMENT pet (name, (dog | cat))> <!-- Element pet besitzt Subelement dog oder Subelement cat -->
+<!ELEMENT dog (breed)> <!-- Element dog besteht aus Subelement breed -->
+<!ELEMENT name (#PCDATA)> <!-- PCDATA = beliebiger Text -->
+<!ELEMENT breed (#PCDATA)> <!-- PCDATA = beliebiger Text -->
+<!ELEMENT cat EMPTY> <!-- Element cat ist leeres Element -->

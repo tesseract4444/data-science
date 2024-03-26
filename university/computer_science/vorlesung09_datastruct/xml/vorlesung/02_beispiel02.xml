@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<manufacturerlist>
+    <manufacturer>
+        <name>Audi</name>
+        <founded>1909</founded>
+        <models>
+            <model>A4</model>
+            <model>A6</model>
+        </models>
+    </manufacturer>
+    <manufacturer>
+        <name>BMW</name>
+        <founded>1916</founded>
+        <models>
+            <model>3er</model>
+            <model>5er</model>
+        </models>
+    </manufacturer>
+</manufacturerlist>

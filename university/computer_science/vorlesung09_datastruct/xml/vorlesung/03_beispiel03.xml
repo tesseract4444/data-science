@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<speisekarte>
+    <salate>
+        <salat>Gemischter Salat</salat>
+        <salat>Grüner Salat</salat>
+    </salate>
+    <fischgerichte>
+        <fisch>Seelachsfilet</fisch>
+        <fisch>Doradenfilet</fisch>
+    </fischgerichte>
+    <fleischgerichte>
+        <fleisch>Rinderhüftsteack</fleisch>
+        <fleisch>Schweineschintzel</fleisch>
+        <fleisch>Putenbrust</fleisch>
+    </fleischgerichte>
+</speisekarte>

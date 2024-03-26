@@ -1,0 +1,32 @@
+Dokument:
+{
+	"to": {
+		"id": "max123",
+		"name": "Max"
+	},
+	"from": "Moritz",
+	"heading": "Hallo, Moritz",
+	"body": "Schön, dich zu sehen!"
+}
+
+
+
+
+Schema:
+{
+	"type": "object",
+	"properties": {
+		"to": {
+			"type": "object",
+			"properties": {
+				"id": {"type": "string"},
+				"name": {"type": "string"}
+			}, "required": ["id", "name"]
+		},
+		"from": {"type": "string"},
+		"heading": {"type": "string"},
+		body": {"type": "string"}
+	}, "required": ["to", "from", "heading", "body"]
+}
+
+

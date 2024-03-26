@@ -1,0 +1,12 @@
+{
+	"name": "Mustermann",
+	"vorname": "Max",
+	"geschlecht": "maennlich",
+	"hobbies": ["Reiten", "Golfen"],
+	"alter": 42,
+	"kinder": [
+		{"name": "Sandra Mustermann", "alter": 17},
+		{"name": "Michael Mustermann", "alter": 15}
+	],
+	"partner": null
+}

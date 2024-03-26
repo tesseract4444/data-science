@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE breakfast SYSTEM "04_breakfast_dtd.dtd">
+<breakfast>
+    <food>
+        <name>Ensalada Mista, Baby!</name>
+        <price>25.00 Euro</price>
+        <description>Bester Salat der Welt</description>
+        <calories>Too much!</calories>
+    </food>
+    <food>
+        <name>Pizza alla Mamma mia</name>
+        <price>8.00 Euro</price>
+        <description>Beste Pizza der Welt</description>
+        <calories>425 kcal</calories>
+    </food>
+</breakfast>

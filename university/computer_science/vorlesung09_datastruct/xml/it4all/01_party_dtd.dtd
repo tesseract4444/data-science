@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT party (gast+)>
+<!ATTLIST party datum CDATA #REQUIRED>
+<!ELEMENT gast (vorname, nachname, getraenk+)>
+<!ELEMENT vorname (#PCDATA)>
+<!ELEMENT nachname (#PCDATA)>
+<!ELEMENT getraenk (#PCDATA)>
+<!ATTLIST gast
+      nuechtern (true | false) #REQUIRED
+      ledig (true | false) #REQUIRED
+>

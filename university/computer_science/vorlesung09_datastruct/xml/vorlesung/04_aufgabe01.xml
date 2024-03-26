@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cd SYSTEM "cd.dtd">
+<cd_collection>
+    <cd1 songs="10">
+        <artist>THE HEAVY</artist>
+        <title>THE HOUSE THAT DIRT BUILT</title>
+        <text>
+            <p align="center">
+                <l>Oh No! Not You Again!!</l>
+                <l>How You Like Me Now?</l>
+                <l>Sixteen</l>
+                <l>Short Change Hero</l>
+                <l>No Time</l>
+                <l>Long Way From Home</l>
+                <l>Cause For Alarm</l>
+                <l>Love Like That</l>
+                <l>What You Want Me To Do?</l>
+                <l>Stuck</l>
+            </p>
+        </text>
+    </cd1>
+</cd_collection>
+</DOCTYPE>

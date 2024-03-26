@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliothek SYSTEM "05_bibliothek_dtd.dtd">
+<bibliothek>
+    <abteilung>
+        <titel>Area-51</titel>
+        <buch id="1">
+            <isbn>5634643535</isbn>
+            <titel>Dödelhausen</titel>         
+            <autor>Hans Dödel</autor>
+            <coautor>Dumm Dödel</coautor>
+            <jahr>1978</jahr>
+            <verlag>Depporaverlag</verlag>
+            <auflage>70. Auflage</auflage>           
+        </buch>
+        <buch id="2">
+            <isbn>34634324434</isbn>
+            <titel>Dappenheim</titel>         
+            <autor>Erika Edelfrau</autor>
+            <jahr>1978</jahr>
+            <verlag>Depporaverlag</verlag>         
+        </buch>
+    </abteilung>
+</bibliothek>

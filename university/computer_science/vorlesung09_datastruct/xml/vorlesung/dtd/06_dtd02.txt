@@ -1,0 +1,5 @@
+<!ATTLIST to name CDATA #REQUIRED>
+<!ATTLIST student
+	residence CDATA "Würzburg"
+	matrikel CDATA REQUIRED
+	wach (ja | nein) #IMPLIED

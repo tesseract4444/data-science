@@ -1,0 +1,7 @@
+<!ELEMENT note (to, from, heading, message | body))>
+	<!ELEMENT to (#PCDATA)>
+	<!ATTLIST to id CDATA #REQUIRED> <!-- ATTLIST = Liste von Attributen, muss angegeben werden -->
+	<!ELEMENT from (#PCDATA)>
+	<!ELEMENT heading (#PCDATA)>
+	<!ELEMENT body ANY>
+	<!ELEMENT message (#PCDATA)>

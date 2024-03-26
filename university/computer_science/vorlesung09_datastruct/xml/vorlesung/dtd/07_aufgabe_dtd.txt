@@ -1,0 +1,6 @@
+<!ELEMENT cd (artist, title, songlist)>
+	<!ATTLIST cd songs CDATA #REQUIRED>
+	<!ELEMENT artist (#PCDATA)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT songlist (song+)>
+	<!ELEMENT song (#PCDATA)>

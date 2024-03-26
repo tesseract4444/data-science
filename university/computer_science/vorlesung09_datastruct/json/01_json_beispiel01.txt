@@ -1,0 +1,10 @@
+{
+	"to": {
+		"id": "max123"
+		"name": "Max"
+	},
+	"from": "Moritz"
+	"heading": "Hallo, Moritz",
+	"body": "Schön, dich zu sehen!"
+}
+	
