@@ -1,0 +1,88 @@
+
+c_uci:
+Number of topics: 1, Coherence score: inf
+Number of topics: 2, Coherence score: inf
+Number of topics: 3, Coherence score: inf
+Number of topics: 4, Coherence score: inf
+Number of topics: 5, Coherence score: inf
+Number of topics: 6, Coherence score: inf
+Number of topics: 7, Coherence score: inf
+Number of topics: 8, Coherence score: inf
+Number of topics: 9, Coherence score: inf
+Number of topics: 10, Coherence score: inf
+Number of topics: 11, Coherence score: inf
+Number of topics: 12, Coherence score: inf
+Number of topics: 13, Coherence score: inf
+Number of topics: 14, Coherence score: inf
+Number of topics: 15, Coherence score: inf
+Number of topics: 16, Coherence score: inf
+Number of topics: 17, Coherence score: inf
+Number of topics: 18, Coherence score: inf
+Number of topics: 19, Coherence score: inf
+Number of topics: 20, Coherence score: inf
+
+u_mass:
+Number of topics: 1, Coherence score: -14.577337901884336
+Number of topics: 2, Coherence score: -11.19797231717026
+Number of topics: 3, Coherence score: -11.454177552525104
+Number of topics: 4, Coherence score: -12.205019672649755
+Number of topics: 5, Coherence score: -11.594419407269061
+Number of topics: 6, Coherence score: -11.972746716480083
+Number of topics: 7, Coherence score: -12.499684344189388
+Number of topics: 8, Coherence score: -11.43737634004854
+Number of topics: 9, Coherence score: -10.761591737164135
+Number of topics: 10, Coherence score: -10.565433742735802
+Number of topics: 11, Coherence score: -8.207222955880372
+Number of topics: 12, Coherence score: -9.032632294004133
+Number of topics: 13, Coherence score: -7.76103744247997
+Number of topics: 14, Coherence score: -9.443560384938111
+Number of topics: 15, Coherence score: -8.410479509687265
+Number of topics: 16, Coherence score: -7.59931358733645
+Number of topics: 17, Coherence score: -8.054954196204084
+Number of topics: 18, Coherence score: -7.24881542049236
+Number of topics: 19, Coherence score: -7.761551752529197
+Number of topics: 20, Coherence score: -6.956663909263407
+
+c_v:
+Number of topics: 1, Coherence score: nan
+Number of topics: 2, Coherence score: nan
+Number of topics: 3, Coherence score: nan
+Number of topics: 4, Coherence score: nan
+Number of topics: 5, Coherence score: nan
+Number of topics: 6, Coherence score: nan
+Number of topics: 7, Coherence score: nan
+Number of topics: 8, Coherence score: nan
+Number of topics: 9, Coherence score: nan
+Number of topics: 10, Coherence score: nan
+Number of topics: 11, Coherence score: nan
+Number of topics: 12, Coherence score: nan
+Number of topics: 13, Coherence score: nan
+Number of topics: 14, Coherence score: nan
+Number of topics: 15, Coherence score: nan
+Number of topics: 16, Coherence score: nan
+Number of topics: 17, Coherence score: nan
+Number of topics: 18, Coherence score: nan
+Number of topics: 19, Coherence score: nan
+Number of topics: 20, Coherence score: nan
+
+c_npmi:
+Number of topics: 1, Coherence score: inf
+Number of topics: 2, Coherence score: inf
+Number of topics: 3, Coherence score: inf
+Number of topics: 4, Coherence score: inf
+Number of topics: 5, Coherence score: inf
+Number of topics: 6, Coherence score: inf
+Number of topics: 7, Coherence score: inf
+Number of topics: 8, Coherence score: inf
+Number of topics: 9, Coherence score: inf
+Number of topics: 10, Coherence score: inf
+Number of topics: 11, Coherence score: inf
+Number of topics: 12, Coherence score: inf
+Number of topics: 13, Coherence score: inf
+Number of topics: 14, Coherence score: inf
+Number of topics: 15, Coherence score: inf
+Number of topics: 16, Coherence score: inf
+Number of topics: 17, Coherence score: inf
+Number of topics: 18, Coherence score: inf
+Number of topics: 19, Coherence score: inf
+Number of topics: 20, Coherence score: inf

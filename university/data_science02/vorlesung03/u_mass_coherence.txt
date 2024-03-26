@@ -1,0 +1,744 @@
+After running topic modelling: 
+[(0, '0.018*"laughter" + 0.009*"bishop" + 0.007*"christian" + 0.006*"remark" + 0.006*"interview" + 0.005*"johnson" + 0.004*"iowa"'), (1, '0.008*"putin" + 0.006*"yeah" + 0.005*"buy" + 0.004*"television" + 0.004*"decline" + 0.004*"team" + 0.004*"jewish"'), (2, '0.008*"ban" + 0.006*"desk" + 0.005*"estate" + 0.005*"putin" + 0.004*"bigotry" + 0.004*"telecom" + 0.004*"colorado"'), (3, '0.009*"laughter" + 0.006*"putin" + 0.005*"convention" + 0.005*"russian" + 0.004*"estate" + 0.004*"machine" + 0.004*"evangelical"'), (4, '0.009*"laughter" + 0.006*"television" + 0.005*"apologize" + 0.005*"ban" + 0.005*"net" + 0.005*"evangelical" + 0.005*"rudy"'), (5, '0.016*"laughter" + 0.006*"overdose" + 0.006*"apologize" + 0.006*"heroin" + 0.005*"comeback" + 0.005*"addiction" + 0.005*"crazy"'), (6, '0.010*"university" + 0.008*"drink" + 0.007*"buy" + 0.006*"team" + 0.006*"endowment" + 0.006*"tuition" + 0.006*"conversation"'), (7, '0.010*"veterans" + 0.005*"army" + 0.005*"interview" + 0.005*"mental" + 0.004*"trust" + 0.004*"addiction" + 0.004*"affair"'), (8, '0.009*"rudy" + 0.006*"table" + 0.006*"evangelical" + 0.006*"jewish" + 0.005*"boy" + 0.005*"ban" + 0.005*"laughter"'), (9, '0.010*"tuition" + 0.008*"machine" + 0.006*"legal" + 0.006*"university" + 0.005*"penny" + 0.005*"estimate" + 0.005*"intellectual"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 10 max topics, 25 iterations, 10 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+
+
+After running topic modelling: 
+[(0, '0.009*"machine" + 0.008*"wisconsin" + 0.008*"ban" + 0.006*"drink" + 0.006*"tuition" + 0.005*"devastate" + 0.005*"conspiracy"'), (1, '0.027*"laughter" + 0.011*"rudy" + 0.010*"evangelical" + 0.008*"johnson" + 0.007*"team" + 0.007*"fantastic" + 0.007*"boy"'), (2, '0.009*"ignore" + 0.007*"laughter" + 0.006*"penalty" + 0.006*"rebuilding" + 0.005*"evil" + 0.005*"temperament" + 0.005*"iowa"'), (3, '0.014*"mall" + 0.012*"crazy" + 0.011*"colorado" + 0.010*"comeback" + 0.010*"estate" + 0.009*"revitalize" + 0.008*"california"'), (4, '0.010*"ban" + 0.009*"apologize" + 0.007*"offshore" + 0.005*"ethic" + 0.005*"oppressive" + 0.005*"august" + 0.005*"king"'), (5, '0.009*"television" + 0.009*"laughter" + 0.009*"yeah" + 0.009*"bishop" + 0.008*"addiction" + 0.007*"net" + 0.007*"putin"'), (6, '0.013*"buy" + 0.010*"yeah" + 0.008*"team" + 0.008*"site" + 0.008*"worth" + 0.008*"stupid" + 0.008*"convention"'), (7, '0.012*"machine" + 0.009*"veterans" + 0.008*"mental" + 0.008*"rudy" + 0.008*"narrative" + 0.007*"capability" + 0.007*"army"'), (8, '0.008*"jewish" + 0.008*"table" + 0.007*"ban" + 0.006*"tradition" + 0.006*"legal" + 0.005*"behavior" + 0.005*"putin"'), (9, '0.009*"putin" + 0.008*"remark" + 0.007*"estate" + 0.006*"russian" + 0.006*"vision" + 0.006*"colorado" + 0.006*"oppress"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 10 max topics, 50 iterations, 10 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+
+
+After running topic modelling: 
+[(0, '0.034*"laughter" + 0.016*"evangelical" + 0.011*"johnson" + 0.008*"christian" + 0.008*"bishop" + 0.007*"penalty" + 0.007*"boy"'), (1, '0.021*"apologize" + 0.011*"iowa" + 0.008*"color" + 0.007*"wisconsin" + 0.007*"jamiel" + 0.006*"johnson" + 0.006*"stupidity"'), (2, '0.012*"ban" + 0.009*"machine" + 0.007*"addiction" + 0.006*"ignore" + 0.006*"oppressive" + 0.006*"patient" + 0.006*"earth"'), (3, '0.012*"remark" + 0.009*"contrast" + 0.008*"telecom" + 0.008*"mendoza" + 0.008*"oppressive" + 0.007*"dig" + 0.007*"carpenter"'), (4, '0.014*"putin" + 0.010*"yeah" + 0.010*"buy" + 0.010*"television" + 0.008*"convention" + 0.006*"russian" + 0.006*"relationship"'), (5, '0.018*"university" + 0.013*"tuition" + 0.012*"drink" + 0.011*"endowment" + 0.010*"opioid" + 0.010*"conversation" + 0.009*"putin"'), (6, '0.012*"jewish" + 0.010*"ban" + 0.009*"machine" + 0.009*"table" + 0.008*"behavior" + 0.007*"capability" + 0.007*"intellectual"'), (7, '0.011*"veterans" + 0.008*"los" + 0.008*"angeles" + 0.008*"interview" + 0.006*"mental" + 0.006*"affair" + 0.006*"discipline"'), (8, '0.010*"army" + 0.008*"rebuilding" + 0.006*"aircraft" + 0.006*"raid" + 0.005*"team" + 0.005*"enact" + 0.005*"jewish"'), (9, '0.012*"colorado" + 0.011*"estate" + 0.010*"legal" + 0.010*"tuition" + 0.007*"deduction" + 0.006*"machine" + 0.006*"ban"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 10 max topics, 75 iterations, 10 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+
+
+After running topic modelling: 
+[(0, '0.026*"rudy" + 0.023*"jewish" + 0.016*"table" + 0.013*"star" + 0.013*"robert" + 0.013*"fantastic" + 0.010*"behavior"'), (1, '0.013*"machine" + 0.012*"television" + 0.012*"putin" + 0.012*"yeah" + 0.009*"agency" + 0.009*"buy" + 0.008*"convention"'), (2, '0.032*"laughter" + 0.019*"apologize" + 0.008*"remark" + 0.008*"hostage" + 0.007*"johnson" + 0.007*"christians" + 0.007*"christian"'), (3, '0.028*"laughter" + 0.013*"machine" + 0.012*"net" + 0.009*"deduct" + 0.009*"deduction" + 0.009*"telecom" + 0.007*"determine"'), (4, '0.011*"putin" + 0.008*"buy" + 0.008*"colorado" + 0.008*"estate" + 0.008*"mall" + 0.008*"yeah" + 0.007*"television"'), (5, '0.010*"veterans" + 0.010*"university" + 0.007*"bishop" + 0.007*"capability" + 0.006*"drink" + 0.006*"mental" + 0.006*"nod"'), (6, '0.009*"ban" + 0.007*"burden" + 0.007*"temperament" + 0.006*"subcommittee" + 0.006*"ignore" + 0.006*"oppressive" + 0.006*"instance"'), (7, '0.009*"convention" + 0.008*"signature" + 0.007*"jamiel" + 0.007*"compare" + 0.007*"pulpit" + 0.006*"dallas" + 0.006*"image"'), (8, '0.015*"addiction" + 0.011*"patient" + 0.008*"opioid" + 0.007*"heroin" + 0.007*"raid" + 0.007*"overdose" + 0.007*"rebuilding"'), (9, '0.019*"evangelical" + 0.013*"johnson" + 0.011*"penny" + 0.011*"consequence" + 0.011*"balance" + 0.009*"machine" + 0.009*"convention"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 10 max topics, 100 iterations, 10 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+
+
+
+
+After running topic modelling: 
+[(0, '0.021*"worth" + 0.018*"net" + 0.018*"site" + 0.018*"stupid" + 0.015*"cheerleader" + 0.015*"asset" + 0.015*"yeah"'), (1, '0.026*"laughter" + 0.017*"evangelical" + 0.015*"machine" + 0.014*"johnson" + 0.010*"iowa" + 0.007*"penny" + 0.007*"balance"'), (2, '0.019*"tuition" + 0.017*"university" + 0.015*"apologize" + 0.015*"estate" + 0.013*"colorado" + 0.011*"endowment" + 0.008*"drink"'), (3, '0.018*"veterans" + 0.012*"mental" + 0.010*"trust" + 0.010*"affair" + 0.010*"discipline" + 0.008*"breach" + 0.008*"agency"'), (4, '0.024*"putin" + 0.014*"television" + 0.014*"yeah" + 0.013*"ban" + 0.012*"buy" + 0.012*"russian" + 0.010*"relationship"'), (5, '0.034*"rudy" + 0.029*"jewish" + 0.021*"table" + 0.017*"fantastic" + 0.017*"robert" + 0.017*"star" + 0.013*"boy"'), (6, '0.011*"laughter" + 0.011*"army" + 0.010*"bishop" + 0.008*"capability" + 0.008*"interview" + 0.008*"team" + 0.007*"remark"'), (7, '0.012*"rebuilding" + 0.012*"venezuela" + 0.009*"convention" + 0.006*"railway" + 0.006*"chronic" + 0.006*"humiliation" + 0.006*"dallas"'), (8, '0.010*"invasion" + 0.010*"ignore" + 0.010*"screening" + 0.009*"interview" + 0.007*"mill" + 0.007*"los" + 0.007*"confirm"'), (9, '0.019*"addiction" + 0.016*"overdose" + 0.013*"mall" + 0.013*"heroin" + 0.013*"crazy" + 0.013*"patient" + 0.010*"motorola"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 10 max topics, 1000 iterations, 10 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+After running topic modelling: 
+[(0, '0.007*"remark" + 0.007*"machine" + 0.005*"intervention" + 0.005*"angeles" + 0.005*"los" + 0.004*"vision" + 0.004*"mall"'), (1, '0.010*"tuition" + 0.008*"university" + 0.006*"stupidity" + 0.006*"addiction" + 0.006*"putin" + 0.005*"endowment" + 0.005*"buy"'), (2, '0.010*"laughter" + 0.009*"apologize" + 0.006*"interview" + 0.006*"rudy" + 0.006*"communism" + 0.006*"extreme" + 0.005*"necessary"'), (3, '0.027*"laughter" + 0.011*"evangelical" + 0.010*"johnson" + 0.010*"veterans" + 0.009*"christian" + 0.009*"team" + 0.008*"christians"'), (4, '0.008*"passage" + 0.008*"internet" + 0.007*"television" + 0.007*"buy" + 0.007*"drink" + 0.006*"tuition" + 0.006*"laughter"'), (5, '0.011*"phrase" + 0.009*"iowa" + 0.009*"offshore" + 0.009*"heroin" + 0.008*"intention" + 0.008*"pound" + 0.008*"globalist"'), (6, '0.008*"laughter" + 0.007*"bishop" + 0.006*"putin" + 0.006*"evangelical" + 0.006*"deduction" + 0.006*"net" + 0.005*"veterans"'), (7, '0.017*"machine" + 0.011*"legal" + 0.010*"army" + 0.010*"airplane" + 0.009*"tarmac" + 0.008*"mesa" + 0.008*"reappointment"'), (8, '0.017*"laughter" + 0.015*"evangelical" + 0.011*"penny" + 0.010*"johnson" + 0.009*"ignore" + 0.008*"convention" + 0.008*"balance"'), (9, '0.007*"yeah" + 0.006*"buy" + 0.006*"television" + 0.005*"apologize" + 0.005*"putin" + 0.005*"passage" + 0.005*"worth"'), (10, '0.008*"jewish" + 0.007*"table" + 0.006*"veterans" + 0.005*"tuition" + 0.005*"extreme" + 0.005*"western" + 0.005*"communism"'), (11, '0.006*"team" + 0.006*"capability" + 0.006*"mental" + 0.006*"estimate" + 0.005*"veterans" + 0.005*"decline" + 0.005*"affair"'), (12, '0.009*"rudy" + 0.007*"guess" + 0.006*"invasion" + 0.006*"team" + 0.006*"putin" + 0.006*"confirm" + 0.006*"buy"'), (13, '0.014*"laughter" + 0.006*"estate" + 0.006*"putin" + 0.006*"opioid" + 0.005*"sponsor" + 0.005*"addiction" + 0.005*"russians"'), (14, '0.008*"rebuilding" + 0.007*"rudy" + 0.007*"machine" + 0.005*"charlotte" + 0.005*"laughter" + 0.005*"magazine" + 0.004*"presence"'), (15, '0.011*"ban" + 0.008*"la" + 0.008*"offshore" + 0.007*"tuition" + 0.007*"drink" + 0.007*"admission" + 0.006*"ignore"'), (16, '0.009*"rudy" + 0.008*"legal" + 0.007*"deduction" + 0.006*"university" + 0.006*"competitor" + 0.005*"fantastic" + 0.005*"robert"'), (17, '0.019*"apologize" + 0.010*"putin" + 0.007*"bigotry" + 0.006*"television" + 0.006*"team" + 0.006*"bishop" + 0.006*"speaking"'), (18, '0.016*"venezuela" + 0.007*"display" + 0.007*"preventable" + 0.007*"attitude" + 0.007*"carpenter" + 0.007*"welder" + 0.006*"rebuilding"'), (19, '0.019*"ban" + 0.008*"wisconsin" + 0.006*"institute" + 0.005*"stagnation" + 0.005*"classify" + 0.005*"branch" + 0.005*"agency"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 20 max topics, 25 iterations, 20 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+Number of topics: 16, Coherence score: -10.780606698934179
+Number of topics: 17, Coherence score: -9.114191766921714
+Number of topics: 18, Coherence score: -8.477663941996319
+Number of topics: 19, Coherence score: -8.241693528490142
+Number of topics: 20, Coherence score: -9.812248097307267
+
+
+After running topic modelling: 
+[(0, '0.018*"mendoza" + 0.013*"evangelical" + 0.011*"temperament" + 0.010*"oppressive" + 0.010*"earth" + 0.010*"consequence" + 0.010*"army"'), (1, '0.014*"university" + 0.013*"putin" + 0.012*"yeah" + 0.011*"buy" + 0.010*"evangelical" + 0.010*"television" + 0.009*"penny"'), (2, '0.017*"deduction" + 0.015*"intellectual" + 0.014*"team" + 0.013*"drink" + 0.012*"deduct" + 0.011*"cap" + 0.011*"decline"'), (3, '0.023*"tuition" + 0.021*"university" + 0.013*"endowment" + 0.009*"machine" + 0.008*"extreme" + 0.008*"correctness" + 0.007*"screening"'), (4, '0.014*"ignore" + 0.012*"drink" + 0.010*"apologize" + 0.009*"historic" + 0.008*"desk" + 0.008*"ban" + 0.008*"table"'), (5, '0.013*"rebuilding" + 0.009*"colorado" + 0.009*"offshore" + 0.009*"estate" + 0.009*"charlotte" + 0.008*"vision" + 0.008*"direction"'), (6, '0.011*"phrase" + 0.010*"agency" + 0.009*"heroin" + 0.009*"team" + 0.008*"overdose" + 0.007*"slip" + 0.007*"offense"'), (7, '0.053*"laughter" + 0.014*"evangelical" + 0.012*"johnson" + 0.010*"christians" + 0.009*"christian" + 0.008*"tuition" + 0.008*"exempt"'), (8, '0.012*"iowa" + 0.011*"ignore" + 0.008*"article" + 0.007*"communism" + 0.007*"phrase" + 0.007*"interview" + 0.006*"screening"'), (9, '0.019*"veterans" + 0.016*"mental" + 0.010*"extreme" + 0.010*"affair" + 0.009*"discipline" + 0.008*"evil" + 0.008*"interview"'), (10, '0.016*"ban" + 0.011*"desk" + 0.011*"rudy" + 0.010*"comfortable" + 0.010*"narrative" + 0.008*"policing" + 0.008*"package"'), (11, '0.027*"jewish" + 0.021*"table" + 0.016*"sponsor" + 0.012*"mile" + 0.012*"behavior" + 0.011*"net" + 0.011*"veto"'), (12, '0.015*"estate" + 0.011*"colorado" + 0.010*"worth" + 0.009*"asset" + 0.008*"clue" + 0.008*"apologize" + 0.008*"yeah"'), (13, '0.019*"bishop" + 0.018*"rudy" + 0.015*"ben" + 0.012*"fantastic" + 0.009*"television" + 0.009*"christian" + 0.008*"rebuilding"'), (14, '0.015*"rudy" + 0.013*"los" + 0.012*"angeles" + 0.011*"veterans" + 0.010*"robert" + 0.009*"interview" + 0.009*"machine"'), (15, '0.010*"passage" + 0.009*"interview" + 0.008*"raid" + 0.008*"mess" + 0.007*"aide" + 0.006*"basket" + 0.006*"putin"'), (16, '0.010*"site" + 0.010*"capability" + 0.008*"stupid" + 0.008*"net" + 0.007*"worth" + 0.007*"yeah" + 0.007*"army"'), (17, '0.021*"machine" + 0.018*"putin" + 0.014*"television" + 0.012*"yeah" + 0.009*"buy" + 0.008*"convention" + 0.008*"russian"'), (18, '0.028*"venezuela" + 0.018*"addiction" + 0.016*"bishop" + 0.013*"bind" + 0.010*"patient" + 0.009*"confirm" + 0.008*"overdose"'), (19, '0.011*"veterans" + 0.008*"mental" + 0.008*"compassion" + 0.008*"comfortable" + 0.007*"narrative" + 0.007*"rudy" + 0.006*"offshore"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 20 max topics, 50 iterations, 20 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+Number of topics: 16, Coherence score: -10.780606698934179
+Number of topics: 17, Coherence score: -9.114191766921714
+Number of topics: 18, Coherence score: -8.477663941996319
+Number of topics: 19, Coherence score: -8.241693528490142
+Number of topics: 20, Coherence score: -9.812248097307267
+
+
+After running topic modelling: 
+[(0, '0.011*"offshore" + 0.010*"aircraft" + 0.010*"army" + 0.009*"mesa" + 0.008*"association" + 0.008*"revenue" + 0.007*"comfortable"'), (1, '0.026*"laughter" + 0.025*"evangelical" + 0.019*"rebuilding" + 0.015*"johnson" + 0.012*"penny" + 0.011*"thinking" + 0.010*"creation"'), (2, '0.021*"tuition" + 0.018*"addiction" + 0.013*"patient" + 0.011*"evangelical" + 0.010*"overdose" + 0.010*"drink" + 0.010*"heroin"'), (3, '0.042*"laughter" + 0.042*"machine" + 0.015*"determine" + 0.013*"magazine" + 0.013*"civilization" + 0.012*"discredit" + 0.009*"structure"'), (4, '0.031*"laughter" + 0.015*"rudy" + 0.014*"estate" + 0.012*"evangelical" + 0.011*"boy" + 0.010*"colorado" + 0.010*"johnson"'), (5, '0.025*"putin" + 0.017*"yeah" + 0.014*"television" + 0.011*"buy" + 0.011*"convention" + 0.010*"russian" + 0.010*"mess"'), (6, '0.035*"bishop" + 0.019*"net" + 0.016*"deduction" + 0.016*"deduct" + 0.016*"christian" + 0.015*"ben" + 0.012*"television"'), (7, '0.017*"putin" + 0.014*"television" + 0.012*"buy" + 0.012*"ban" + 0.012*"tradition" + 0.010*"yeah" + 0.010*"pause"'), (8, '0.025*"iowa" + 0.012*"interview" + 0.011*"attitude" + 0.011*"farmer" + 0.010*"evil" + 0.009*"temperament" + 0.009*"communism"'), (9, '0.014*"screening" + 0.011*"penalty" + 0.009*"correct" + 0.009*"suppose" + 0.009*"oppressive" + 0.009*"sexual" + 0.009*"bottom"'), (10, '0.015*"capability" + 0.015*"internet" + 0.012*"passage" + 0.012*"army" + 0.011*"angeles" + 0.011*"los" + 0.009*"us"'), (11, '0.015*"jewish" + 0.013*"table" + 0.009*"vision" + 0.009*"western" + 0.008*"humiliation" + 0.008*"criticize" + 0.007*"addiction"'), (12, '0.012*"rudy" + 0.011*"narrative" + 0.010*"comfortable" + 0.010*"sake" + 0.009*"humiliation" + 0.009*"enact" + 0.008*"competition"'), (13, '0.015*"remark" + 0.010*"carpenter" + 0.010*"contrast" + 0.008*"owner" + 0.008*"russians" + 0.008*"net" + 0.008*"might"'), (14, '0.020*"university" + 0.019*"ban" + 0.018*"legal" + 0.015*"endowment" + 0.015*"venezuela" + 0.013*"space" + 0.012*"opioid"'), (15, '0.021*"agency" + 0.017*"ban" + 0.013*"classification" + 0.013*"sensitive" + 0.013*"critical" + 0.013*"team" + 0.013*"conspiracy"'), (16, '0.032*"apologize" + 0.011*"color" + 0.010*"jamiel" + 0.010*"bigotry" + 0.009*"wisconsin" + 0.009*"screening" + 0.009*"laura"'), (17, '0.015*"veterans" + 0.009*"stupidity" + 0.009*"discipline" + 0.009*"aide" + 0.008*"mental" + 0.008*"california" + 0.008*"affair"'), (18, '0.015*"ignore" + 0.013*"offshore" + 0.009*"california" + 0.009*"army" + 0.009*"university" + 0.009*"estate" + 0.008*"colorado"'), (19, '0.017*"veterans" + 0.012*"mental" + 0.008*"affair" + 0.008*"discipline" + 0.007*"overdose" + 0.006*"heroin" + 0.006*"sole"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 20 max topics, 75 iterations, 20 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+Number of topics: 16, Coherence score: -10.780606698934179
+Number of topics: 17, Coherence score: -9.114191766921714
+Number of topics: 18, Coherence score: -8.477663941996319
+Number of topics: 19, Coherence score: -8.241693528490142
+Number of topics: 20, Coherence score: -9.812248097307267
+
+
+After running topic modelling: 
+[(0, '0.018*"bottom" + 0.017*"los" + 0.017*"angeles" + 0.017*"mendoza" + 0.014*"invasion" + 0.013*"temperament" + 0.013*"oppressive"'), (1, '0.008*"putin" + 0.007*"oppress" + 0.005*"sake" + 0.004*"army" + 0.004*"capability" + 0.004*"complain" + 0.004*"strengthen"'), (2, '0.022*"rudy" + 0.011*"robert" + 0.009*"fantastic" + 0.007*"ban" + 0.007*"legal" + 0.007*"lady" + 0.007*"historic"'), (3, '0.028*"apologize" + 0.012*"internet" + 0.011*"screening" + 0.011*"passage" + 0.011*"hostage" + 0.010*"adequate" + 0.009*"penalty"'), (4, '0.019*"putin" + 0.018*"humiliation" + 0.018*"enact" + 0.012*"heroin" + 0.012*"space" + 0.010*"television" + 0.009*"floor"'), (5, '0.020*"rebuilding" + 0.012*"russian" + 0.012*"putin" + 0.010*"creation" + 0.010*"thinking" + 0.010*"presence" + 0.010*"blighted"'), (6, '0.025*"estate" + 0.019*"colorado" + 0.012*"comeback" + 0.011*"legal" + 0.011*"ban" + 0.011*"worth" + 0.010*"asset"'), (7, '0.032*"agency" + 0.027*"team" + 0.024*"sensitive" + 0.024*"critical" + 0.017*"task" + 0.016*"actor" + 0.016*"hacker"'), (8, '0.026*"machine" + 0.011*"civilization" + 0.011*"vision" + 0.011*"deploy" + 0.011*"western" + 0.009*"determine" + 0.008*"instance"'), (9, '0.013*"offshore" + 0.009*"comfortable" + 0.008*"export" + 0.008*"screening" + 0.008*"investigator" + 0.007*"ban" + 0.007*"interview"'), (10, '0.013*"california" + 0.010*"crazy" + 0.010*"custody" + 0.010*"stupidity" + 0.010*"ignore" + 0.010*"laughter" + 0.009*"buy"'), (11, '0.026*"bishop" + 0.013*"intellectual" + 0.012*"christian" + 0.012*"ben" + 0.009*"oppress" + 0.009*"interview" + 0.008*"bind"'), (12, '0.030*"net" + 0.022*"deduct" + 0.022*"deduction" + 0.015*"telecom" + 0.015*"owner" + 0.015*"self" + 0.015*"sponsor"'), (13, '0.031*"jewish" + 0.022*"table" + 0.018*"venezuela" + 0.017*"veto" + 0.014*"iowa" + 0.014*"council" + 0.014*"mile"'), (14, '0.041*"tuition" + 0.019*"university" + 0.018*"endowment" + 0.017*"machine" + 0.014*"remark" + 0.012*"correctness" + 0.012*"request"'), (15, '0.037*"laughter" + 0.012*"putin" + 0.011*"veterans" + 0.011*"yeah" + 0.010*"mental" + 0.008*"iowa" + 0.008*"television"'), (16, '0.024*"capability" + 0.020*"army" + 0.016*"marine" + 0.012*"adversary" + 0.012*"team" + 0.012*"active" + 0.012*"combat"'), (17, '0.033*"evangelical" + 0.021*"johnson" + 0.019*"balance" + 0.018*"penny" + 0.015*"consequence" + 0.012*"primary" + 0.012*"convention"'), (18, '0.017*"yeah" + 0.016*"net" + 0.015*"worth" + 0.014*"asset" + 0.011*"buy" + 0.011*"cheerleader" + 0.011*"site"'), (19, '0.024*"addiction" + 0.017*"opioid" + 0.015*"patient" + 0.014*"putin" + 0.011*"television" + 0.010*"overdose" + 0.010*"heroin"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 20 max topics, 100 iterations, 20 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+Number of topics: 16, Coherence score: -10.780606698934179
+Number of topics: 17, Coherence score: -9.114191766921714
+Number of topics: 18, Coherence score: -8.477663941996319
+Number of topics: 19, Coherence score: -8.241693528490142
+Number of topics: 20, Coherence score: -9.812248097307267
+
+
+After running topic modelling: 
+[(0, '0.019*"heroin" + 0.019*"rebuilding" + 0.019*"interview" + 0.019*"basket" + 0.019*"remark" + 0.010*"trivial" + 0.010*"pocket"'), (1, '0.020*"ban" + 0.011*"wisconsin" + 0.011*"vision" + 0.011*"western" + 0.011*"branch" + 0.011*"russians" + 0.008*"edge"'), (2, '0.036*"capability" + 0.030*"army" + 0.018*"active" + 0.018*"team" + 0.018*"combat" + 0.018*"marine" + 0.018*"modernize"'), (3, '0.033*"addiction" + 0.022*"patient" + 0.022*"rebuilding" + 0.017*"overdose" + 0.017*"opioid" + 0.017*"heroin" + 0.011*"incentive"'), (4, '0.062*"laughter" + 0.031*"evangelical" + 0.024*"johnson" + 0.012*"exempt" + 0.012*"primary" + 0.012*"christians" + 0.012*"christian"'), (5, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (6, '0.015*"tuition" + 0.015*"worth" + 0.015*"site" + 0.013*"stupid" + 0.013*"net" + 0.013*"asset" + 0.011*"cheerleader"'), (7, '0.026*"army" + 0.018*"aircraft" + 0.018*"mesa" + 0.018*"drink" + 0.009*"vehicle" + 0.009*"disdain" + 0.009*"size"'), (8, '0.016*"carpenter" + 0.016*"venezuela" + 0.012*"remark" + 0.012*"convention" + 0.008*"consequence" + 0.008*"sailor" + 0.008*"pulpit"'), (9, '0.027*"putin" + 0.018*"yeah" + 0.018*"television" + 0.016*"estate" + 0.014*"colorado" + 0.014*"buy" + 0.013*"mess"'), (10, '0.018*"raid" + 0.018*"humiliation" + 0.018*"enact" + 0.012*"space" + 0.012*"mill" + 0.012*"key" + 0.012*"team"'), (11, '0.035*"ignore" + 0.018*"table" + 0.018*"opposition" + 0.018*"grave" + 0.018*"california" + 0.018*"fate" + 0.018*"penalty"'), (12, '0.014*"burden" + 0.012*"decline" + 0.012*"intellectual" + 0.010*"ability" + 0.010*"september" + 0.010*"ban" + 0.010*"correct"'), (13, '0.015*"apologize" + 0.013*"veterans" + 0.013*"mental" + 0.009*"narrative" + 0.008*"deduct" + 0.007*"mendoza" + 0.007*"rudy"'), (14, '0.028*"oppress" + 0.019*"sake" + 0.019*"putin" + 0.010*"relationship" + 0.010*"diplomacy" + 0.010*"earth" + 0.010*"professional"'), (15, '0.053*"university" + 0.027*"tuition" + 0.027*"endowment" + 0.018*"space" + 0.018*"opioid" + 0.018*"narrative" + 0.018*"conversation"'), (16, '0.014*"rudy" + 0.013*"jewish" + 0.012*"bishop" + 0.011*"ben" + 0.010*"interview" + 0.009*"star" + 0.009*"fantastic"'), (17, '0.015*"stupidity" + 0.015*"revitalize" + 0.015*"iowa" + 0.010*"phrase" + 0.010*"article" + 0.010*"custody" + 0.010*"achievement"'), (18, '0.047*"iowa" + 0.024*"attitude" + 0.024*"temperament" + 0.024*"farmer" + 0.024*"gruber" + 0.012*"zone" + 0.012*"drag"'), (19, '0.077*"machine" + 0.023*"discredit" + 0.023*"civilization" + 0.023*"magazine" + 0.023*"determine" + 0.016*"enrich" + 0.016*"inappropriate"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 20 max topics, 1000 iterations, 20 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+Number of topics: 16, Coherence score: -10.780606698934179
+Number of topics: 17, Coherence score: -9.114191766921714
+Number of topics: 18, Coherence score: -8.477663941996319
+Number of topics: 19, Coherence score: -8.241693528490142
+Number of topics: 20, Coherence score: -9.812248097307267
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+After running topic modelling: 
+[(0, '0.008*"laughter" + 0.007*"evangelical" + 0.007*"university" + 0.006*"space" + 0.006*"johnson" + 0.006*"enact" + 0.006*"agency"'), (1, '0.007*"bottom" + 0.007*"los" + 0.007*"correct" + 0.006*"angeles" + 0.006*"ban" + 0.006*"burden" + 0.006*"september"'), (2, '0.015*"rudy" + 0.010*"laughter" + 0.009*"boy" + 0.009*"ignore" + 0.009*"fantastic" + 0.008*"robert" + 0.007*"putin"'), (3, '0.008*"machine" + 0.008*"ban" + 0.006*"bishop" + 0.005*"television" + 0.005*"army" + 0.005*"interview" + 0.005*"capability"'), (4, '0.009*"mental" + 0.007*"veterans" + 0.006*"extreme" + 0.006*"putin" + 0.005*"professional" + 0.005*"army" + 0.005*"tuition"'), (5, '0.011*"rudy" + 0.011*"machine" + 0.007*"bishop" + 0.007*"ben" + 0.006*"remark" + 0.005*"apologize" + 0.005*"veto"'), (6, '0.018*"laughter" + 0.015*"tuition" + 0.009*"machine" + 0.008*"university" + 0.007*"endowment" + 0.005*"addiction" + 0.005*"johnson"'), (7, '0.010*"university" + 0.008*"rebuilding" + 0.006*"clarity" + 0.006*"enact" + 0.006*"humiliation" + 0.006*"penalty" + 0.006*"space"'), (8, '0.020*"laughter" + 0.014*"evangelical" + 0.010*"johnson" + 0.008*"apologize" + 0.007*"consequence" + 0.006*"balance" + 0.006*"penny"'), (9, '0.009*"drink" + 0.008*"laughter" + 0.007*"deduction" + 0.006*"net" + 0.006*"deduct" + 0.006*"internet" + 0.006*"addiction"'), (10, '0.007*"revitalize" + 0.007*"iowa" + 0.006*"phrase" + 0.006*"crazy" + 0.006*"mall" + 0.006*"veterans" + 0.005*"october"'), (11, '0.012*"venezuela" + 0.008*"carpenter" + 0.008*"remark" + 0.006*"deduction" + 0.006*"welder" + 0.005*"interview" + 0.005*"attitude"'), (12, '0.009*"putin" + 0.008*"yeah" + 0.008*"buy" + 0.008*"iowa" + 0.007*"laughter" + 0.006*"army" + 0.006*"television"'), (13, '0.005*"yeah" + 0.005*"television" + 0.005*"crazy" + 0.005*"patient" + 0.004*"putin" + 0.004*"mall" + 0.004*"rudy"'), (14, '0.010*"offshore" + 0.006*"laughter" + 0.006*"phrase" + 0.006*"comfortable" + 0.005*"estate" + 0.005*"ban" + 0.005*"intention"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 15 max topics, 25 iterations, 15 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+
+
+After running topic modelling: 
+[(0, '0.034*"apologize" + 0.013*"army" + 0.009*"laughter" + 0.008*"aircraft" + 0.008*"bigotry" + 0.008*"hostage" + 0.008*"color"'), (1, '0.010*"putin" + 0.008*"earth" + 0.007*"oppressive" + 0.007*"jewish" + 0.006*"communism" + 0.006*"extreme" + 0.006*"ban"'), (2, '0.012*"addiction" + 0.009*"buy" + 0.009*"patient" + 0.008*"overdose" + 0.007*"suppose" + 0.007*"yeah" + 0.007*"heroin"'), (3, '0.045*"laughter" + 0.010*"university" + 0.008*"net" + 0.008*"christian" + 0.008*"johnson" + 0.008*"evangelical" + 0.007*"christians"'), (4, '0.015*"tuition" + 0.013*"legal" + 0.011*"mental" + 0.010*"interview" + 0.010*"veterans" + 0.010*"deadly" + 0.009*"deliberate"'), (5, '0.012*"tuition" + 0.009*"ignore" + 0.008*"veterans" + 0.008*"angeles" + 0.008*"los" + 0.007*"trust" + 0.007*"machine"'), (6, '0.014*"laughter" + 0.012*"agency" + 0.010*"sensitive" + 0.010*"critical" + 0.010*"team" + 0.008*"offense" + 0.008*"necessary"'), (7, '0.010*"evangelical" + 0.009*"ban" + 0.008*"johnson" + 0.008*"rudy" + 0.007*"consequence" + 0.006*"stupidity" + 0.006*"buy"'), (8, '0.015*"laughter" + 0.009*"putin" + 0.008*"yeah" + 0.008*"guess" + 0.008*"ban" + 0.007*"colorado" + 0.007*"might"'), (9, '0.014*"army" + 0.013*"capability" + 0.010*"passage" + 0.010*"internet" + 0.009*"active" + 0.008*"putin" + 0.008*"combat"'), (10, '0.011*"venezuela" + 0.009*"machine" + 0.008*"humiliation" + 0.008*"jewish" + 0.008*"enact" + 0.006*"rudy" + 0.006*"solidarity"'), (11, '0.014*"crazy" + 0.014*"mall" + 0.013*"october" + 0.008*"aide" + 0.008*"overdose" + 0.008*"playing" + 0.008*"motorola"'), (12, '0.010*"university" + 0.010*"iowa" + 0.008*"phrase" + 0.008*"offshore" + 0.008*"ban" + 0.007*"commerce" + 0.007*"drink"'), (13, '0.016*"estate" + 0.011*"machine" + 0.009*"colorado" + 0.008*"television" + 0.007*"comeback" + 0.007*"putin" + 0.006*"yeah"'), (14, '0.010*"veterans" + 0.009*"ignore" + 0.009*"rebuilding" + 0.009*"mental" + 0.007*"presence" + 0.006*"affair" + 0.006*"deduction"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 15 max topics, 50 iterations, 15 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+
+
+After running topic modelling: 
+[(0, '0.023*"laughter" + 0.018*"machine" + 0.011*"rudy" + 0.010*"tuition" + 0.008*"university" + 0.007*"buy" + 0.007*"robert"'), (1, '0.017*"legal" + 0.016*"army" + 0.013*"oppress" + 0.011*"exceptional" + 0.009*"putin" + 0.009*"sake" + 0.009*"shield"'), (2, '0.024*"bishop" + 0.018*"laughter" + 0.013*"christian" + 0.012*"television" + 0.011*"ben" + 0.009*"convention" + 0.008*"putin"'), (3, '0.013*"california" + 0.013*"mall" + 0.012*"crazy" + 0.010*"custody" + 0.010*"october" + 0.010*"ignore" + 0.010*"machine"'), (4, '0.018*"veterans" + 0.015*"mental" + 0.012*"remark" + 0.010*"interview" + 0.009*"affair" + 0.009*"personnel" + 0.008*"contrast"'), (5, '0.014*"passage" + 0.014*"internet" + 0.011*"penalty" + 0.010*"slip" + 0.009*"clarity" + 0.009*"drink" + 0.009*"opposition"'), (6, '0.013*"capability" + 0.010*"stupid" + 0.010*"army" + 0.010*"worth" + 0.010*"site" + 0.009*"buy" + 0.008*"yeah"'), (7, '0.021*"apologize" + 0.009*"rebuilding" + 0.008*"dreamer" + 0.008*"blighted" + 0.008*"electricity" + 0.007*"charlotte" + 0.007*"net"'), (8, '0.009*"interview" + 0.008*"communism" + 0.008*"los" + 0.007*"addiction" + 0.007*"screening" + 0.007*"invasion" + 0.007*"bottom"'), (9, '0.017*"evangelical" + 0.012*"johnson" + 0.012*"penny" + 0.012*"balance" + 0.011*"convention" + 0.011*"putin" + 0.009*"consequence"'), (10, '0.021*"jewish" + 0.015*"table" + 0.014*"rudy" + 0.013*"estate" + 0.012*"colorado" + 0.011*"mile" + 0.010*"narrative"'), (11, '0.037*"laughter" + 0.009*"christian" + 0.009*"burden" + 0.009*"correct" + 0.008*"ability" + 0.008*"september" + 0.008*"christians"'), (12, '0.011*"deduction" + 0.011*"team" + 0.010*"addiction" + 0.009*"net" + 0.009*"agency" + 0.009*"deduct" + 0.009*"cap"'), (13, '0.019*"venezuela" + 0.011*"legal" + 0.011*"ban" + 0.010*"welder" + 0.010*"display" + 0.010*"carpenter" + 0.010*"basket"'), (14, '0.015*"ban" + 0.009*"offshore" + 0.008*"historic" + 0.008*"desk" + 0.007*"aide" + 0.007*"guide" + 0.007*"achievement"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 15 max topics, 75 iterations, 15 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+
+
+After running topic modelling: 
+[(0, '0.018*"laughter" + 0.016*"capability" + 0.013*"sponsor" + 0.013*"army" + 0.013*"oppress" + 0.013*"avoid" + 0.010*"combat"'), (1, '0.016*"offshore" + 0.015*"remark" + 0.014*"veterans" + 0.013*"mental" + 0.012*"association" + 0.010*"carpenter" + 0.009*"comfortable"'), (2, '0.031*"apologize" + 0.011*"please" + 0.010*"jewish" + 0.010*"worth" + 0.010*"drink" + 0.010*"laura" + 0.009*"wto"'), (3, '0.041*"laughter" + 0.019*"evangelical" + 0.017*"johnson" + 0.009*"penny" + 0.008*"exempt" + 0.008*"primary" + 0.008*"balance"'), (4, '0.016*"addiction" + 0.014*"laughter" + 0.011*"patient" + 0.009*"putin" + 0.008*"internet" + 0.008*"overdose" + 0.008*"legal"'), (5, '0.017*"bishop" + 0.014*"estate" + 0.012*"television" + 0.011*"yeah" + 0.010*"colorado" + 0.010*"putin" + 0.009*"clue"'), (6, '0.014*"iowa" + 0.011*"farmer" + 0.009*"interview" + 0.008*"attitude" + 0.008*"temperament" + 0.007*"raid" + 0.007*"gruber"'), (7, '0.026*"university" + 0.015*"endowment" + 0.012*"conversation" + 0.012*"drink" + 0.012*"venezuela" + 0.012*"space" + 0.012*"opioid"'), (8, '0.023*"machine" + 0.011*"team" + 0.011*"determine" + 0.010*"ban" + 0.010*"agency" + 0.008*"discredit" + 0.007*"california"'), (9, '0.016*"rudy" + 0.011*"extreme" + 0.011*"necessary" + 0.011*"robert" + 0.010*"screening" + 0.010*"communism" + 0.010*"iowa"'), (10, '0.008*"opposition" + 0.008*"angeles" + 0.008*"estate" + 0.008*"convention" + 0.008*"colorado" + 0.007*"pulpit" + 0.007*"los"'), (11, '0.014*"intellectual" + 0.013*"team" + 0.011*"institute" + 0.011*"wisconsin" + 0.011*"deduction" + 0.010*"ban" + 0.010*"decline"'), (12, '0.012*"buy" + 0.008*"humiliation" + 0.008*"veterans" + 0.008*"television" + 0.007*"putin" + 0.007*"suppose" + 0.007*"yeah"'), (13, '0.026*"tuition" + 0.017*"jewish" + 0.013*"putin" + 0.012*"table" + 0.010*"machine" + 0.010*"university" + 0.010*"endowment"'), (14, '0.014*"evangelical" + 0.012*"burden" + 0.012*"september" + 0.012*"ability" + 0.012*"correct" + 0.012*"ban" + 0.012*"earth"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 15 max topics, 100 iterations, 15 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+
+
+After running topic modelling: 
+[(0, '0.012*"western" + 0.012*"instance" + 0.010*"september" + 0.010*"correct" + 0.010*"burden" + 0.010*"ability" + 0.010*"vision"'), (1, '0.024*"mill" + 0.024*"confirm" + 0.024*"team" + 0.012*"extension" + 0.012*"computer" + 0.012*"veto" + 0.012*"trip"'), (2, '0.028*"bishop" + 0.012*"christian" + 0.012*"ben" + 0.008*"interview" + 0.008*"decline" + 0.008*"removal" + 0.008*"burglary"'), (3, '0.069*"laughter" + 0.018*"rudy" + 0.016*"stupid" + 0.012*"boy" + 0.012*"worth" + 0.011*"site" + 0.011*"yeah"'), (4, '0.015*"phrase" + 0.015*"iowa" + 0.015*"agency" + 0.011*"team" + 0.011*"sensitive" + 0.011*"enact" + 0.011*"humiliation"'), (5, '0.037*"putin" + 0.023*"yeah" + 0.023*"television" + 0.018*"buy" + 0.016*"convention" + 0.016*"russian" + 0.015*"mess"'), (6, '0.036*"evangelical" + 0.032*"jewish" + 0.024*"johnson" + 0.020*"balance" + 0.020*"table" + 0.020*"penny" + 0.016*"consequence"'), (7, '0.017*"machine" + 0.016*"university" + 0.014*"apologize" + 0.009*"ignore" + 0.009*"endowment" + 0.009*"dreamer" + 0.007*"drink"'), (8, '0.014*"ban" + 0.012*"venezuela" + 0.009*"oppress" + 0.009*"desk" + 0.007*"tradition" + 0.007*"famous" + 0.007*"resign"'), (9, '0.001*"machine" + 0.001*"drink" + 0.001*"ban" + 0.001*"apologize" + 0.001*"tuition" + 0.001*"laughter" + 0.001*"bishop"'), (10, '0.022*"los" + 0.022*"angeles" + 0.017*"internet" + 0.017*"mess" + 0.017*"passage" + 0.011*"particular" + 0.011*"await"'), (11, '0.020*"veterans" + 0.017*"capability" + 0.017*"mental" + 0.014*"army" + 0.011*"iowa" + 0.009*"active" + 0.009*"discipline"'), (12, '0.013*"colorado" + 0.013*"estate" + 0.012*"tuition" + 0.010*"deduction" + 0.010*"mall" + 0.008*"cap" + 0.008*"comeback"'), (13, '0.023*"addiction" + 0.013*"opioid" + 0.013*"patient" + 0.013*"overdose" + 0.013*"heroin" + 0.010*"veterans" + 0.010*"legal"'), (14, '0.013*"ban" + 0.011*"rudy" + 0.011*"comfortable" + 0.010*"television" + 0.009*"yeah" + 0.009*"narrative" + 0.009*"offshore"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 15 max topics, 1000 iterations, 15 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+After running topic modelling: 
+[(99, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (67, '0.035*"rebuilding" + 0.022*"creation" + 0.019*"thinking" + 0.019*"blighted" + 0.018*"presence" + 0.017*"jewish" + 0.016*"charlotte"'), (73, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (33, '0.020*"extreme" + 0.015*"germany" + 0.014*"screening" + 0.013*"communism" + 0.013*"interview" + 0.013*"necessary" + 0.013*"evil"'), (71, '0.032*"evangelical" + 0.026*"johnson" + 0.026*"machine" + 0.024*"balance" + 0.020*"penny" + 0.014*"primary" + 0.013*"consequence"'), (48, '0.017*"october" + 0.016*"crazy" + 0.016*"custody" + 0.015*"california" + 0.015*"mall" + 0.010*"francisco" + 0.010*"beijing"'), (13, '0.058*"deduct" + 0.058*"net" + 0.058*"deduction" + 0.039*"cap" + 0.039*"innovative" + 0.020*"adventure" + 0.020*"depend"'), (19, '0.003*"critical" + 0.003*"team" + 0.003*"agency" + 0.003*"sensitive" + 0.003*"offense" + 0.003*"identity" + 0.003*"necessary"'), (70, '0.050*"machine" + 0.018*"putin" + 0.018*"television" + 0.016*"determine" + 0.015*"magazine" + 0.015*"civilization" + 0.014*"discredit"'), (96, '0.021*"october" + 0.018*"custody" + 0.015*"mall" + 0.015*"california" + 0.015*"crazy" + 0.010*"ronnebeck" + 0.010*"earl"'), (92, '0.030*"offshore" + 0.020*"comfortable" + 0.016*"ban" + 0.016*"export" + 0.016*"revenue" + 0.015*"environmental" + 0.015*"association"'), (64, '0.033*"stupid" + 0.029*"worth" + 0.028*"net" + 0.026*"site" + 0.023*"asset" + 0.022*"cheerleader" + 0.022*"yeah"'), (53, '0.090*"legal" + 0.031*"decay" + 0.031*"heed" + 0.030*"deadly" + 0.030*"golf" + 0.030*"reappointment" + 0.030*"corrosive"'), (47, '0.060*"agency" + 0.045*"sensitive" + 0.045*"critical" + 0.044*"team" + 0.031*"identity" + 0.030*"necessary" + 0.030*"offense"'), (3, '0.031*"humiliation" + 0.031*"enact" + 0.020*"space" + 0.017*"venezuela" + 0.014*"solidarity" + 0.014*"procedure" + 0.014*"guide"'), (84, '0.006*"invasion" + 0.005*"extreme" + 0.004*"evil" + 0.004*"necessary" + 0.004*"screening" + 0.004*"germany" + 0.004*"communism"'), (58, '0.034*"evangelical" + 0.031*"johnson" + 0.028*"balance" + 0.027*"consequence" + 0.026*"penny" + 0.020*"primary" + 0.017*"display"'), (26, '0.017*"interview" + 0.017*"screening" + 0.015*"communism" + 0.015*"extreme" + 0.014*"necessary" + 0.014*"invasion" + 0.013*"germany"'), (16, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (65, '0.007*"intervention" + 0.006*"buy" + 0.006*"speaking" + 0.005*"suppose" + 0.005*"specific" + 0.004*"sexual" + 0.004*"heartache"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 20 max topics, 50 iterations, 100 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+Number of topics: 16, Coherence score: -10.780606698934179
+Number of topics: 17, Coherence score: -9.114191766921714
+Number of topics: 18, Coherence score: -8.477663941996319
+Number of topics: 19, Coherence score: -8.241693528490142
+Number of topics: 20, Coherence score: -9.812248097307267
+
+
+
+After running topic modelling: 
+[(70, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (66, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (62, '0.043*"university" + 0.034*"endowment" + 0.018*"tuition" + 0.018*"space" + 0.017*"narrative" + 0.016*"conversation" + 0.016*"opioid"'), (53, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (20, '0.075*"university" + 0.039*"tuition" + 0.034*"endowment" + 0.025*"drink" + 0.025*"opioid" + 0.025*"conversation" + 0.024*"narrative"'), (90, '0.019*"intellectual" + 0.013*"deduction" + 0.011*"team" + 0.011*"decline" + 0.011*"drink" + 0.010*"cap" + 0.009*"vast"'), (99, '0.019*"convention" + 0.015*"lawlessness" + 0.015*"dallas" + 0.015*"wake" + 0.014*"compare" + 0.014*"pulpit" + 0.014*"stable"'), (60, '0.012*"putin" + 0.008*"yeah" + 0.008*"television" + 0.007*"buy" + 0.006*"russian" + 0.006*"convention" + 0.005*"popular"'), (49, '0.038*"veterans" + 0.032*"mental" + 0.022*"los" + 0.022*"angeles" + 0.022*"interview" + 0.022*"personnel" + 0.016*"discipline"'), (64, '0.036*"capability" + 0.023*"army" + 0.017*"modernize" + 0.016*"combat" + 0.015*"ballistic" + 0.015*"active" + 0.015*"team"'), (73, '0.021*"vision" + 0.020*"western" + 0.016*"direction" + 0.016*"instance" + 0.015*"intervention" + 0.012*"table" + 0.012*"relation"'), (52, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (41, '0.027*"raid" + 0.024*"aide" + 0.017*"fraction" + 0.016*"wipe" + 0.016*"platform" + 0.016*"advise" + 0.016*"bishop"'), (30, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (32, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (16, '0.041*"jewish" + 0.026*"table" + 0.017*"behavior" + 0.016*"veto" + 0.016*"stab" + 0.015*"crazy" + 0.014*"mall"'), (12, '0.045*"deduction" + 0.040*"deduct" + 0.040*"net" + 0.027*"cap" + 0.026*"innovative" + 0.018*"incentive" + 0.014*"depend"'), (44, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (79, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (15, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 20 max topics, 100 iterations, 100 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+Number of topics: 16, Coherence score: -10.780606698934179
+Number of topics: 17, Coherence score: -9.114191766921714
+Number of topics: 18, Coherence score: -8.477663941996319
+Number of topics: 19, Coherence score: -8.241693528490142
+Number of topics: 20, Coherence score: -9.812248097307267
+
+
+
+
+After running topic modelling: 
+[(26, '0.053*"ban" + 0.030*"venezuela" + 0.023*"wisconsin" + 0.018*"conspiracy" + 0.015*"classify" + 0.015*"ethic" + 0.015*"stagnation"'), (48, '0.041*"trust" + 0.037*"veterans" + 0.022*"female" + 0.022*"apologize" + 0.022*"investigate" + 0.022*"scalia" + 0.021*"selfless"'), (53, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (49, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (45, '0.069*"rudy" + 0.048*"fantastic" + 0.040*"ben" + 0.035*"robert" + 0.034*"jeff" + 0.026*"star" + 0.024*"sister"'), (69, '0.034*"veterans" + 0.026*"trust" + 0.019*"hemisphere" + 0.019*"procedure" + 0.018*"marine" + 0.018*"aggression" + 0.018*"importance"'), (88, '0.036*"site" + 0.034*"worth" + 0.033*"net" + 0.028*"stupid" + 0.028*"cheerleader" + 0.026*"asset" + 0.025*"yeah"'), (93, '0.032*"capability" + 0.023*"army" + 0.014*"combat" + 0.014*"offshore" + 0.014*"us" + 0.012*"revenue" + 0.012*"active"'), (76, '0.047*"passage" + 0.047*"internet" + 0.032*"export" + 0.032*"drink" + 0.020*"mess" + 0.017*"terry" + 0.016*"impact"'), (30, '0.104*"laughter" + 0.021*"christians" + 0.018*"johnson" + 0.015*"christian" + 0.014*"jon" + 0.012*"evangelical" + 0.012*"temperament"'), (90, '0.030*"iowa" + 0.020*"endowment" + 0.020*"conversation" + 0.020*"brink" + 0.020*"electricity" + 0.020*"university" + 0.020*"pavement"'), (23, '0.030*"veterans" + 0.029*"mendoza" + 0.024*"mental" + 0.019*"temperament" + 0.018*"earth" + 0.018*"oppressive" + 0.015*"telecom"'), (63, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (7, '0.062*"remark" + 0.041*"carpenter" + 0.041*"contrast" + 0.021*"russian" + 0.021*"afternoon" + 0.021*"negative" + 0.021*"being"'), (21, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (78, '0.059*"deduction" + 0.051*"net" + 0.050*"deduct" + 0.035*"cap" + 0.030*"innovative" + 0.020*"grateful" + 0.020*"immediate"'), (47, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (35, '0.026*"approval" + 0.026*"import" + 0.026*"addiction" + 0.026*"goldman" + 0.026*"germany" + 0.026*"opioid" + 0.026*"allegation"'), (2, '0.001*"pretend" + 0.001*"organize" + 0.001*"willful" + 0.001*"tarmac" + 0.001*"reappointment" + 0.001*"adult" + 0.001*"participation"'), (43, '0.048*"estate" + 0.048*"colorado" + 0.018*"mall" + 0.015*"developer" + 0.015*"comeback" + 0.015*"finish" + 0.014*"businessman"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+c_uci, 100 max topics, 100 iterations, 100 topics:
+Number of topics: 1, Coherence score: inf
+
+c_v, 100 max topics, 100 iterations, 100 topics:
+Number of topics: 1, Coherence score: nan
+Number of topics: 2, Coherence score: nan
+
+c_uci, 100 max topics, 100 iterations, 100 topics:
+Number of topics: 1, Coherence score: inf
+
+c_npmi, 100 max topics, 100 iterations, 100 topics:
+Number of topics: 1, Coherence score: inf
+
+u_mass, 100 max topics, 100 iterations, 100 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+Number of topics: 16, Coherence score: -10.780606698934179
+Number of topics: 17, Coherence score: -9.114191766921714
+Number of topics: 18, Coherence score: -8.477663941996319
+Number of topics: 19, Coherence score: -8.241693528490142
+Number of topics: 20, Coherence score: -9.812248097307267
+Number of topics: 21, Coherence score: -7.920442441816225
+Number of topics: 22, Coherence score: -8.274762268640279
+Number of topics: 23, Coherence score: -8.941108167554665
+Number of topics: 24, Coherence score: -7.684284262594045
+Number of topics: 25, Coherence score: -6.80464544618978
+Number of topics: 26, Coherence score: -6.458346885556974
+Number of topics: 27, Coherence score: -6.625006640916123
+Number of topics: 28, Coherence score: -7.067826239794243
+Number of topics: 29, Coherence score: -7.947726510691718
+Number of topics: 30, Coherence score: -6.504721837635242
+Number of topics: 31, Coherence score: -6.372974195331032
+Number of topics: 32, Coherence score: -7.311553558740969
+Number of topics: 33, Coherence score: -6.189021304263124
+Number of topics: 34, Coherence score: -5.769363596027729
+Number of topics: 35, Coherence score: -6.442932639624703
+Number of topics: 36, Coherence score: -6.706664186937647
+Number of topics: 37, Coherence score: -4.949991213588226
+Number of topics: 38, Coherence score: -5.629610143516888
+Number of topics: 39, Coherence score: -5.798260543635599
+Number of topics: 40, Coherence score: -6.484785031478358
+Number of topics: 41, Coherence score: -4.663149159097498
+Number of topics: 42, Coherence score: -6.261322903849303
+Number of topics: 43, Coherence score: -5.015210673945344
+Number of topics: 44, Coherence score: -5.558592593386988
+Number of topics: 45, Coherence score: -5.780639315916263
+Number of topics: 46, Coherence score: -5.467443336283758
+Number of topics: 47, Coherence score: -5.150228782057722
+Number of topics: 48, Coherence score: -5.281672064234438
+Number of topics: 49, Coherence score: -5.488202112571891
+Number of topics: 50, Coherence score: -6.041615510478907
+Number of topics: 51, Coherence score: -5.442102954662683
+Number of topics: 52, Coherence score: -4.304778238883009
+Number of topics: 53, Coherence score: -5.91675438222079
+Number of topics: 54, Coherence score: -5.529144767289108
+Number of topics: 55, Coherence score: -4.714590652465739
+Number of topics: 56, Coherence score: -4.500217555265833
+Number of topics: 57, Coherence score: -5.018502046706812
+Number of topics: 58, Coherence score: -4.812474860506847
+Number of topics: 59, Coherence score: -5.520211176198229
+Number of topics: 60, Coherence score: -4.78331462890471
+Number of topics: 61, Coherence score: -4.465889140126929
+Number of topics: 62, Coherence score: -5.092648848514671
+Number of topics: 63, Coherence score: -5.28551949555878
+Number of topics: 64, Coherence score: -5.3663294754189454
+Number of topics: 65, Coherence score: -5.730566922020057
+Number of topics: 66, Coherence score: -5.159279593996317
+Number of topics: 67, Coherence score: -5.28553112798257
+Number of topics: 68, Coherence score: -5.389941519949228
+Number of topics: 69, Coherence score: -5.096314035866458
+Number of topics: 70, Coherence score: -5.4369912319839475
+Number of topics: 71, Coherence score: -6.065349124742317
+Number of topics: 72, Coherence score: -4.25992638919717
+Number of topics: 73, Coherence score: -4.390670780446951
+Number of topics: 74, Coherence score: -5.68029443966719
+Number of topics: 75, Coherence score: -4.895214547403176
+Number of topics: 76, Coherence score: -4.54499242004911
+Number of topics: 77, Coherence score: -5.6066657924492596
+Number of topics: 78, Coherence score: -5.3116330766039725
+Number of topics: 79, Coherence score: -4.9591914680320865
+Number of topics: 80, Coherence score: -5.344134202539235
+Number of topics: 81, Coherence score: -5.453666997948799
+Number of topics: 82, Coherence score: -4.626666524279194
+Number of topics: 83, Coherence score: -5.856783691261071
+Number of topics: 84, Coherence score: -5.653449981193248
+Number of topics: 85, Coherence score: -5.1183546280235275
+Number of topics: 86, Coherence score: -5.145566260090957
+Number of topics: 87, Coherence score: -6.101041963375916
+Number of topics: 88, Coherence score: -5.68848627781172
+Number of topics: 89, Coherence score: -5.071411674354294
+Number of topics: 90, Coherence score: -5.709115152437436
+Number of topics: 91, Coherence score: -6.544566540713322
+Number of topics: 92, Coherence score: -5.2199535299311615
+Number of topics: 93, Coherence score: -5.64273932574569
+Number of topics: 94, Coherence score: -5.45721502517684
+Number of topics: 95, Coherence score: -5.412931544327365
+Number of topics: 96, Coherence score: -5.560992506182923
+Number of topics: 97, Coherence score: -6.038825205662046
+Number of topics: 98, Coherence score: -5.479355053918334
+Number of topics: 99, Coherence score: -6.152249418724879
+Number of topics: 100, Coherence score: -6.186385969333176
+
+
+After running topic modelling: 
+[(0, '0.011*"angeles" + 0.011*"los" + 0.011*"interview" + 0.009*"intellectual" + 0.009*"bottom" + 0.008*"burden" + 0.008*"team"'), (1, '0.016*"humiliation" + 0.016*"enact" + 0.016*"crazy" + 0.016*"aide" + 0.011*"mall" + 0.011*"october" + 0.011*"space"'), (2, '0.056*"tuition" + 0.024*"endowment" + 0.024*"machine" + 0.024*"university" + 0.020*"bishop" + 0.016*"request" + 0.016*"correctness"'), (3, '0.020*"ignore" + 0.013*"addiction" + 0.010*"globe" + 0.010*"wisconsin" + 0.010*"phrase" + 0.010*"mill" + 0.010*"sheriff"'), (4, '0.029*"veterans" + 0.020*"mental" + 0.017*"discipline" + 0.015*"affair" + 0.011*"wrongdoing" + 0.011*"trust" + 0.010*"sole"'), (5, '0.009*"comfortable" + 0.008*"rudy" + 0.008*"capability" + 0.007*"rebuilding" + 0.007*"army" + 0.007*"narrative" + 0.007*"compassion"'), (6, '0.030*"apologize" + 0.015*"wisconsin" + 0.015*"ban" + 0.014*"classify" + 0.012*"speaking" + 0.011*"legal" + 0.011*"pretend"'), (7, '0.016*"venezuela" + 0.013*"attitude" + 0.012*"net" + 0.012*"deduction" + 0.012*"deduct" + 0.011*"interview" + 0.010*"screening"'), (8, '0.024*"university" + 0.023*"evangelical" + 0.016*"tuition" + 0.015*"opioid" + 0.015*"endowment" + 0.014*"johnson" + 0.013*"penny"'), (9, '0.016*"bishop" + 0.012*"addiction" + 0.012*"ban" + 0.012*"machine" + 0.011*"oppress" + 0.009*"capability" + 0.008*"enrich"'), (10, '0.028*"putin" + 0.019*"yeah" + 0.016*"jewish" + 0.016*"buy" + 0.015*"television" + 0.014*"convention" + 0.012*"relationship"'), (11, '0.025*"putin" + 0.021*"television" + 0.020*"yeah" + 0.019*"buy" + 0.013*"convention" + 0.012*"russian" + 0.011*"interesting"'), (12, '0.024*"jewish" + 0.019*"table" + 0.018*"sponsor" + 0.016*"iowa" + 0.012*"behavior" + 0.011*"mile" + 0.011*"firm"'), (13, '0.029*"estate" + 0.025*"colorado" + 0.017*"laughter" + 0.014*"comeback" + 0.012*"developer" + 0.012*"mall" + 0.010*"revitalize"'), (14, '0.057*"laughter" + 0.011*"machine" + 0.011*"christian" + 0.011*"christians" + 0.010*"johnson" + 0.010*"evangelical" + 0.010*"penalty"'), (15, '0.046*"rudy" + 0.027*"fantastic" + 0.027*"robert" + 0.021*"boy" + 0.020*"ben" + 0.014*"reclaim" + 0.014*"star"'), (16, '0.015*"penalty" + 0.013*"clarity" + 0.013*"opposition" + 0.011*"screening" + 0.010*"suppose" + 0.010*"recruiting" + 0.010*"draw"'), (17, '0.013*"ban" + 0.013*"worth" + 0.012*"bush" + 0.011*"site" + 0.011*"legal" + 0.011*"net" + 0.010*"asset"'), (18, '0.017*"mall" + 0.015*"colorado" + 0.014*"california" + 0.013*"custody" + 0.013*"estate" + 0.013*"crazy" + 0.012*"revitalize"'), (19, '0.018*"temperament" + 0.018*"iowa" + 0.013*"mendoza" + 0.012*"vision" + 0.011*"bottom" + 0.010*"video" + 0.010*"oppressive"')]
+After the evaluation of our models:
+[(0, '0.013*"rudy" + 0.012*"machine" + 0.007*"robert" + 0.007*"ban" + 0.006*"fantastic" + 0.006*"star" + 0.006*"senator"'), (1, '0.012*"laughter" + 0.010*"iowa" + 0.008*"yeah" + 0.008*"wisconsin" + 0.008*"buy" + 0.007*"worth" + 0.007*"stupid"'), (2, '0.011*"bishop" + 0.011*"tuition" + 0.008*"remark" + 0.008*"machine" + 0.007*"television" + 0.006*"interview" + 0.006*"ban"'), (3, '0.009*"university" + 0.008*"narrative" + 0.006*"angeles" + 0.006*"patient" + 0.006*"los" + 0.006*"addiction" + 0.005*"legal"'), (4, '0.020*"laughter" + 0.010*"apologize" + 0.007*"jamiel" + 0.006*"evangelical" + 0.006*"johnson" + 0.005*"hostage" + 0.005*"humiliation"'), (5, '0.010*"evangelical" + 0.010*"estate" + 0.009*"putin" + 0.008*"colorado" + 0.008*"veterans" + 0.008*"laughter" + 0.007*"convention"'), (6, '0.010*"jewish" + 0.009*"table" + 0.007*"deduction" + 0.007*"sponsor" + 0.007*"team" + 0.006*"net" + 0.006*"ignore"')]
+
+u_mass, 200 max topics, 100 iterations, 20 topics:
+Number of topics: 1, Coherence score: -15.005999323502738
+Number of topics: 2, Coherence score: -14.119775298156657
+Number of topics: 3, Coherence score: -14.158201544059168
+Number of topics: 4, Coherence score: -14.202786206287472
+Number of topics: 5, Coherence score: -12.258252380621585
+Number of topics: 6, Coherence score: -12.3976013502187
+Number of topics: 7, Coherence score: -12.379981432636304
+Number of topics: 8, Coherence score: -11.661358498865702
+Number of topics: 9, Coherence score: -11.318318318964144
+Number of topics: 10, Coherence score: -10.930157390285245
+Number of topics: 11, Coherence score: -10.63161839805829
+Number of topics: 12, Coherence score: -11.33994331627604
+Number of topics: 13, Coherence score: -10.69865125250637
+Number of topics: 14, Coherence score: -10.809798934487787
+Number of topics: 15, Coherence score: -9.0371443372101
+Number of topics: 16, Coherence score: -10.780606698934179
+Number of topics: 17, Coherence score: -9.114191766921714
+Number of topics: 18, Coherence score: -8.477663941996319
+Number of topics: 19, Coherence score: -8.241693528490142
+Number of topics: 20, Coherence score: -9.812248097307267
+Number of topics: 21, Coherence score: -7.920442441816225
+Number of topics: 22, Coherence score: -8.274762268640279
+Number of topics: 23, Coherence score: -8.941108167554665
+Number of topics: 24, Coherence score: -7.684284262594045
+Number of topics: 25, Coherence score: -6.80464544618978
+Number of topics: 26, Coherence score: -6.458346885556974
+Number of topics: 27, Coherence score: -6.625006640916123
+Number of topics: 28, Coherence score: -7.067826239794243
+Number of topics: 29, Coherence score: -7.947726510691718
+Number of topics: 30, Coherence score: -6.504721837635242
+Number of topics: 31, Coherence score: -6.372974195331032
+Number of topics: 32, Coherence score: -7.311553558740969
+Number of topics: 33, Coherence score: -6.189021304263124
+Number of topics: 34, Coherence score: -5.769363596027729
+Number of topics: 35, Coherence score: -6.442932639624703
+Number of topics: 36, Coherence score: -6.706664186937647
+Number of topics: 37, Coherence score: -4.949991213588226
+Number of topics: 38, Coherence score: -5.629610143516888
+Number of topics: 39, Coherence score: -5.798260543635599
+Number of topics: 40, Coherence score: -6.484785031478358
+Number of topics: 41, Coherence score: -4.663149159097498
+Number of topics: 42, Coherence score: -6.261322903849303
+Number of topics: 43, Coherence score: -5.015210673945344
+Number of topics: 44, Coherence score: -5.558592593386988
+Number of topics: 45, Coherence score: -5.780639315916263
+Number of topics: 46, Coherence score: -5.467443336283758
+Number of topics: 47, Coherence score: -5.150228782057722
+Number of topics: 48, Coherence score: -5.281672064234438
+Number of topics: 49, Coherence score: -5.488202112571891
+Number of topics: 50, Coherence score: -6.041615510478907
+Number of topics: 51, Coherence score: -5.442102954662683
+Number of topics: 52, Coherence score: -4.304778238883009
+Number of topics: 53, Coherence score: -5.91675438222079
+Number of topics: 54, Coherence score: -5.529144767289108
+Number of topics: 55, Coherence score: -4.714590652465739
+Number of topics: 56, Coherence score: -4.500217555265833
+Number of topics: 57, Coherence score: -5.018502046706812
+Number of topics: 58, Coherence score: -4.812474860506847
+Number of topics: 59, Coherence score: -5.520211176198229
+Number of topics: 60, Coherence score: -4.78331462890471
+Number of topics: 61, Coherence score: -4.465889140126929
+Number of topics: 62, Coherence score: -5.092648848514671
+Number of topics: 63, Coherence score: -5.28551949555878
+Number of topics: 64, Coherence score: -5.3663294754189454
+Number of topics: 65, Coherence score: -5.730566922020057
+Number of topics: 66, Coherence score: -5.159279593996317
+Number of topics: 67, Coherence score: -5.28553112798257
+Number of topics: 68, Coherence score: -5.389941519949228
+Number of topics: 69, Coherence score: -5.096314035866458
+Number of topics: 70, Coherence score: -5.4369912319839475
+Number of topics: 71, Coherence score: -6.065349124742317
+Number of topics: 72, Coherence score: -4.25992638919717
+Number of topics: 73, Coherence score: -4.390670780446951
+Number of topics: 74, Coherence score: -5.68029443966719
+Number of topics: 75, Coherence score: -4.895214547403176
+Number of topics: 76, Coherence score: -4.54499242004911
+Number of topics: 77, Coherence score: -5.6066657924492596
+Number of topics: 78, Coherence score: -5.3116330766039725
+Number of topics: 79, Coherence score: -4.9591914680320865
+Number of topics: 80, Coherence score: -5.344134202539235
+Number of topics: 81, Coherence score: -5.453666997948799
+Number of topics: 82, Coherence score: -4.626666524279194
+Number of topics: 83, Coherence score: -5.856783691261071
+Number of topics: 84, Coherence score: -5.653449981193248
+Number of topics: 85, Coherence score: -5.1183546280235275
+Number of topics: 86, Coherence score: -5.145566260090957
+Number of topics: 87, Coherence score: -6.101041963375916
+Number of topics: 88, Coherence score: -5.68848627781172
+Number of topics: 89, Coherence score: -5.071411674354294
+Number of topics: 90, Coherence score: -5.709115152437436
+Number of topics: 91, Coherence score: -6.544566540713322
+Number of topics: 92, Coherence score: -5.2199535299311615
+Number of topics: 93, Coherence score: -5.64273932574569
+Number of topics: 94, Coherence score: -5.45721502517684
+Number of topics: 95, Coherence score: -5.412931544327365
+Number of topics: 96, Coherence score: -5.560992506182923
+Number of topics: 97, Coherence score: -6.038825205662046
+Number of topics: 98, Coherence score: -5.479355053918334
+Number of topics: 99, Coherence score: -6.152249418724879
+Number of topics: 100, Coherence score: -6.186385969333176
+Number of topics: 101, Coherence score: -5.151882524111343
+Number of topics: 102, Coherence score: -5.802325459989454
+Number of topics: 103, Coherence score: -5.437935833685219
+Number of topics: 104, Coherence score: -5.849728703104889
+Number of topics: 105, Coherence score: -5.247773155538992
+Number of topics: 106, Coherence score: -5.654133165361412
+Number of topics: 107, Coherence score: -6.28295994634837
+Number of topics: 108, Coherence score: -6.2970918501759
+Number of topics: 109, Coherence score: -5.654283420898077
+Number of topics: 110, Coherence score: -6.293036118027355
+Number of topics: 111, Coherence score: -6.637167784745996
+Number of topics: 112, Coherence score: -6.259337962497099
+Number of topics: 113, Coherence score: -6.433245756539818
+Number of topics: 114, Coherence score: -6.400900879304233
+Number of topics: 115, Coherence score: -6.049193546858915
+Number of topics: 116, Coherence score: -6.042262084623524
+Number of topics: 117, Coherence score: -6.414018712725519
+Number of topics: 118, Coherence score: -6.093663916475619
+Number of topics: 119, Coherence score: -6.153486369034158
+Number of topics: 120, Coherence score: -5.651833164488056
+Number of topics: 121, Coherence score: -5.999472497942502
+Number of topics: 122, Coherence score: -6.4378309588758
+Number of topics: 123, Coherence score: -7.177760927480214
+Number of topics: 124, Coherence score: -6.9861104514334045
+Number of topics: 125, Coherence score: -6.4987329892447985
+Number of topics: 126, Coherence score: -6.49482895521071
+Number of topics: 127, Coherence score: -6.161011472064172
+Number of topics: 128, Coherence score: -5.877288111266372
+Number of topics: 129, Coherence score: -6.04507617051964
+Number of topics: 130, Coherence score: -6.401480031259657
+Number of topics: 131, Coherence score: -6.379110908842642
+Number of topics: 132, Coherence score: -6.724631164878687
+Number of topics: 133, Coherence score: -6.01110057916095
+Number of topics: 134, Coherence score: -6.4831313562429695
+Number of topics: 135, Coherence score: -6.696865384964376
+Number of topics: 136, Coherence score: -6.359825504581664
+Number of topics: 137, Coherence score: -6.054523966231208
+Number of topics: 138, Coherence score: -6.927194909562121
+Number of topics: 139, Coherence score: -6.2523909169105565
+Number of topics: 140, Coherence score: -5.7163499365224135
+Number of topics: 141, Coherence score: -6.59934557702312
+Number of topics: 142, Coherence score: -6.553910468033827
+Number of topics: 143, Coherence score: -6.758589101959702
+Number of topics: 144, Coherence score: -6.333274335968238
+Number of topics: 145, Coherence score: -6.8708274829390446
+Number of topics: 146, Coherence score: -6.337679809121245
+Number of topics: 147, Coherence score: -7.199270756264162
+Number of topics: 148, Coherence score: -6.195420444217805
+Number of topics: 149, Coherence score: -7.317027994621548
+Number of topics: 150, Coherence score: -6.65547937108299
+Number of topics: 151, Coherence score: -7.218297847923493
+Number of topics: 152, Coherence score: -7.504013286419015
+Number of topics: 153, Coherence score: -6.420101151925512
+Number of topics: 154, Coherence score: -7.029440275126499
+Number of topics: 155, Coherence score: -7.260754423158937
+Number of topics: 156, Coherence score: -6.67217684074435
+Number of topics: 157, Coherence score: -6.149462229287291
+Number of topics: 158, Coherence score: -6.167309522911188
+Number of topics: 159, Coherence score: -6.8578015769430065
+Number of topics: 160, Coherence score: -6.562032310191464
+Number of topics: 161, Coherence score: -7.25544316746418
+Number of topics: 162, Coherence score: -6.892062045477773
+Number of topics: 163, Coherence score: -6.947425125760292
+Number of topics: 164, Coherence score: -7.238859260543932
+Number of topics: 165, Coherence score: -7.593583447317647
+Number of topics: 166, Coherence score: -6.495293870925211
+Number of topics: 167, Coherence score: -7.4381484664042254
+Number of topics: 168, Coherence score: -6.881100581452846
+Number of topics: 169, Coherence score: -7.026233134750691
+Number of topics: 170, Coherence score: -6.980753721522981
+Number of topics: 171, Coherence score: -7.394545125977241
+Number of topics: 172, Coherence score: -6.916940715726659
+Number of topics: 173, Coherence score: -6.934969832069668
+Number of topics: 174, Coherence score: -6.6557319397743075
+Number of topics: 175, Coherence score: -7.291244195731718
+Number of topics: 176, Coherence score: -7.245337569827284
+Number of topics: 177, Coherence score: -7.4581992953518474
+Number of topics: 178, Coherence score: -7.003206513019085
+Number of topics: 179, Coherence score: -7.814617961488162
+Number of topics: 180, Coherence score: -7.238480285744754
+Number of topics: 181, Coherence score: -7.1231018256641985
+Number of topics: 182, Coherence score: -6.873896715279299
+Number of topics: 183, Coherence score: -8.302995329619561
+Number of topics: 184, Coherence score: -7.5424772565022105
+Number of topics: 185, Coherence score: -7.04403653910841
+Number of topics: 186, Coherence score: -7.110558799351991
+Number of topics: 187, Coherence score: -7.157574639376708
+Number of topics: 188, Coherence score: -7.369520360803079
+Number of topics: 189, Coherence score: -7.28329562898562
+Number of topics: 190, Coherence score: -7.269305700145061
+Number of topics: 191, Coherence score: -7.355839885232606
+Number of topics: 192, Coherence score: -7.527389932207588
+Number of topics: 193, Coherence score: -7.298304569962666
+Number of topics: 194, Coherence score: -7.353771999208685
+Number of topics: 195, Coherence score: -6.832342093411253
+Number of topics: 196, Coherence score: -6.961461514216683
+Number of topics: 197, Coherence score: -7.881369792279135
+Number of topics: 198, Coherence score: -7.512462875567128
+Number of topics: 199, Coherence score: -7.538611939426688
+Number of topics: 200, Coherence score: -7.149632164315625
