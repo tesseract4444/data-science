@@ -1,0 +1,221 @@
+lifespan ~ birth
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               lifespan   R-squared:                       0.001
+Model:                            OLS   Adj. R-squared:                 -0.006
+Method:                 Least Squares   F-statistic:                    0.1919
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.662
+Time:                        11:18:42   Log-Likelihood:                -546.77
+No. Observations:                 133   AIC:                             1098.
+Df Residuals:                     131   BIC:                             1103.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     19.1731    110.794      0.173      0.863    -200.003     238.350
+birth          0.0258      0.059      0.438      0.662      -0.091       0.142
+==============================================================================
+Omnibus:                        2.227   Durbin-Watson:                   2.039
+Prob(Omnibus):                  0.328   Jarque-Bera (JB):                1.920
+Skew:                          -0.174   Prob(JB):                        0.383
+Kurtosis:                       2.525   Cond. No.                     1.61e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.61e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+*****************************************************************************************
+
+
+
+lifespan ~ death
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               lifespan   R-squared:                       0.338
+Model:                            OLS   Adj. R-squared:                  0.333
+Method:                 Least Squares   F-statistic:                     66.80
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):           2.24e-13
+Time:                        11:18:45   Log-Likelihood:                -519.47
+No. Observations:                 133   AIC:                             1043.
+Df Residuals:                     131   BIC:                             1049.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept   -554.4932     76.135     -7.283      0.000    -705.106    -403.880
+death          0.3196      0.039      8.173      0.000       0.242       0.397
+==============================================================================
+Omnibus:                        1.937   Durbin-Watson:                   1.520
+Prob(Omnibus):                  0.380   Jarque-Bera (JB):                1.984
+Skew:                          -0.278   Prob(JB):                        0.371
+Kurtosis:                       2.778   Cond. No.                     1.41e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.41e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+*****************************************************************************************
+
+
+
+lifespan ~ gender
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               lifespan   R-squared:                       0.005
+Model:                            OLS   Adj. R-squared:                 -0.003
+Method:                 Least Squares   F-statistic:                    0.5947
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.442
+Time:                        11:18:50   Log-Likelihood:                -546.57
+No. Observations:                 133   AIC:                             1097.
+Df Residuals:                     131   BIC:                             1103.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept         71.6250      5.251     13.640      0.000      61.237      82.013
+gender[T.male]    -4.1770      5.417     -0.771      0.442     -14.892       6.538
+==============================================================================
+Omnibus:                        2.404   Durbin-Watson:                   1.998
+Prob(Omnibus):                  0.301   Jarque-Bera (JB):                1.930
+Skew:                          -0.149   Prob(JB):                        0.381
+Kurtosis:                       2.491   Cond. No.                         8.03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+lifespan ~ pages_in_manual
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               lifespan   R-squared:                       0.016
+Model:                            OLS   Adj. R-squared:                  0.009
+Method:                 Least Squares   F-statistic:                     2.161
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.144
+Time:                        11:18:57   Log-Likelihood:                -545.78
+No. Observations:                 133   AIC:                             1096.
+Df Residuals:                     131   BIC:                             1101.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+Intercept          66.6858      1.454     45.859      0.000      63.809      69.562
+pages_in_manual     0.0565      0.038      1.470      0.144      -0.020       0.133
+==============================================================================
+Omnibus:                        2.207   Durbin-Watson:                   2.082
+Prob(Omnibus):                  0.332   Jarque-Bera (JB):                1.688
+Skew:                          -0.092   Prob(JB):                        0.430
+Kurtosis:                       2.480   Cond. No.                         42.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+lifespan ~ novels
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               lifespan   R-squared:                       0.023
+Model:                            OLS   Adj. R-squared:                  0.016
+Method:                 Least Squares   F-statistic:                     3.119
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):             0.0797
+Time:                        11:19:00   Log-Likelihood:                -545.31
+No. Observations:                 133   AIC:                             1095.
+Df Residuals:                     131   BIC:                             1100.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     66.2923      1.504     44.077      0.000      63.317      69.268
+novels         0.2567      0.145      1.766      0.080      -0.031       0.544
+==============================================================================
+Omnibus:                        2.101   Durbin-Watson:                   2.076
+Prob(Omnibus):                  0.350   Jarque-Bera (JB):                1.664
+Skew:                          -0.105   Prob(JB):                        0.435
+Kurtosis:                       2.494   Cond. No.                         12.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+lifespan ~ works
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               lifespan   R-squared:                       0.015
+Model:                            OLS   Adj. R-squared:                  0.007
+Method:                 Least Squares   F-statistic:                     1.950
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.165
+Time:                        11:19:05   Log-Likelihood:                -545.89
+No. Observations:                 133   AIC:                             1096.
+Df Residuals:                     131   BIC:                             1102.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     66.6989      1.468     45.437      0.000      63.795      69.603
+works          0.0838      0.060      1.396      0.165      -0.035       0.202
+==============================================================================
+Omnibus:                        2.277   Durbin-Watson:                   2.049
+Prob(Omnibus):                  0.320   Jarque-Bera (JB):                1.774
+Skew:                          -0.116   Prob(JB):                        0.412
+Kurtosis:                       2.484   Cond. No.                         28.0
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+lifespan ~ digitzed_by
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               lifespan   R-squared:                       0.000
+Model:                            OLS   Adj. R-squared:                 -0.008
+Method:                 Least Squares   F-statistic:                  0.004153
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.949
+Time:                        11:19:12   Log-Likelihood:                -546.87
+No. Observations:                 133   AIC:                             1098.
+Df Residuals:                     131   BIC:                             1104.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      67.6038      1.965     34.400      0.000      63.716      71.491
+digitzed_by     0.0408      0.634      0.064      0.949      -1.213       1.294
+==============================================================================
+Omnibus:                        2.188   Durbin-Watson:                   2.035
+Prob(Omnibus):                  0.335   Jarque-Bera (JB):                1.784
+Skew:                          -0.136   Prob(JB):                        0.410
+Kurtosis:                       2.502   Cond. No.                         5.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+

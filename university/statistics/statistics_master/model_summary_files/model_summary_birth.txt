@@ -1,0 +1,219 @@
+birth ~ death
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  birth   R-squared:                       0.698
+Model:                            OLS   Adj. R-squared:                  0.696
+Method:                 Least Squares   F-statistic:                     302.7
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):           7.30e-36
+Time:                        11:08:00   Log-Likelihood:                -519.47
+No. Observations:                 133   AIC:                             1043.
+Df Residuals:                     131   BIC:                             1049.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept    554.4932     76.135      7.283      0.000     403.880     705.106
+death          0.6804      0.039     17.399      0.000       0.603       0.758
+==============================================================================
+Omnibus:                        1.937   Durbin-Watson:                   1.520
+Prob(Omnibus):                  0.380   Jarque-Bera (JB):                1.984
+Skew:                           0.278   Prob(JB):                        0.371
+Kurtosis:                       2.778   Cond. No.                     1.41e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.41e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+*****************************************************************************************
+
+
+
+birth ~ gender
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  birth   R-squared:                       0.005
+Model:                            OLS   Adj. R-squared:                 -0.002
+Method:                 Least Squares   F-statistic:                    0.6929
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.407
+Time:                        11:08:04   Log-Likelihood:                -598.73
+No. Observations:                 133   AIC:                             1201.
+Df Residuals:                     131   BIC:                             1207.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept       1872.7500      7.773    240.929      0.000    1857.373    1888.127
+gender[T.male]     6.6740      8.018      0.832      0.407      -9.187      22.535
+==============================================================================
+Omnibus:                       14.495   Durbin-Watson:                   0.231
+Prob(Omnibus):                  0.001   Jarque-Bera (JB):               15.985
+Skew:                          -0.834   Prob(JB):                     0.000338
+Kurtosis:                       3.324   Cond. No.                         8.03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+birth ~ pages_in_manual
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  birth   R-squared:                       0.046
+Model:                            OLS   Adj. R-squared:                  0.039
+Method:                 Least Squares   F-statistic:                     6.299
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):             0.0133
+Time:                        11:08:20   Log-Likelihood:                -595.96
+No. Observations:                 133   AIC:                             1196.
+Df Residuals:                     131   BIC:                             1202.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+Intercept        1881.5459      2.121    887.284      0.000    1877.351    1885.741
+pages_in_manual    -0.1408      0.056     -2.510      0.013      -0.252      -0.030
+==============================================================================
+Omnibus:                       19.246   Durbin-Watson:                   0.232
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               22.582
+Skew:                          -0.960   Prob(JB):                     1.25e-05
+Kurtosis:                       3.623   Cond. No.                         42.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+birth ~ novels
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  birth   R-squared:                       0.042
+Model:                            OLS   Adj. R-squared:                  0.035
+Method:                 Least Squares   F-statistic:                     5.753
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):             0.0179
+Time:                        11:08:24   Log-Likelihood:                -596.22
+No. Observations:                 133   AIC:                             1196.
+Df Residuals:                     131   BIC:                             1202.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept   1881.8246      2.206    853.217      0.000    1877.461    1886.188
+novels        -0.5112      0.213     -2.399      0.018      -0.933      -0.090
+==============================================================================
+Omnibus:                       22.437   Durbin-Watson:                   0.312
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               27.644
+Skew:                          -1.051   Prob(JB):                     9.94e-07
+Kurtosis:                       3.756   Cond. No.                         12.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+birth ~ works
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  birth   R-squared:                       0.049
+Model:                            OLS   Adj. R-squared:                  0.042
+Method:                 Least Squares   F-statistic:                     6.785
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):             0.0103
+Time:                        11:08:28   Log-Likelihood:                -595.72
+No. Observations:                 133   AIC:                             1195.
+Df Residuals:                     131   BIC:                             1201.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept   1881.7366      2.135    881.278      0.000    1877.513    1885.961
+works         -0.2273      0.087     -2.605      0.010      -0.400      -0.055
+==============================================================================
+Omnibus:                       22.240   Durbin-Watson:                   0.316
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               27.318
+Skew:                          -1.044   Prob(JB):                     1.17e-06
+Kurtosis:                       3.754   Cond. No.                         28.0
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+birth ~ lifespan
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  birth   R-squared:                       0.001
+Model:                            OLS   Adj. R-squared:                 -0.006
+Method:                 Least Squares   F-statistic:                    0.1919
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.662
+Time:                        11:08:34   Log-Likelihood:                -598.99
+No. Observations:                 133   AIC:                             1202.
+Df Residuals:                     131   BIC:                             1208.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept   1875.1889      8.958    209.324      0.000    1857.467    1892.911
+lifespan       0.0566      0.129      0.438      0.662      -0.199       0.312
+==============================================================================
+Omnibus:                       15.100   Durbin-Watson:                   0.222
+Prob(Omnibus):                  0.001   Jarque-Bera (JB):               16.839
+Skew:                          -0.856   Prob(JB):                     0.000221
+Kurtosis:                       3.323   Cond. No.                         325.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+birth ~ digitzed_by
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  birth   R-squared:                       0.450
+Model:                            OLS   Adj. R-squared:                  0.446
+Method:                 Least Squares   F-statistic:                     107.1
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):           1.03e-18
+Time:                        11:08:42   Log-Likelihood:                -559.34
+No. Observations:                 133   AIC:                             1123.
+Df Residuals:                     131   BIC:                             1128.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept    1895.8681      2.158    878.345      0.000    1891.598    1900.138
+digitzed_by    -7.2041      0.696    -10.350      0.000      -8.581      -5.827
+==============================================================================
+Omnibus:                        3.500   Durbin-Watson:                   0.624
+Prob(Omnibus):                  0.174   Jarque-Bera (JB):                3.270
+Skew:                          -0.384   Prob(JB):                        0.195
+Kurtosis:                       3.013   Cond. No.                         5.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+

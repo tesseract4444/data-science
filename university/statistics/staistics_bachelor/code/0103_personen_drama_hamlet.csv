@@ -1,0 +1,30 @@
+﻿id;label;gender;role;importance;per_mes_sps
+1;Ghost;male;other;primary;0
+2;Hamlet;male;protagonist;primary;358
+3;Gertrude;female;other;secondary;69
+4;Claudius;male;antagonist;primary;102
+5;Ophelia;female;lover;primary;58
+6;Laertes;male;antagonist;primary;62
+7;Polonius;male;other;secondary;86
+8;Reynaldo;male;other;minor;13
+9;Horatio;male;other;secondary;109
+10;Voltemand;male;other;minor;1
+11;Cornelius;male;other;minor;1
+12;Rosencrantz;male;other;minor;48
+13;Guildenstern;male;other;minor;29
+14;Osric;male;other;minor;25
+15;Gentlemen;male;other;minor;1
+16;A Lord;male;other;minor;3
+17;Francisco;male;other;minor;8
+18;Bernardo;male;other;minor;19
+19;Marcellus;male;other;minor;37
+20;Fortinbras;male;other;minor;6
+21;Captain in Fortinbras Army;male;other ;minor;7
+22;Ambassodors to Denmark from England;male;other ;minor;1
+23;Players who take Proglogue;male;other ;minor;1
+24;Two Messengers;male;other ;minor;1
+25;Sailors;male;other ;minor;2
+26;Gravedigger = First Clown;male;other ;minor;34
+27;Gravedigger's companion = 2nd Clown;male;other ;minor;12
+28;Doctor of Divinity = Priest;male;other ;minor;2
+29;Atenndants, Lords, Guards, Musicians, Laertes Followers, Soldiers, Officers;male;other ;minor;0

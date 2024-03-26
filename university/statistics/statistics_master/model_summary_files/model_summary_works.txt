@@ -1,0 +1,221 @@
+works ~ birth
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  works   R-squared:                       0.049
+Model:                            OLS   Adj. R-squared:                  0.042
+Method:                 Least Squares   F-statistic:                     6.785
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):             0.0103
+Time:                        11:16:47   Log-Likelihood:                -592.53
+No. Observations:                 133   AIC:                             1189.
+Df Residuals:                     131   BIC:                             1195.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept    418.9999    156.284      2.681      0.008     109.832     728.168
+birth         -0.2166      0.083     -2.605      0.010      -0.381      -0.052
+==============================================================================
+Omnibus:                      197.355   Durbin-Watson:                   1.406
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            12263.412
+Skew:                           5.957   Prob(JB):                         0.00
+Kurtosis:                      48.508   Cond. No.                     1.61e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.61e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+*****************************************************************************************
+
+
+
+works ~ death
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  works   R-squared:                       0.013
+Model:                            OLS   Adj. R-squared:                  0.005
+Method:                 Least Squares   F-statistic:                     1.728
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.191
+Time:                        11:16:52   Log-Likelihood:                -595.01
+No. Observations:                 133   AIC:                             1194.
+Df Residuals:                     131   BIC:                             1200.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept    188.5582    134.357      1.403      0.163     -77.232     454.349
+death         -0.0907      0.069     -1.315      0.191      -0.227       0.046
+==============================================================================
+Omnibus:                      199.084   Durbin-Watson:                   1.360
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            12472.049
+Skew:                           6.052   Prob(JB):                         0.00
+Kurtosis:                      48.870   Cond. No.                     1.41e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.41e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+*****************************************************************************************
+
+
+
+works ~ gender
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  works   R-squared:                       0.061
+Model:                            OLS   Adj. R-squared:                  0.054
+Method:                 Least Squares   F-statistic:                     8.584
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):            0.00400
+Time:                        11:16:56   Log-Likelihood:                -591.66
+No. Observations:                 133   AIC:                             1187.
+Df Residuals:                     131   BIC:                             1193.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept         32.8750      7.371      4.460      0.000      18.294      47.456
+gender[T.male]   -22.2750      7.603     -2.930      0.004     -37.315      -7.235
+==============================================================================
+Omnibus:                      175.032   Durbin-Watson:                   1.256
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             7049.343
+Skew:                           5.005   Prob(JB):                         0.00
+Kurtosis:                      37.233   Cond. No.                         8.03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+works ~ pages_in_manual
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  works   R-squared:                       0.123
+Model:                            OLS   Adj. R-squared:                  0.116
+Method:                 Least Squares   F-statistic:                     18.38
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):           3.48e-05
+Time:                        11:17:08   Log-Likelihood:                -587.15
+No. Observations:                 133   AIC:                             1178.
+Df Residuals:                     131   BIC:                             1184.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+Intercept           7.9057      1.985      3.983      0.000       3.979      11.832
+pages_in_manual     0.2251      0.052      4.287      0.000       0.121       0.329
+==============================================================================
+Omnibus:                      202.795   Durbin-Watson:                   1.774
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            15512.865
+Skew:                           6.141   Prob(JB):                         0.00
+Kurtosis:                      54.463   Cond. No.                         42.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+works ~ novels
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  works   R-squared:                       0.433
+Model:                            OLS   Adj. R-squared:                  0.429
+Method:                 Least Squares   F-statistic:                     100.2
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):           7.16e-18
+Time:                        11:17:11   Log-Likelihood:                -558.09
+No. Observations:                 133   AIC:                             1120.
+Df Residuals:                     131   BIC:                             1126.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      3.1591      1.656      1.908      0.059      -0.117       6.435
+novels         1.6020      0.160     10.012      0.000       1.285       1.919
+==============================================================================
+Omnibus:                      238.638   Durbin-Watson:                   2.301
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            36433.168
+Skew:                           7.994   Prob(JB):                         0.00
+Kurtosis:                      82.491   Cond. No.                         12.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+works ~ lifespan
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  works   R-squared:                       0.015
+Model:                            OLS   Adj. R-squared:                  0.007
+Method:                 Least Squares   F-statistic:                     1.950
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.165
+Time:                        11:17:16   Log-Likelihood:                -594.90
+No. Observations:                 133   AIC:                             1194.
+Df Residuals:                     131   BIC:                             1200.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.0870      8.687      0.010      0.992     -17.099      17.273
+lifespan       0.1751      0.125      1.396      0.165      -0.073       0.423
+==============================================================================
+Omnibus:                      200.839   Durbin-Watson:                   1.322
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            13280.619
+Skew:                           6.120   Prob(JB):                         0.00
+Kurtosis:                      50.399   Cond. No.                         325.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+works ~ digitzed_by
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  works   R-squared:                       0.134
+Model:                            OLS   Adj. R-squared:                  0.127
+Method:                 Least Squares   F-statistic:                     20.29
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):           1.46e-05
+Time:                        11:17:22   Log-Likelihood:                -586.31
+No. Observations:                 133   AIC:                             1177.
+Df Residuals:                     131   BIC:                             1182.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept       2.9611      2.644      1.120      0.265      -2.269       8.191
+digitzed_by     3.8398      0.852      4.504      0.000       2.153       5.526
+==============================================================================
+Omnibus:                      192.154   Durbin-Watson:                   1.573
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            11711.126
+Skew:                           5.672   Prob(JB):                         0.00
+Kurtosis:                      47.549   Cond. No.                         5.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+

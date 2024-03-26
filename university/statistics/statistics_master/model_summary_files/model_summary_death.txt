@@ -1,0 +1,219 @@
+death ~ birth
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  death   R-squared:                       0.698
+Model:                            OLS   Adj. R-squared:                  0.696
+Method:                 Least Squares   F-statistic:                     302.7
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):           7.30e-36
+Time:                        11:09:58   Log-Likelihood:                -546.77
+No. Observations:                 133   AIC:                             1098.
+Df Residuals:                     131   BIC:                             1103.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     19.1731    110.794      0.173      0.863    -200.003     238.350
+birth          1.0258      0.059     17.399      0.000       0.909       1.142
+==============================================================================
+Omnibus:                        2.227   Durbin-Watson:                   2.039
+Prob(Omnibus):                  0.328   Jarque-Bera (JB):                1.920
+Skew:                          -0.174   Prob(JB):                        0.383
+Kurtosis:                       2.525   Cond. No.                     1.61e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.61e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+*****************************************************************************************
+
+
+
+death ~ gender
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  death   R-squared:                       0.000
+Model:                            OLS   Adj. R-squared:                 -0.007
+Method:                 Least Squares   F-statistic:                   0.06402
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.801
+Time:                        11:10:07   Log-Likelihood:                -626.35
+No. Observations:                 133   AIC:                             1257.
+Df Residuals:                     131   BIC:                             1262.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept       1944.3750      9.567    203.232      0.000    1925.449    1963.301
+gender[T.male]     2.4970      9.869      0.253      0.801     -17.026      22.020
+==============================================================================
+Omnibus:                        2.105   Durbin-Watson:                   0.747
+Prob(Omnibus):                  0.349   Jarque-Bera (JB):                2.065
+Skew:                          -0.237   Prob(JB):                        0.356
+Kurtosis:                       2.617   Cond. No.                         8.03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+death ~ pages_in_manual
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  death   R-squared:                       0.011
+Model:                            OLS   Adj. R-squared:                  0.003
+Method:                 Least Squares   F-statistic:                     1.443
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.232
+Time:                        11:10:15   Log-Likelihood:                -625.66
+No. Observations:                 133   AIC:                             1255.
+Df Residuals:                     131   BIC:                             1261.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+Intercept        1948.2318      2.651    734.872      0.000    1942.987    1953.476
+pages_in_manual    -0.0842      0.070     -1.201      0.232      -0.223       0.054
+==============================================================================
+Omnibus:                        2.510   Durbin-Watson:                   0.739
+Prob(Omnibus):                  0.285   Jarque-Bera (JB):                2.527
+Skew:                          -0.295   Prob(JB):                        0.283
+Kurtosis:                       2.670   Cond. No.                         42.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+death ~ novels
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  death   R-squared:                       0.007
+Model:                            OLS   Adj. R-squared:                 -0.001
+Method:                 Least Squares   F-statistic:                    0.9125
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.341
+Time:                        11:10:18   Log-Likelihood:                -625.92
+No. Observations:                 133   AIC:                             1256.
+Df Residuals:                     131   BIC:                             1262.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept   1948.1169      2.757    706.499      0.000    1942.662    1953.572
+novels        -0.2545      0.266     -0.955      0.341      -0.782       0.273
+==============================================================================
+Omnibus:                        2.729   Durbin-Watson:                   0.770
+Prob(Omnibus):                  0.256   Jarque-Bera (JB):                2.745
+Skew:                          -0.312   Prob(JB):                        0.253
+Kurtosis:                       2.676   Cond. No.                         12.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+death ~ works
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  death   R-squared:                       0.013
+Model:                            OLS   Adj. R-squared:                  0.005
+Method:                 Least Squares   F-statistic:                     1.728
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.191
+Time:                        11:10:22   Log-Likelihood:                -625.51
+No. Observations:                 133   AIC:                             1255.
+Df Residuals:                     131   BIC:                             1261.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept   1948.4355      2.671    729.396      0.000    1943.151    1953.720
+works         -0.1435      0.109     -1.315      0.191      -0.360       0.072
+==============================================================================
+Omnibus:                        2.763   Durbin-Watson:                   0.789
+Prob(Omnibus):                  0.251   Jarque-Bera (JB):                2.789
+Skew:                          -0.319   Prob(JB):                        0.248
+Kurtosis:                       2.691   Cond. No.                         28.0
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+death ~ lifespan
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  death   R-squared:                       0.338
+Model:                            OLS   Adj. R-squared:                  0.333
+Method:                 Least Squares   F-statistic:                     66.80
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):           2.24e-13
+Time:                        11:10:27   Log-Likelihood:                -598.99
+No. Observations:                 133   AIC:                             1202.
+Df Residuals:                     131   BIC:                             1208.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept   1875.1889      8.958    209.324      0.000    1857.467    1892.911
+lifespan       1.0566      0.129      8.173      0.000       0.801       1.312
+==============================================================================
+Omnibus:                       15.100   Durbin-Watson:                   0.222
+Prob(Omnibus):                  0.001   Jarque-Bera (JB):               16.839
+Skew:                          -0.856   Prob(JB):                     0.000221
+Kurtosis:                       3.323   Cond. No.                         325.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+death ~ digitzed_by
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  death   R-squared:                       0.295
+Model:                            OLS   Adj. R-squared:                  0.290
+Method:                 Least Squares   F-statistic:                     54.82
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):           1.43e-11
+Time:                        11:10:36   Log-Likelihood:                -603.14
+No. Observations:                 133   AIC:                             1210.
+Df Residuals:                     131   BIC:                             1216.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept    1963.4719      3.000    654.433      0.000    1957.537    1969.407
+digitzed_by    -7.1632      0.967     -7.404      0.000      -9.077      -5.249
+==============================================================================
+Omnibus:                        1.393   Durbin-Watson:                   1.117
+Prob(Omnibus):                  0.498   Jarque-Bera (JB):                1.261
+Skew:                          -0.088   Prob(JB):                        0.532
+Kurtosis:                       2.557   Cond. No.                         5.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+

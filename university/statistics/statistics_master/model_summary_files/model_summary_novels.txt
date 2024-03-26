@@ -1,0 +1,221 @@
+novels ~ birth
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 novels   R-squared:                       0.042
+Model:                            OLS   Adj. R-squared:                  0.035
+Method:                 Least Squares   F-statistic:                     5.753
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):             0.0179
+Time:                        11:15:02   Log-Likelihood:                -474.76
+No. Observations:                 133   AIC:                             953.5
+Df Residuals:                     131   BIC:                             959.3
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept    160.1142     64.473      2.483      0.014      32.571     287.658
+birth         -0.0823      0.034     -2.399      0.018      -0.150      -0.014
+==============================================================================
+Omnibus:                      134.840   Durbin-Watson:                   1.598
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2126.390
+Skew:                           3.655   Prob(JB):                         0.00
+Kurtosis:                      21.174   Cond. No.                     1.61e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.61e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+*****************************************************************************************
+
+
+
+novels ~ death
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 novels   R-squared:                       0.007
+Model:                            OLS   Adj. R-squared:                 -0.001
+Method:                 Least Squares   F-statistic:                    0.9125
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.341
+Time:                        11:15:05   Log-Likelihood:                -477.16
+No. Observations:                 133   AIC:                             958.3
+Df Residuals:                     131   BIC:                             964.1
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     58.3862     55.390      1.054      0.294     -51.188     167.961
+death         -0.0272      0.028     -0.955      0.341      -0.083       0.029
+==============================================================================
+Omnibus:                      140.010   Durbin-Watson:                   1.536
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2382.739
+Skew:                           3.838   Prob(JB):                         0.00
+Kurtosis:                      22.262   Cond. No.                     1.41e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.41e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+*****************************************************************************************
+
+
+
+novels ~ gender
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 novels   R-squared:                       0.001
+Model:                            OLS   Adj. R-squared:                 -0.007
+Method:                 Least Squares   F-statistic:                   0.08699
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):              0.769
+Time:                        11:15:09   Log-Likelihood:                -477.58
+No. Observations:                 133   AIC:                             959.2
+Df Residuals:                     131   BIC:                             964.9
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          6.3750      3.126      2.039      0.043       0.191      12.559
+gender[T.male]    -0.9510      3.224     -0.295      0.769      -7.330       5.428
+==============================================================================
+Omnibus:                      141.238   Durbin-Watson:                   1.508
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2468.590
+Skew:                           3.878   Prob(JB):                         0.00
+Kurtosis:                      22.630   Cond. No.                         8.03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+novels ~ pages_in_manual
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 novels   R-squared:                       0.211
+Model:                            OLS   Adj. R-squared:                  0.205
+Method:                 Least Squares   F-statistic:                     35.11
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):           2.59e-08
+Time:                        11:15:18   Log-Likelihood:                -461.83
+No. Observations:                 133   AIC:                             927.7
+Df Residuals:                     131   BIC:                             933.4
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+Intercept           3.3079      0.774      4.276      0.000       1.778       4.838
+pages_in_manual     0.1212      0.020      5.926      0.000       0.081       0.162
+==============================================================================
+Omnibus:                       76.539   Durbin-Watson:                   1.786
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              403.257
+Skew:                           2.011   Prob(JB):                     2.72e-88
+Kurtosis:                      10.522   Cond. No.                         42.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+novels ~ works
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 novels   R-squared:                       0.433
+Model:                            OLS   Adj. R-squared:                  0.429
+Method:                 Least Squares   F-statistic:                     100.2
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):           7.16e-18
+Time:                        11:15:26   Log-Likelihood:                -439.83
+No. Observations:                 133   AIC:                             883.7
+Df Residuals:                     131   BIC:                             889.4
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      2.2503      0.661      3.403      0.001       0.942       3.559
+works          0.2706      0.027     10.012      0.000       0.217       0.324
+==============================================================================
+Omnibus:                       89.317   Durbin-Watson:                   2.496
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2276.077
+Skew:                           1.736   Prob(JB):                         0.00
+Kurtosis:                      22.967   Cond. No.                         28.0
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+novels ~ lifespan
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 novels   R-squared:                       0.023
+Model:                            OLS   Adj. R-squared:                  0.016
+Method:                 Least Squares   F-statistic:                     3.119
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):             0.0797
+Time:                        11:15:31   Log-Likelihood:                -476.06
+No. Observations:                 133   AIC:                             956.1
+Df Residuals:                     131   BIC:                             961.9
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     -0.6527      3.555     -0.184      0.855      -7.685       6.380
+lifespan       0.0906      0.051      1.766      0.080      -0.011       0.192
+==============================================================================
+Omnibus:                      137.649   Durbin-Watson:                   1.544
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2281.482
+Skew:                           3.749   Prob(JB):                         0.00
+Kurtosis:                      21.854   Cond. No.                         325.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
+novels ~ digitzed_by
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 novels   R-squared:                       0.134
+Model:                            OLS   Adj. R-squared:                  0.127
+Method:                 Least Squares   F-statistic:                     20.27
+Date:                Mon, 04 Dec 2023   Prob (F-statistic):           1.47e-05
+Time:                        11:15:38   Log-Likelihood:                -468.06
+No. Observations:                 133   AIC:                             940.1
+Df Residuals:                     131   BIC:                             945.9
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept       1.7928      1.087      1.650      0.101      -0.357       3.942
+digitzed_by     1.5774      0.350      4.502      0.000       0.884       2.271
+==============================================================================
+Omnibus:                      116.262   Durbin-Watson:                   1.677
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1332.823
+Skew:                           3.061   Prob(JB):                    3.81e-290
+Kurtosis:                      17.249   Cond. No.                         5.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+*****************************************************************************************
+
+
+
