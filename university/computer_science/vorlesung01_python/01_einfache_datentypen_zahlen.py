@@ -1,0 +1,5 @@
+print(5+7)
+print(3.0+4.12)
+print(4 + 3.2323)
+print(3>5)
+print(3+2>=5)
