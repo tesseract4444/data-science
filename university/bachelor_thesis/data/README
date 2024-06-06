@@ -1,5 +1,9 @@
-contains trump/biden/obama/bush speeches and "mein kampf" in english
+00_cleaner.ipynb: A document cleaner written in Python to remove stopwords and unwanted sign. Besides you can choose if you like to filter all words, adjectives, nouns or verbs.
 
+millercenter_scraper.ipynb: A small web scraping algorithm written in Python that got the collection of texts for both Bush and Obama.
+
+
+This file contains trump/biden/obama/bush speeches and "mein kampf" in english.
 sources:
   Trump + Biden:
   https://www.rev.com/blog/transcripts/all-transcripts
