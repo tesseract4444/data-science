@@ -7,6 +7,6 @@ folder university:
 
 
 folder my_projects (code files):
-- indivudal projects
+- individual projects
 - computer science homeworks
 - university projects (diskmags project: co-worker (data analysis) for 1 semester, fmi about diskmags see http://diskmags.de/index.php?title=Main_Page OR https://github.com/zpd-digital-editions/Diskmags)
