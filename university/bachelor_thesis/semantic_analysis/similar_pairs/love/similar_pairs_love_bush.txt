@@ -1,0 +1,1034 @@
+Gefilterte Sätze mit Cosine Similarity, euklidischer Distanz, Manhattan-Distanz und Minkowski-Distanz (nach Cosine Similarity sortiert):
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.5752, Euklidische Distanz: 17.1288, Manhattan-Distanz: 63.7515, Minkowski-Distanz (p=3): 1.8320***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.5413, Euklidische Distanz: 17.3239, Manhattan-Distanz: 64.0278, Minkowski-Distanz (p=3): 1.8546***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.5300, Euklidische Distanz: 15.6076, Manhattan-Distanz: 62.4794, Minkowski-Distanz (p=3): 1.7019***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Bush - Satz7: "a hopeful society gives special attention to children who lack direction and love."
+***Cosine Similarity: 0.5211, Euklidische Distanz: 13.5043, Manhattan-Distanz: 57.1616, Minkowski-Distanz (p=3): 1.6086***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Bush - Satz29: "abandonment and abuse are not acts of god, they are failures of love."
+***Cosine Similarity: 0.5152, Euklidische Distanz: 38.4860, Manhattan-Distanz: 96.8151, Minkowski-Distanz (p=3): 2.7086***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Bush - Satz35: "they worry about children in our society who need direction and love, and about fellow citizens still displaced by natural disaster, and about suffering caused by treatable diseases."
+***Cosine Similarity: 0.5079, Euklidische Distanz: 13.6125, Manhattan-Distanz: 57.5157, Minkowski-Distanz (p=3): 1.6118***
+
+Hitler - Satz33: "often there are a wife and children at home, and in many cases it happens that these become infected by such a way of living, especially if the husband is good to them and loves them in his own way and according to his own lights."
+Bush - Satz18: "they endure sleepless nights and the daily struggle of providing for children while a loved one is serving far from home."
+***Cosine Similarity: 0.5032, Euklidische Distanz: 15.3339, Manhattan-Distanz: 62.3907, Minkowski-Distanz (p=3): 1.6845***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Bush - Satz7: "a hopeful society gives special attention to children who lack direction and love."
+***Cosine Similarity: 0.4984, Euklidische Distanz: 12.4672, Manhattan-Distanz: 55.2503, Minkowski-Distanz (p=3): 1.5333***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.4896, Euklidische Distanz: 13.7627, Manhattan-Distanz: 57.4932, Minkowski-Distanz (p=3): 1.6228***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.4877, Euklidische Distanz: 13.7785, Manhattan-Distanz: 57.7514, Minkowski-Distanz (p=3): 1.6160***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.4847, Euklidische Distanz: 17.8461, Manhattan-Distanz: 65.4368, Minkowski-Distanz (p=3): 1.8665***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.4844, Euklidische Distanz: 21.1539, Manhattan-Distanz: 70.8984, Minkowski-Distanz (p=3): 2.0387***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.4836, Euklidische Distanz: 16.8421, Manhattan-Distanz: 64.3261, Minkowski-Distanz (p=3): 1.7824***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.4736, Euklidische Distanz: 17.9492, Manhattan-Distanz: 64.8217, Minkowski-Distanz (p=3): 1.8910***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.4602, Euklidische Distanz: 18.0732, Manhattan-Distanz: 65.5456, Minkowski-Distanz (p=3): 1.8812***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.4580, Euklidische Distanz: 21.4182, Manhattan-Distanz: 71.7490, Minkowski-Distanz (p=3): 2.0410***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.4531, Euklidische Distanz: 17.1165, Manhattan-Distanz: 64.6401, Minkowski-Distanz (p=3): 1.7970***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Bush - Satz29: "abandonment and abuse are not acts of god, they are failures of love."
+***Cosine Similarity: 0.4522, Euklidische Distanz: 21.2603, Manhattan-Distanz: 71.0344, Minkowski-Distanz (p=3): 2.0068***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.4508, Euklidische Distanz: 14.7580, Manhattan-Distanz: 59.2129, Minkowski-Distanz (p=3): 1.6792***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.4492, Euklidische Distanz: 13.5891, Manhattan-Distanz: 56.4347, Minkowski-Distanz (p=3): 1.6184***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.4490, Euklidische Distanz: 18.1764, Manhattan-Distanz: 66.3044, Minkowski-Distanz (p=3): 1.8757***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.4456, Euklidische Distanz: 14.1229, Manhattan-Distanz: 58.0820, Minkowski-Distanz (p=3): 1.6381***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Bush - Satz17: "i've met with the wives and husbands who have received a folded flag, and said a final goodbye to a soldier they loved."
+***Cosine Similarity: 0.4453, Euklidische Distanz: 23.5221, Manhattan-Distanz: 76.1719, Minkowski-Distanz (p=3): 2.1002***
+
+Hitler - Satz23: "they love the german republic and tolerate its existence because no better instrument could be found to help them to keep our people in slavery."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.4450, Euklidische Distanz: 20.6429, Manhattan-Distanz: 69.1178, Minkowski-Distanz (p=3): 2.0059***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Bush - Satz35: "they worry about children in our society who need direction and love, and about fellow citizens still displaced by natural disaster, and about suffering caused by treatable diseases."
+***Cosine Similarity: 0.4430, Euklidische Distanz: 12.9023, Manhattan-Distanz: 56.6740, Minkowski-Distanz (p=3): 1.5529***
+
+Hitler - Satz36: "his life is torn asunder by hatred and love."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.4401, Euklidische Distanz: 34.8258, Manhattan-Distanz: 90.9964, Minkowski-Distanz (p=3): 2.5759***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Bush - Satz21: "i'm a fortunate father of two spirited, intelligent, and lovely young women."
+***Cosine Similarity: 0.4400, Euklidische Distanz: 41.3034, Manhattan-Distanz: 100.5865, Minkowski-Distanz (p=3): 2.8193***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.4398, Euklidische Distanz: 14.1703, Manhattan-Distanz: 58.2683, Minkowski-Distanz (p=3): 1.6403***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.4322, Euklidische Distanz: 13.1156, Manhattan-Distanz: 56.5953, Minkowski-Distanz (p=3): 1.5655***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.4312, Euklidische Distanz: 19.5292, Manhattan-Distanz: 69.3057, Minkowski-Distanz (p=3): 1.9087***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Bush - Satz5: "liberty will come to those who love it."
+***Cosine Similarity: 0.4298, Euklidische Distanz: 15.1222, Manhattan-Distanz: 59.7443, Minkowski-Distanz (p=3): 1.7037***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Bush - Satz26: "iraqis of every background are recognizing that democracy is the future of the country they love -- and they want their voices heard."
+***Cosine Similarity: 0.4285, Euklidische Distanz: 17.3376, Manhattan-Distanz: 64.8535, Minkowski-Distanz (p=3): 1.8203***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Bush - Satz4: "the aim here is not to punish children but to send them this message: we love you, and we do not want to lose you."
+***Cosine Similarity: 0.4278, Euklidische Distanz: 13.1505, Manhattan-Distanz: 56.3326, Minkowski-Distanz (p=3): 1.5784***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Bush - Satz25: "in the aftermath, we have seen fellow citizens left stunned and uprooted, searching for loved ones, and grieving for the dead, and looking for meaning in a tragedy that seems so blind and random."
+***Cosine Similarity: 0.4264, Euklidische Distanz: 14.9618, Manhattan-Distanz: 59.4456, Minkowski-Distanz (p=3): 1.6975***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.4232, Euklidische Distanz: 13.7982, Manhattan-Distanz: 56.9557, Minkowski-Distanz (p=3): 1.6180***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Bush - Satz25: "in the aftermath, we have seen fellow citizens left stunned and uprooted, searching for loved ones, and grieving for the dead, and looking for meaning in a tragedy that seems so blind and random."
+***Cosine Similarity: 0.4227, Euklidische Distanz: 14.1830, Manhattan-Distanz: 57.5550, Minkowski-Distanz (p=3): 1.6736***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Bush - Satz18: "they endure sleepless nights and the daily struggle of providing for children while a loved one is serving far from home."
+***Cosine Similarity: 0.4218, Euklidische Distanz: 19.6186, Manhattan-Distanz: 69.4413, Minkowski-Distanz (p=3): 1.9091***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Bush - Satz35: "they worry about children in our society who need direction and love, and about fellow citizens still displaced by natural disaster, and about suffering caused by treatable diseases."
+***Cosine Similarity: 0.4217, Euklidische Distanz: 15.0016, Manhattan-Distanz: 58.9560, Minkowski-Distanz (p=3): 1.6970***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Bush - Satz17: "i've met with the wives and husbands who have received a folded flag, and said a final goodbye to a soldier they loved."
+***Cosine Similarity: 0.4207, Euklidische Distanz: 21.7914, Manhattan-Distanz: 72.1367, Minkowski-Distanz (p=3): 2.0661***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Bush - Satz7: "a hopeful society gives special attention to children who lack direction and love."
+***Cosine Similarity: 0.4190, Euklidische Distanz: 13.2203, Manhattan-Distanz: 56.5226, Minkowski-Distanz (p=3): 1.5861***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Bush - Satz26: "iraqis of every background are recognizing that democracy is the future of the country they love -- and they want their voices heard."
+***Cosine Similarity: 0.4172, Euklidische Distanz: 18.4701, Manhattan-Distanz: 66.6615, Minkowski-Distanz (p=3): 1.8948***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Bush - Satz22: "but as a saint of our times has said, every day we are called to do small things with great love."
+***Cosine Similarity: 0.4145, Euklidische Distanz: 15.2515, Manhattan-Distanz: 60.7213, Minkowski-Distanz (p=3): 1.7020***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Bush - Satz26: "iraqis of every background are recognizing that democracy is the future of the country they love -- and they want their voices heard."
+***Cosine Similarity: 0.4097, Euklidische Distanz: 15.2916, Manhattan-Distanz: 59.2388, Minkowski-Distanz (p=3): 1.7216***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.4066, Euklidische Distanz: 15.3174, Manhattan-Distanz: 60.6741, Minkowski-Distanz (p=3): 1.7120***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Bush - Satz41: "we will show that men and women who love liberty can defeat the terrorists."
+***Cosine Similarity: 0.4041, Euklidische Distanz: 18.5910, Manhattan-Distanz: 66.5860, Minkowski-Distanz (p=3): 1.8988***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Bush - Satz17: "i've met with the wives and husbands who have received a folded flag, and said a final goodbye to a soldier they loved."
+***Cosine Similarity: 0.4013, Euklidische Distanz: 18.7406, Manhattan-Distanz: 66.8216, Minkowski-Distanz (p=3): 1.9111***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Bush - Satz21: "i'm a fortunate father of two spirited, intelligent, and lovely young women."
+***Cosine Similarity: 0.4008, Euklidische Distanz: 23.9852, Manhattan-Distanz: 75.6833, Minkowski-Distanz (p=3): 2.1411***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.4007, Euklidische Distanz: 18.7456, Manhattan-Distanz: 66.7866, Minkowski-Distanz (p=3): 1.9167***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3993, Euklidische Distanz: 18.7584, Manhattan-Distanz: 66.6161, Minkowski-Distanz (p=3): 1.9159***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3993, Euklidische Distanz: 15.1887, Manhattan-Distanz: 59.1753, Minkowski-Distanz (p=3): 1.7171***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Bush - Satz7: "a hopeful society gives special attention to children who lack direction and love."
+***Cosine Similarity: 0.3988, Euklidische Distanz: 19.8379, Manhattan-Distanz: 69.6386, Minkowski-Distanz (p=3): 1.9185***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Bush - Satz41: "we will show that men and women who love liberty can defeat the terrorists."
+***Cosine Similarity: 0.3986, Euklidische Distanz: 15.3853, Manhattan-Distanz: 59.8975, Minkowski-Distanz (p=3): 1.7247***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3979, Euklidische Distanz: 15.2009, Manhattan-Distanz: 60.2641, Minkowski-Distanz (p=3): 1.6990***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3978, Euklidische Distanz: 15.2017, Manhattan-Distanz: 60.0496, Minkowski-Distanz (p=3): 1.7022***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Bush - Satz22: "but as a saint of our times has said, every day we are called to do small things with great love."
+***Cosine Similarity: 0.3964, Euklidische Distanz: 16.7806, Manhattan-Distanz: 65.0643, Minkowski-Distanz (p=3): 1.7597***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Bush - Satz4: "the aim here is not to punish children but to send them this message: we love you, and we do not want to lose you."
+***Cosine Similarity: 0.3963, Euklidische Distanz: 14.5268, Manhattan-Distanz: 58.5606, Minkowski-Distanz (p=3): 1.6813***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.3957, Euklidische Distanz: 15.2190, Manhattan-Distanz: 59.2901, Minkowski-Distanz (p=3): 1.7193***
+
+Hitler - Satz33: "often there are a wife and children at home, and in many cases it happens that these become infected by such a way of living, especially if the husband is good to them and loves them in his own way and according to his own lights."
+Bush - Satz34: "many families will be praying for loved ones spending this season far from home -- in iraq, afghanistan, and other dangerous places."
+***Cosine Similarity: 0.3950, Euklidische Distanz: 16.2699, Manhattan-Distanz: 63.6716, Minkowski-Distanz (p=3): 1.7399***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Bush - Satz4: "the aim here is not to punish children but to send them this message: we love you, and we do not want to lose you."
+***Cosine Similarity: 0.3950, Euklidische Distanz: 19.8741, Manhattan-Distanz: 70.3953, Minkowski-Distanz (p=3): 1.9130***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3935, Euklidische Distanz: 21.8445, Manhattan-Distanz: 72.3277, Minkowski-Distanz (p=3): 2.0342***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Bush - Satz10: "we trust, with them, in a love that conquers all fear, in a light that reaches the darkest corners of the earth."
+***Cosine Similarity: 0.3933, Euklidische Distanz: 18.6908, Manhattan-Distanz: 66.1777, Minkowski-Distanz (p=3): 1.9283***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.3933, Euklidische Distanz: 13.4227, Manhattan-Distanz: 57.9151, Minkowski-Distanz (p=3): 1.5827***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3929, Euklidische Distanz: 13.0909, Manhattan-Distanz: 57.3204, Minkowski-Distanz (p=3): 1.5581***
+
+Hitler - Satz56: "in this way a few months sufficed for me to learn something which in other circumstances might have required years of study namely, that under the cloak of social virtue and love of one’s neighbour a veritable pestilence was spreading abroad and that if this pestilence were not stamped out without delay it might eventually succeed in exterminating the human race."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3926, Euklidische Distanz: 13.3869, Manhattan-Distanz: 56.9685, Minkowski-Distanz (p=3): 1.5760***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Bush - Satz14: "we need mentors to love children, especially children whose parents are in prison."
+***Cosine Similarity: 0.3923, Euklidische Distanz: 13.2995, Manhattan-Distanz: 57.1246, Minkowski-Distanz (p=3): 1.5770***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3917, Euklidische Distanz: 15.4433, Manhattan-Distanz: 60.8059, Minkowski-Distanz (p=3): 1.7191***
+
+Hitler - Satz47: "as a logical consequence of these convictions, there arose in me a feeling of intense love for my german-austrian home and a profound hatred for the austrian state."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3912, Euklidische Distanz: 25.1224, Manhattan-Distanz: 77.6800, Minkowski-Distanz (p=3): 2.1963***
+
+Hitler - Satz44: "their whole effort ends at that, and if they should get shouldered away from the common manger by competitors with more brutal manners, then their only idea is to force themselves in again, by force or chicanery, among the herd of all the others who have similar appetites, to get back into the front row, and finally—even at the expense of their most sacred convictions—to regale themselves anew at that beloved spot where they find their fodder."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.3908, Euklidische Distanz: 13.1231, Manhattan-Distanz: 57.4745, Minkowski-Distanz (p=3): 1.5524***
+
+Hitler - Satz41: "resorting to their old prescription, they form a ‘committee.’ they go around among their beloved public and listen to what is being said."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3897, Euklidische Distanz: 24.3658, Manhattan-Distanz: 78.9075, Minkowski-Distanz (p=3): 2.0996***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Bush - Satz16: "we have got to show each other some love.""
+***Cosine Similarity: 0.3876, Euklidische Distanz: 33.1844, Manhattan-Distanz: 87.1933, Minkowski-Distanz (p=3): 2.5410***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Bush - Satz5: "liberty will come to those who love it."
+***Cosine Similarity: 0.3861, Euklidische Distanz: 18.7572, Manhattan-Distanz: 66.9633, Minkowski-Distanz (p=3): 1.9098***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.3861, Euklidische Distanz: 15.4906, Manhattan-Distanz: 59.6173, Minkowski-Distanz (p=3): 1.7301***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Bush - Satz13: "millions of americans are praying with you for the safety of your loved ones and for the protection of the innocent."
+***Cosine Similarity: 0.3854, Euklidische Distanz: 18.8875, Manhattan-Distanz: 66.5096, Minkowski-Distanz (p=3): 1.9256***
+
+Hitler - Satz37: "it is not highly differentiated, but has only the negative and positive notions of love and hatred, right and wrong, truth and falsehood."
+Bush - Satz29: "abandonment and abuse are not acts of god, they are failures of love."
+***Cosine Similarity: 0.3845, Euklidische Distanz: 18.6906, Manhattan-Distanz: 65.8319, Minkowski-Distanz (p=3): 1.9155***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.3843, Euklidische Distanz: 22.1555, Manhattan-Distanz: 72.8365, Minkowski-Distanz (p=3): 2.0744***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Bush - Satz17: "i've met with the wives and husbands who have received a folded flag, and said a final goodbye to a soldier they loved."
+***Cosine Similarity: 0.3842, Euklidische Distanz: 18.7743, Manhattan-Distanz: 66.8632, Minkowski-Distanz (p=3): 1.9307***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3834, Euklidische Distanz: 13.5005, Manhattan-Distanz: 56.4286, Minkowski-Distanz (p=3): 1.6087***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Bush - Satz13: "millions of americans are praying with you for the safety of your loved ones and for the protection of the innocent."
+***Cosine Similarity: 0.3833, Euklidische Distanz: 25.0114, Manhattan-Distanz: 77.7762, Minkowski-Distanz (p=3): 2.1789***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Bush - Satz25: "in the aftermath, we have seen fellow citizens left stunned and uprooted, searching for loved ones, and grieving for the dead, and looking for meaning in a tragedy that seems so blind and random."
+***Cosine Similarity: 0.3832, Euklidische Distanz: 14.6342, Manhattan-Distanz: 59.3833, Minkowski-Distanz (p=3): 1.6759***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3828, Euklidische Distanz: 15.5178, Manhattan-Distanz: 60.3249, Minkowski-Distanz (p=3): 1.7237***
+
+Hitler - Satz33: "often there are a wife and children at home, and in many cases it happens that these become infected by such a way of living, especially if the husband is good to them and loves them in his own way and according to his own lights."
+Bush - Satz35: "they worry about children in our society who need direction and love, and about fellow citizens still displaced by natural disaster, and about suffering caused by treatable diseases."
+***Cosine Similarity: 0.3825, Euklidische Distanz: 16.3780, Manhattan-Distanz: 64.2890, Minkowski-Distanz (p=3): 1.7413***
+
+Hitler - Satz34: "even that religion which s called the religion of brotherly love is actually no more than a faint reflex of the will of its sublime founder, but its significance lies in the orientation which it endeavoured to give to human civilisation and human virtue and morals."
+Bush - Satz7: "a hopeful society gives special attention to children who lack direction and love."
+***Cosine Similarity: 0.3817, Euklidische Distanz: 12.4245, Manhattan-Distanz: 54.0545, Minkowski-Distanz (p=3): 1.5337***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3815, Euklidische Distanz: 22.2422, Manhattan-Distanz: 73.1714, Minkowski-Distanz (p=3): 2.0754***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3811, Euklidische Distanz: 13.7725, Manhattan-Distanz: 59.2162, Minkowski-Distanz (p=3): 1.5869***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3796, Euklidische Distanz: 17.2443, Manhattan-Distanz: 64.8661, Minkowski-Distanz (p=3): 1.7947***
+
+Hitler - Satz22: "on the one, hand, bismarck showed the greatest regard for customs and traditions; on the other hand his policy secured for the new reich, from its foundation onwards, a great measure of love and willing co-operation."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3776, Euklidische Distanz: 18.9962, Manhattan-Distanz: 65.9945, Minkowski-Distanz (p=3): 1.9309***
+
+Hitler - Satz34: "even that religion which s called the religion of brotherly love is actually no more than a faint reflex of the will of its sublime founder, but its significance lies in the orientation which it endeavoured to give to human civilisation and human virtue and morals."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.3776, Euklidische Distanz: 12.4561, Manhattan-Distanz: 55.4459, Minkowski-Distanz (p=3): 1.5195***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3770, Euklidische Distanz: 20.0449, Manhattan-Distanz: 70.0075, Minkowski-Distanz (p=3): 1.9380***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Bush - Satz29: "abandonment and abuse are not acts of god, they are failures of love."
+***Cosine Similarity: 0.3768, Euklidische Distanz: 20.0473, Manhattan-Distanz: 70.0433, Minkowski-Distanz (p=3): 1.9411***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Bush - Satz26: "iraqis of every background are recognizing that democracy is the future of the country they love -- and they want their voices heard."
+***Cosine Similarity: 0.3763, Euklidische Distanz: 14.1762, Manhattan-Distanz: 58.0397, Minkowski-Distanz (p=3): 1.6444***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Bush - Satz15: "it is because they know their loved one was last seen doing good."
+***Cosine Similarity: 0.3752, Euklidische Distanz: 24.2521, Manhattan-Distanz: 77.2101, Minkowski-Distanz (p=3): 2.1243***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Bush - Satz25: "in the aftermath, we have seen fellow citizens left stunned and uprooted, searching for loved ones, and grieving for the dead, and looking for meaning in a tragedy that seems so blind and random."
+***Cosine Similarity: 0.3732, Euklidische Distanz: 22.2662, Manhattan-Distanz: 72.2682, Minkowski-Distanz (p=3): 2.1080***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Bush - Satz22: "but as a saint of our times has said, every day we are called to do small things with great love."
+***Cosine Similarity: 0.3730, Euklidische Distanz: 33.3625, Manhattan-Distanz: 87.6186, Minkowski-Distanz (p=3): 2.5308***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3729, Euklidische Distanz: 42.2160, Manhattan-Distanz: 101.0950, Minkowski-Distanz (p=3): 2.8633***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Bush - Satz29: "abandonment and abuse are not acts of god, they are failures of love."
+***Cosine Similarity: 0.3727, Euklidische Distanz: 14.5911, Manhattan-Distanz: 58.8453, Minkowski-Distanz (p=3): 1.6826***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3721, Euklidische Distanz: 15.6085, Manhattan-Distanz: 60.7598, Minkowski-Distanz (p=3): 1.7224***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Bush - Satz13: "millions of americans are praying with you for the safety of your loved ones and for the protection of the innocent."
+***Cosine Similarity: 0.3710, Euklidische Distanz: 15.4263, Manhattan-Distanz: 60.9026, Minkowski-Distanz (p=3): 1.7098***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3704, Euklidische Distanz: 40.4152, Manhattan-Distanz: 98.8179, Minkowski-Distanz (p=3): 2.7901***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3699, Euklidische Distanz: 17.3296, Manhattan-Distanz: 64.9834, Minkowski-Distanz (p=3): 1.8034***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.3684, Euklidische Distanz: 14.2396, Manhattan-Distanz: 57.6638, Minkowski-Distanz (p=3): 1.6615***
+
+Hitler - Satz11: "for the first time in modem history the traditional dynastic patriotism and national love of fatherland and people were in open conflict."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.3683, Euklidische Distanz: 22.2250, Manhattan-Distanz: 72.2312, Minkowski-Distanz (p=3): 2.0614***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Bush - Satz35: "they worry about children in our society who need direction and love, and about fellow citizens still displaced by natural disaster, and about suffering caused by treatable diseases."
+***Cosine Similarity: 0.3683, Euklidische Distanz: 22.0959, Manhattan-Distanz: 72.2296, Minkowski-Distanz (p=3): 2.0464***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3681, Euklidische Distanz: 24.3262, Manhattan-Distanz: 77.1662, Minkowski-Distanz (p=3): 2.1311***
+
+Hitler - Satz33: "often there are a wife and children at home, and in many cases it happens that these become infected by such a way of living, especially if the husband is good to them and loves them in his own way and according to his own lights."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3668, Euklidische Distanz: 16.5134, Manhattan-Distanz: 64.1207, Minkowski-Distanz (p=3): 1.7540***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Bush - Satz36: "i see the consequences when i talk to parents who miss a child so much -- but tell me he loved being a soldier, he believed in his mission, and, mr. president, finish the job."
+***Cosine Similarity: 0.3666, Euklidische Distanz: 13.6330, Manhattan-Distanz: 57.3486, Minkowski-Distanz (p=3): 1.6183***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Bush - Satz17: "i've met with the wives and husbands who have received a folded flag, and said a final goodbye to a soldier they loved."
+***Cosine Similarity: 0.3665, Euklidische Distanz: 14.6420, Manhattan-Distanz: 57.9558, Minkowski-Distanz (p=3): 1.7128***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Bush - Satz33: "shannon, i assure you and all who have lost a loved one that our cause is just, and our country will never forget the debt we owe micheal and all who gave their lives for freedom."
+***Cosine Similarity: 0.3663, Euklidische Distanz: 15.4655, Manhattan-Distanz: 60.5139, Minkowski-Distanz (p=3): 1.7125***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3659, Euklidische Distanz: 19.0680, Manhattan-Distanz: 67.3880, Minkowski-Distanz (p=3): 1.9245***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3658, Euklidische Distanz: 14.6473, Manhattan-Distanz: 58.5548, Minkowski-Distanz (p=3): 1.6966***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Bush - Satz13: "millions of americans are praying with you for the safety of your loved ones and for the protection of the innocent."
+***Cosine Similarity: 0.3655, Euklidische Distanz: 22.3433, Manhattan-Distanz: 72.8896, Minkowski-Distanz (p=3): 2.1008***
+
+Hitler - Satz38: "the fate of a nation cannot be altered with the velvet glove and in  the iron hand should have been used ruthlessly to crush the vipers that battened on the body of the nation."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3653, Euklidische Distanz: 20.8587, Manhattan-Distanz: 71.0818, Minkowski-Distanz (p=3): 1.9691***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.3644, Euklidische Distanz: 13.5182, Manhattan-Distanz: 58.5568, Minkowski-Distanz (p=3): 1.5742***
+
+Hitler - Satz37: "it is not highly differentiated, but has only the negative and positive notions of love and hatred, right and wrong, truth and falsehood."
+Bush - Satz7: "a hopeful society gives special attention to children who lack direction and love."
+***Cosine Similarity: 0.3643, Euklidische Distanz: 18.8769, Manhattan-Distanz: 66.4907, Minkowski-Distanz (p=3): 1.9157***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Bush - Satz7: "a hopeful society gives special attention to children who lack direction and love."
+***Cosine Similarity: 0.3639, Euklidische Distanz: 22.3589, Manhattan-Distanz: 72.7858, Minkowski-Distanz (p=3): 2.0930***
+
+Hitler - Satz23: "they love the german republic and tolerate its existence because no better instrument could be found to help them to keep our people in slavery."
+Bush - Satz26: "iraqis of every background are recognizing that democracy is the future of the country they love -- and they want their voices heard."
+***Cosine Similarity: 0.3635, Euklidische Distanz: 21.4408, Manhattan-Distanz: 70.9091, Minkowski-Distanz (p=3): 2.0449***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Bush - Satz26: "iraqis of every background are recognizing that democracy is the future of the country they love -- and they want their voices heard."
+***Cosine Similarity: 0.3610, Euklidische Distanz: 13.6771, Manhattan-Distanz: 57.4931, Minkowski-Distanz (p=3): 1.6161***
+
+Hitler - Satz23: "they love the german republic and tolerate its existence because no better instrument could be found to help them to keep our people in slavery."
+Bush - Satz24: "for all who love freedom and peace, the world without saddam hussein's regime is a better and safer place."
+***Cosine Similarity: 0.3605, Euklidische Distanz: 21.4703, Manhattan-Distanz: 69.6832, Minkowski-Distanz (p=3): 2.0696***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Bush - Satz16: "we have got to show each other some love.""
+***Cosine Similarity: 0.3590, Euklidische Distanz: 13.3550, Manhattan-Distanz: 57.4298, Minkowski-Distanz (p=3): 1.5775***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Bush - Satz16: "we have got to show each other some love.""
+***Cosine Similarity: 0.3589, Euklidische Distanz: 14.8334, Manhattan-Distanz: 58.9687, Minkowski-Distanz (p=3): 1.7025***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Bush - Satz17: "i've met with the wives and husbands who have received a folded flag, and said a final goodbye to a soldier they loved."
+***Cosine Similarity: 0.3587, Euklidische Distanz: 17.9648, Manhattan-Distanz: 66.5464, Minkowski-Distanz (p=3): 1.8483***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Bush - Satz34: "many families will be praying for loved ones spending this season far from home -- in iraq, afghanistan, and other dangerous places."
+***Cosine Similarity: 0.3585, Euklidische Distanz: 15.5303, Manhattan-Distanz: 61.1103, Minkowski-Distanz (p=3): 1.7136***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Bush - Satz4: "the aim here is not to punish children but to send them this message: we love you, and we do not want to lose you."
+***Cosine Similarity: 0.3582, Euklidische Distanz: 13.5671, Manhattan-Distanz: 57.1844, Minkowski-Distanz (p=3): 1.6075***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Bush - Satz15: "it is because they know their loved one was last seen doing good."
+***Cosine Similarity: 0.3576, Euklidische Distanz: 14.7143, Manhattan-Distanz: 57.4304, Minkowski-Distanz (p=3): 1.7253***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Bush - Satz20: "we give thanks for all our military families who love you and have supported you in this mission."
+***Cosine Similarity: 0.3573, Euklidische Distanz: 42.4288, Manhattan-Distanz: 100.6386, Minkowski-Distanz (p=3): 2.8764***
+
+Hitler - Satz12: "the effervescent tone and the fine phraseology lull the reader into believing that a love for knowledge and more it principle is the sole driving force that determines the policy of such papers, whereas in reality these features represent a sunning way of disarming any opposition that might be directed against the press."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.3572, Euklidische Distanz: 11.9529, Manhattan-Distanz: 55.5266, Minkowski-Distanz (p=3): 1.4698***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Bush - Satz34: "many families will be praying for loved ones spending this season far from home -- in iraq, afghanistan, and other dangerous places."
+***Cosine Similarity: 0.3567, Euklidische Distanz: 14.8509, Manhattan-Distanz: 60.1250, Minkowski-Distanz (p=3): 1.6764***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3563, Euklidische Distanz: 17.9863, Manhattan-Distanz: 67.1054, Minkowski-Distanz (p=3): 1.8401***
+
+Hitler - Satz10: "my mother looked after the household and lovingly devoted herself to the care of her children of that period i have not retained many memories, because after a few years my father had to leave that frontier town which i had come to love so much and take up a new post farther down the inn valley, at passau, therefore, actually in germany itself: in those days it was the usual lot of an austrian civil servant to be transferred periodically from one post to another."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3559, Euklidische Distanz: 13.5160, Manhattan-Distanz: 57.9867, Minkowski-Distanz (p=3): 1.5958***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Bush - Satz10: "we trust, with them, in a love that conquers all fear, in a light that reaches the darkest corners of the earth."
+***Cosine Similarity: 0.3557, Euklidische Distanz: 22.5010, Manhattan-Distanz: 73.0354, Minkowski-Distanz (p=3): 2.0961***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.3554, Euklidische Distanz: 15.7491, Manhattan-Distanz: 60.7582, Minkowski-Distanz (p=3): 1.7424***
+
+Hitler - Satz37: "it is not highly differentiated, but has only the negative and positive notions of love and hatred, right and wrong, truth and falsehood."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3551, Euklidische Distanz: 18.9614, Manhattan-Distanz: 66.1527, Minkowski-Distanz (p=3): 1.9164***
+
+Hitler - Satz53: "for it might easily happen that one day an honest idealist, who, out of love for his country, had removed some miserable informer who had betrayed the whereabouts of secret stores of arms was called upon to answer for his act before the chief traitors of the country."
+Bush - Satz25: "in the aftermath, we have seen fellow citizens left stunned and uprooted, searching for loved ones, and grieving for the dead, and looking for meaning in a tragedy that seems so blind and random."
+***Cosine Similarity: 0.3549, Euklidische Distanz: 15.7754, Manhattan-Distanz: 61.1143, Minkowski-Distanz (p=3): 1.7397***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3539, Euklidische Distanz: 22.2392, Manhattan-Distanz: 73.2031, Minkowski-Distanz (p=3): 2.0384***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Bush - Satz6: "his mom, janet, sent me a letter and told me how much byron loved being a marine, and how proud he was to be on the front line against terror."
+***Cosine Similarity: 0.3534, Euklidische Distanz: 24.4794, Manhattan-Distanz: 77.5010, Minkowski-Distanz (p=3): 2.1341***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.3534, Euklidische Distanz: 17.4764, Manhattan-Distanz: 65.5740, Minkowski-Distanz (p=3): 1.8079***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Bush - Satz10: "we trust, with them, in a love that conquers all fear, in a light that reaches the darkest corners of the earth."
+***Cosine Similarity: 0.3532, Euklidische Distanz: 33.6030, Manhattan-Distanz: 87.1285, Minkowski-Distanz (p=3): 2.5546***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Bush - Satz1: "tonight i am filled with gratitude—to vice president cheney and members of my administration; to laura, who brought joy to this house and love to my life; to our wonderful daughters, barbara and jenna; to my parents, whose examples have provided strength for a lifetime."
+***Cosine Similarity: 0.3531, Euklidische Distanz: 14.3631, Manhattan-Distanz: 58.2504, Minkowski-Distanz (p=3): 1.6523***
+
+Hitler - Satz33: "often there are a wife and children at home, and in many cases it happens that these become infected by such a way of living, especially if the husband is good to them and loves them in his own way and according to his own lights."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3518, Euklidische Distanz: 16.6433, Manhattan-Distanz: 64.7332, Minkowski-Distanz (p=3): 1.7548***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Bush - Satz36: "i see the consequences when i talk to parents who miss a child so much -- but tell me he loved being a soldier, he believed in his mission, and, mr. president, finish the job."
+***Cosine Similarity: 0.3504, Euklidische Distanz: 14.7728, Manhattan-Distanz: 59.4498, Minkowski-Distanz (p=3): 1.7072***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Bush - Satz7: "a hopeful society gives special attention to children who lack direction and love."
+***Cosine Similarity: 0.3499, Euklidische Distanz: 25.3651, Manhattan-Distanz: 78.1164, Minkowski-Distanz (p=3): 2.1958***
+
+Hitler - Satz44: "their whole effort ends at that, and if they should get shouldered away from the common manger by competitors with more brutal manners, then their only idea is to force themselves in again, by force or chicanery, among the herd of all the others who have similar appetites, to get back into the front row, and finally—even at the expense of their most sacred convictions—to regale themselves anew at that beloved spot where they find their fodder."
+Bush - Satz15: "it is because they know their loved one was last seen doing good."
+***Cosine Similarity: 0.3489, Euklidische Distanz: 13.4494, Manhattan-Distanz: 57.3826, Minkowski-Distanz (p=3): 1.6009***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3471, Euklidische Distanz: 13.4477, Manhattan-Distanz: 57.6054, Minkowski-Distanz (p=3): 1.5814***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Bush - Satz27: "he'll be -- he's a 45-second commute away from a great wife and two little girls that love him dearly."
+***Cosine Similarity: 0.3469, Euklidische Distanz: 20.3311, Manhattan-Distanz: 70.3801, Minkowski-Distanz (p=3): 1.9444***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Bush - Satz4: "the aim here is not to punish children but to send them this message: we love you, and we do not want to lose you."
+***Cosine Similarity: 0.3465, Euklidische Distanz: 40.7326, Manhattan-Distanz: 99.2664, Minkowski-Distanz (p=3): 2.7978***
+
+Hitler - Satz25: "of those in responsible positions, ernst pohner was the only one who did not pay court to the mob, but felt that his duty was towards the nation as such and was ready to risk and sacrifice everything, even his personal livelihood, to help in the restoration of the german people, whom he dearly loved."
+Bush - Satz33: "shannon, i assure you and all who have lost a loved one that our cause is just, and our country will never forget the debt we owe micheal and all who gave their lives for freedom."
+***Cosine Similarity: 0.3460, Euklidische Distanz: 16.9582, Manhattan-Distanz: 64.0517, Minkowski-Distanz (p=3): 1.8095***
+
+Hitler - Satz17: "in coburg itself, at least a section of the marxist workers who must be looked upon as misled, learned from the blows of national socialist fists that they too, were workers fighting for ideals, because experience teaches that the human being fights only for something in which he believes and which he loves."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.3450, Euklidische Distanz: 16.3491, Manhattan-Distanz: 62.6974, Minkowski-Distanz (p=3): 1.7516***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Bush - Satz17: "i've met with the wives and husbands who have received a folded flag, and said a final goodbye to a soldier they loved."
+***Cosine Similarity: 0.3447, Euklidische Distanz: 25.4206, Manhattan-Distanz: 77.5716, Minkowski-Distanz (p=3): 2.2171***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Bush - Satz1: "tonight i am filled with gratitude—to vice president cheney and members of my administration; to laura, who brought joy to this house and love to my life; to our wonderful daughters, barbara and jenna; to my parents, whose examples have provided strength for a lifetime."
+***Cosine Similarity: 0.3442, Euklidische Distanz: 24.5752, Manhattan-Distanz: 77.4121, Minkowski-Distanz (p=3): 2.1385***
+
+Hitler - Satz54: "however much any honourable german may love and revere those old colours, glorious in their youthful freshness, if he has fought under them and seen the sacrifice of so many lives; they can never serve as an emblem for the struggle of the future."
+Bush - Satz17: "i've met with the wives and husbands who have received a folded flag, and said a final goodbye to a soldier they loved."
+***Cosine Similarity: 0.3441, Euklidische Distanz: 20.4186, Manhattan-Distanz: 70.3587, Minkowski-Distanz (p=3): 1.9848***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.3441, Euklidische Distanz: 19.2703, Manhattan-Distanz: 68.0916, Minkowski-Distanz (p=3): 1.9408***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.3436, Euklidische Distanz: 18.1004, Manhattan-Distanz: 67.2703, Minkowski-Distanz (p=3): 1.8308***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Bush - Satz40: "americans -- americans have come to see the goodness and kindness and strength i first saw 26 years ago, and we love our first lady."
+***Cosine Similarity: 0.3434, Euklidische Distanz: 22.5647, Manhattan-Distanz: 73.0312, Minkowski-Distanz (p=3): 2.1028***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3428, Euklidische Distanz: 22.3490, Manhattan-Distanz: 72.8104, Minkowski-Distanz (p=3): 2.0600***
+
+Hitler - Satz24: "with a burning love for the mother country in their hearts and a song on their lips, our young regiment went into action as if going to a dance."
+Bush - Satz26: "iraqis of every background are recognizing that democracy is the future of the country they love -- and they want their voices heard."
+***Cosine Similarity: 0.3427, Euklidische Distanz: 24.8406, Manhattan-Distanz: 76.7875, Minkowski-Distanz (p=3): 2.1788***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3421, Euklidische Distanz: 14.0824, Manhattan-Distanz: 59.3846, Minkowski-Distanz (p=3): 1.6230***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3420, Euklidische Distanz: 13.8266, Manhattan-Distanz: 57.7101, Minkowski-Distanz (p=3): 1.6280***
+
+Hitler - Satz24: "with a burning love for the mother country in their hearts and a song on their lips, our young regiment went into action as if going to a dance."
+Bush - Satz17: "i've met with the wives and husbands who have received a folded flag, and said a final goodbye to a soldier they loved."
+***Cosine Similarity: 0.3404, Euklidische Distanz: 24.8643, Manhattan-Distanz: 76.6441, Minkowski-Distanz (p=3): 2.1787***
+
+Hitler - Satz24: "with a burning love for the mother country in their hearts and a song on their lips, our young regiment went into action as if going to a dance."
+Bush - Satz15: "it is because they know their loved one was last seen doing good."
+***Cosine Similarity: 0.3394, Euklidische Distanz: 24.8750, Manhattan-Distanz: 77.1309, Minkowski-Distanz (p=3): 2.1800***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Bush - Satz36: "i see the consequences when i talk to parents who miss a child so much -- but tell me he loved being a soldier, he believed in his mission, and, mr. president, finish the job."
+***Cosine Similarity: 0.3392, Euklidische Distanz: 42.6751, Manhattan-Distanz: 101.9794, Minkowski-Distanz (p=3): 2.8847***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3385, Euklidische Distanz: 14.8705, Manhattan-Distanz: 58.8459, Minkowski-Distanz (p=3): 1.7032***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Bush - Satz25: "in the aftermath, we have seen fellow citizens left stunned and uprooted, searching for loved ones, and grieving for the dead, and looking for meaning in a tragedy that seems so blind and random."
+***Cosine Similarity: 0.3379, Euklidische Distanz: 19.3274, Manhattan-Distanz: 67.8060, Minkowski-Distanz (p=3): 1.9486***
+
+Hitler - Satz24: "with a burning love for the mother country in their hearts and a song on their lips, our young regiment went into action as if going to a dance."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.3376, Euklidische Distanz: 24.8935, Manhattan-Distanz: 76.8539, Minkowski-Distanz (p=3): 2.1900***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Bush - Satz16: "we have got to show each other some love.""
+***Cosine Similarity: 0.3350, Euklidische Distanz: 20.4446, Manhattan-Distanz: 70.7418, Minkowski-Distanz (p=3): 1.9452***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3341, Euklidische Distanz: 25.5323, Manhattan-Distanz: 77.8039, Minkowski-Distanz (p=3): 2.2190***
+
+Hitler - Satz44: "their whole effort ends at that, and if they should get shouldered away from the common manger by competitors with more brutal manners, then their only idea is to force themselves in again, by force or chicanery, among the herd of all the others who have similar appetites, to get back into the front row, and finally—even at the expense of their most sacred convictions—to regale themselves anew at that beloved spot where they find their fodder."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3336, Euklidische Distanz: 13.5688, Manhattan-Distanz: 57.9665, Minkowski-Distanz (p=3): 1.6006***
+
+Hitler - Satz44: "their whole effort ends at that, and if they should get shouldered away from the common manger by competitors with more brutal manners, then their only idea is to force themselves in again, by force or chicanery, among the herd of all the others who have similar appetites, to get back into the front row, and finally—even at the expense of their most sacred convictions—to regale themselves anew at that beloved spot where they find their fodder."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3327, Euklidische Distanz: 13.5761, Manhattan-Distanz: 58.1373, Minkowski-Distanz (p=3): 1.5944***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Bush - Satz22: "but as a saint of our times has said, every day we are called to do small things with great love."
+***Cosine Similarity: 0.3326, Euklidische Distanz: 22.7320, Manhattan-Distanz: 74.0523, Minkowski-Distanz (p=3): 2.0977***
+
+Hitler - Satz10: "my mother looked after the household and lovingly devoted herself to the care of her children of that period i have not retained many memories, because after a few years my father had to leave that frontier town which i had come to love so much and take up a new post farther down the inn valley, at passau, therefore, actually in germany itself: in those days it was the usual lot of an austrian civil servant to be transferred periodically from one post to another."
+Bush - Satz25: "in the aftermath, we have seen fellow citizens left stunned and uprooted, searching for loved ones, and grieving for the dead, and looking for meaning in a tragedy that seems so blind and random."
+***Cosine Similarity: 0.3323, Euklidische Distanz: 13.7005, Manhattan-Distanz: 57.4434, Minkowski-Distanz (p=3): 1.6170***
+
+Hitler - Satz38: "the fate of a nation cannot be altered with the velvet glove and in  the iron hand should have been used ruthlessly to crush the vipers that battened on the body of the nation."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.3321, Euklidische Distanz: 21.1801, Manhattan-Distanz: 70.9019, Minkowski-Distanz (p=3): 2.0058***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Bush - Satz7: "a hopeful society gives special attention to children who lack direction and love."
+***Cosine Similarity: 0.3319, Euklidische Distanz: 22.4576, Manhattan-Distanz: 73.0159, Minkowski-Distanz (p=3): 2.0587***
+
+Hitler - Satz22: "on the one, hand, bismarck showed the greatest regard for customs and traditions; on the other hand his policy secured for the new reich, from its foundation onwards, a great measure of love and willing co-operation."
+Bush - Satz1: "tonight i am filled with gratitude—to vice president cheney and members of my administration; to laura, who brought joy to this house and love to my life; to our wonderful daughters, barbara and jenna; to my parents, whose examples have provided strength for a lifetime."
+***Cosine Similarity: 0.3317, Euklidische Distanz: 19.4215, Manhattan-Distanz: 66.9267, Minkowski-Distanz (p=3): 1.9478***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Bush - Satz1: "tonight i am filled with gratitude—to vice president cheney and members of my administration; to laura, who brought joy to this house and love to my life; to our wonderful daughters, barbara and jenna; to my parents, whose examples have provided strength for a lifetime."
+***Cosine Similarity: 0.3315, Euklidische Distanz: 13.5686, Manhattan-Distanz: 58.3268, Minkowski-Distanz (p=3): 1.5873***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3315, Euklidische Distanz: 25.5608, Manhattan-Distanz: 78.2577, Minkowski-Distanz (p=3): 2.2089***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Bush - Satz26: "iraqis of every background are recognizing that democracy is the future of the country they love -- and they want their voices heard."
+***Cosine Similarity: 0.3311, Euklidische Distanz: 25.5641, Manhattan-Distanz: 78.6834, Minkowski-Distanz (p=3): 2.2048***
+
+Hitler - Satz42: "here again the only course to adopt s to attack the causes rather than the symptoms of the disease, but in this case, the primary cause s to be found in the manner in which love has been prostituted."
+Bush - Satz16: "we have got to show each other some love.""
+***Cosine Similarity: 0.3306, Euklidische Distanz: 15.1617, Manhattan-Distanz: 61.9096, Minkowski-Distanz (p=3): 1.6620***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Bush - Satz35: "they worry about children in our society who need direction and love, and about fellow citizens still displaced by natural disaster, and about suffering caused by treatable diseases."
+***Cosine Similarity: 0.3306, Euklidische Distanz: 20.4869, Manhattan-Distanz: 71.3450, Minkowski-Distanz (p=3): 1.9571***
+
+Hitler - Satz41: "resorting to their old prescription, they form a ‘committee.’ they go around among their beloved public and listen to what is being said."
+Bush - Satz13: "millions of americans are praying with you for the safety of your loved ones and for the protection of the innocent."
+***Cosine Similarity: 0.3304, Euklidische Distanz: 24.9869, Manhattan-Distanz: 79.1997, Minkowski-Distanz (p=3): 2.1327***
+
+Hitler - Satz11: "for the first time in modem history the traditional dynastic patriotism and national love of fatherland and people were in open conflict."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.3291, Euklidische Distanz: 22.6165, Manhattan-Distanz: 72.7839, Minkowski-Distanz (p=3): 2.0758***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3290, Euklidische Distanz: 25.5865, Manhattan-Distanz: 78.4526, Minkowski-Distanz (p=3): 2.2055***
+
+Hitler - Satz22: "on the one, hand, bismarck showed the greatest regard for customs and traditions; on the other hand his policy secured for the new reich, from its foundation onwards, a great measure of love and willing co-operation."
+Bush - Satz17: "i've met with the wives and husbands who have received a folded flag, and said a final goodbye to a soldier they loved."
+***Cosine Similarity: 0.3288, Euklidische Distanz: 19.4484, Manhattan-Distanz: 66.4596, Minkowski-Distanz (p=3): 1.9644***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Bush - Satz1: "tonight i am filled with gratitude—to vice president cheney and members of my administration; to laura, who brought joy to this house and love to my life; to our wonderful daughters, barbara and jenna; to my parents, whose examples have provided strength for a lifetime."
+***Cosine Similarity: 0.3279, Euklidische Distanz: 13.9378, Manhattan-Distanz: 57.5705, Minkowski-Distanz (p=3): 1.6296***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Bush - Satz20: "we give thanks for all our military families who love you and have supported you in this mission."
+***Cosine Similarity: 0.3269, Euklidische Distanz: 25.6086, Manhattan-Distanz: 78.7297, Minkowski-Distanz (p=3): 2.2060***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Bush - Satz26: "iraqis of every background are recognizing that democracy is the future of the country they love -- and they want their voices heard."
+***Cosine Similarity: 0.3265, Euklidische Distanz: 17.3935, Manhattan-Distanz: 65.5569, Minkowski-Distanz (p=3): 1.8085***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Bush - Satz36: "i see the consequences when i talk to parents who miss a child so much -- but tell me he loved being a soldier, he believed in his mission, and, mr. president, finish the job."
+***Cosine Similarity: 0.3263, Euklidische Distanz: 24.7620, Manhattan-Distanz: 77.7645, Minkowski-Distanz (p=3): 2.1508***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3263, Euklidische Distanz: 13.6091, Manhattan-Distanz: 57.7135, Minkowski-Distanz (p=3): 1.5893***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Bush - Satz1: "tonight i am filled with gratitude—to vice president cheney and members of my administration; to laura, who brought joy to this house and love to my life; to our wonderful daughters, barbara and jenna; to my parents, whose examples have provided strength for a lifetime."
+***Cosine Similarity: 0.3263, Euklidische Distanz: 25.6154, Manhattan-Distanz: 77.8981, Minkowski-Distanz (p=3): 2.2258***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Bush - Satz10: "we trust, with them, in a love that conquers all fear, in a light that reaches the darkest corners of the earth."
+***Cosine Similarity: 0.3260, Euklidische Distanz: 22.5167, Manhattan-Distanz: 72.5837, Minkowski-Distanz (p=3): 2.0724***
+
+Hitler - Satz36: "his life is torn asunder by hatred and love."
+Bush - Satz37: "last month, at the grave of her husband, micheal, a cia officer and marine who died in mazar-e-sharif, shannon spann said these words of farewell, "semper fi, my love.""
+***Cosine Similarity: 0.3256, Euklidische Distanz: 36.2621, Manhattan-Distanz: 91.7999, Minkowski-Distanz (p=3): 2.6485***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Bush - Satz20: "we give thanks for all our military families who love you and have supported you in this mission."
+***Cosine Similarity: 0.3252, Euklidische Distanz: 22.7461, Manhattan-Distanz: 73.7554, Minkowski-Distanz (p=3): 2.1038***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Bush - Satz41: "we will show that men and women who love liberty can defeat the terrorists."
+***Cosine Similarity: 0.3245, Euklidische Distanz: 17.4111, Manhattan-Distanz: 66.4595, Minkowski-Distanz (p=3): 1.7837***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Bush - Satz4: "the aim here is not to punish children but to send them this message: we love you, and we do not want to lose you."
+***Cosine Similarity: 0.3242, Euklidische Distanz: 17.4138, Manhattan-Distanz: 65.1538, Minkowski-Distanz (p=3): 1.8036***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Bush - Satz22: "but as a saint of our times has said, every day we are called to do small things with great love."
+***Cosine Similarity: 0.3242, Euklidische Distanz: 41.0309, Manhattan-Distanz: 99.7926, Minkowski-Distanz (p=3): 2.8112***
+
+Hitler - Satz10: "my mother looked after the household and lovingly devoted herself to the care of her children of that period i have not retained many memories, because after a few years my father had to leave that frontier town which i had come to love so much and take up a new post farther down the inn valley, at passau, therefore, actually in germany itself: in those days it was the usual lot of an austrian civil servant to be transferred periodically from one post to another."
+Bush - Satz18: "they endure sleepless nights and the daily struggle of providing for children while a loved one is serving far from home."
+***Cosine Similarity: 0.3241, Euklidische Distanz: 13.7645, Manhattan-Distanz: 57.9307, Minkowski-Distanz (p=3): 1.6084***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Bush - Satz4: "the aim here is not to punish children but to send them this message: we love you, and we do not want to lose you."
+***Cosine Similarity: 0.3238, Euklidische Distanz: 25.6420, Manhattan-Distanz: 79.2614, Minkowski-Distanz (p=3): 2.2027***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Bush - Satz1: "tonight i am filled with gratitude—to vice president cheney and members of my administration; to laura, who brought joy to this house and love to my life; to our wonderful daughters, barbara and jenna; to my parents, whose examples have provided strength for a lifetime."
+***Cosine Similarity: 0.3233, Euklidische Distanz: 14.2320, Manhattan-Distanz: 59.8747, Minkowski-Distanz (p=3): 1.6169***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Bush - Satz41: "we will show that men and women who love liberty can defeat the terrorists."
+***Cosine Similarity: 0.3225, Euklidische Distanz: 18.2900, Manhattan-Distanz: 67.0396, Minkowski-Distanz (p=3): 1.8707***
+
+Hitler - Satz33: "often there are a wife and children at home, and in many cases it happens that these become infected by such a way of living, especially if the husband is good to them and loves them in his own way and according to his own lights."
+Bush - Satz23: "you've done the hard work, far from home and far from your loved ones."
+***Cosine Similarity: 0.3225, Euklidische Distanz: 16.8968, Manhattan-Distanz: 65.3417, Minkowski-Distanz (p=3): 1.7618***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Bush - Satz20: "we give thanks for all our military families who love you and have supported you in this mission."
+***Cosine Similarity: 0.3218, Euklidische Distanz: 24.8093, Manhattan-Distanz: 77.7404, Minkowski-Distanz (p=3): 2.1566***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Bush - Satz16: "we have got to show each other some love.""
+***Cosine Similarity: 0.3215, Euklidische Distanz: 41.0656, Manhattan-Distanz: 99.5967, Minkowski-Distanz (p=3): 2.8264***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.3215, Euklidische Distanz: 14.6173, Manhattan-Distanz: 58.9853, Minkowski-Distanz (p=3): 1.6629***
+
+Hitler - Satz12: "the effervescent tone and the fine phraseology lull the reader into believing that a love for knowledge and more it principle is the sole driving force that determines the policy of such papers, whereas in reality these features represent a sunning way of disarming any opposition that might be directed against the press."
+Bush - Satz4: "the aim here is not to punish children but to send them this message: we love you, and we do not want to lose you."
+***Cosine Similarity: 0.3205, Euklidische Distanz: 12.2237, Manhattan-Distanz: 55.3202, Minkowski-Distanz (p=3): 1.5018***
+
+Hitler - Satz55: "it was for this alone that they kept on ‘fighting.’ at that time (i admit it freely) i conceived a profound admiration for the great man beyond the alps, whose ardent love for his people inspired him not to bargain with italy’s internal enemies, but to use every possible means in an effort to wipe them out."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3205, Euklidische Distanz: 14.8032, Manhattan-Distanz: 59.2667, Minkowski-Distanz (p=3): 1.6786***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Bush - Satz7: "a hopeful society gives special attention to children who lack direction and love."
+***Cosine Similarity: 0.3203, Euklidische Distanz: 18.3099, Manhattan-Distanz: 66.7835, Minkowski-Distanz (p=3): 1.8662***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Bush - Satz40: "americans -- americans have come to see the goodness and kindness and strength i first saw 26 years ago, and we love our first lady."
+***Cosine Similarity: 0.3190, Euklidische Distanz: 14.0082, Manhattan-Distanz: 58.5119, Minkowski-Distanz (p=3): 1.6364***
+
+Hitler - Satz12: "the effervescent tone and the fine phraseology lull the reader into believing that a love for knowledge and more it principle is the sole driving force that determines the policy of such papers, whereas in reality these features represent a sunning way of disarming any opposition that might be directed against the press."
+Bush - Satz26: "iraqis of every background are recognizing that democracy is the future of the country they love -- and they want their voices heard."
+***Cosine Similarity: 0.3189, Euklidische Distanz: 12.2352, Manhattan-Distanz: 55.0631, Minkowski-Distanz (p=3): 1.5041***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Bush - Satz15: "it is because they know their loved one was last seen doing good."
+***Cosine Similarity: 0.3187, Euklidische Distanz: 19.5059, Manhattan-Distanz: 67.2789, Minkowski-Distanz (p=3): 1.9777***
+
+Hitler - Satz41: "resorting to their old prescription, they form a ‘committee.’ they go around among their beloved public and listen to what is being said."
+Bush - Satz35: "they worry about children in our society who need direction and love, and about fellow citizens still displaced by natural disaster, and about suffering caused by treatable diseases."
+***Cosine Similarity: 0.3186, Euklidische Distanz: 25.1108, Manhattan-Distanz: 79.7542, Minkowski-Distanz (p=3): 2.1338***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Bush - Satz40: "americans -- americans have come to see the goodness and kindness and strength i first saw 26 years ago, and we love our first lady."
+***Cosine Similarity: 0.3183, Euklidische Distanz: 13.6712, Manhattan-Distanz: 57.6974, Minkowski-Distanz (p=3): 1.6002***
+
+Hitler - Satz24: "with a burning love for the mother country in their hearts and a song on their lips, our young regiment went into action as if going to a dance."
+Bush - Satz4: "the aim here is not to punish children but to send them this message: we love you, and we do not want to lose you."
+***Cosine Similarity: 0.3175, Euklidische Distanz: 25.1038, Manhattan-Distanz: 78.0657, Minkowski-Distanz (p=3): 2.1890***
+
+Hitler - Satz41: "resorting to their old prescription, they form a ‘committee.’ they go around among their beloved public and listen to what is being said."
+Bush - Satz26: "iraqis of every background are recognizing that democracy is the future of the country they love -- and they want their voices heard."
+***Cosine Similarity: 0.3167, Euklidische Distanz: 25.1305, Manhattan-Distanz: 79.4842, Minkowski-Distanz (p=3): 2.1386***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Bush - Satz6: "his mom, janet, sent me a letter and told me how much byron loved being a marine, and how proud he was to be on the front line against terror."
+***Cosine Similarity: 0.3164, Euklidische Distanz: 13.6861, Manhattan-Distanz: 57.9741, Minkowski-Distanz (p=3): 1.5993***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Bush - Satz10: "we trust, with them, in a love that conquers all fear, in a light that reaches the darkest corners of the earth."
+***Cosine Similarity: 0.3159, Euklidische Distanz: 18.3497, Manhattan-Distanz: 67.1279, Minkowski-Distanz (p=3): 1.8753***
+
+Hitler - Satz50: "then we saw, as we can see to-day, the greatest parliamentary nincompoops, really common saddlers and glove-makers (not merely by trade, for that would signify very little) suddenly raised to the rank of statesmen and sermonising to humble mortals from that pedestal."
+Bush - Satz2: "i remember talking to brave souls who charged through smoke-filled corridors at the pentagon, and to husbands and wives whose loved ones became heroes aboard flight 93."
+***Cosine Similarity: 0.3153, Euklidische Distanz: 14.3918, Manhattan-Distanz: 59.8289, Minkowski-Distanz (p=3): 1.6287***
+
+Hitler - Satz1: "at the time of our fatherland’s deepest humiliation, a nurnberg bookseller, johannes palm, an uncompromising nationalist and an enemy of the french, was put to death here because he had loved germany even in her misfortune."
+Bush - Satz36: "i see the consequences when i talk to parents who miss a child so much -- but tell me he loved being a soldier, he believed in his mission, and, mr. president, finish the job."
+***Cosine Similarity: 0.3143, Euklidische Distanz: 18.5165, Manhattan-Distanz: 65.6237, Minkowski-Distanz (p=3): 1.8965***
+
+Hitler - Satz30: "moreover, almost from the very first moment of my sojourn there, i came to love that city more than any other place known to me."
+Bush - Satz32: "the streets of biloxi and gulfport will again be filled with lovely homes and the sound of children playing."
+***Cosine Similarity: 0.3141, Euklidische Distanz: 21.0983, Manhattan-Distanz: 72.1495, Minkowski-Distanz (p=3): 1.9813***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Bush - Satz1: "tonight i am filled with gratitude—to vice president cheney and members of my administration; to laura, who brought joy to this house and love to my life; to our wonderful daughters, barbara and jenna; to my parents, whose examples have provided strength for a lifetime."
+***Cosine Similarity: 0.3133, Euklidische Distanz: 17.8309, Manhattan-Distanz: 65.6782, Minkowski-Distanz (p=3): 1.8314***
+
+Hitler - Satz45: "it is not out of love for south tyrol that they play this role to-day—for their policy would turn out detrimental rather than helpful to the interests of that province—but through fear of an agreement being established between germany and italy."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3130, Euklidische Distanz: 18.9012, Manhattan-Distanz: 66.5273, Minkowski-Distanz (p=3): 1.9191***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3128, Euklidische Distanz: 14.6872, Manhattan-Distanz: 57.4514, Minkowski-Distanz (p=3): 1.6939***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Bush - Satz2: "i remember talking to brave souls who charged through smoke-filled corridors at the pentagon, and to husbands and wives whose loved ones became heroes aboard flight 93."
+***Cosine Similarity: 0.3128, Euklidische Distanz: 24.9032, Manhattan-Distanz: 77.5576, Minkowski-Distanz (p=3): 2.1653***
+
+Hitler - Satz11: "for the first time in modem history the traditional dynastic patriotism and national love of fatherland and people were in open conflict."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3122, Euklidische Distanz: 22.7852, Manhattan-Distanz: 73.1447, Minkowski-Distanz (p=3): 2.0762***
+
+Hitler - Satz55: "it was for this alone that they kept on ‘fighting.’ at that time (i admit it freely) i conceived a profound admiration for the great man beyond the alps, whose ardent love for his people inspired him not to bargain with italy’s internal enemies, but to use every possible means in an effort to wipe them out."
+Bush - Satz10: "we trust, with them, in a love that conquers all fear, in a light that reaches the darkest corners of the earth."
+***Cosine Similarity: 0.3122, Euklidische Distanz: 14.8705, Manhattan-Distanz: 58.9760, Minkowski-Distanz (p=3): 1.6936***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Bush - Satz4: "the aim here is not to punish children but to send them this message: we love you, and we do not want to lose you."
+***Cosine Similarity: 0.3122, Euklidische Distanz: 34.1013, Manhattan-Distanz: 89.3180, Minkowski-Distanz (p=3): 2.5593***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Bush - Satz22: "but as a saint of our times has said, every day we are called to do small things with great love."
+***Cosine Similarity: 0.3117, Euklidische Distanz: 19.5704, Manhattan-Distanz: 68.4260, Minkowski-Distanz (p=3): 1.9547***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Bush - Satz25: "in the aftermath, we have seen fellow citizens left stunned and uprooted, searching for loved ones, and grieving for the dead, and looking for meaning in a tragedy that seems so blind and random."
+***Cosine Similarity: 0.3116, Euklidische Distanz: 13.7239, Manhattan-Distanz: 58.0595, Minkowski-Distanz (p=3): 1.5978***
+
+Hitler - Satz1: "at the time of our fatherland’s deepest humiliation, a nurnberg bookseller, johannes palm, an uncompromising nationalist and an enemy of the french, was put to death here because he had loved germany even in her misfortune."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3112, Euklidische Distanz: 18.5443, Manhattan-Distanz: 65.7204, Minkowski-Distanz (p=3): 1.9124***
+
+Hitler - Satz33: "often there are a wife and children at home, and in many cases it happens that these become infected by such a way of living, especially if the husband is good to them and loves them in his own way and according to his own lights."
+Bush - Satz27: "he'll be -- he's a 45-second commute away from a great wife and two little girls that love him dearly."
+***Cosine Similarity: 0.3108, Euklidische Distanz: 16.9974, Manhattan-Distanz: 65.7241, Minkowski-Distanz (p=3): 1.7637***
+
+Hitler - Satz31: "though the empire was internally rickety because of the violent conflict going on between the various nationalities, the outside world (and germany in particular) saw only that lovely picture of the city."
+Bush - Satz24: "for all who love freedom and peace, the world without saddam hussein's regime is a better and safer place."
+***Cosine Similarity: 0.3104, Euklidische Distanz: 17.8158, Manhattan-Distanz: 66.3843, Minkowski-Distanz (p=3): 1.8145***
+
+Hitler - Satz24: "with a burning love for the mother country in their hearts and a song on their lips, our young regiment went into action as if going to a dance."
+Bush - Satz20: "we give thanks for all our military families who love you and have supported you in this mission."
+***Cosine Similarity: 0.3103, Euklidische Distanz: 25.1802, Manhattan-Distanz: 78.0245, Minkowski-Distanz (p=3): 2.1826***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3097, Euklidische Distanz: 34.1311, Manhattan-Distanz: 88.6138, Minkowski-Distanz (p=3): 2.5746***
+
+Hitler - Satz24: "with a burning love for the mother country in their hearts and a song on their lips, our young regiment went into action as if going to a dance."
+Bush - Satz16: "we have got to show each other some love.""
+***Cosine Similarity: 0.3097, Euklidische Distanz: 25.1860, Manhattan-Distanz: 78.2087, Minkowski-Distanz (p=3): 2.1963***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Bush - Satz15: "it is because they know their loved one was last seen doing good."
+***Cosine Similarity: 0.3097, Euklidische Distanz: 22.9014, Manhattan-Distanz: 73.5267, Minkowski-Distanz (p=3): 2.1269***
+
+Hitler - Satz11: "for the first time in modem history the traditional dynastic patriotism and national love of fatherland and people were in open conflict."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3092, Euklidische Distanz: 22.8151, Manhattan-Distanz: 74.0021, Minkowski-Distanz (p=3): 2.0830***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Bush - Satz28: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3091, Euklidische Distanz: 13.9520, Manhattan-Distanz: 59.1223, Minkowski-Distanz (p=3): 1.6126***
+
+Hitler - Satz31: "though the empire was internally rickety because of the violent conflict going on between the various nationalities, the outside world (and germany in particular) saw only that lovely picture of the city."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3087, Euklidische Distanz: 17.8312, Manhattan-Distanz: 65.7741, Minkowski-Distanz (p=3): 1.8174***
+
+Hitler - Satz55: "it was for this alone that they kept on ‘fighting.’ at that time (i admit it freely) i conceived a profound admiration for the great man beyond the alps, whose ardent love for his people inspired him not to bargain with italy’s internal enemies, but to use every possible means in an effort to wipe them out."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3083, Euklidische Distanz: 14.9017, Manhattan-Distanz: 58.8219, Minkowski-Distanz (p=3): 1.6950***
+
+Hitler - Satz8: "the first term, party, kept away all those dreamers who live in the past and all lovers of bombastic nomenclature, as well as those who went around beating the big drum for the volkisch idea."
+Bush - Satz26: "iraqis of every background are recognizing that democracy is the future of the country they love -- and they want their voices heard."
+***Cosine Similarity: 0.3082, Euklidische Distanz: 15.5042, Manhattan-Distanz: 62.3085, Minkowski-Distanz (p=3): 1.6924***
+
+Hitler - Satz30: "moreover, almost from the very first moment of my sojourn there, i came to love that city more than any other place known to me."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3082, Euklidische Distanz: 21.1549, Manhattan-Distanz: 71.9954, Minkowski-Distanz (p=3): 1.9846***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Bush - Satz17: "i've met with the wives and husbands who have received a folded flag, and said a final goodbye to a soldier they loved."
+***Cosine Similarity: 0.3081, Euklidische Distanz: 17.8770, Manhattan-Distanz: 65.2545, Minkowski-Distanz (p=3): 1.8378***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Bush - Satz41: "we will show that men and women who love liberty can defeat the terrorists."
+***Cosine Similarity: 0.3073, Euklidische Distanz: 34.1599, Manhattan-Distanz: 88.8691, Minkowski-Distanz (p=3): 2.5688***
+
+Hitler - Satz35: "once again the ‘uninitiated’ layman could do nothing but look on while the ‘elect’ headed straight for disaster enticing their beloved people to follow them, as the rats followed the pied piper of hamelin."
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.3070, Euklidische Distanz: 16.2134, Manhattan-Distanz: 64.5842, Minkowski-Distanz (p=3): 1.7212***
+
+Hitler - Satz42: "here again the only course to adopt s to attack the causes rather than the symptoms of the disease, but in this case, the primary cause s to be found in the manner in which love has been prostituted."
+Bush - Satz8: "a better world can seem very distant when children are sent to kill other children, and old hatreds are stoked and carefully passed from one generation to another, and a violent few love death more than life."
+***Cosine Similarity: 0.3069, Euklidische Distanz: 15.3571, Manhattan-Distanz: 61.8730, Minkowski-Distanz (p=3): 1.6761***
+
+Hitler - Satz23: "they love the german republic and tolerate its existence because no better instrument could be found to help them to keep our people in slavery."
+Bush - Satz41: "we will show that men and women who love liberty can defeat the terrorists."
+***Cosine Similarity: 0.3061, Euklidische Distanz: 22.0036, Manhattan-Distanz: 70.9923, Minkowski-Distanz (p=3): 2.0814***
+
+Hitler - Satz44: "their whole effort ends at that, and if they should get shouldered away from the common manger by competitors with more brutal manners, then their only idea is to force themselves in again, by force or chicanery, among the herd of all the others who have similar appetites, to get back into the front row, and finally—even at the expense of their most sacred convictions—to regale themselves anew at that beloved spot where they find their fodder."
+Bush - Satz3: "they bring to america the values of faith in god, love of family, hard work and self reliance -- the values that made us a great nation to begin with."
+***Cosine Similarity: 0.3058, Euklidische Distanz: 13.7855, Manhattan-Distanz: 58.6244, Minkowski-Distanz (p=3): 1.6022***
+
+Hitler - Satz11: "for the first time in modem history the traditional dynastic patriotism and national love of fatherland and people were in open conflict."
+Bush - Satz40: "americans -- americans have come to see the goodness and kindness and strength i first saw 26 years ago, and we love our first lady."
+***Cosine Similarity: 0.3051, Euklidische Distanz: 22.8555, Manhattan-Distanz: 73.8844, Minkowski-Distanz (p=3): 2.0782***
+
+Hitler - Satz17: "in coburg itself, at least a section of the marxist workers who must be looked upon as misled, learned from the blows of national socialist fists that they too, were workers fighting for ideals, because experience teaches that the human being fights only for something in which he believes and which he loves."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3051, Euklidische Distanz: 16.6905, Manhattan-Distanz: 62.9697, Minkowski-Distanz (p=3): 1.7810***
+
+Hitler - Satz52: "did not we, as youngsters, fully realise that the house of habsburg did not, and could not, have any love for us germans?"
+Bush - Satz30: "but they have miscalculated: we love our freedom, and we will fight to keep it."
+***Cosine Similarity: 0.3049, Euklidische Distanz: 31.0857, Manhattan-Distanz: 86.2370, Minkowski-Distanz (p=3): 2.4488***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Bush - Satz10: "we trust, with them, in a love that conquers all fear, in a light that reaches the darkest corners of the earth."
+***Cosine Similarity: 0.3039, Euklidische Distanz: 15.1524, Manhattan-Distanz: 59.4968, Minkowski-Distanz (p=3): 1.7309***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Bush - Satz18: "they endure sleepless nights and the daily struggle of providing for children while a loved one is serving far from home."
+***Cosine Similarity: 0.3037, Euklidische Distanz: 22.7388, Manhattan-Distanz: 72.9340, Minkowski-Distanz (p=3): 2.0879***
+
+Hitler - Satz10: "my mother looked after the household and lovingly devoted herself to the care of her children of that period i have not retained many memories, because after a few years my father had to leave that frontier town which i had come to love so much and take up a new post farther down the inn valley, at passau, therefore, actually in germany itself: in those days it was the usual lot of an austrian civil servant to be transferred periodically from one post to another."
+Bush - Satz36: "i see the consequences when i talk to parents who miss a child so much -- but tell me he loved being a soldier, he believed in his mission, and, mr. president, finish the job."
+***Cosine Similarity: 0.3032, Euklidische Distanz: 13.9281, Manhattan-Distanz: 58.5756, Minkowski-Distanz (p=3): 1.6117***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Bush - Satz39: "our nation relies on men and women who look after a neighbor and surround the lost with love."
+***Cosine Similarity: 0.3031, Euklidische Distanz: 17.5992, Manhattan-Distanz: 65.3141, Minkowski-Distanz (p=3): 1.8201***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Bush - Satz25: "in the aftermath, we have seen fellow citizens left stunned and uprooted, searching for loved ones, and grieving for the dead, and looking for meaning in a tragedy that seems so blind and random."
+***Cosine Similarity: 0.3029, Euklidische Distanz: 18.4663, Manhattan-Distanz: 67.0629, Minkowski-Distanz (p=3): 1.8852***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Bush - Satz9: "i have been blessed to represent this nation we love."
+***Cosine Similarity: 0.3025, Euklidische Distanz: 14.0037, Manhattan-Distanz: 58.6090, Minkowski-Distanz (p=3): 1.6117***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Bush - Satz4: "the aim here is not to punish children but to send them this message: we love you, and we do not want to lose you."
+***Cosine Similarity: 0.3023, Euklidische Distanz: 22.7528, Manhattan-Distanz: 73.5592, Minkowski-Distanz (p=3): 2.0843***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Bush - Satz4: "the aim here is not to punish children but to send them this message: we love you, and we do not want to lose you."
+***Cosine Similarity: 0.3017, Euklidische Distanz: 15.1699, Manhattan-Distanz: 59.0895, Minkowski-Distanz (p=3): 1.7424***
+
+Hitler - Satz12: "the effervescent tone and the fine phraseology lull the reader into believing that a love for knowledge and more it principle is the sole driving force that determines the policy of such papers, whereas in reality these features represent a sunning way of disarming any opposition that might be directed against the press."
+Bush - Satz10: "we trust, with them, in a love that conquers all fear, in a light that reaches the darkest corners of the earth."
+***Cosine Similarity: 0.3017, Euklidische Distanz: 12.3622, Manhattan-Distanz: 56.4051, Minkowski-Distanz (p=3): 1.4988***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Bush - Satz40: "americans -- americans have come to see the goodness and kindness and strength i first saw 26 years ago, and we love our first lady."
+***Cosine Similarity: 0.3016, Euklidische Distanz: 14.7777, Manhattan-Distanz: 58.7402, Minkowski-Distanz (p=3): 1.6797***
+
+Hitler - Satz45: "it is not out of love for south tyrol that they play this role to-day—for their policy would turn out detrimental rather than helpful to the interests of that province—but through fear of an agreement being established between germany and italy."
+Bush - Satz35: "they worry about children in our society who need direction and love, and about fellow citizens still displaced by natural disaster, and about suffering caused by treatable diseases."
+***Cosine Similarity: 0.3007, Euklidische Distanz: 19.0129, Manhattan-Distanz: 67.3428, Minkowski-Distanz (p=3): 1.9095***
+
+Hitler - Satz1: "at the time of our fatherland’s deepest humiliation, a nurnberg bookseller, johannes palm, an uncompromising nationalist and an enemy of the french, was put to death here because he had loved germany even in her misfortune."
+Bush - Satz33: "shannon, i assure you and all who have lost a loved one that our cause is just, and our country will never forget the debt we owe micheal and all who gave their lives for freedom."
+***Cosine Similarity: 0.3007, Euklidische Distanz: 18.6392, Manhattan-Distanz: 65.0398, Minkowski-Distanz (p=3): 1.9308***
+

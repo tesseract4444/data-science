@@ -1,0 +1,1357 @@
+Gefilterte Sätze mit Cosine Similarity, euklidischer Distanz, Manhattan-Distanz und Minkowski-Distanz (nach Cosine Similarity sortiert):
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Biden - Satz9: "god, i loved the guy."
+***Cosine Similarity: 0.6889, Euklidische Distanz: 20.9825, Manhattan-Distanz: 71.0389, Minkowski-Distanz (p=3): 1.9900***
+
+Hitler - Satz36: "his life is torn asunder by hatred and love."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.6141, Euklidische Distanz: 32.6424, Manhattan-Distanz: 88.4938, Minkowski-Distanz (p=3): 2.4916***
+
+Hitler - Satz36: "his life is torn asunder by hatred and love."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.5725, Euklidische Distanz: 33.1654, Manhattan-Distanz: 88.8150, Minkowski-Distanz (p=3): 2.5192***
+
+Hitler - Satz37: "it is not highly differentiated, but has only the negative and positive notions of love and hatred, right and wrong, truth and falsehood."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.5384, Euklidische Distanz: 17.2723, Manhattan-Distanz: 63.3701, Minkowski-Distanz (p=3): 1.8417***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.5381, Euklidische Distanz: 17.4728, Manhattan-Distanz: 64.3254, Minkowski-Distanz (p=3): 1.8466***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Biden - Satz43: "he loved the outdoors."
+***Cosine Similarity: 0.5260, Euklidische Distanz: 22.6810, Manhattan-Distanz: 73.8072, Minkowski-Distanz (p=3): 2.0692***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Biden - Satz50: "we continue to see not only the enormous scope and scale of the effort, we will see the individual lives that are affected, the families that are desperate to get home to their loved ones in america, the communities of veterans who have mobilized to try to help their former interpreters get to safety, the frightened afghans who aren’t sure what to do."
+***Cosine Similarity: 0.5167, Euklidische Distanz: 14.2060, Manhattan-Distanz: 57.6163, Minkowski-Distanz (p=3): 1.6517***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.5139, Euklidische Distanz: 20.6471, Manhattan-Distanz: 69.8323, Minkowski-Distanz (p=3): 1.9778***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.5034, Euklidische Distanz: 18.8421, Manhattan-Distanz: 68.9505, Minkowski-Distanz (p=3): 1.8638***
+
+Hitler - Satz37: "it is not highly differentiated, but has only the negative and positive notions of love and hatred, right and wrong, truth and falsehood."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.4989, Euklidische Distanz: 17.6361, Manhattan-Distanz: 62.8828, Minkowski-Distanz (p=3): 1.8641***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.4761, Euklidische Distanz: 39.0066, Manhattan-Distanz: 96.8982, Minkowski-Distanz (p=3): 2.7448***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.4733, Euklidische Distanz: 23.2295, Manhattan-Distanz: 75.1923, Minkowski-Distanz (p=3): 2.0892***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.4662, Euklidische Distanz: 21.1216, Manhattan-Distanz: 70.6106, Minkowski-Distanz (p=3): 2.0030***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Biden - Satz61: "and too many of you sitting out there have received that terrible call that your loved one won’t be coming home at the end of his or her shift."
+***Cosine Similarity: 0.4646, Euklidische Distanz: 13.8416, Manhattan-Distanz: 56.9569, Minkowski-Distanz (p=3): 1.6536***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.4637, Euklidische Distanz: 12.8680, Manhattan-Distanz: 55.7561, Minkowski-Distanz (p=3): 1.5687***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Biden - Satz35: "some of you have commented, i wear since the day he died, every single day, the rosary he got from our lady of… every memorial day we hold a service remembering him, attended by friends and family and the people who loved him."
+***Cosine Similarity: 0.4592, Euklidische Distanz: 23.3773, Manhattan-Distanz: 75.0730, Minkowski-Distanz (p=3): 2.1040***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.4559, Euklidische Distanz: 12.9295, Manhattan-Distanz: 56.2975, Minkowski-Distanz (p=3): 1.5628***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Biden - Satz22: "the souls of those you love and those with whom you serve rest in peace and rising glory."
+***Cosine Similarity: 0.4554, Euklidische Distanz: 21.4441, Manhattan-Distanz: 71.3393, Minkowski-Distanz (p=3): 2.0612***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Biden - Satz14: "here’s the simple truth: you can’t love your country only when you win."
+***Cosine Similarity: 0.4554, Euklidische Distanz: 18.1172, Manhattan-Distanz: 65.8367, Minkowski-Distanz (p=3): 1.8719***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.4533, Euklidische Distanz: 39.3110, Manhattan-Distanz: 96.7263, Minkowski-Distanz (p=3): 2.7553***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Biden - Satz22: "the souls of those you love and those with whom you serve rest in peace and rising glory."
+***Cosine Similarity: 0.4524, Euklidische Distanz: 18.2667, Manhattan-Distanz: 65.2649, Minkowski-Distanz (p=3): 1.9032***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.4516, Euklidische Distanz: 19.3349, Manhattan-Distanz: 68.7903, Minkowski-Distanz (p=3): 1.8996***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Biden - Satz63: "i love you, but there’s not a lot of people i trust."
+***Cosine Similarity: 0.4504, Euklidische Distanz: 21.5522, Manhattan-Distanz: 71.8399, Minkowski-Distanz (p=3): 2.0577***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Biden - Satz45: "as i said in a tv interview more than a decade ago, marriage is a simple proposition, who do you love?"
+***Cosine Similarity: 0.4496, Euklidische Distanz: 14.0903, Manhattan-Distanz: 58.0138, Minkowski-Distanz (p=3): 1.6420***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Biden - Satz80: "love leaves a memory that no one can steal.” they’re with you."
+***Cosine Similarity: 0.4480, Euklidische Distanz: 13.9773, Manhattan-Distanz: 56.5788, Minkowski-Distanz (p=3): 1.6736***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Biden - Satz70: "our son started an organization before he died to make sure that people understood what it meant, going all around the country, letting people know, trying to train families, the mothers and fathers, brothers and sisters, of lgbtq+ people that they have to reach out, embrace and love their blood, to allow them to be themselves, or whether they should even be here on earth, a lot of folks wonder."
+***Cosine Similarity: 0.4468, Euklidische Distanz: 12.8719, Manhattan-Distanz: 56.9814, Minkowski-Distanz (p=3): 1.5413***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Biden - Satz28: "you can’t love your country only when you win."
+***Cosine Similarity: 0.4437, Euklidische Distanz: 16.3651, Manhattan-Distanz: 63.6738, Minkowski-Distanz (p=3): 1.7490***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Biden - Satz4: "so please go today for yourself, for your loved ones, for your neighbors, for your country."
+***Cosine Similarity: 0.4421, Euklidische Distanz: 14.8303, Manhattan-Distanz: 58.9907, Minkowski-Distanz (p=3): 1.6844***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Biden - Satz43: "he loved the outdoors."
+***Cosine Similarity: 0.4412, Euklidische Distanz: 13.2944, Manhattan-Distanz: 58.0242, Minkowski-Distanz (p=3): 1.5663***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.4372, Euklidische Distanz: 18.2848, Manhattan-Distanz: 66.1677, Minkowski-Distanz (p=3): 1.8968***
+
+Hitler - Satz42: "here again the only course to adopt s to attack the causes rather than the symptoms of the disease, but in this case, the primary cause s to be found in the manner in which love has been prostituted."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.4353, Euklidische Distanz: 14.3014, Manhattan-Distanz: 59.9999, Minkowski-Distanz (p=3): 1.6090***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Biden - Satz70: "our son started an organization before he died to make sure that people understood what it meant, going all around the country, letting people know, trying to train families, the mothers and fathers, brothers and sisters, of lgbtq+ people that they have to reach out, embrace and love their blood, to allow them to be themselves, or whether they should even be here on earth, a lot of folks wonder."
+***Cosine Similarity: 0.4337, Euklidische Distanz: 21.6613, Manhattan-Distanz: 71.5275, Minkowski-Distanz (p=3): 2.0587***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Biden - Satz14: "here’s the simple truth: you can’t love your country only when you win."
+***Cosine Similarity: 0.4312, Euklidische Distanz: 32.6551, Manhattan-Distanz: 86.5129, Minkowski-Distanz (p=3): 2.5191***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Biden - Satz86: "will you be loyal to the person you love?"
+***Cosine Similarity: 0.4308, Euklidische Distanz: 32.6606, Manhattan-Distanz: 86.1857, Minkowski-Distanz (p=3): 2.5130***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Biden - Satz22: "the souls of those you love and those with whom you serve rest in peace and rising glory."
+***Cosine Similarity: 0.4299, Euklidische Distanz: 18.3528, Manhattan-Distanz: 66.2414, Minkowski-Distanz (p=3): 1.8933***
+
+Hitler - Satz33: "often there are a wife and children at home, and in many cases it happens that these become infected by such a way of living, especially if the husband is good to them and loves them in his own way and according to his own lights."
+Biden - Satz87: "right now, there are young people sitting in their bedroom, doors closed, silent, scrolling through social media, staring at the ceiling, wondering if they’ll ever be loved, ever marry, ever have a family, be accepted by their own family sometimes."
+***Cosine Similarity: 0.4284, Euklidische Distanz: 15.9811, Manhattan-Distanz: 62.7386, Minkowski-Distanz (p=3): 1.7381***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Biden - Satz12: "and for the millions, the millions of you who feel financially squeezed in raising a child while caring for an aging parent, a so-called sandwich generation, want to elder care affordable accessible, so your aging loved ones can live with greater independence and dignity."
+***Cosine Similarity: 0.4271, Euklidische Distanz: 14.2744, Manhattan-Distanz: 58.9896, Minkowski-Distanz (p=3): 1.6449***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Biden - Satz16: "it’d save your life and it could save the lives of those you love."
+***Cosine Similarity: 0.4267, Euklidische Distanz: 16.8268, Manhattan-Distanz: 63.2377, Minkowski-Distanz (p=3): 1.7813***
+
+Hitler - Satz41: "resorting to their old prescription, they form a ‘committee.’ they go around among their beloved public and listen to what is being said."
+Biden - Satz70: "our son started an organization before he died to make sure that people understood what it meant, going all around the country, letting people know, trying to train families, the mothers and fathers, brothers and sisters, of lgbtq+ people that they have to reach out, embrace and love their blood, to allow them to be themselves, or whether they should even be here on earth, a lot of folks wonder."
+***Cosine Similarity: 0.4266, Euklidische Distanz: 23.9785, Manhattan-Distanz: 77.7606, Minkowski-Distanz (p=3): 2.0856***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.4249, Euklidische Distanz: 18.3990, Manhattan-Distanz: 66.0201, Minkowski-Distanz (p=3): 1.9030***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Biden - Satz15: "this is why in this moment, those of you who love this country, democrats, independents, mainstream republicans, we must be stronger, more determined, and more committed to saving america than the maga republicans are destroying america.thank you, general."
+***Cosine Similarity: 0.4247, Euklidische Distanz: 16.5321, Manhattan-Distanz: 64.1803, Minkowski-Distanz (p=3): 1.7508***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.4241, Euklidische Distanz: 41.5200, Manhattan-Distanz: 100.3919, Minkowski-Distanz (p=3): 2.8527***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Biden - Satz9: "god, i loved the guy."
+***Cosine Similarity: 0.4237, Euklidische Distanz: 41.5250, Manhattan-Distanz: 100.3204, Minkowski-Distanz (p=3): 2.8425***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Biden - Satz14: "here’s the simple truth: you can’t love your country only when you win."
+***Cosine Similarity: 0.4227, Euklidische Distanz: 16.5494, Manhattan-Distanz: 64.3720, Minkowski-Distanz (p=3): 1.7551***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Biden - Satz87: "right now, there are young people sitting in their bedroom, doors closed, silent, scrolling through social media, staring at the ceiling, wondering if they’ll ever be loved, ever marry, ever have a family, be accepted by their own family sometimes."
+***Cosine Similarity: 0.4226, Euklidische Distanz: 14.3116, Manhattan-Distanz: 59.0233, Minkowski-Distanz (p=3): 1.6524***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Biden - Satz58: "it could save your life and the lives of those you love."
+***Cosine Similarity: 0.4199, Euklidische Distanz: 16.8874, Manhattan-Distanz: 63.3773, Minkowski-Distanz (p=3): 1.7841***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Biden - Satz19: "my heart is shattered and she was my love, my rock, my strength.” so many."
+***Cosine Similarity: 0.4191, Euklidische Distanz: 41.5876, Manhattan-Distanz: 100.0540, Minkowski-Distanz (p=3): 2.8363***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Biden - Satz46: "my wife and daughter are dead, but my mother, a god lover used to always say, “out of everything terrible, something good will happen."
+***Cosine Similarity: 0.4162, Euklidische Distanz: 19.6721, Manhattan-Distanz: 69.1784, Minkowski-Distanz (p=3): 1.9184***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.4149, Euklidische Distanz: 19.6844, Manhattan-Distanz: 69.1214, Minkowski-Distanz (p=3): 1.9208***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.4131, Euklidische Distanz: 32.8750, Manhattan-Distanz: 86.8869, Minkowski-Distanz (p=3): 2.5269***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Biden - Satz44: "you loved, you are heard, you are understood, you do belong."
+***Cosine Similarity: 0.4119, Euklidische Distanz: 41.6860, Manhattan-Distanz: 99.9487, Minkowski-Distanz (p=3): 2.8390***
+
+Hitler - Satz46: "the moment these artists in parliamentary government have the first glimmering of a suspicion that their beloved public may be ready to kick up its  heels and escape from the harness of the old party wagon they begin to paint the shafts in new colours."
+Biden - Satz79: "a crowd that professes their love for law enforcement assaulted those police officers, dragged them, sprayed them, stomped on them."
+***Cosine Similarity: 0.4119, Euklidische Distanz: 17.6657, Manhattan-Distanz: 65.2676, Minkowski-Distanz (p=3): 1.8428***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Biden - Satz80: "love leaves a memory that no one can steal.” they’re with you."
+***Cosine Similarity: 0.4117, Euklidische Distanz: 39.8646, Manhattan-Distanz: 98.4934, Minkowski-Distanz (p=3): 2.7691***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Biden - Satz40: "but i promise you the day will come when the memory of your loved one will bring a smile to your lips before it brings a tear to your eye."
+***Cosine Similarity: 0.4107, Euklidische Distanz: 15.2831, Manhattan-Distanz: 60.5520, Minkowski-Distanz (p=3): 1.7066***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Biden - Satz76: "jill and i, our hearts ache, like i’m sure all of you do as well, for all those afghan families who lost loved ones, including small children, or been wounded with this vicious attack and we’re outraged as well as heartbroken."
+***Cosine Similarity: 0.4106, Euklidische Distanz: 15.0946, Manhattan-Distanz: 60.1800, Minkowski-Distanz (p=3): 1.6923***
+
+Hitler - Satz41: "resorting to their old prescription, they form a ‘committee.’ they go around among their beloved public and listen to what is being said."
+Biden - Satz71: "today i’d like to talk about how we’re going to help millions of americans protect and preserve their health, and live with the dignity of knowing that they can care for themselves and their loved ones all by making the cost of prescription drugs much more reasonable."
+***Cosine Similarity: 0.4103, Euklidische Distanz: 24.1494, Manhattan-Distanz: 78.2342, Minkowski-Distanz (p=3): 2.0984***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.4102, Euklidische Distanz: 21.8964, Manhattan-Distanz: 72.1210, Minkowski-Distanz (p=3): 2.0749***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.4082, Euklidische Distanz: 32.9344, Manhattan-Distanz: 86.6930, Minkowski-Distanz (p=3): 2.5314***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.4069, Euklidische Distanz: 21.9296, Manhattan-Distanz: 72.3981, Minkowski-Distanz (p=3): 2.0641***
+
+Hitler - Satz42: "here again the only course to adopt s to attack the causes rather than the symptoms of the disease, but in this case, the primary cause s to be found in the manner in which love has been prostituted."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.4060, Euklidische Distanz: 14.5426, Manhattan-Distanz: 60.7139, Minkowski-Distanz (p=3): 1.6187***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Biden - Satz36: "i hear adults, much older than me, debate about my existence when they don’t even know me.”
+
+
+our message to young people across america must be unequivocal, you’re loved, you’re heard, and you’re understood, and you belong."
+***Cosine Similarity: 0.4027, Euklidische Distanz: 13.0143, Manhattan-Distanz: 57.4498, Minkowski-Distanz (p=3): 1.5475***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Biden - Satz36: "i hear adults, much older than me, debate about my existence when they don’t even know me.”
+
+
+our message to young people across america must be unequivocal, you’re loved, you’re heard, and you’re understood, and you belong."
+***Cosine Similarity: 0.4025, Euklidische Distanz: 13.3500, Manhattan-Distanz: 56.9766, Minkowski-Distanz (p=3): 1.5958***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Biden - Satz75: "let’s love good, establish justice in the gate."
+***Cosine Similarity: 0.4023, Euklidische Distanz: 33.0063, Manhattan-Distanz: 86.8940, Minkowski-Distanz (p=3): 2.5315***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.4015, Euklidische Distanz: 13.9732, Manhattan-Distanz: 56.9979, Minkowski-Distanz (p=3): 1.6389***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.4012, Euklidische Distanz: 15.3629, Manhattan-Distanz: 59.6385, Minkowski-Distanz (p=3): 1.7281***
+
+Hitler - Satz10: "my mother looked after the household and lovingly devoted herself to the care of her children of that period i have not retained many memories, because after a few years my father had to leave that frontier town which i had come to love so much and take up a new post farther down the inn valley, at passau, therefore, actually in germany itself: in those days it was the usual lot of an austrian civil servant to be transferred periodically from one post to another."
+Biden - Satz72: "they’re extremely valuable, but that’s not where i remember my uncle was moved in with his wife into a assisted living center and the folks who had built the facility, it was a lovely facility in delaware, asked if i’d come and speak on the opening of it."
+***Cosine Similarity: 0.4009, Euklidische Distanz: 13.1638, Manhattan-Distanz: 57.4690, Minkowski-Distanz (p=3): 1.5564***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Biden - Satz30: "as i said, she also worked for our beloved son, beau, the attorney general, and they passed … anyway, they did a lot."
+***Cosine Similarity: 0.4004, Euklidische Distanz: 23.9895, Manhattan-Distanz: 76.2191, Minkowski-Distanz (p=3): 2.1289***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Biden - Satz14: "here’s the simple truth: you can’t love your country only when you win."
+***Cosine Similarity: 0.3999, Euklidische Distanz: 15.3739, Manhattan-Distanz: 60.4531, Minkowski-Distanz (p=3): 1.7153***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Biden - Satz16: "it’d save your life and it could save the lives of those you love."
+***Cosine Similarity: 0.3993, Euklidische Distanz: 18.7592, Manhattan-Distanz: 66.6118, Minkowski-Distanz (p=3): 1.9178***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3992, Euklidische Distanz: 14.5032, Manhattan-Distanz: 58.9850, Minkowski-Distanz (p=3): 1.6652***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Biden - Satz58: "it could save your life and the lives of those you love."
+***Cosine Similarity: 0.3988, Euklidische Distanz: 18.7636, Manhattan-Distanz: 66.4037, Minkowski-Distanz (p=3): 1.9251***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.3957, Euklidische Distanz: 33.0868, Manhattan-Distanz: 87.2530, Minkowski-Distanz (p=3): 2.5343***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Biden - Satz4: "so please go today for yourself, for your loved ones, for your neighbors, for your country."
+***Cosine Similarity: 0.3955, Euklidische Distanz: 18.6704, Manhattan-Distanz: 67.4048, Minkowski-Distanz (p=3): 1.8989***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.3950, Euklidische Distanz: 14.0257, Manhattan-Distanz: 56.8016, Minkowski-Distanz (p=3): 1.6464***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Biden - Satz43: "he loved the outdoors."
+***Cosine Similarity: 0.3947, Euklidische Distanz: 41.9194, Manhattan-Distanz: 100.2848, Minkowski-Distanz (p=3): 2.8712***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Biden - Satz18: "it’s about protecting yourself and those around you, the people you work with, the people you care about, the people you love."
+***Cosine Similarity: 0.3945, Euklidische Distanz: 18.6798, Manhattan-Distanz: 66.5535, Minkowski-Distanz (p=3): 1.9105***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.3933, Euklidische Distanz: 22.0653, Manhattan-Distanz: 72.5392, Minkowski-Distanz (p=3): 2.0798***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Biden - Satz50: "we continue to see not only the enormous scope and scale of the effort, we will see the individual lives that are affected, the families that are desperate to get home to their loved ones in america, the communities of veterans who have mobilized to try to help their former interpreters get to safety, the frightened afghans who aren’t sure what to do."
+***Cosine Similarity: 0.3917, Euklidische Distanz: 14.5643, Manhattan-Distanz: 59.9962, Minkowski-Distanz (p=3): 1.6532***
+
+Hitler - Satz24: "with a burning love for the mother country in their hearts and a song on their lips, our young regiment went into action as if going to a dance."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.3915, Euklidische Distanz: 24.3291, Manhattan-Distanz: 76.6811, Minkowski-Distanz (p=3): 2.1425***
+
+Hitler - Satz55: "it was for this alone that they kept on ‘fighting.’ at that time (i admit it freely) i conceived a profound admiration for the great man beyond the alps, whose ardent love for his people inspired him not to bargain with italy’s internal enemies, but to use every possible means in an effort to wipe them out."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.3911, Euklidische Distanz: 14.2312, Manhattan-Distanz: 58.4151, Minkowski-Distanz (p=3): 1.6425***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Biden - Satz53: "five years later, no man deserves one great love, let alone two."
+***Cosine Similarity: 0.3906, Euklidische Distanz: 14.4450, Manhattan-Distanz: 58.6288, Minkowski-Distanz (p=3): 1.6802***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Biden - Satz28: "you can’t love your country only when you win."
+***Cosine Similarity: 0.3899, Euklidische Distanz: 18.7218, Manhattan-Distanz: 66.8370, Minkowski-Distanz (p=3): 1.9049***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3895, Euklidische Distanz: 18.8492, Manhattan-Distanz: 67.7221, Minkowski-Distanz (p=3): 1.9134***
+
+Hitler - Satz30: "moreover, almost from the very first moment of my sojourn there, i came to love that city more than any other place known to me."
+Biden - Satz13: "folks, and i love columbia so much i asked your former mayor to join me in the white house."
+***Cosine Similarity: 0.3894, Euklidische Distanz: 20.3737, Manhattan-Distanz: 70.6922, Minkowski-Distanz (p=3): 1.9414***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.3889, Euklidische Distanz: 41.9983, Manhattan-Distanz: 100.5140, Minkowski-Distanz (p=3): 2.8406***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Biden - Satz22: "the souls of those you love and those with whom you serve rest in peace and rising glory."
+***Cosine Similarity: 0.3888, Euklidische Distanz: 14.4601, Manhattan-Distanz: 58.2362, Minkowski-Distanz (p=3): 1.6847***
+
+Hitler - Satz37: "it is not highly differentiated, but has only the negative and positive notions of love and hatred, right and wrong, truth and falsehood."
+Biden - Satz62: "every single american, no matter who you are, who you love, or where you come from, this shouldn’t be about conservative/liberal, red or blue."
+***Cosine Similarity: 0.3884, Euklidische Distanz: 18.6543, Manhattan-Distanz: 65.6341, Minkowski-Distanz (p=3): 1.9149***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3883, Euklidische Distanz: 15.4715, Manhattan-Distanz: 61.1669, Minkowski-Distanz (p=3): 1.7152***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3879, Euklidische Distanz: 18.7402, Manhattan-Distanz: 66.3379, Minkowski-Distanz (p=3): 1.9167***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.3877, Euklidische Distanz: 18.7423, Manhattan-Distanz: 66.8215, Minkowski-Distanz (p=3): 1.8973***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Biden - Satz75: "let’s love good, establish justice in the gate."
+***Cosine Similarity: 0.3877, Euklidische Distanz: 15.4769, Manhattan-Distanz: 61.3550, Minkowski-Distanz (p=3): 1.7167***
+
+Hitler - Satz26: "it is not fortresses that will protect it, but the living wall of its men and women, filled with an ardent love for their country and a passionate spirit of national patriotism."
+Biden - Satz37: "i wanted them to see the lovely homes that were right up against the fence line with their beautiful roofs, people living in there rationalized that, “it’s not me."
+***Cosine Similarity: 0.3872, Euklidische Distanz: 18.7472, Manhattan-Distanz: 66.2429, Minkowski-Distanz (p=3): 1.9330***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Biden - Satz46: "my wife and daughter are dead, but my mother, a god lover used to always say, “out of everything terrible, something good will happen."
+***Cosine Similarity: 0.3871, Euklidische Distanz: 14.4734, Manhattan-Distanz: 57.8792, Minkowski-Distanz (p=3): 1.7081***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Biden - Satz80: "love leaves a memory that no one can steal.” they’re with you."
+***Cosine Similarity: 0.3864, Euklidische Distanz: 19.9560, Manhattan-Distanz: 70.4535, Minkowski-Distanz (p=3): 1.9226***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Biden - Satz63: "i love you, but there’s not a lot of people i trust."
+***Cosine Similarity: 0.3863, Euklidische Distanz: 33.2010, Manhattan-Distanz: 87.1404, Minkowski-Distanz (p=3): 2.5410***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3857, Euklidische Distanz: 15.4938, Manhattan-Distanz: 60.8225, Minkowski-Distanz (p=3): 1.7210***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Biden - Satz22: "the souls of those you love and those with whom you serve rest in peace and rising glory."
+***Cosine Similarity: 0.3850, Euklidische Distanz: 17.7288, Manhattan-Distanz: 66.0425, Minkowski-Distanz (p=3): 1.8302***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.3847, Euklidische Distanz: 22.2103, Manhattan-Distanz: 73.1243, Minkowski-Distanz (p=3): 2.0659***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Biden - Satz75: "let’s love good, establish justice in the gate."
+***Cosine Similarity: 0.3840, Euklidische Distanz: 13.1598, Manhattan-Distanz: 57.3554, Minkowski-Distanz (p=3): 1.5569***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.3840, Euklidische Distanz: 22.1584, Manhattan-Distanz: 72.6419, Minkowski-Distanz (p=3): 2.0722***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Biden - Satz85: "folks, being president of the united states, you are afforded many opportunities to try to express your love, commitment, and admiration for the america people."
+***Cosine Similarity: 0.3838, Euklidische Distanz: 22.1607, Manhattan-Distanz: 72.3502, Minkowski-Distanz (p=3): 2.0826***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Biden - Satz51: "they’d love nothing better for us to continue to be bogged down there, totally occupied with what’s going on."
+***Cosine Similarity: 0.3829, Euklidische Distanz: 16.8986, Manhattan-Distanz: 64.3048, Minkowski-Distanz (p=3): 1.7749***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Biden - Satz28: "you can’t love your country only when you win."
+***Cosine Similarity: 0.3818, Euklidische Distanz: 33.2557, Manhattan-Distanz: 87.8665, Minkowski-Distanz (p=3): 2.5356***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3811, Euklidische Distanz: 16.9146, Manhattan-Distanz: 64.6349, Minkowski-Distanz (p=3): 1.7772***
+
+Hitler - Satz55: "it was for this alone that they kept on ‘fighting.’ at that time (i admit it freely) i conceived a profound admiration for the great man beyond the alps, whose ardent love for his people inspired him not to bargain with italy’s internal enemies, but to use every possible means in an effort to wipe them out."
+Biden - Satz43: "he loved the outdoors."
+***Cosine Similarity: 0.3804, Euklidische Distanz: 14.3177, Manhattan-Distanz: 58.2461, Minkowski-Distanz (p=3): 1.6515***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Biden - Satz85: "folks, being president of the united states, you are afforded many opportunities to try to express your love, commitment, and admiration for the america people."
+***Cosine Similarity: 0.3800, Euklidische Distanz: 17.7732, Manhattan-Distanz: 66.5359, Minkowski-Distanz (p=3): 1.8281***
+
+Hitler - Satz23: "they love the german republic and tolerate its existence because no better instrument could be found to help them to keep our people in slavery."
+Biden - Satz74: "we all must defend the rights of lgbtqi individuals so they can live and love openly without fear, whether it’s chechnya or cameroon or anywhere."
+***Cosine Similarity: 0.3795, Euklidische Distanz: 21.2847, Manhattan-Distanz: 70.3740, Minkowski-Distanz (p=3): 2.0402***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Biden - Satz6: "remember the spikes in crime and the murder rate, raging virus that took more than 1 million american lives of loved ones, millions left behind, a mental health crisis of isolation and loneliness?"
+***Cosine Similarity: 0.3785, Euklidische Distanz: 14.6726, Manhattan-Distanz: 59.7008, Minkowski-Distanz (p=3): 1.6743***
+
+Hitler - Satz50: "then we saw, as we can see to-day, the greatest parliamentary nincompoops, really common saddlers and glove-makers (not merely by trade, for that would signify very little) suddenly raised to the rank of statesmen and sermonising to humble mortals from that pedestal."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.3780, Euklidische Distanz: 13.8917, Manhattan-Distanz: 57.7950, Minkowski-Distanz (p=3): 1.6163***
+
+Hitler - Satz24: "with a burning love for the mother country in their hearts and a song on their lips, our young regiment went into action as if going to a dance."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.3772, Euklidische Distanz: 24.4788, Manhattan-Distanz: 77.3097, Minkowski-Distanz (p=3): 2.1437***
+
+Hitler - Satz34: "even that religion which s called the religion of brotherly love is actually no more than a faint reflex of the will of its sublime founder, but its significance lies in the orientation which it endeavoured to give to human civilisation and human virtue and morals."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.3762, Euklidische Distanz: 12.4661, Manhattan-Distanz: 54.4486, Minkowski-Distanz (p=3): 1.5360***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Biden - Satz61: "and too many of you sitting out there have received that terrible call that your loved one won’t be coming home at the end of his or her shift."
+***Cosine Similarity: 0.3762, Euklidische Distanz: 20.0528, Manhattan-Distanz: 70.0275, Minkowski-Distanz (p=3): 1.9294***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Biden - Satz44: "you loved, you are heard, you are understood, you do belong."
+***Cosine Similarity: 0.3759, Euklidische Distanz: 22.2987, Manhattan-Distanz: 73.5004, Minkowski-Distanz (p=3): 2.0779***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Biden - Satz19: "my heart is shattered and she was my love, my rock, my strength.” so many."
+***Cosine Similarity: 0.3751, Euklidische Distanz: 24.2538, Manhattan-Distanz: 76.7840, Minkowski-Distanz (p=3): 2.1427***
+
+Hitler - Satz53: "for it might easily happen that one day an honest idealist, who, out of love for his country, had removed some miserable informer who had betrayed the whereabouts of secret stores of arms was called upon to answer for his act before the chief traitors of the country."
+Biden - Satz82: "and this knock on the door, and this lovely woman came and said, “where’s biden?"
+***Cosine Similarity: 0.3748, Euklidische Distanz: 15.6074, Manhattan-Distanz: 61.4503, Minkowski-Distanz (p=3): 1.7167***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Biden - Satz74: "we all must defend the rights of lgbtqi individuals so they can live and love openly without fear, whether it’s chechnya or cameroon or anywhere."
+***Cosine Similarity: 0.3748, Euklidische Distanz: 15.3940, Manhattan-Distanz: 60.5821, Minkowski-Distanz (p=3): 1.7097***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.3745, Euklidische Distanz: 13.2338, Manhattan-Distanz: 57.6218, Minkowski-Distanz (p=3): 1.5628***
+
+Hitler - Satz10: "my mother looked after the household and lovingly devoted herself to the care of her children of that period i have not retained many memories, because after a few years my father had to leave that frontier town which i had come to love so much and take up a new post farther down the inn valley, at passau, therefore, actually in germany itself: in those days it was the usual lot of an austrian civil servant to be transferred periodically from one post to another."
+Biden - Satz83: "we finally were able after four years, dad could buy a house and we lived in “a development.” it was a lovely area in a suburban area, but it was a three bedroom split level home."
+***Cosine Similarity: 0.3740, Euklidische Distanz: 13.3746, Manhattan-Distanz: 57.1759, Minkowski-Distanz (p=3): 1.5851***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3731, Euklidische Distanz: 14.5879, Manhattan-Distanz: 59.2654, Minkowski-Distanz (p=3): 1.6799***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Biden - Satz28: "you can’t love your country only when you win."
+***Cosine Similarity: 0.3730, Euklidische Distanz: 15.6004, Manhattan-Distanz: 60.6937, Minkowski-Distanz (p=3): 1.7294***
+
+Hitler - Satz10: "my mother looked after the household and lovingly devoted herself to the care of her children of that period i have not retained many memories, because after a few years my father had to leave that frontier town which i had come to love so much and take up a new post farther down the inn valley, at passau, therefore, actually in germany itself: in those days it was the usual lot of an austrian civil servant to be transferred periodically from one post to another."
+Biden - Satz12: "and for the millions, the millions of you who feel financially squeezed in raising a child while caring for an aging parent, a so-called sandwich generation, want to elder care affordable accessible, so your aging loved ones can live with greater independence and dignity."
+***Cosine Similarity: 0.3729, Euklidische Distanz: 13.3831, Manhattan-Distanz: 57.2340, Minkowski-Distanz (p=3): 1.5812***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3723, Euklidische Distanz: 22.3347, Manhattan-Distanz: 73.6399, Minkowski-Distanz (p=3): 2.0632***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Biden - Satz70: "our son started an organization before he died to make sure that people understood what it meant, going all around the country, letting people know, trying to train families, the mothers and fathers, brothers and sisters, of lgbtq+ people that they have to reach out, embrace and love their blood, to allow them to be themselves, or whether they should even be here on earth, a lot of folks wonder."
+***Cosine Similarity: 0.3722, Euklidische Distanz: 13.5884, Manhattan-Distanz: 57.0279, Minkowski-Distanz (p=3): 1.6141***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Biden - Satz22: "the souls of those you love and those with whom you serve rest in peace and rising glory."
+***Cosine Similarity: 0.3714, Euklidische Distanz: 15.4225, Manhattan-Distanz: 60.8182, Minkowski-Distanz (p=3): 1.7102***
+
+Hitler - Satz41: "resorting to their old prescription, they form a ‘committee.’ they go around among their beloved public and listen to what is being said."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.3713, Euklidische Distanz: 24.5584, Manhattan-Distanz: 78.9754, Minkowski-Distanz (p=3): 2.1168***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.3700, Euklidische Distanz: 19.0301, Manhattan-Distanz: 67.4514, Minkowski-Distanz (p=3): 1.9224***
+
+Hitler - Satz22: "on the one, hand, bismarck showed the greatest regard for customs and traditions; on the other hand his policy secured for the new reich, from its foundation onwards, a great measure of love and willing co-operation."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.3698, Euklidische Distanz: 19.0683, Manhattan-Distanz: 66.0349, Minkowski-Distanz (p=3): 1.9347***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Biden - Satz14: "here’s the simple truth: you can’t love your country only when you win."
+***Cosine Similarity: 0.3697, Euklidische Distanz: 13.6086, Manhattan-Distanz: 57.8508, Minkowski-Distanz (p=3): 1.5977***
+
+Hitler - Satz47: "as a logical consequence of these convictions, there arose in me a feeling of intense love for my german-austrian home and a profound hatred for the austrian state."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3695, Euklidische Distanz: 25.3536, Manhattan-Distanz: 77.7442, Minkowski-Distanz (p=3): 2.2045***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3688, Euklidische Distanz: 15.4443, Manhattan-Distanz: 59.7996, Minkowski-Distanz (p=3): 1.7265***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Biden - Satz24: "we hope that 20 years later, the memory of your beloved brings a smile to your lips, even while still bringing a tear to your eye."
+***Cosine Similarity: 0.3687, Euklidische Distanz: 24.3203, Manhattan-Distanz: 76.9002, Minkowski-Distanz (p=3): 2.1380***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Biden - Satz22: "the souls of those you love and those with whom you serve rest in peace and rising glory."
+***Cosine Similarity: 0.3687, Euklidische Distanz: 15.6372, Manhattan-Distanz: 61.0757, Minkowski-Distanz (p=3): 1.7322***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Biden - Satz76: "jill and i, our hearts ache, like i’m sure all of you do as well, for all those afghan families who lost loved ones, including small children, or been wounded with this vicious attack and we’re outraged as well as heartbroken."
+***Cosine Similarity: 0.3686, Euklidische Distanz: 20.1253, Manhattan-Distanz: 70.6311, Minkowski-Distanz (p=3): 1.9311***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Biden - Satz74: "we all must defend the rights of lgbtqi individuals so they can live and love openly without fear, whether it’s chechnya or cameroon or anywhere."
+***Cosine Similarity: 0.3685, Euklidische Distanz: 15.6387, Manhattan-Distanz: 60.0956, Minkowski-Distanz (p=3): 1.7495***
+
+Hitler - Satz44: "their whole effort ends at that, and if they should get shouldered away from the common manger by competitors with more brutal manners, then their only idea is to force themselves in again, by force or chicanery, among the herd of all the others who have similar appetites, to get back into the front row, and finally—even at the expense of their most sacred convictions—to regale themselves anew at that beloved spot where they find their fodder."
+Biden - Satz79: "a crowd that professes their love for law enforcement assaulted those police officers, dragged them, sprayed them, stomped on them."
+***Cosine Similarity: 0.3684, Euklidische Distanz: 13.2981, Manhattan-Distanz: 57.6735, Minkowski-Distanz (p=3): 1.5748***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Biden - Satz85: "folks, being president of the united states, you are afforded many opportunities to try to express your love, commitment, and admiration for the america people."
+***Cosine Similarity: 0.3681, Euklidische Distanz: 14.2420, Manhattan-Distanz: 57.8937, Minkowski-Distanz (p=3): 1.6470***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Biden - Satz53: "five years later, no man deserves one great love, let alone two."
+***Cosine Similarity: 0.3681, Euklidische Distanz: 40.4457, Manhattan-Distanz: 99.3425, Minkowski-Distanz (p=3): 2.7866***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Biden - Satz55: "they love one another.” it’s a simple proposition."
+***Cosine Similarity: 0.3680, Euklidische Distanz: 14.7583, Manhattan-Distanz: 59.2354, Minkowski-Distanz (p=3): 1.6940***
+
+Hitler - Satz37: "it is not highly differentiated, but has only the negative and positive notions of love and hatred, right and wrong, truth and falsehood."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.3672, Euklidische Distanz: 18.8501, Manhattan-Distanz: 66.2242, Minkowski-Distanz (p=3): 1.9139***
+
+Hitler - Satz47: "as a logical consequence of these convictions, there arose in me a feeling of intense love for my german-austrian home and a profound hatred for the austrian state."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.3661, Euklidische Distanz: 25.3898, Manhattan-Distanz: 78.3645, Minkowski-Distanz (p=3): 2.1973***
+
+Hitler - Satz12: "the effervescent tone and the fine phraseology lull the reader into believing that a love for knowledge and more it principle is the sole driving force that determines the policy of such papers, whereas in reality these features represent a sunning way of disarming any opposition that might be directed against the press."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3661, Euklidische Distanz: 11.8878, Manhattan-Distanz: 53.9572, Minkowski-Distanz (p=3): 1.4894***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.3659, Euklidische Distanz: 25.1957, Manhattan-Distanz: 78.1759, Minkowski-Distanz (p=3): 2.1901***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Biden - Satz50: "we continue to see not only the enormous scope and scale of the effort, we will see the individual lives that are affected, the families that are desperate to get home to their loved ones in america, the communities of veterans who have mobilized to try to help their former interpreters get to safety, the frightened afghans who aren’t sure what to do."
+***Cosine Similarity: 0.3658, Euklidische Distanz: 25.1972, Manhattan-Distanz: 78.4916, Minkowski-Distanz (p=3): 2.1910***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.3651, Euklidische Distanz: 15.4749, Manhattan-Distanz: 60.8673, Minkowski-Distanz (p=3): 1.7216***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3651, Euklidische Distanz: 14.6533, Manhattan-Distanz: 58.0441, Minkowski-Distanz (p=3): 1.6973***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.3644, Euklidische Distanz: 24.3647, Manhattan-Distanz: 76.8769, Minkowski-Distanz (p=3): 2.1481***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Biden - Satz42: "i pledge to all the families that we will not rest until we bring every one of your loved ones home."
+***Cosine Similarity: 0.3643, Euklidische Distanz: 15.4821, Manhattan-Distanz: 61.0511, Minkowski-Distanz (p=3): 1.7146***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Biden - Satz55: "they love one another.” it’s a simple proposition."
+***Cosine Similarity: 0.3635, Euklidische Distanz: 40.5074, Manhattan-Distanz: 99.8202, Minkowski-Distanz (p=3): 2.7919***
+
+Hitler - Satz13: "then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.3633, Euklidische Distanz: 15.6825, Manhattan-Distanz: 61.4143, Minkowski-Distanz (p=3): 1.7258***
+
+Hitler - Satz36: "his life is torn asunder by hatred and love."
+Biden - Satz11: "these didn’t come from, god love him, bernie sanders or aoc or anybody else."
+***Cosine Similarity: 0.3632, Euklidische Distanz: 35.7905, Manhattan-Distanz: 92.0845, Minkowski-Distanz (p=3): 2.6146***
+
+Hitler - Satz44: "their whole effort ends at that, and if they should get shouldered away from the common manger by competitors with more brutal manners, then their only idea is to force themselves in again, by force or chicanery, among the herd of all the others who have similar appetites, to get back into the front row, and finally—even at the expense of their most sacred convictions—to regale themselves anew at that beloved spot where they find their fodder."
+Biden - Satz20: "but you know, around the country, maga extremists are lining up to take on those bedrock freedoms, cutting social security that you’ve paid for your entire life, while cutting taxes from the very wealthy, dictating what healthcare decisions women can make, banning books and telling people who they can love all while making it more difficult for you to be able to vote."
+***Cosine Similarity: 0.3631, Euklidische Distanz: 13.3387, Manhattan-Distanz: 57.6553, Minkowski-Distanz (p=3): 1.5779***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Biden - Satz37: "i wanted them to see the lovely homes that were right up against the fence line with their beautiful roofs, people living in there rationalized that, “it’s not me."
+***Cosine Similarity: 0.3629, Euklidische Distanz: 15.4938, Manhattan-Distanz: 60.4617, Minkowski-Distanz (p=3): 1.7316***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Biden - Satz55: "they love one another.” it’s a simple proposition."
+***Cosine Similarity: 0.3626, Euklidische Distanz: 20.1823, Manhattan-Distanz: 70.3797, Minkowski-Distanz (p=3): 1.9376***
+
+Hitler - Satz43: "i can fight only for something that i love."
+Biden - Satz80: "love leaves a memory that no one can steal.” they’re with you."
+***Cosine Similarity: 0.3623, Euklidische Distanz: 33.4918, Manhattan-Distanz: 87.7693, Minkowski-Distanz (p=3): 2.5525***
+
+Hitler - Satz19: "i turn to all those who have been torn from their mother-country and who have to struggle for the preservation of their most sacred patrimony, their native language, who are persecuted and, because of their loyalty and love for the homeland, yearn sadly for the hour when they will be allowed to return to the bosom of their mother country."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.3619, Euklidische Distanz: 15.5017, Manhattan-Distanz: 59.9393, Minkowski-Distanz (p=3): 1.7246***
+
+Hitler - Satz38: "the fate of a nation cannot be altered with the velvet glove and in  the iron hand should have been used ruthlessly to crush the vipers that battened on the body of the nation."
+Biden - Satz28: "you can’t love your country only when you win."
+***Cosine Similarity: 0.3618, Euklidische Distanz: 20.8922, Manhattan-Distanz: 70.7906, Minkowski-Distanz (p=3): 1.9869***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3616, Euklidische Distanz: 13.3342, Manhattan-Distanz: 57.7530, Minkowski-Distanz (p=3): 1.5750***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.3614, Euklidische Distanz: 17.4052, Manhattan-Distanz: 64.8621, Minkowski-Distanz (p=3): 1.8018***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.3609, Euklidische Distanz: 13.6779, Manhattan-Distanz: 57.6172, Minkowski-Distanz (p=3): 1.6105***
+
+Hitler - Satz44: "their whole effort ends at that, and if they should get shouldered away from the common manger by competitors with more brutal manners, then their only idea is to force themselves in again, by force or chicanery, among the herd of all the others who have similar appetites, to get back into the front row, and finally—even at the expense of their most sacred convictions—to regale themselves anew at that beloved spot where they find their fodder."
+Biden - Satz7: "he said, “give us the ballot and we will place judges on the benches of the south who will do justly and love mercy.” well, in just nine months, we’ve appointed more black women to circuit courts and more former public defenders of events than any administration in all of american history, because of you."
+***Cosine Similarity: 0.3596, Euklidische Distanz: 13.3659, Manhattan-Distanz: 58.0681, Minkowski-Distanz (p=3): 1.5756***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Biden - Satz15: "this is why in this moment, those of you who love this country, democrats, independents, mainstream republicans, we must be stronger, more determined, and more committed to saving america than the maga republicans are destroying america.thank you, general."
+***Cosine Similarity: 0.3580, Euklidische Distanz: 14.3234, Manhattan-Distanz: 57.5029, Minkowski-Distanz (p=3): 1.6555***
+
+Hitler - Satz10: "my mother looked after the household and lovingly devoted herself to the care of her children of that period i have not retained many memories, because after a few years my father had to leave that frontier town which i had come to love so much and take up a new post farther down the inn valley, at passau, therefore, actually in germany itself: in those days it was the usual lot of an austrian civil servant to be transferred periodically from one post to another."
+Biden - Satz50: "we continue to see not only the enormous scope and scale of the effort, we will see the individual lives that are affected, the families that are desperate to get home to their loved ones in america, the communities of veterans who have mobilized to try to help their former interpreters get to safety, the frightened afghans who aren’t sure what to do."
+***Cosine Similarity: 0.3579, Euklidische Distanz: 13.5007, Manhattan-Distanz: 57.2403, Minkowski-Distanz (p=3): 1.5971***
+
+Hitler - Satz34: "even that religion which s called the religion of brotherly love is actually no more than a faint reflex of the will of its sublime founder, but its significance lies in the orientation which it endeavoured to give to human civilisation and human virtue and morals."
+Biden - Satz55: "they love one another.” it’s a simple proposition."
+***Cosine Similarity: 0.3577, Euklidische Distanz: 12.6067, Manhattan-Distanz: 54.5879, Minkowski-Distanz (p=3): 1.5452***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Biden - Satz70: "our son started an organization before he died to make sure that people understood what it meant, going all around the country, letting people know, trying to train families, the mothers and fathers, brothers and sisters, of lgbtq+ people that they have to reach out, embrace and love their blood, to allow them to be themselves, or whether they should even be here on earth, a lot of folks wonder."
+***Cosine Similarity: 0.3575, Euklidische Distanz: 14.7148, Manhattan-Distanz: 58.4892, Minkowski-Distanz (p=3): 1.7018***
+
+Hitler - Satz12: "the effervescent tone and the fine phraseology lull the reader into believing that a love for knowledge and more it principle is the sole driving force that determines the policy of such papers, whereas in reality these features represent a sunning way of disarming any opposition that might be directed against the press."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.3573, Euklidische Distanz: 11.9521, Manhattan-Distanz: 54.6035, Minkowski-Distanz (p=3): 1.4861***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.3572, Euklidische Distanz: 13.9625, Manhattan-Distanz: 59.8038, Minkowski-Distanz (p=3): 1.5936***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Biden - Satz18: "it’s about protecting yourself and those around you, the people you work with, the people you care about, the people you love."
+***Cosine Similarity: 0.3571, Euklidische Distanz: 22.4868, Manhattan-Distanz: 73.4795, Minkowski-Distanz (p=3): 2.0853***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Biden - Satz22: "the souls of those you love and those with whom you serve rest in peace and rising glory."
+***Cosine Similarity: 0.3564, Euklidische Distanz: 17.4494, Manhattan-Distanz: 65.0476, Minkowski-Distanz (p=3): 1.8127***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Biden - Satz22: "the souls of those you love and those with whom you serve rest in peace and rising glory."
+***Cosine Similarity: 0.3563, Euklidische Distanz: 13.9695, Manhattan-Distanz: 59.3505, Minkowski-Distanz (p=3): 1.6122***
+
+Hitler - Satz1: "at the time of our fatherland’s deepest humiliation, a nurnberg bookseller, johannes palm, an uncompromising nationalist and an enemy of the french, was put to death here because he had loved germany even in her misfortune."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.3562, Euklidische Distanz: 18.1383, Manhattan-Distanz: 66.0394, Minkowski-Distanz (p=3): 1.8717***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Biden - Satz45: "as i said in a tv interview more than a decade ago, marriage is a simple proposition, who do you love?"
+***Cosine Similarity: 0.3561, Euklidische Distanz: 20.2434, Manhattan-Distanz: 70.2043, Minkowski-Distanz (p=3): 1.9457***
+
+Hitler - Satz14: "the evil culminates when the husband goes his own way from the beginning and the wife protests, simply out of love for the children."
+Biden - Satz81: "just think of the sons and the daughters, moms and dads, and loved ones trying to reach each other and the feeling of fear or maybe something happened and it’s just because the cell phones not working."
+***Cosine Similarity: 0.3557, Euklidische Distanz: 20.2479, Manhattan-Distanz: 70.3973, Minkowski-Distanz (p=3): 1.9438***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Biden - Satz36: "i hear adults, much older than me, debate about my existence when they don’t even know me.”
+
+
+our message to young people across america must be unequivocal, you’re loved, you’re heard, and you’re understood, and you belong."
+***Cosine Similarity: 0.3554, Euklidische Distanz: 14.8619, Manhattan-Distanz: 59.6133, Minkowski-Distanz (p=3): 1.6876***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.3552, Euklidische Distanz: 14.8633, Manhattan-Distanz: 60.0040, Minkowski-Distanz (p=3): 1.6772***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Biden - Satz24: "we hope that 20 years later, the memory of your beloved brings a smile to your lips, even while still bringing a tear to your eye."
+***Cosine Similarity: 0.3543, Euklidische Distanz: 13.7301, Manhattan-Distanz: 57.5654, Minkowski-Distanz (p=3): 1.6098***
+
+Hitler - Satz36: "his life is torn asunder by hatred and love."
+Biden - Satz19: "my heart is shattered and she was my love, my rock, my strength.” so many."
+***Cosine Similarity: 0.3540, Euklidische Distanz: 35.9060, Manhattan-Distanz: 92.4084, Minkowski-Distanz (p=3): 2.6176***
+
+Hitler - Satz11: "for the first time in modem history the traditional dynastic patriotism and national love of fatherland and people were in open conflict."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3536, Euklidische Distanz: 22.3721, Manhattan-Distanz: 73.1569, Minkowski-Distanz (p=3): 2.0633***
+
+Hitler - Satz42: "here again the only course to adopt s to attack the causes rather than the symptoms of the disease, but in this case, the primary cause s to be found in the manner in which love has been prostituted."
+Biden - Satz80: "love leaves a memory that no one can steal.” they’re with you."
+***Cosine Similarity: 0.3535, Euklidische Distanz: 14.9742, Manhattan-Distanz: 62.1121, Minkowski-Distanz (p=3): 1.6444***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Biden - Satz44: "you loved, you are heard, you are understood, you do belong."
+***Cosine Similarity: 0.3533, Euklidische Distanz: 24.4811, Manhattan-Distanz: 77.6317, Minkowski-Distanz (p=3): 2.1354***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.3531, Euklidische Distanz: 25.3311, Manhattan-Distanz: 77.8702, Minkowski-Distanz (p=3): 2.2058***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Biden - Satz49: "i love my son, number one."
+***Cosine Similarity: 0.3529, Euklidische Distanz: 42.4883, Manhattan-Distanz: 101.8698, Minkowski-Distanz (p=3): 2.8606***
+
+Hitler - Satz48: "instead of strong, healthy children, the product of natural feelings, we shall see miserable specimens of humanity resulting from economic calculation, for economic considerations are becoming more and more the foundation and the sole preliminary condition of marriage while love looks for an outlet elsewhere."
+Biden - Satz75: "let’s love good, establish justice in the gate."
+***Cosine Similarity: 0.3526, Euklidische Distanz: 14.8845, Manhattan-Distanz: 59.3049, Minkowski-Distanz (p=3): 1.6948***
+
+Hitler - Satz33: "often there are a wife and children at home, and in many cases it happens that these become infected by such a way of living, especially if the husband is good to them and loves them in his own way and according to his own lights."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.3520, Euklidische Distanz: 16.6418, Manhattan-Distanz: 64.7199, Minkowski-Distanz (p=3): 1.7558***
+
+Hitler - Satz50: "then we saw, as we can see to-day, the greatest parliamentary nincompoops, really common saddlers and glove-makers (not merely by trade, for that would signify very little) suddenly raised to the rank of statesmen and sermonising to humble mortals from that pedestal."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3518, Euklidische Distanz: 14.1013, Manhattan-Distanz: 59.0531, Minkowski-Distanz (p=3): 1.6147***
+
+Hitler - Satz36: "his life is torn asunder by hatred and love."
+Biden - Satz80: "love leaves a memory that no one can steal.” they’re with you."
+***Cosine Similarity: 0.3512, Euklidische Distanz: 35.9415, Manhattan-Distanz: 92.5902, Minkowski-Distanz (p=3): 2.6221***
+
+Hitler - Satz33: "often there are a wife and children at home, and in many cases it happens that these become infected by such a way of living, especially if the husband is good to them and loves them in his own way and according to his own lights."
+Biden - Satz60: "it’s like you’ve all lost someone to the virus or know someone who has lost a loved one."
+***Cosine Similarity: 0.3509, Euklidische Distanz: 16.6509, Manhattan-Distanz: 63.7535, Minkowski-Distanz (p=3): 1.7780***
+
+Hitler - Satz44: "their whole effort ends at that, and if they should get shouldered away from the common manger by competitors with more brutal manners, then their only idea is to force themselves in again, by force or chicanery, among the herd of all the others who have similar appetites, to get back into the front row, and finally—even at the expense of their most sacred convictions—to regale themselves anew at that beloved spot where they find their fodder."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3509, Euklidische Distanz: 13.4341, Manhattan-Distanz: 57.9051, Minkowski-Distanz (p=3): 1.5780***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Biden - Satz64: "may god bless the lives lost on september 11th, 2001 and their loved ones that were left behind."
+***Cosine Similarity: 0.3506, Euklidische Distanz: 14.7714, Manhattan-Distanz: 58.2528, Minkowski-Distanz (p=3): 1.7219***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.3502, Euklidische Distanz: 13.4234, Manhattan-Distanz: 58.2150, Minkowski-Distanz (p=3): 1.5744***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Biden - Satz19: "my heart is shattered and she was my love, my rock, my strength.” so many."
+***Cosine Similarity: 0.3501, Euklidische Distanz: 14.0183, Manhattan-Distanz: 59.7690, Minkowski-Distanz (p=3): 1.6062***
+
+Hitler - Satz5: "moreover, it would be out of place to talk about the guilt of men who, perhaps in the depths of their hearts, loved their people equally well and who merely failed to take the same path or did not recognise it as the right one to take."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.3498, Euklidische Distanz: 14.7777, Manhattan-Distanz: 58.4368, Minkowski-Distanz (p=3): 1.7013***
+
+Hitler - Satz57: "the old gentleman was embittered and indeed so was i, although i really loved him."
+Biden - Satz49: "i love my son, number one."
+***Cosine Similarity: 0.3494, Euklidische Distanz: 24.5214, Manhattan-Distanz: 76.7491, Minkowski-Distanz (p=3): 2.1467***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Biden - Satz45: "as i said in a tv interview more than a decade ago, marriage is a simple proposition, who do you love?"
+***Cosine Similarity: 0.3485, Euklidische Distanz: 40.7069, Manhattan-Distanz: 100.2420, Minkowski-Distanz (p=3): 2.7874***
+
+Hitler - Satz36: "his life is torn asunder by hatred and love."
+Biden - Satz53: "five years later, no man deserves one great love, let alone two."
+***Cosine Similarity: 0.3470, Euklidische Distanz: 35.9934, Manhattan-Distanz: 92.1629, Minkowski-Distanz (p=3): 2.6204***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Biden - Satz19: "my heart is shattered and she was my love, my rock, my strength.” so many."
+***Cosine Similarity: 0.3469, Euklidische Distanz: 13.4493, Manhattan-Distanz: 57.9133, Minkowski-Distanz (p=3): 1.5768***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Biden - Satz44: "you loved, you are heard, you are understood, you do belong."
+***Cosine Similarity: 0.3454, Euklidische Distanz: 22.5448, Manhattan-Distanz: 73.1042, Minkowski-Distanz (p=3): 2.1047***
+
+Hitler - Satz25: "of those in responsible positions, ernst pohner was the only one who did not pay court to the mob, but felt that his duty was towards the nation as such and was ready to risk and sacrifice everything, even his personal livelihood, to help in the restoration of the german people, whom he dearly loved."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3451, Euklidische Distanz: 16.9659, Manhattan-Distanz: 64.0133, Minkowski-Distanz (p=3): 1.8025***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Biden - Satz85: "folks, being president of the united states, you are afforded many opportunities to try to express your love, commitment, and admiration for the america people."
+***Cosine Similarity: 0.3445, Euklidische Distanz: 13.8070, Manhattan-Distanz: 58.1643, Minkowski-Distanz (p=3): 1.6173***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.3444, Euklidische Distanz: 18.0935, Manhattan-Distanz: 66.5331, Minkowski-Distanz (p=3): 1.8517***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Biden - Satz63: "i love you, but there’s not a lot of people i trust."
+***Cosine Similarity: 0.3439, Euklidische Distanz: 42.6112, Manhattan-Distanz: 101.8448, Minkowski-Distanz (p=3): 2.8669***
+
+Hitler - Satz11: "for the first time in modem history the traditional dynastic patriotism and national love of fatherland and people were in open conflict."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.3435, Euklidische Distanz: 22.4723, Manhattan-Distanz: 73.1642, Minkowski-Distanz (p=3): 2.0776***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3435, Euklidische Distanz: 18.1016, Manhattan-Distanz: 66.5350, Minkowski-Distanz (p=3): 1.8627***
+
+Hitler - Satz53: "for it might easily happen that one day an honest idealist, who, out of love for his country, had removed some miserable informer who had betrayed the whereabouts of secret stores of arms was called upon to answer for his act before the chief traitors of the country."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3430, Euklidische Distanz: 15.8754, Manhattan-Distanz: 61.8406, Minkowski-Distanz (p=3): 1.7354***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Biden - Satz11: "these didn’t come from, god love him, bernie sanders or aoc or anybody else."
+***Cosine Similarity: 0.3425, Euklidische Distanz: 19.2847, Manhattan-Distanz: 68.1888, Minkowski-Distanz (p=3): 1.9341***
+
+Hitler - Satz51: "i respected my father, but i loved my mother."
+Biden - Satz30: "as i said, she also worked for our beloved son, beau, the attorney general, and they passed … anyway, they did a lot."
+***Cosine Similarity: 0.3425, Euklidische Distanz: 42.6300, Manhattan-Distanz: 100.9991, Minkowski-Distanz (p=3): 2.8867***
+
+Hitler - Satz31: "though the empire was internally rickety because of the violent conflict going on between the various nationalities, the outside world (and germany in particular) saw only that lovely picture of the city."
+Biden - Satz6: "remember the spikes in crime and the murder rate, raging virus that took more than 1 million american lives of loved ones, millions left behind, a mental health crisis of isolation and loneliness?"
+***Cosine Similarity: 0.3423, Euklidische Distanz: 17.5335, Manhattan-Distanz: 65.0871, Minkowski-Distanz (p=3): 1.8173***
+
+Hitler - Satz34: "even that religion which s called the religion of brotherly love is actually no more than a faint reflex of the will of its sublime founder, but its significance lies in the orientation which it endeavoured to give to human civilisation and human virtue and morals."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3421, Euklidische Distanz: 12.7243, Manhattan-Distanz: 55.2039, Minkowski-Distanz (p=3): 1.5509***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Biden - Satz86: "will you be loyal to the person you love?"
+***Cosine Similarity: 0.3417, Euklidische Distanz: 22.6407, Manhattan-Distanz: 73.8847, Minkowski-Distanz (p=3): 2.0832***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Biden - Satz86: "will you be loyal to the person you love?"
+***Cosine Similarity: 0.3414, Euklidische Distanz: 40.8018, Manhattan-Distanz: 100.1869, Minkowski-Distanz (p=3): 2.8060***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Biden - Satz21: "elizabeth, it’s been said that, “memory is the power to gather roses in winter.” bob left you with 45 years’ worth of roses, of a life built and a love shared that’s going to guide you through the difficult days ahead."
+***Cosine Similarity: 0.3413, Euklidische Distanz: 14.0882, Manhattan-Distanz: 59.0159, Minkowski-Distanz (p=3): 1.6199***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.3411, Euklidische Distanz: 19.2981, Manhattan-Distanz: 67.5699, Minkowski-Distanz (p=3): 1.9573***
+
+Hitler - Satz55: "it was for this alone that they kept on ‘fighting.’ at that time (i admit it freely) i conceived a profound admiration for the great man beyond the alps, whose ardent love for his people inspired him not to bargain with italy’s internal enemies, but to use every possible means in an effort to wipe them out."
+Biden - Satz65: "i see the love that’s going to overcome hate in all its forms."
+***Cosine Similarity: 0.3407, Euklidische Distanz: 14.6396, Manhattan-Distanz: 59.4021, Minkowski-Distanz (p=3): 1.6640***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.3404, Euklidische Distanz: 14.0955, Manhattan-Distanz: 59.4915, Minkowski-Distanz (p=3): 1.6242***
+
+Hitler - Satz34: "even that religion which s called the religion of brotherly love is actually no more than a faint reflex of the will of its sublime founder, but its significance lies in the orientation which it endeavoured to give to human civilisation and human virtue and morals."
+Biden - Satz70: "our son started an organization before he died to make sure that people understood what it meant, going all around the country, letting people know, trying to train families, the mothers and fathers, brothers and sisters, of lgbtq+ people that they have to reach out, embrace and love their blood, to allow them to be themselves, or whether they should even be here on earth, a lot of folks wonder."
+***Cosine Similarity: 0.3403, Euklidische Distanz: 12.7378, Manhattan-Distanz: 55.5388, Minkowski-Distanz (p=3): 1.5514***
+
+Hitler - Satz11: "for the first time in modem history the traditional dynastic patriotism and national love of fatherland and people were in open conflict."
+Biden - Satz28: "you can’t love your country only when you win."
+***Cosine Similarity: 0.3397, Euklidische Distanz: 22.5108, Manhattan-Distanz: 73.4559, Minkowski-Distanz (p=3): 2.0623***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Biden - Satz12: "and for the millions, the millions of you who feel financially squeezed in raising a child while caring for an aging parent, a so-called sandwich generation, want to elder care affordable accessible, so your aging loved ones can live with greater independence and dignity."
+***Cosine Similarity: 0.3390, Euklidische Distanz: 17.6039, Manhattan-Distanz: 64.8734, Minkowski-Distanz (p=3): 1.8132***
+
+Hitler - Satz36: "his life is torn asunder by hatred and love."
+Biden - Satz60: "it’s like you’ve all lost someone to the virus or know someone who has lost a loved one."
+***Cosine Similarity: 0.3387, Euklidische Distanz: 36.0984, Manhattan-Distanz: 92.8525, Minkowski-Distanz (p=3): 2.6230***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.3385, Euklidische Distanz: 19.3218, Manhattan-Distanz: 67.8363, Minkowski-Distanz (p=3): 1.9342***
+
+Hitler - Satz16: "it was not preoccupation about their daily bread that led men to sacrifice their lives, but love of their country, the faith which they had in its greatness, and the common struggle to uphold the honour of the nation."
+Biden - Satz14: "here’s the simple truth: you can’t love your country only when you win."
+***Cosine Similarity: 0.3380, Euklidische Distanz: 19.3272, Manhattan-Distanz: 67.5610, Minkowski-Distanz (p=3): 1.9526***
+
+Hitler - Satz50: "then we saw, as we can see to-day, the greatest parliamentary nincompoops, really common saddlers and glove-makers (not merely by trade, for that would signify very little) suddenly raised to the rank of statesmen and sermonising to humble mortals from that pedestal."
+Biden - Satz7: "he said, “give us the ballot and we will place judges on the benches of the south who will do justly and love mercy.” well, in just nine months, we’ve appointed more black women to circuit courts and more former public defenders of events than any administration in all of american history, because of you."
+***Cosine Similarity: 0.3376, Euklidische Distanz: 14.2144, Manhattan-Distanz: 59.1863, Minkowski-Distanz (p=3): 1.6183***
+
+Hitler - Satz24: "with a burning love for the mother country in their hearts and a song on their lips, our young regiment went into action as if going to a dance."
+Biden - Satz41: "and so on this day, jill and i hold you close in our hearts and send you our love."
+***Cosine Similarity: 0.3374, Euklidische Distanz: 24.8961, Manhattan-Distanz: 77.9310, Minkowski-Distanz (p=3): 2.1677***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Biden - Satz9: "god, i loved the guy."
+***Cosine Similarity: 0.3362, Euklidische Distanz: 14.1288, Manhattan-Distanz: 60.1357, Minkowski-Distanz (p=3): 1.6048***
+
+Hitler - Satz11: "for the first time in modem history the traditional dynastic patriotism and national love of fatherland and people were in open conflict."
+Biden - Satz14: "here’s the simple truth: you can’t love your country only when you win."
+***Cosine Similarity: 0.3362, Euklidische Distanz: 22.5456, Manhattan-Distanz: 73.6552, Minkowski-Distanz (p=3): 2.0638***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.3361, Euklidische Distanz: 17.6294, Manhattan-Distanz: 65.7968, Minkowski-Distanz (p=3): 1.8206***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Biden - Satz44: "you loved, you are heard, you are understood, you do belong."
+***Cosine Similarity: 0.3354, Euklidische Distanz: 13.8786, Manhattan-Distanz: 58.6257, Minkowski-Distanz (p=3): 1.6162***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Biden - Satz44: "you loved, you are heard, you are understood, you do belong."
+***Cosine Similarity: 0.3344, Euklidische Distanz: 14.1438, Manhattan-Distanz: 60.0797, Minkowski-Distanz (p=3): 1.6217***
+
+Hitler - Satz30: "moreover, almost from the very first moment of my sojourn there, i came to love that city more than any other place known to me."
+Biden - Satz4: "so please go today for yourself, for your loved ones, for your neighbors, for your country."
+***Cosine Similarity: 0.3337, Euklidische Distanz: 20.9098, Manhattan-Distanz: 71.5565, Minkowski-Distanz (p=3): 1.9678***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Biden - Satz50: "we continue to see not only the enormous scope and scale of the effort, we will see the individual lives that are affected, the families that are desperate to get home to their loved ones in america, the communities of veterans who have mobilized to try to help their former interpreters get to safety, the frightened afghans who aren’t sure what to do."
+***Cosine Similarity: 0.3333, Euklidische Distanz: 18.1930, Manhattan-Distanz: 67.0205, Minkowski-Distanz (p=3): 1.8562***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Biden - Satz85: "folks, being president of the united states, you are afforded many opportunities to try to express your love, commitment, and admiration for the america people."
+***Cosine Similarity: 0.3331, Euklidische Distanz: 17.6557, Manhattan-Distanz: 65.2273, Minkowski-Distanz (p=3): 1.8140***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3331, Euklidische Distanz: 25.5438, Manhattan-Distanz: 78.4615, Minkowski-Distanz (p=3): 2.2017***
+
+Hitler - Satz23: "they love the german republic and tolerate its existence because no better instrument could be found to help them to keep our people in slavery."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.3330, Euklidische Distanz: 21.7396, Manhattan-Distanz: 70.2173, Minkowski-Distanz (p=3): 2.0679***
+
+Hitler - Satz38: "the fate of a nation cannot be altered with the velvet glove and in  the iron hand should have been used ruthlessly to crush the vipers that battened on the body of the nation."
+Biden - Satz3: "and the biggest weapon in our arsenal is my build back better act, which will reduce what families have to pay for basic necessities to live a life, raise a family, from prescription drugs to healthcare, to childcare and more help so families can cover the cost of raising their children and caring for their loved ones, their older loved ones."
+***Cosine Similarity: 0.3326, Euklidische Distanz: 21.1752, Manhattan-Distanz: 72.0098, Minkowski-Distanz (p=3): 1.9845***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.3319, Euklidische Distanz: 18.2060, Manhattan-Distanz: 67.0804, Minkowski-Distanz (p=3): 1.8605***
+
+Hitler - Satz55: "it was for this alone that they kept on ‘fighting.’ at that time (i admit it freely) i conceived a profound admiration for the great man beyond the alps, whose ardent love for his people inspired him not to bargain with italy’s internal enemies, but to use every possible means in an effort to wipe them out."
+Biden - Satz63: "i love you, but there’s not a lot of people i trust."
+***Cosine Similarity: 0.3318, Euklidische Distanz: 14.7112, Manhattan-Distanz: 58.6157, Minkowski-Distanz (p=3): 1.6912***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Biden - Satz31: "it’s a vaccination program that’s getting us back to our loved ones and a way of life we were used to."
+***Cosine Similarity: 0.3316, Euklidische Distanz: 13.7756, Manhattan-Distanz: 58.7836, Minkowski-Distanz (p=3): 1.5952***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.3314, Euklidische Distanz: 22.6845, Manhattan-Distanz: 72.8196, Minkowski-Distanz (p=3): 2.1089***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Biden - Satz13: "folks, and i love columbia so much i asked your former mayor to join me in the white house."
+***Cosine Similarity: 0.3313, Euklidische Distanz: 14.5381, Manhattan-Distanz: 58.2687, Minkowski-Distanz (p=3): 1.6624***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.3311, Euklidische Distanz: 13.5718, Manhattan-Distanz: 57.5089, Minkowski-Distanz (p=3): 1.6015***
+
+Hitler - Satz24: "with a burning love for the mother country in their hearts and a song on their lips, our young regiment went into action as if going to a dance."
+Biden - Satz76: "jill and i, our hearts ache, like i’m sure all of you do as well, for all those afghan families who lost loved ones, including small children, or been wounded with this vicious attack and we’re outraged as well as heartbroken."
+***Cosine Similarity: 0.3302, Euklidische Distanz: 24.9712, Manhattan-Distanz: 77.6830, Minkowski-Distanz (p=3): 2.1842***
+
+Hitler - Satz30: "moreover, almost from the very first moment of my sojourn there, i came to love that city more than any other place known to me."
+Biden - Satz72: "they’re extremely valuable, but that’s not where i remember my uncle was moved in with his wife into a assisted living center and the folks who had built the facility, it was a lovely facility in delaware, asked if i’d come and speak on the opening of it."
+***Cosine Similarity: 0.3299, Euklidische Distanz: 20.9462, Manhattan-Distanz: 70.9299, Minkowski-Distanz (p=3): 1.9719***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Biden - Satz24: "we hope that 20 years later, the memory of your beloved brings a smile to your lips, even while still bringing a tear to your eye."
+***Cosine Similarity: 0.3296, Euklidische Distanz: 13.5833, Manhattan-Distanz: 58.2771, Minkowski-Distanz (p=3): 1.5787***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Biden - Satz12: "and for the millions, the millions of you who feel financially squeezed in raising a child while caring for an aging parent, a so-called sandwich generation, want to elder care affordable accessible, so your aging loved ones can live with greater independence and dignity."
+***Cosine Similarity: 0.3296, Euklidische Distanz: 13.7914, Manhattan-Distanz: 59.0241, Minkowski-Distanz (p=3): 1.5910***
+
+Hitler - Satz25: "of those in responsible positions, ernst pohner was the only one who did not pay court to the mob, but felt that his duty was towards the nation as such and was ready to risk and sacrifice everything, even his personal livelihood, to help in the restoration of the german people, whom he dearly loved."
+Biden - Satz34: "he loved his country, which he served his whole life."
+***Cosine Similarity: 0.3290, Euklidische Distanz: 17.1064, Manhattan-Distanz: 64.2974, Minkowski-Distanz (p=3): 1.8145***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.3290, Euklidische Distanz: 22.4871, Manhattan-Distanz: 72.5025, Minkowski-Distanz (p=3): 2.0708***
+
+Hitler - Satz30: "moreover, almost from the very first moment of my sojourn there, i came to love that city more than any other place known to me."
+Biden - Satz37: "i wanted them to see the lovely homes that were right up against the fence line with their beautiful roofs, people living in there rationalized that, “it’s not me."
+***Cosine Similarity: 0.3287, Euklidische Distanz: 20.9580, Manhattan-Distanz: 71.4800, Minkowski-Distanz (p=3): 1.9794***
+
+Hitler - Satz38: "the fate of a nation cannot be altered with the velvet glove and in  the iron hand should have been used ruthlessly to crush the vipers that battened on the body of the nation."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.3286, Euklidische Distanz: 21.2136, Manhattan-Distanz: 71.1810, Minkowski-Distanz (p=3): 2.0015***
+
+Hitler - Satz35: "once again the ‘uninitiated’ layman could do nothing but look on while the ‘elect’ headed straight for disaster enticing their beloved people to follow them, as the rats followed the pied piper of hamelin."
+Biden - Satz11: "these didn’t come from, god love him, bernie sanders or aoc or anybody else."
+***Cosine Similarity: 0.3283, Euklidische Distanz: 16.0340, Manhattan-Distanz: 64.1793, Minkowski-Distanz (p=3): 1.7238***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Biden - Satz62: "every single american, no matter who you are, who you love, or where you come from, this shouldn’t be about conservative/liberal, red or blue."
+***Cosine Similarity: 0.3269, Euklidische Distanz: 40.9938, Manhattan-Distanz: 99.4990, Minkowski-Distanz (p=3): 2.7978***
+
+Hitler - Satz55: "it was for this alone that they kept on ‘fighting.’ at that time (i admit it freely) i conceived a profound admiration for the great man beyond the alps, whose ardent love for his people inspired him not to bargain with italy’s internal enemies, but to use every possible means in an effort to wipe them out."
+Biden - Satz9: "god, i loved the guy."
+***Cosine Similarity: 0.3268, Euklidische Distanz: 14.7519, Manhattan-Distanz: 59.6463, Minkowski-Distanz (p=3): 1.6698***
+
+Hitler - Satz7: "that is why the struggle between the various species does not arise from a feeling of mutual antipathy, but rather from hunger and love."
+Biden - Satz80: "love leaves a memory that no one can steal.” they’re with you."
+***Cosine Similarity: 0.3265, Euklidische Distanz: 22.5117, Manhattan-Distanz: 72.6019, Minkowski-Distanz (p=3): 2.0760***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Biden - Satz58: "it could save your life and the lives of those you love."
+***Cosine Similarity: 0.3263, Euklidische Distanz: 14.2077, Manhattan-Distanz: 59.7170, Minkowski-Distanz (p=3): 1.6249***
+
+Hitler - Satz6: "beardless young fellows or fully developed men, all filled with an ardent love for their country; urged on by their own courageous spirit or by a lofty sense of their duty—it was always such men who answered the call for volunteers."
+Biden - Satz50: "we continue to see not only the enormous scope and scale of the effort, we will see the individual lives that are affected, the families that are desperate to get home to their loved ones in america, the communities of veterans who have mobilized to try to help their former interpreters get to safety, the frightened afghans who aren’t sure what to do."
+***Cosine Similarity: 0.3260, Euklidische Distanz: 22.7382, Manhattan-Distanz: 73.6021, Minkowski-Distanz (p=3): 2.1157***
+
+Hitler - Satz52: "did not we, as youngsters, fully realise that the house of habsburg did not, and could not, have any love for us germans?"
+Biden - Satz83: "we finally were able after four years, dad could buy a house and we lived in “a development.” it was a lovely area in a suburban area, but it was a three bedroom split level home."
+***Cosine Similarity: 0.3260, Euklidische Distanz: 30.8409, Manhattan-Distanz: 85.8947, Minkowski-Distanz (p=3): 2.4322***
+
+Hitler - Satz1: "at the time of our fatherland’s deepest humiliation, a nurnberg bookseller, johannes palm, an uncompromising nationalist and an enemy of the french, was put to death here because he had loved germany even in her misfortune."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.3260, Euklidische Distanz: 18.4109, Manhattan-Distanz: 65.7328, Minkowski-Distanz (p=3): 1.8926***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Biden - Satz22: "the souls of those you love and those with whom you serve rest in peace and rising glory."
+***Cosine Similarity: 0.3259, Euklidische Distanz: 25.6198, Manhattan-Distanz: 78.0799, Minkowski-Distanz (p=3): 2.2256***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Biden - Satz55: "they love one another.” it’s a simple proposition."
+***Cosine Similarity: 0.3258, Euklidische Distanz: 22.7997, Manhattan-Distanz: 73.4981, Minkowski-Distanz (p=3): 2.1069***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Biden - Satz14: "here’s the simple truth: you can’t love your country only when you win."
+***Cosine Similarity: 0.3257, Euklidische Distanz: 13.6143, Manhattan-Distanz: 58.3986, Minkowski-Distanz (p=3): 1.5878***
+
+Hitler - Satz35: "once again the ‘uninitiated’ layman could do nothing but look on while the ‘elect’ headed straight for disaster enticing their beloved people to follow them, as the rats followed the pied piper of hamelin."
+Biden - Satz51: "they’d love nothing better for us to continue to be bogged down there, totally occupied with what’s going on."
+***Cosine Similarity: 0.3256, Euklidische Distanz: 16.0561, Manhattan-Distanz: 64.4171, Minkowski-Distanz (p=3): 1.7165***
+
+Hitler - Satz44: "their whole effort ends at that, and if they should get shouldered away from the common manger by competitors with more brutal manners, then their only idea is to force themselves in again, by force or chicanery, among the herd of all the others who have similar appetites, to get back into the front row, and finally—even at the expense of their most sacred convictions—to regale themselves anew at that beloved spot where they find their fodder."
+Biden - Satz51: "they’d love nothing better for us to continue to be bogged down there, totally occupied with what’s going on."
+***Cosine Similarity: 0.3252, Euklidische Distanz: 13.6339, Manhattan-Distanz: 59.0561, Minkowski-Distanz (p=3): 1.5732***
+
+Hitler - Satz37: "it is not highly differentiated, but has only the negative and positive notions of love and hatred, right and wrong, truth and falsehood."
+Biden - Satz63: "i love you, but there’s not a lot of people i trust."
+***Cosine Similarity: 0.3249, Euklidische Distanz: 19.2397, Manhattan-Distanz: 67.0115, Minkowski-Distanz (p=3): 1.9295***
+
+Hitler - Satz52: "did not we, as youngsters, fully realise that the house of habsburg did not, and could not, have any love for us germans?"
+Biden - Satz37: "i wanted them to see the lovely homes that were right up against the fence line with their beautiful roofs, people living in there rationalized that, “it’s not me."
+***Cosine Similarity: 0.3249, Euklidische Distanz: 30.8539, Manhattan-Distanz: 85.9340, Minkowski-Distanz (p=3): 2.4333***
+
+Hitler - Satz49: "in order that this national feeling be sincere from the very beginning, and not a mere pretence, the following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable: the man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation’s welfare."
+Biden - Satz15: "this is why in this moment, those of you who love this country, democrats, independents, mainstream republicans, we must be stronger, more determined, and more committed to saving america than the maga republicans are destroying america.thank you, general."
+***Cosine Similarity: 0.3245, Euklidische Distanz: 13.9647, Manhattan-Distanz: 58.3279, Minkowski-Distanz (p=3): 1.6341***
+
+Hitler - Satz24: "with a burning love for the mother country in their hearts and a song on their lips, our young regiment went into action as if going to a dance."
+Biden - Satz79: "a crowd that professes their love for law enforcement assaulted those police officers, dragged them, sprayed them, stomped on them."
+***Cosine Similarity: 0.3244, Euklidische Distanz: 25.0323, Manhattan-Distanz: 77.7065, Minkowski-Distanz (p=3): 2.1791***
+
+Hitler - Satz40: "there were a thousand or more things which i loved, instinctively, or which i came to love during the course of my stay, but what attracted me most was the marvellous accord of native folk-energy with the fine artistic spirit of the city, that unique harmony between the hofbrauhaus and the odeon, the october festival and the pinakothek, etc."
+Biden - Satz85: "folks, being president of the united states, you are afforded many opportunities to try to express your love, commitment, and admiration for the america people."
+***Cosine Similarity: 0.3240, Euklidische Distanz: 14.2261, Manhattan-Distanz: 60.0861, Minkowski-Distanz (p=3): 1.6156***
+
+Hitler - Satz33: "often there are a wife and children at home, and in many cases it happens that these become infected by such a way of living, especially if the husband is good to them and loves them in his own way and according to his own lights."
+Biden - Satz25: "as you know better than anyone, there are young people all across america sitting in their bedrooms at night, scrolling through social media, and staring at the ceiling wondering will they ever be loved?"
+***Cosine Similarity: 0.3237, Euklidische Distanz: 16.8865, Manhattan-Distanz: 65.1137, Minkowski-Distanz (p=3): 1.7747***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.3235, Euklidische Distanz: 22.8229, Manhattan-Distanz: 73.8185, Minkowski-Distanz (p=3): 2.0962***
+
+Hitler - Satz23: "they love the german republic and tolerate its existence because no better instrument could be found to help them to keep our people in slavery."
+Biden - Satz50: "we continue to see not only the enormous scope and scale of the effort, we will see the individual lives that are affected, the families that are desperate to get home to their loved ones in america, the communities of veterans who have mobilized to try to help their former interpreters get to safety, the frightened afghans who aren’t sure what to do."
+***Cosine Similarity: 0.3233, Euklidische Distanz: 21.8351, Manhattan-Distanz: 71.9609, Minkowski-Distanz (p=3): 2.0503***
+
+Hitler - Satz41: "resorting to their old prescription, they form a ‘committee.’ they go around among their beloved public and listen to what is being said."
+Biden - Satz7: "he said, “give us the ballot and we will place judges on the benches of the south who will do justly and love mercy.” well, in just nine months, we’ve appointed more black women to circuit courts and more former public defenders of events than any administration in all of american history, because of you."
+***Cosine Similarity: 0.3229, Euklidische Distanz: 25.0659, Manhattan-Distanz: 79.5606, Minkowski-Distanz (p=3): 2.1309***
+
+Hitler - Satz8: "the first term, party, kept away all those dreamers who live in the past and all lovers of bombastic nomenclature, as well as those who went around beating the big drum for the volkisch idea."
+Biden - Satz20: "but you know, around the country, maga extremists are lining up to take on those bedrock freedoms, cutting social security that you’ve paid for your entire life, while cutting taxes from the very wealthy, dictating what healthcare decisions women can make, banning books and telling people who they can love all while making it more difficult for you to be able to vote."
+***Cosine Similarity: 0.3228, Euklidische Distanz: 15.3832, Manhattan-Distanz: 60.4062, Minkowski-Distanz (p=3): 1.7160***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Biden - Satz50: "we continue to see not only the enormous scope and scale of the effort, we will see the individual lives that are affected, the families that are desperate to get home to their loved ones in america, the communities of veterans who have mobilized to try to help their former interpreters get to safety, the frightened afghans who aren’t sure what to do."
+***Cosine Similarity: 0.3221, Euklidische Distanz: 13.8498, Manhattan-Distanz: 58.5228, Minkowski-Distanz (p=3): 1.6070***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.3219, Euklidische Distanz: 17.4344, Manhattan-Distanz: 65.2272, Minkowski-Distanz (p=3): 1.8071***
+
+Hitler - Satz55: "it was for this alone that they kept on ‘fighting.’ at that time (i admit it freely) i conceived a profound admiration for the great man beyond the alps, whose ardent love for his people inspired him not to bargain with italy’s internal enemies, but to use every possible means in an effort to wipe them out."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3218, Euklidische Distanz: 14.7926, Manhattan-Distanz: 59.1174, Minkowski-Distanz (p=3): 1.6817***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Biden - Satz29: "to the families of the 2,977 people from more than 90 nations killed on september 11th, 2001 in new york city, arlington, virginia, and shanksville, pennsylvania, and the thousand more who were injured, america and the world commemorate you and your loved ones, the pieces of your soul."
+***Cosine Similarity: 0.3217, Euklidische Distanz: 25.6637, Manhattan-Distanz: 78.2918, Minkowski-Distanz (p=3): 2.2196***
+
+Hitler - Satz44: "their whole effort ends at that, and if they should get shouldered away from the common manger by competitors with more brutal manners, then their only idea is to force themselves in again, by force or chicanery, among the herd of all the others who have similar appetites, to get back into the front row, and finally—even at the expense of their most sacred convictions—to regale themselves anew at that beloved spot where they find their fodder."
+Biden - Satz75: "let’s love good, establish justice in the gate."
+***Cosine Similarity: 0.3215, Euklidische Distanz: 13.6629, Manhattan-Distanz: 57.7001, Minkowski-Distanz (p=3): 1.6016***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Biden - Satz70: "our son started an organization before he died to make sure that people understood what it meant, going all around the country, letting people know, trying to train families, the mothers and fathers, brothers and sisters, of lgbtq+ people that they have to reach out, embrace and love their blood, to allow them to be themselves, or whether they should even be here on earth, a lot of folks wonder."
+***Cosine Similarity: 0.3214, Euklidische Distanz: 25.6672, Manhattan-Distanz: 78.6913, Minkowski-Distanz (p=3): 2.2177***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.3208, Euklidische Distanz: 18.3056, Manhattan-Distanz: 67.3326, Minkowski-Distanz (p=3): 1.8630***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Biden - Satz76: "jill and i, our hearts ache, like i’m sure all of you do as well, for all those afghan families who lost loved ones, including small children, or been wounded with this vicious attack and we’re outraged as well as heartbroken."
+***Cosine Similarity: 0.3207, Euklidische Distanz: 25.6743, Manhattan-Distanz: 78.9050, Minkowski-Distanz (p=3): 2.2079***
+
+Hitler - Satz42: "here again the only course to adopt s to attack the causes rather than the symptoms of the disease, but in this case, the primary cause s to be found in the manner in which love has been prostituted."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.3203, Euklidische Distanz: 15.2467, Manhattan-Distanz: 61.7931, Minkowski-Distanz (p=3): 1.6672***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Biden - Satz75: "let’s love good, establish justice in the gate."
+***Cosine Similarity: 0.3202, Euklidische Distanz: 17.7703, Manhattan-Distanz: 65.6241, Minkowski-Distanz (p=3): 1.8318***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Biden - Satz71: "today i’d like to talk about how we’re going to help millions of americans protect and preserve their health, and live with the dignity of knowing that they can care for themselves and their loved ones all by making the cost of prescription drugs much more reasonable."
+***Cosine Similarity: 0.3195, Euklidische Distanz: 13.8707, Manhattan-Distanz: 58.0625, Minkowski-Distanz (p=3): 1.6170***
+
+Hitler - Satz41: "resorting to their old prescription, they form a ‘committee.’ they go around among their beloved public and listen to what is being said."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.3191, Euklidische Distanz: 25.1050, Manhattan-Distanz: 79.6086, Minkowski-Distanz (p=3): 2.1370***
+
+Hitler - Satz30: "moreover, almost from the very first moment of my sojourn there, i came to love that city more than any other place known to me."
+Biden - Satz27: "i just met with two lovely women we see in front of me today here."
+***Cosine Similarity: 0.3191, Euklidische Distanz: 21.0500, Manhattan-Distanz: 71.7358, Minkowski-Distanz (p=3): 1.9844***
+
+Hitler - Satz44: "their whole effort ends at that, and if they should get shouldered away from the common manger by competitors with more brutal manners, then their only idea is to force themselves in again, by force or chicanery, among the herd of all the others who have similar appetites, to get back into the front row, and finally—even at the expense of their most sacred convictions—to regale themselves anew at that beloved spot where they find their fodder."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.3189, Euklidische Distanz: 13.6836, Manhattan-Distanz: 58.2272, Minkowski-Distanz (p=3): 1.6017***
+
+Hitler - Satz42: "here again the only course to adopt s to attack the causes rather than the symptoms of the disease, but in this case, the primary cause s to be found in the manner in which love has been prostituted."
+Biden - Satz55: "they love one another.” it’s a simple proposition."
+***Cosine Similarity: 0.3187, Euklidische Distanz: 15.2597, Manhattan-Distanz: 62.9609, Minkowski-Distanz (p=3): 1.6636***
+
+Hitler - Satz37: "it is not highly differentiated, but has only the negative and positive notions of love and hatred, right and wrong, truth and falsehood."
+Biden - Satz36: "i hear adults, much older than me, debate about my existence when they don’t even know me.”
+
+
+our message to young people across america must be unequivocal, you’re loved, you’re heard, and you’re understood, and you belong."
+***Cosine Similarity: 0.3183, Euklidische Distanz: 19.3006, Manhattan-Distanz: 66.8102, Minkowski-Distanz (p=3): 1.9423***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Biden - Satz75: "let’s love good, establish justice in the gate."
+***Cosine Similarity: 0.3180, Euklidische Distanz: 14.6454, Manhattan-Distanz: 58.5524, Minkowski-Distanz (p=3): 1.6728***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Biden - Satz20: "but you know, around the country, maga extremists are lining up to take on those bedrock freedoms, cutting social security that you’ve paid for your entire life, while cutting taxes from the very wealthy, dictating what healthcare decisions women can make, banning books and telling people who they can love all while making it more difficult for you to be able to vote."
+***Cosine Similarity: 0.3175, Euklidische Distanz: 17.4727, Manhattan-Distanz: 65.5482, Minkowski-Distanz (p=3): 1.8135***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Biden - Satz62: "every single american, no matter who you are, who you love, or where you come from, this shouldn’t be about conservative/liberal, red or blue."
+***Cosine Similarity: 0.3174, Euklidische Distanz: 18.3357, Manhattan-Distanz: 67.5387, Minkowski-Distanz (p=3): 1.8560***
+
+Hitler - Satz20: "this probing into books and newspapers and the study of the teachings of  social democracy reawakened my love for my own, people, and thus what at first seemed an impassable gulf became the occasion of a closer affection."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3168, Euklidische Distanz: 13.6829, Manhattan-Distanz: 57.5243, Minkowski-Distanz (p=3): 1.6100***
+
+Hitler - Satz10: "my mother looked after the household and lovingly devoted herself to the care of her children of that period i have not retained many memories, because after a few years my father had to leave that frontier town which i had come to love so much and take up a new post farther down the inn valley, at passau, therefore, actually in germany itself: in those days it was the usual lot of an austrian civil servant to be transferred periodically from one post to another."
+Biden - Satz67: "my thoughts are with all those families affected by the storms and all those families that have lost someone they love, and understand there’s still two … is it two people missing or …
+
+four people still missing, and i especially want to thank … it’s an overused phrase, but the brave first responders who have exemplified the courage, both in new jersey and next door in new york."
+***Cosine Similarity: 0.3165, Euklidische Distanz: 13.8240, Manhattan-Distanz: 57.9724, Minkowski-Distanz (p=3): 1.6218***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Biden - Satz39: "this is good for the workers, for their colleagues, for their loved ones and for their communities, and it’s also good for the economy."
+***Cosine Similarity: 0.3163, Euklidische Distanz: 14.6592, Manhattan-Distanz: 59.1726, Minkowski-Distanz (p=3): 1.6673***
+
+Hitler - Satz37: "it is not highly differentiated, but has only the negative and positive notions of love and hatred, right and wrong, truth and falsehood."
+Biden - Satz14: "here’s the simple truth: you can’t love your country only when you win."
+***Cosine Similarity: 0.3154, Euklidische Distanz: 19.3269, Manhattan-Distanz: 66.4085, Minkowski-Distanz (p=3): 1.9525***
+
+Hitler - Satz33: "often there are a wife and children at home, and in many cases it happens that these become infected by such a way of living, especially if the husband is good to them and loves them in his own way and according to his own lights."
+Biden - Satz81: "just think of the sons and the daughters, moms and dads, and loved ones trying to reach each other and the feeling of fear or maybe something happened and it’s just because the cell phones not working."
+***Cosine Similarity: 0.3153, Euklidische Distanz: 16.9591, Manhattan-Distanz: 64.4604, Minkowski-Distanz (p=3): 1.7818***
+
+Hitler - Satz38: "the fate of a nation cannot be altered with the velvet glove and in  the iron hand should have been used ruthlessly to crush the vipers that battened on the body of the nation."
+Biden - Satz75: "let’s love good, establish justice in the gate."
+***Cosine Similarity: 0.3150, Euklidische Distanz: 21.3458, Manhattan-Distanz: 71.2776, Minkowski-Distanz (p=3): 2.0076***
+
+Hitler - Satz25: "of those in responsible positions, ernst pohner was the only one who did not pay court to the mob, but felt that his duty was towards the nation as such and was ready to risk and sacrifice everything, even his personal livelihood, to help in the restoration of the german people, whom he dearly loved."
+Biden - Satz23: "no one should lose pay in order to get vaccinated or take a loved one to get vaccinated."
+***Cosine Similarity: 0.3148, Euklidische Distanz: 17.2302, Manhattan-Distanz: 64.9819, Minkowski-Distanz (p=3): 1.8082***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Biden - Satz18: "it’s about protecting yourself and those around you, the people you work with, the people you care about, the people you love."
+***Cosine Similarity: 0.3147, Euklidische Distanz: 14.6719, Manhattan-Distanz: 58.7507, Minkowski-Distanz (p=3): 1.6715***
+
+Hitler - Satz12: "the effervescent tone and the fine phraseology lull the reader into believing that a love for knowledge and more it principle is the sole driving force that determines the policy of such papers, whereas in reality these features represent a sunning way of disarming any opposition that might be directed against the press."
+Biden - Satz36: "i hear adults, much older than me, debate about my existence when they don’t even know me.”
+
+
+our message to young people across america must be unequivocal, you’re loved, you’re heard, and you’re understood, and you belong."
+***Cosine Similarity: 0.3139, Euklidische Distanz: 12.2723, Manhattan-Distanz: 55.3943, Minkowski-Distanz (p=3): 1.5034***
+
+Hitler - Satz36: "his life is torn asunder by hatred and love."
+Biden - Satz54: "as a young lawyer, tom dodd had already built a record of fighting hatred by prosecuting the kkk in the south, but when in 1945 he left behind his beloved grace and this five young children, a young christopher just 14 months old at the time, to travel to the bombed out cities of europe to document the shocking atrocities still fresh in their horror to question and cross examine some of history’s most notorious villains, that’s not hyperbole, some of history’s most notorious villains, and to expose beyond question the depravity and the crimes against humanity that the nazi regime committed."
+***Cosine Similarity: 0.3133, Euklidische Distanz: 36.4172, Manhattan-Distanz: 92.9269, Minkowski-Distanz (p=3): 2.6269***
+
+Hitler - Satz32: "yet all this had its good side, because the better i came to know the real leaders, or at least the propagators of social democracy, the more did my love for my own people increase accordingly."
+Biden - Satz36: "i hear adults, much older than me, debate about my existence when they don’t even know me.”
+
+
+our message to young people across america must be unequivocal, you’re loved, you’re heard, and you’re understood, and you belong."
+***Cosine Similarity: 0.3130, Euklidische Distanz: 14.6856, Manhattan-Distanz: 59.5662, Minkowski-Distanz (p=3): 1.6613***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.3129, Euklidische Distanz: 17.5136, Manhattan-Distanz: 66.1191, Minkowski-Distanz (p=3): 1.7982***
+
+Hitler - Satz17: "in coburg itself, at least a section of the marxist workers who must be looked upon as misled, learned from the blows of national socialist fists that they too, were workers fighting for ideals, because experience teaches that the human being fights only for something in which he believes and which he loves."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3127, Euklidische Distanz: 16.6248, Manhattan-Distanz: 63.8986, Minkowski-Distanz (p=3): 1.7664***
+
+Hitler - Satz55: "it was for this alone that they kept on ‘fighting.’ at that time (i admit it freely) i conceived a profound admiration for the great man beyond the alps, whose ardent love for his people inspired him not to bargain with italy’s internal enemies, but to use every possible means in an effort to wipe them out."
+Biden - Satz69: "here’s what we the antidote to hate is love."
+***Cosine Similarity: 0.3127, Euklidische Distanz: 14.8661, Manhattan-Distanz: 60.3341, Minkowski-Distanz (p=3): 1.6713***
+
+Hitler - Satz17: "in coburg itself, at least a section of the marxist workers who must be looked upon as misled, learned from the blows of national socialist fists that they too, were workers fighting for ideals, because experience teaches that the human being fights only for something in which he believes and which he loves."
+Biden - Satz54: "as a young lawyer, tom dodd had already built a record of fighting hatred by prosecuting the kkk in the south, but when in 1945 he left behind his beloved grace and this five young children, a young christopher just 14 months old at the time, to travel to the bombed out cities of europe to document the shocking atrocities still fresh in their horror to question and cross examine some of history’s most notorious villains, that’s not hyperbole, some of history’s most notorious villains, and to expose beyond question the depravity and the crimes against humanity that the nazi regime committed."
+***Cosine Similarity: 0.3124, Euklidische Distanz: 16.6280, Manhattan-Distanz: 63.7122, Minkowski-Distanz (p=3): 1.7620***
+
+Hitler - Satz15: "if the german nation were presented with a body of six million young men who had been perfectly trained in athletic sports, who were imbued with an ardent love of their country and were ready to take the initiative in a fight, then the nationalist state could make an army out of that body within less than two years, if necessary, provided the cadres already existed."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.3120, Euklidische Distanz: 18.0637, Manhattan-Distanz: 66.3932, Minkowski-Distanz (p=3): 1.8535***
+
+Hitler - Satz25: "of those in responsible positions, ernst pohner was the only one who did not pay court to the mob, but felt that his duty was towards the nation as such and was ready to risk and sacrifice everything, even his personal livelihood, to help in the restoration of the german people, whom he dearly loved."
+Biden - Satz54: "as a young lawyer, tom dodd had already built a record of fighting hatred by prosecuting the kkk in the south, but when in 1945 he left behind his beloved grace and this five young children, a young christopher just 14 months old at the time, to travel to the bombed out cities of europe to document the shocking atrocities still fresh in their horror to question and cross examine some of history’s most notorious villains, that’s not hyperbole, some of history’s most notorious villains, and to expose beyond question the depravity and the crimes against humanity that the nazi regime committed."
+***Cosine Similarity: 0.3118, Euklidische Distanz: 17.2567, Manhattan-Distanz: 64.4759, Minkowski-Distanz (p=3): 1.8173***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Biden - Satz67: "my thoughts are with all those families affected by the storms and all those families that have lost someone they love, and understand there’s still two … is it two people missing or …
+
+four people still missing, and i especially want to thank … it’s an overused phrase, but the brave first responders who have exemplified the courage, both in new jersey and next door in new york."
+***Cosine Similarity: 0.3114, Euklidische Distanz: 25.7732, Manhattan-Distanz: 78.6574, Minkowski-Distanz (p=3): 2.2308***
+
+Hitler - Satz50: "then we saw, as we can see to-day, the greatest parliamentary nincompoops, really common saddlers and glove-makers (not merely by trade, for that would signify very little) suddenly raised to the rank of statesmen and sermonising to humble mortals from that pedestal."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.3112, Euklidische Distanz: 14.4247, Manhattan-Distanz: 59.3816, Minkowski-Distanz (p=3): 1.6451***
+
+Hitler - Satz25: "of those in responsible positions, ernst pohner was the only one who did not pay court to the mob, but felt that his duty was towards the nation as such and was ready to risk and sacrifice everything, even his personal livelihood, to help in the restoration of the german people, whom he dearly loved."
+Biden - Satz7: "he said, “give us the ballot and we will place judges on the benches of the south who will do justly and love mercy.” well, in just nine months, we’ve appointed more black women to circuit courts and more former public defenders of events than any administration in all of american history, because of you."
+***Cosine Similarity: 0.3108, Euklidische Distanz: 17.2653, Manhattan-Distanz: 64.8414, Minkowski-Distanz (p=3): 1.8163***
+
+Hitler - Satz55: "it was for this alone that they kept on ‘fighting.’ at that time (i admit it freely) i conceived a profound admiration for the great man beyond the alps, whose ardent love for his people inspired him not to bargain with italy’s internal enemies, but to use every possible means in an effort to wipe them out."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.3100, Euklidische Distanz: 14.8880, Manhattan-Distanz: 58.2602, Minkowski-Distanz (p=3): 1.7071***
+
+Hitler - Satz39: "to have liberated the high ideal of love for one’s country from the embrace of this deplorable dynasty was one of the great services rendered by the pan-german movement."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.3097, Euklidische Distanz: 17.8628, Manhattan-Distanz: 65.6621, Minkowski-Distanz (p=3): 1.8290***
+
+Hitler - Satz36: "his life is torn asunder by hatred and love."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.3096, Euklidische Distanz: 36.4625, Manhattan-Distanz: 92.7352, Minkowski-Distanz (p=3): 2.6523***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Biden - Satz1: "that’s why we’re here today, to renew our own courage, in the shadow and the light, on the shoulders of dr. king, curtis scott king, and all those known and unknown who gave their whole souls to this work, the courage to confront wrong and to try to do right, the courage to heal the broken places of the nation, the courage to see america whole, to acknowledge where we fall short, to devote ourselves with the perfection of the union that we love and we must protect."
+***Cosine Similarity: 0.3077, Euklidische Distanz: 22.9814, Manhattan-Distanz: 73.9473, Minkowski-Distanz (p=3): 2.1072***
+
+Hitler - Satz4: "i can love only what i respect, and in order to respect a thing i must at least have some knowledge of it."
+Biden - Satz56: "each one of these women and men of our armed forces are the heirs of that tradition of sacrifice, and of volunteering to go in harm’s way to risk everything, not for glory, not-for-profit, but to defend what we love and the people we love, and i ask that you join me now in a moment of silence for all those in uniform and out of uniform, military and civilian, who have given the last full measure of devotion."
+***Cosine Similarity: 0.3075, Euklidische Distanz: 22.9828, Manhattan-Distanz: 74.0295, Minkowski-Distanz (p=3): 2.1149***
+
+Hitler - Satz1: "at the time of our fatherland’s deepest humiliation, a nurnberg bookseller, johannes palm, an uncompromising nationalist and an enemy of the french, was put to death here because he had loved germany even in her misfortune."
+Biden - Satz54: "as a young lawyer, tom dodd had already built a record of fighting hatred by prosecuting the kkk in the south, but when in 1945 he left behind his beloved grace and this five young children, a young christopher just 14 months old at the time, to travel to the bombed out cities of europe to document the shocking atrocities still fresh in their horror to question and cross examine some of history’s most notorious villains, that’s not hyperbole, some of history’s most notorious villains, and to expose beyond question the depravity and the crimes against humanity that the nazi regime committed."
+***Cosine Similarity: 0.3070, Euklidische Distanz: 18.5821, Manhattan-Distanz: 65.8795, Minkowski-Distanz (p=3): 1.8974***
+
+Hitler - Satz3: "more than once thousands of young germans have rallied to a call, resolved, as in , freely and willingly to offer themselves as a sacrifice on the altar of their beloved fatherland."
+Biden - Satz17: "beloved by colleagues, anchored by the love of family."
+***Cosine Similarity: 0.3069, Euklidische Distanz: 25.8209, Manhattan-Distanz: 78.5172, Minkowski-Distanz (p=3): 2.2250***
+
+Hitler - Satz55: "it was for this alone that they kept on ‘fighting.’ at that time (i admit it freely) i conceived a profound admiration for the great man beyond the alps, whose ardent love for his people inspired him not to bargain with italy’s internal enemies, but to use every possible means in an effort to wipe them out."
+Biden - Satz53: "five years later, no man deserves one great love, let alone two."
+***Cosine Similarity: 0.3065, Euklidische Distanz: 14.9163, Manhattan-Distanz: 59.4987, Minkowski-Distanz (p=3): 1.6797***
+
+Hitler - Satz52: "did not we, as youngsters, fully realise that the house of habsburg did not, and could not, have any love for us germans?"
+Biden - Satz87: "right now, there are young people sitting in their bedroom, doors closed, silent, scrolling through social media, staring at the ceiling, wondering if they’ll ever be loved, ever marry, ever have a family, be accepted by their own family sometimes."
+***Cosine Similarity: 0.3065, Euklidische Distanz: 31.0670, Manhattan-Distanz: 85.9413, Minkowski-Distanz (p=3): 2.4486***
+
+Hitler - Satz47: "as a logical consequence of these convictions, there arose in me a feeling of intense love for my german-austrian home and a profound hatred for the austrian state."
+Biden - Satz37: "i wanted them to see the lovely homes that were right up against the fence line with their beautiful roofs, people living in there rationalized that, “it’s not me."
+***Cosine Similarity: 0.3056, Euklidische Distanz: 26.0337, Manhattan-Distanz: 78.2669, Minkowski-Distanz (p=3): 2.2428***
+
+Hitler - Satz54: "however much any honourable german may love and revere those old colours, glorious in their youthful freshness, if he has fought under them and seen the sacrifice of so many lives; they can never serve as an emblem for the struggle of the future."
+Biden - Satz64: "may god bless the lives lost on september 11th, 2001 and their loved ones that were left behind."
+***Cosine Similarity: 0.3054, Euklidische Distanz: 20.7875, Manhattan-Distanz: 70.9287, Minkowski-Distanz (p=3): 2.0156***
+
+Hitler - Satz22: "on the one, hand, bismarck showed the greatest regard for customs and traditions; on the other hand his policy secured for the new reich, from its foundation onwards, a great measure of love and willing co-operation."
+Biden - Satz43: "he loved the outdoors."
+***Cosine Similarity: 0.3053, Euklidische Distanz: 19.6667, Manhattan-Distanz: 67.2452, Minkowski-Distanz (p=3): 1.9621***
+
+Hitler - Satz11: "for the first time in modem history the traditional dynastic patriotism and national love of fatherland and people were in open conflict."
+Biden - Satz70: "our son started an organization before he died to make sure that people understood what it meant, going all around the country, letting people know, trying to train families, the mothers and fathers, brothers and sisters, of lgbtq+ people that they have to reach out, embrace and love their blood, to allow them to be themselves, or whether they should even be here on earth, a lot of folks wonder."
+***Cosine Similarity: 0.3046, Euklidische Distanz: 22.8607, Manhattan-Distanz: 74.0394, Minkowski-Distanz (p=3): 2.0720***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Biden - Satz2: "so let’s act together to support you in the service of the nation we love."
+***Cosine Similarity: 0.3043, Euklidische Distanz: 17.5889, Manhattan-Distanz: 66.1761, Minkowski-Distanz (p=3): 1.8112***
+
+Hitler - Satz56: "in this way a few months sufficed for me to learn something which in other circumstances might have required years of study namely, that under the cloak of social virtue and love of one’s neighbour a veritable pestilence was spreading abroad and that if this pestilence were not stamped out without delay it might eventually succeed in exterminating the human race."
+Biden - Satz36: "i hear adults, much older than me, debate about my existence when they don’t even know me.”
+
+
+our message to young people across america must be unequivocal, you’re loved, you’re heard, and you’re understood, and you belong."
+***Cosine Similarity: 0.3034, Euklidische Distanz: 14.0889, Manhattan-Distanz: 59.0546, Minkowski-Distanz (p=3): 1.6056***
+
+Hitler - Satz29: "love is less subject to change than respect."
+Biden - Satz63: "i love you, but there’s not a lot of people i trust."
+***Cosine Similarity: 0.3030, Euklidische Distanz: 41.3121, Manhattan-Distanz: 100.0907, Minkowski-Distanz (p=3): 2.8313***
+
+Hitler - Satz9: "it is high time that even our easily duped bourgeoisie, which loves to dabble in politics, realised that to-day we have not to fight for ‘sea-power’ and the like."
+Biden - Satz47: "in the words of scripture, to remind us to hate evil, love good and establish justice in the gate."
+***Cosine Similarity: 0.3028, Euklidische Distanz: 17.6015, Manhattan-Distanz: 65.3963, Minkowski-Distanz (p=3): 1.8178***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Biden - Satz42: "i pledge to all the families that we will not rest until we bring every one of your loved ones home."
+***Cosine Similarity: 0.3025, Euklidische Distanz: 14.0035, Manhattan-Distanz: 58.3189, Minkowski-Distanz (p=3): 1.6228***
+
+Hitler - Satz38: "the fate of a nation cannot be altered with the velvet glove and in  the iron hand should have been used ruthlessly to crush the vipers that battened on the body of the nation."
+Biden - Satz14: "here’s the simple truth: you can’t love your country only when you win."
+***Cosine Similarity: 0.3023, Euklidische Distanz: 21.4687, Manhattan-Distanz: 71.7972, Minkowski-Distanz (p=3): 2.0104***
+
+Hitler - Satz18: "if, among those intellectual circles that are nationalist in their outlook, men can be found who genuinely love their people and look forward eagerly to the future of germany, and at the same time have a sound grasp of the importance of a struggle, whose aim is to win over the soul of the masses, such men will be cordially welcomed in the ranks of the movement."
+Biden - Satz36: "i hear adults, much older than me, debate about my existence when they don’t even know me.”
+
+
+our message to young people across america must be unequivocal, you’re loved, you’re heard, and you’re understood, and you belong."
+***Cosine Similarity: 0.3016, Euklidische Distanz: 18.4776, Manhattan-Distanz: 67.2624, Minkowski-Distanz (p=3): 1.8739***
+
+Hitler - Satz52: "did not we, as youngsters, fully realise that the house of habsburg did not, and could not, have any love for us germans?"
+Biden - Satz54: "as a young lawyer, tom dodd had already built a record of fighting hatred by prosecuting the kkk in the south, but when in 1945 he left behind his beloved grace and this five young children, a young christopher just 14 months old at the time, to travel to the bombed out cities of europe to document the shocking atrocities still fresh in their horror to question and cross examine some of history’s most notorious villains, that’s not hyperbole, some of history’s most notorious villains, and to expose beyond question the depravity and the crimes against humanity that the nazi regime committed."
+***Cosine Similarity: 0.3012, Euklidische Distanz: 31.1282, Manhattan-Distanz: 86.7814, Minkowski-Distanz (p=3): 2.4422***
+
+Hitler - Satz50: "then we saw, as we can see to-day, the greatest parliamentary nincompoops, really common saddlers and glove-makers (not merely by trade, for that would signify very little) suddenly raised to the rank of statesmen and sermonising to humble mortals from that pedestal."
+Biden - Satz4: "so please go today for yourself, for your loved ones, for your neighbors, for your country."
+***Cosine Similarity: 0.3006, Euklidische Distanz: 14.5094, Manhattan-Distanz: 59.5835, Minkowski-Distanz (p=3): 1.6506***
+
+Hitler - Satz27: "the state must also teach the people that it is an expression of a really noble nature and that it is a humanitarian act worthy of admiration if a person who innocently suffers from hereditary disease refrains from having a child of his own, but gives his love and affection to some unknown child who, through its health, promises to become a healthy member of a healthy community."
+Biden - Satz36: "i hear adults, much older than me, debate about my existence when they don’t even know me.”
+
+
+our message to young people across america must be unequivocal, you’re loved, you’re heard, and you’re understood, and you belong."
+***Cosine Similarity: 0.3002, Euklidische Distanz: 14.0221, Manhattan-Distanz: 59.6605, Minkowski-Distanz (p=3): 1.6042***
+
