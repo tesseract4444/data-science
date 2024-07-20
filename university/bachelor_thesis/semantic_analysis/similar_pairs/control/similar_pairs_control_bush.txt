@@ -1,0 +1,1128 @@
+Gefilterte Sätze mit Cosine Similarity, euklidischer Distanz, Manhattan-Distanz und Minkowski-Distanz (nach Cosine Similarity sortiert):
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Bush - Satz24: "the only way to protect our people, the only way to secure the peace, the only way to control our destiny is by our leadership."
+***Cosine Similarity: 0.5702, Euklidische Distanz: 19.3840, Manhattan-Distanz: 67.6781, Minkowski-Distanz (p=3): 1.9427***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.5155, Euklidische Distanz: 17.2286, Manhattan-Distanz: 65.2908, Minkowski-Distanz (p=3): 1.8029***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.5093, Euklidische Distanz: 16.6949, Manhattan-Distanz: 64.0737, Minkowski-Distanz (p=3): 1.7796***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.5086, Euklidische Distanz: 20.3032, Manhattan-Distanz: 71.3582, Minkowski-Distanz (p=3): 1.9268***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Bush - Satz15: "now, as then, they seek to impose a joyless conformity, to control every life and all of life."
+***Cosine Similarity: 0.5048, Euklidische Distanz: 20.0244, Manhattan-Distanz: 68.4469, Minkowski-Distanz (p=3): 1.9832***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.5004, Euklidische Distanz: 14.5110, Manhattan-Distanz: 57.8312, Minkowski-Distanz (p=3): 1.6940***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.4967, Euklidische Distanz: 14.4101, Manhattan-Distanz: 58.6739, Minkowski-Distanz (p=3): 1.6646***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.4966, Euklidische Distanz: 17.0420, Manhattan-Distanz: 64.4910, Minkowski-Distanz (p=3): 1.7875***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.4954, Euklidische Distanz: 16.8197, Manhattan-Distanz: 63.6464, Minkowski-Distanz (p=3): 1.7922***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Bush - Satz16: "the leaders of governments with long habits of control need to know: to serve your people you must learn to trust them."
+***Cosine Similarity: 0.4948, Euklidische Distanz: 20.1218, Manhattan-Distanz: 68.5910, Minkowski-Distanz (p=3): 1.9773***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.4910, Euklidische Distanz: 14.4579, Manhattan-Distanz: 59.1898, Minkowski-Distanz (p=3): 1.6611***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.4838, Euklidische Distanz: 22.2134, Manhattan-Distanz: 73.7754, Minkowski-Distanz (p=3): 2.0298***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Bush - Satz16: "the leaders of governments with long habits of control need to know: to serve your people you must learn to trust them."
+***Cosine Similarity: 0.4835, Euklidische Distanz: 17.2363, Manhattan-Distanz: 65.6600, Minkowski-Distanz (p=3): 1.7856***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Bush - Satz15: "now, as then, they seek to impose a joyless conformity, to control every life and all of life."
+***Cosine Similarity: 0.4817, Euklidische Distanz: 17.2531, Manhattan-Distanz: 65.7969, Minkowski-Distanz (p=3): 1.7778***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.4793, Euklidische Distanz: 24.5319, Manhattan-Distanz: 76.3180, Minkowski-Distanz (p=3): 2.1824***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4701, Euklidische Distanz: 20.3639, Manhattan-Distanz: 70.0741, Minkowski-Distanz (p=3): 1.9729***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4693, Euklidische Distanz: 18.8153, Manhattan-Distanz: 67.2001, Minkowski-Distanz (p=3): 1.8886***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.4643, Euklidische Distanz: 18.0448, Manhattan-Distanz: 65.3490, Minkowski-Distanz (p=3): 1.8786***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4594, Euklidische Distanz: 22.4637, Manhattan-Distanz: 74.8982, Minkowski-Distanz (p=3): 2.0318***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.4544, Euklidische Distanz: 17.1890, Manhattan-Distanz: 64.2427, Minkowski-Distanz (p=3): 1.8143***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.4480, Euklidische Distanz: 20.5807, Manhattan-Distanz: 69.5712, Minkowski-Distanz (p=3): 1.9996***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.4473, Euklidische Distanz: 21.8217, Manhattan-Distanz: 73.5548, Minkowski-Distanz (p=3): 2.0209***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Bush - Satz36: "this new agency will control our borders and prevent terrorists and explosives from entering our country."
+***Cosine Similarity: 0.4448, Euklidische Distanz: 22.6126, Manhattan-Distanz: 74.9586, Minkowski-Distanz (p=3): 2.0498***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.4437, Euklidische Distanz: 17.5216, Manhattan-Distanz: 65.3843, Minkowski-Distanz (p=3): 1.8217***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4430, Euklidische Distanz: 20.9497, Manhattan-Distanz: 73.5136, Minkowski-Distanz (p=3): 1.9416***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Bush - Satz21: "in all these proposals, we seek to provide not just a government program, but a path -- a path to greater opportunity, more freedom, and more control over your own life."
+***Cosine Similarity: 0.4420, Euklidische Distanz: 20.6389, Manhattan-Distanz: 69.3555, Minkowski-Distanz (p=3): 1.9996***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4403, Euklidische Distanz: 17.6293, Manhattan-Distanz: 66.4054, Minkowski-Distanz (p=3): 1.8080***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Bush - Satz21: "in all these proposals, we seek to provide not just a government program, but a path -- a path to greater opportunity, more freedom, and more control over your own life."
+***Cosine Similarity: 0.4398, Euklidische Distanz: 17.3208, Manhattan-Distanz: 65.1295, Minkowski-Distanz (p=3): 1.7986***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.4397, Euklidische Distanz: 24.9558, Manhattan-Distanz: 77.7420, Minkowski-Distanz (p=3): 2.1825***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4394, Euklidische Distanz: 14.8899, Manhattan-Distanz: 59.8332, Minkowski-Distanz (p=3): 1.6870***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Bush - Satz24: "the only way to protect our people, the only way to secure the peace, the only way to control our destiny is by our leadership."
+***Cosine Similarity: 0.4393, Euklidische Distanz: 13.4183, Manhattan-Distanz: 57.5664, Minkowski-Distanz (p=3): 1.5849***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Bush - Satz24: "the only way to protect our people, the only way to secure the peace, the only way to control our destiny is by our leadership."
+***Cosine Similarity: 0.4388, Euklidische Distanz: 20.9917, Manhattan-Distanz: 73.4925, Minkowski-Distanz (p=3): 1.9477***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.4385, Euklidische Distanz: 22.6771, Manhattan-Distanz: 74.5382, Minkowski-Distanz (p=3): 2.0589***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.4384, Euklidische Distanz: 15.0328, Manhattan-Distanz: 59.0114, Minkowski-Distanz (p=3): 1.7208***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Bush - Satz24: "the only way to protect our people, the only way to secure the peace, the only way to control our destiny is by our leadership."
+***Cosine Similarity: 0.4372, Euklidische Distanz: 16.1693, Manhattan-Distanz: 63.4460, Minkowski-Distanz (p=3): 1.7357***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.4370, Euklidische Distanz: 14.9953, Manhattan-Distanz: 60.4514, Minkowski-Distanz (p=3): 1.6764***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Bush - Satz27: "america has a greater objective than controlling threats and containing resentment."
+***Cosine Similarity: 0.4329, Euklidische Distanz: 17.9852, Manhattan-Distanz: 66.5175, Minkowski-Distanz (p=3): 1.8393***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.4323, Euklidische Distanz: 25.0347, Manhattan-Distanz: 77.6793, Minkowski-Distanz (p=3): 2.1954***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.4320, Euklidische Distanz: 15.0871, Manhattan-Distanz: 58.6459, Minkowski-Distanz (p=3): 1.7400***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz24: "the only way to protect our people, the only way to secure the peace, the only way to control our destiny is by our leadership."
+***Cosine Similarity: 0.4320, Euklidische Distanz: 21.9757, Manhattan-Distanz: 74.3364, Minkowski-Distanz (p=3): 2.0181***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Bush - Satz16: "the leaders of governments with long habits of control need to know: to serve your people you must learn to trust them."
+***Cosine Similarity: 0.4298, Euklidische Distanz: 22.7659, Manhattan-Distanz: 75.2511, Minkowski-Distanz (p=3): 2.0528***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4280, Euklidische Distanz: 20.6378, Manhattan-Distanz: 71.3293, Minkowski-Distanz (p=3): 1.9694***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.4275, Euklidische Distanz: 20.4834, Manhattan-Distanz: 69.9664, Minkowski-Distanz (p=3): 2.0038***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.4274, Euklidische Distanz: 14.9907, Manhattan-Distanz: 59.7359, Minkowski-Distanz (p=3): 1.7026***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Bush - Satz21: "in all these proposals, we seek to provide not just a government program, but a path -- a path to greater opportunity, more freedom, and more control over your own life."
+***Cosine Similarity: 0.4258, Euklidische Distanz: 20.6590, Manhattan-Distanz: 70.6398, Minkowski-Distanz (p=3): 1.9700***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.4253, Euklidische Distanz: 18.9206, Manhattan-Distanz: 70.1780, Minkowski-Distanz (p=3): 1.8426***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.4252, Euklidische Distanz: 27.2240, Manhattan-Distanz: 82.1443, Minkowski-Distanz (p=3): 2.2442***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.4246, Euklidische Distanz: 18.9385, Manhattan-Distanz: 68.6283, Minkowski-Distanz (p=3): 1.8795***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.4239, Euklidische Distanz: 23.7988, Manhattan-Distanz: 74.5448, Minkowski-Distanz (p=3): 2.1471***
+
+Hitler - Satz3: "hence, as early as —, practically all production was under the control of jewish finance."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.4228, Euklidische Distanz: 28.0727, Manhattan-Distanz: 80.7885, Minkowski-Distanz (p=3): 2.3454***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.4226, Euklidische Distanz: 20.6907, Manhattan-Distanz: 70.7558, Minkowski-Distanz (p=3): 1.9804***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.4216, Euklidische Distanz: 22.8505, Manhattan-Distanz: 74.7472, Minkowski-Distanz (p=3): 2.0639***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.4209, Euklidische Distanz: 19.2719, Manhattan-Distanz: 67.5988, Minkowski-Distanz (p=3): 1.9216***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.4183, Euklidische Distanz: 17.3001, Manhattan-Distanz: 63.7898, Minkowski-Distanz (p=3): 1.8176***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4181, Euklidische Distanz: 17.7528, Manhattan-Distanz: 66.1051, Minkowski-Distanz (p=3): 1.8240***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.4176, Euklidische Distanz: 23.8645, Manhattan-Distanz: 74.9590, Minkowski-Distanz (p=3): 2.1463***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.4168, Euklidische Distanz: 17.8423, Manhattan-Distanz: 67.3824, Minkowski-Distanz (p=3): 1.8110***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.4162, Euklidische Distanz: 19.3163, Manhattan-Distanz: 68.0287, Minkowski-Distanz (p=3): 1.9156***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.4160, Euklidische Distanz: 20.8940, Manhattan-Distanz: 70.3082, Minkowski-Distanz (p=3): 2.0182***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Bush - Satz12: "members of congress, we must work together to help control those costs and extend the benefits of modern medicine throughout our country."
+***Cosine Similarity: 0.4158, Euklidische Distanz: 20.7562, Manhattan-Distanz: 70.8286, Minkowski-Distanz (p=3): 1.9802***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Bush - Satz16: "the leaders of governments with long habits of control need to know: to serve your people you must learn to trust them."
+***Cosine Similarity: 0.4149, Euklidische Distanz: 21.2273, Manhattan-Distanz: 73.5700, Minkowski-Distanz (p=3): 1.9593***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.4140, Euklidische Distanz: 18.1577, Manhattan-Distanz: 67.4454, Minkowski-Distanz (p=3): 1.8401***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4138, Euklidische Distanz: 36.7217, Manhattan-Distanz: 97.5219, Minkowski-Distanz (p=3): 2.5774***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Bush - Satz27: "america has a greater objective than controlling threats and containing resentment."
+***Cosine Similarity: 0.4138, Euklidische Distanz: 18.7533, Manhattan-Distanz: 67.5799, Minkowski-Distanz (p=3): 1.8799***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Bush - Satz20: "we have no ambition in iraq, except to remove a threat and restore control of that country to its own people."
+***Cosine Similarity: 0.4131, Euklidische Distanz: 14.7816, Manhattan-Distanz: 59.8421, Minkowski-Distanz (p=3): 1.6834***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.4127, Euklidische Distanz: 20.6278, Manhattan-Distanz: 69.9035, Minkowski-Distanz (p=3): 2.0130***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4118, Euklidische Distanz: 27.3728, Manhattan-Distanz: 82.6158, Minkowski-Distanz (p=3): 2.2505***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.4113, Euklidische Distanz: 15.2116, Manhattan-Distanz: 60.7750, Minkowski-Distanz (p=3): 1.6868***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Bush - Satz15: "now, as then, they seek to impose a joyless conformity, to control every life and all of life."
+***Cosine Similarity: 0.4107, Euklidische Distanz: 17.8201, Manhattan-Distanz: 66.2058, Minkowski-Distanz (p=3): 1.8302***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Bush - Satz22: "it's just the rhetoric got out of control at times --
+
+i don't know why."
+***Cosine Similarity: 0.4086, Euklidische Distanz: 15.2840, Manhattan-Distanz: 60.8222, Minkowski-Distanz (p=3): 1.7102***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4071, Euklidische Distanz: 17.6157, Manhattan-Distanz: 65.6785, Minkowski-Distanz (p=3): 1.8237***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.4049, Euklidische Distanz: 21.3263, Manhattan-Distanz: 73.9601, Minkowski-Distanz (p=3): 1.9674***
+
+Hitler - Satz21: "in proportion to the extent that commerce assumed definite control of the state, money became more and more of a god whom all had to serve and before whom all had to bow."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4041, Euklidische Distanz: 20.2525, Manhattan-Distanz: 71.1453, Minkowski-Distanz (p=3): 1.9350***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Bush - Satz22: "it's just the rhetoric got out of control at times --
+
+i don't know why."
+***Cosine Similarity: 0.4025, Euklidische Distanz: 13.7121, Manhattan-Distanz: 57.9633, Minkowski-Distanz (p=3): 1.6072***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4017, Euklidische Distanz: 22.2808, Manhattan-Distanz: 74.3072, Minkowski-Distanz (p=3): 2.0414***
+
+Hitler - Satz6: "jews control the financial forces of america on the stock exchange."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.4015, Euklidische Distanz: 36.4884, Manhattan-Distanz: 94.4303, Minkowski-Distanz (p=3): 2.6053***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3983, Euklidische Distanz: 15.2351, Manhattan-Distanz: 60.2392, Minkowski-Distanz (p=3): 1.7153***
+
+Hitler - Satz21: "in proportion to the extent that commerce assumed definite control of the state, money became more and more of a god whom all had to serve and before whom all had to bow."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3981, Euklidische Distanz: 20.3103, Manhattan-Distanz: 69.9475, Minkowski-Distanz (p=3): 1.9555***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3954, Euklidische Distanz: 15.7559, Manhattan-Distanz: 61.3130, Minkowski-Distanz (p=3): 1.7477***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Bush - Satz20: "we have no ambition in iraq, except to remove a threat and restore control of that country to its own people."
+***Cosine Similarity: 0.3938, Euklidische Distanz: 20.8116, Manhattan-Distanz: 70.8946, Minkowski-Distanz (p=3): 2.0198***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3928, Euklidische Distanz: 18.3520, Manhattan-Distanz: 67.8463, Minkowski-Distanz (p=3): 1.8479***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3924, Euklidische Distanz: 15.2841, Manhattan-Distanz: 60.3611, Minkowski-Distanz (p=3): 1.6994***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Bush - Satz23: "by keeping costs under control, expanding access, and helping more americans afford coverage, we will preserve the system of private medicine that makes america's health care the best in the world."
+***Cosine Similarity: 0.3920, Euklidische Distanz: 21.4531, Manhattan-Distanz: 72.9667, Minkowski-Distanz (p=3): 1.9921***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Bush - Satz21: "in all these proposals, we seek to provide not just a government program, but a path -- a path to greater opportunity, more freedom, and more control over your own life."
+***Cosine Similarity: 0.3910, Euklidische Distanz: 17.3106, Manhattan-Distanz: 64.6273, Minkowski-Distanz (p=3): 1.8144***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3908, Euklidische Distanz: 15.7954, Manhattan-Distanz: 61.2493, Minkowski-Distanz (p=3): 1.7474***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Bush - Satz15: "now, as then, they seek to impose a joyless conformity, to control every life and all of life."
+***Cosine Similarity: 0.3893, Euklidische Distanz: 24.1594, Manhattan-Distanz: 75.0147, Minkowski-Distanz (p=3): 2.1579***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3891, Euklidische Distanz: 14.7718, Manhattan-Distanz: 58.9363, Minkowski-Distanz (p=3): 1.6895***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Bush - Satz20: "we have no ambition in iraq, except to remove a threat and restore control of that country to its own people."
+***Cosine Similarity: 0.3887, Euklidische Distanz: 15.4020, Manhattan-Distanz: 61.7349, Minkowski-Distanz (p=3): 1.6986***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3882, Euklidische Distanz: 14.7788, Manhattan-Distanz: 59.5692, Minkowski-Distanz (p=3): 1.6743***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3866, Euklidische Distanz: 17.5836, Manhattan-Distanz: 64.9315, Minkowski-Distanz (p=3): 1.8226***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3860, Euklidische Distanz: 12.8694, Manhattan-Distanz: 56.2169, Minkowski-Distanz (p=3): 1.5496***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3860, Euklidische Distanz: 19.6014, Manhattan-Distanz: 68.7162, Minkowski-Distanz (p=3): 1.9254***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3858, Euklidische Distanz: 37.0805, Manhattan-Distanz: 97.1031, Minkowski-Distanz (p=3): 2.6016***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3853, Euklidische Distanz: 24.2010, Manhattan-Distanz: 75.0700, Minkowski-Distanz (p=3): 2.1607***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3848, Euklidische Distanz: 16.6256, Manhattan-Distanz: 64.6161, Minkowski-Distanz (p=3): 1.7562***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3831, Euklidische Distanz: 24.2240, Manhattan-Distanz: 75.3899, Minkowski-Distanz (p=3): 2.1625***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Bush - Satz24: "the only way to protect our people, the only way to secure the peace, the only way to control our destiny is by our leadership."
+***Cosine Similarity: 0.3816, Euklidische Distanz: 23.2595, Manhattan-Distanz: 76.2374, Minkowski-Distanz (p=3): 2.0747***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3815, Euklidische Distanz: 18.9025, Manhattan-Distanz: 65.7535, Minkowski-Distanz (p=3): 1.9245***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3799, Euklidische Distanz: 16.6684, Manhattan-Distanz: 63.7535, Minkowski-Distanz (p=3): 1.7724***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3793, Euklidische Distanz: 21.5784, Manhattan-Distanz: 73.7557, Minkowski-Distanz (p=3): 1.9834***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3789, Euklidische Distanz: 17.6991, Manhattan-Distanz: 65.1910, Minkowski-Distanz (p=3): 1.8498***
+
+Hitler - Satz9: "the cleavage between official, or rather traditional, british statesmanship and the controlling influence of the jew on the money-markets is nowhere so clearly manifested as in the various attitudes adopted towards problems of british foreign policy."
+Bush - Satz22: "it's just the rhetoric got out of control at times --
+
+i don't know why."
+***Cosine Similarity: 0.3787, Euklidische Distanz: 18.6607, Manhattan-Distanz: 67.3647, Minkowski-Distanz (p=3): 1.8774***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3783, Euklidische Distanz: 19.6735, Manhattan-Distanz: 68.6126, Minkowski-Distanz (p=3): 1.9253***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3783, Euklidische Distanz: 17.4243, Manhattan-Distanz: 64.4832, Minkowski-Distanz (p=3): 1.8237***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3782, Euklidische Distanz: 18.1146, Manhattan-Distanz: 66.8841, Minkowski-Distanz (p=3): 1.8412***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3782, Euklidische Distanz: 18.1928, Manhattan-Distanz: 68.1518, Minkowski-Distanz (p=3): 1.8276***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3774, Euklidische Distanz: 21.5972, Manhattan-Distanz: 74.3271, Minkowski-Distanz (p=3): 1.9761***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3772, Euklidische Distanz: 21.5994, Manhattan-Distanz: 74.3204, Minkowski-Distanz (p=3): 1.9790***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3770, Euklidische Distanz: 17.8863, Manhattan-Distanz: 65.2989, Minkowski-Distanz (p=3): 1.8509***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Bush - Satz24: "the only way to protect our people, the only way to secure the peace, the only way to control our destiny is by our leadership."
+***Cosine Similarity: 0.3767, Euklidische Distanz: 18.2070, Manhattan-Distanz: 68.4617, Minkowski-Distanz (p=3): 1.8254***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Bush - Satz27: "america has a greater objective than controlling threats and containing resentment."
+***Cosine Similarity: 0.3763, Euklidische Distanz: 18.2105, Manhattan-Distanz: 67.8229, Minkowski-Distanz (p=3): 1.8365***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Bush - Satz3: "now the task is to build on the success without watering down standards, without taking control from local communities, and without backsliding and calling it reform."
+***Cosine Similarity: 0.3758, Euklidische Distanz: 15.5103, Manhattan-Distanz: 61.6977, Minkowski-Distanz (p=3): 1.6965***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3758, Euklidische Distanz: 15.5606, Manhattan-Distanz: 60.1459, Minkowski-Distanz (p=3): 1.7501***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Bush - Satz27: "america has a greater objective than controlling threats and containing resentment."
+***Cosine Similarity: 0.3758, Euklidische Distanz: 15.4238, Manhattan-Distanz: 59.7868, Minkowski-Distanz (p=3): 1.7505***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3744, Euklidische Distanz: 18.8752, Manhattan-Distanz: 66.4617, Minkowski-Distanz (p=3): 1.9193***
+
+Hitler - Satz38: "financial exchange circles began to triumph and made slow but sure progress in assuming control of the whole of national life."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3744, Euklidische Distanz: 22.8002, Manhattan-Distanz: 76.4787, Minkowski-Distanz (p=3): 2.0306***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3737, Euklidische Distanz: 21.0071, Manhattan-Distanz: 71.0396, Minkowski-Distanz (p=3): 2.0250***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Bush - Satz27: "america has a greater objective than controlling threats and containing resentment."
+***Cosine Similarity: 0.3732, Euklidische Distanz: 21.3127, Manhattan-Distanz: 70.9646, Minkowski-Distanz (p=3): 2.0392***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3726, Euklidische Distanz: 23.3512, Manhattan-Distanz: 75.4940, Minkowski-Distanz (p=3): 2.0906***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3712, Euklidische Distanz: 18.9982, Manhattan-Distanz: 67.1968, Minkowski-Distanz (p=3): 1.9155***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3711, Euklidische Distanz: 17.9392, Manhattan-Distanz: 65.6282, Minkowski-Distanz (p=3): 1.8644***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3711, Euklidische Distanz: 14.0859, Manhattan-Distanz: 60.2020, Minkowski-Distanz (p=3): 1.6006***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Bush - Satz27: "america has a greater objective than controlling threats and containing resentment."
+***Cosine Similarity: 0.3704, Euklidische Distanz: 14.0912, Manhattan-Distanz: 59.7551, Minkowski-Distanz (p=3): 1.6016***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Bush - Satz36: "this new agency will control our borders and prevent terrorists and explosives from entering our country."
+***Cosine Similarity: 0.3699, Euklidische Distanz: 21.6708, Manhattan-Distanz: 74.4602, Minkowski-Distanz (p=3): 1.9825***
+
+Hitler - Satz38: "financial exchange circles began to triumph and made slow but sure progress in assuming control of the whole of national life."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3689, Euklidische Distanz: 22.8554, Manhattan-Distanz: 75.2188, Minkowski-Distanz (p=3): 2.0482***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3680, Euklidische Distanz: 13.0088, Manhattan-Distanz: 56.6363, Minkowski-Distanz (p=3): 1.5634***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Bush - Satz36: "this new agency will control our borders and prevent terrorists and explosives from entering our country."
+***Cosine Similarity: 0.3675, Euklidische Distanz: 21.0669, Manhattan-Distanz: 71.0540, Minkowski-Distanz (p=3): 2.0345***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3663, Euklidische Distanz: 17.7649, Manhattan-Distanz: 65.0206, Minkowski-Distanz (p=3): 1.8459***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3662, Euklidische Distanz: 16.7884, Manhattan-Distanz: 64.6279, Minkowski-Distanz (p=3): 1.7702***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3653, Euklidische Distanz: 16.0129, Manhattan-Distanz: 61.0684, Minkowski-Distanz (p=3): 1.7656***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Bush - Satz36: "this new agency will control our borders and prevent terrorists and explosives from entering our country."
+***Cosine Similarity: 0.3651, Euklidische Distanz: 17.9939, Manhattan-Distanz: 66.9105, Minkowski-Distanz (p=3): 1.8245***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Bush - Satz2: "they will point to the role of technology in frustrating censorship and central control -- and marvel at the power of instant communications to spread the truth, the news, and courage across borders."
+***Cosine Similarity: 0.3643, Euklidische Distanz: 16.7343, Manhattan-Distanz: 63.5973, Minkowski-Distanz (p=3): 1.7780***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Bush - Satz36: "this new agency will control our borders and prevent terrorists and explosives from entering our country."
+***Cosine Similarity: 0.3642, Euklidische Distanz: 18.6136, Manhattan-Distanz: 67.8797, Minkowski-Distanz (p=3): 1.8695***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Bush - Satz3: "now the task is to build on the success without watering down standards, without taking control from local communities, and without backsliding and calling it reform."
+***Cosine Similarity: 0.3641, Euklidische Distanz: 23.4381, Manhattan-Distanz: 75.5854, Minkowski-Distanz (p=3): 2.0980***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Bush - Satz20: "we have no ambition in iraq, except to remove a threat and restore control of that country to its own people."
+***Cosine Similarity: 0.3635, Euklidische Distanz: 18.0084, Manhattan-Distanz: 66.4551, Minkowski-Distanz (p=3): 1.8437***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3632, Euklidische Distanz: 17.8397, Manhattan-Distanz: 64.9420, Minkowski-Distanz (p=3): 1.8678***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Bush - Satz36: "this new agency will control our borders and prevent terrorists and explosives from entering our country."
+***Cosine Similarity: 0.3620, Euklidische Distanz: 32.1509, Manhattan-Distanz: 88.6563, Minkowski-Distanz (p=3): 2.4588***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3608, Euklidische Distanz: 14.0447, Manhattan-Distanz: 58.4124, Minkowski-Distanz (p=3): 1.6333***
+
+Hitler - Satz3: "hence, as early as —, practically all production was under the control of jewish finance."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3602, Euklidische Distanz: 28.7790, Manhattan-Distanz: 82.2323, Minkowski-Distanz (p=3): 2.3599***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3597, Euklidische Distanz: 19.5348, Manhattan-Distanz: 71.4500, Minkowski-Distanz (p=3): 1.8666***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3593, Euklidische Distanz: 19.0151, Manhattan-Distanz: 66.8994, Minkowski-Distanz (p=3): 1.9194***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3579, Euklidische Distanz: 27.9731, Manhattan-Distanz: 83.4279, Minkowski-Distanz (p=3): 2.2712***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Bush - Satz23: "by keeping costs under control, expanding access, and helping more americans afford coverage, we will preserve the system of private medicine that makes america's health care the best in the world."
+***Cosine Similarity: 0.3576, Euklidische Distanz: 23.5048, Manhattan-Distanz: 76.0764, Minkowski-Distanz (p=3): 2.0942***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3553, Euklidische Distanz: 15.2606, Manhattan-Distanz: 61.3719, Minkowski-Distanz (p=3): 1.7006***
+
+Hitler - Satz6: "jews control the financial forces of america on the stock exchange."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3550, Euklidische Distanz: 37.0814, Manhattan-Distanz: 95.0147, Minkowski-Distanz (p=3): 2.6313***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3543, Euklidische Distanz: 37.4846, Manhattan-Distanz: 97.2155, Minkowski-Distanz (p=3): 2.6205***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3538, Euklidische Distanz: 17.6416, Manhattan-Distanz: 65.6860, Minkowski-Distanz (p=3): 1.8272***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Bush - Satz20: "we have no ambition in iraq, except to remove a threat and restore control of that country to its own people."
+***Cosine Similarity: 0.3538, Euklidische Distanz: 17.6419, Manhattan-Distanz: 65.9463, Minkowski-Distanz (p=3): 1.8159***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Bush - Satz31: "the best way to achieve that goal is by expanding consumer choice, not government control."
+***Cosine Similarity: 0.3536, Euklidische Distanz: 18.0968, Manhattan-Distanz: 66.2466, Minkowski-Distanz (p=3): 1.8555***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Bush - Satz15: "now, as then, they seek to impose a joyless conformity, to control every life and all of life."
+***Cosine Similarity: 0.3526, Euklidische Distanz: 17.6529, Manhattan-Distanz: 65.2554, Minkowski-Distanz (p=3): 1.8371***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3520, Euklidische Distanz: 25.8951, Manhattan-Distanz: 78.1561, Minkowski-Distanz (p=3): 2.2439***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3500, Euklidische Distanz: 21.5395, Manhattan-Distanz: 71.1970, Minkowski-Distanz (p=3): 2.0469***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Bush - Satz22: "it's just the rhetoric got out of control at times --
+
+i don't know why."
+***Cosine Similarity: 0.3494, Euklidische Distanz: 19.1064, Manhattan-Distanz: 67.0498, Minkowski-Distanz (p=3): 1.9210***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Bush - Satz16: "the leaders of governments with long habits of control need to know: to serve your people you must learn to trust them."
+***Cosine Similarity: 0.3492, Euklidische Distanz: 18.3782, Manhattan-Distanz: 67.5812, Minkowski-Distanz (p=3): 1.8489***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3486, Euklidische Distanz: 16.9413, Manhattan-Distanz: 64.4898, Minkowski-Distanz (p=3): 1.7852***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3483, Euklidische Distanz: 22.8181, Manhattan-Distanz: 75.3338, Minkowski-Distanz (p=3): 2.0665***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Bush - Satz24: "the only way to protect our people, the only way to secure the peace, the only way to control our destiny is by our leadership."
+***Cosine Similarity: 0.3480, Euklidische Distanz: 17.6931, Manhattan-Distanz: 65.5292, Minkowski-Distanz (p=3): 1.8286***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Bush - Satz22: "it's just the rhetoric got out of control at times --
+
+i don't know why."
+***Cosine Similarity: 0.3479, Euklidische Distanz: 16.1605, Manhattan-Distanz: 62.3447, Minkowski-Distanz (p=3): 1.7684***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Bush - Satz22: "it's just the rhetoric got out of control at times --
+
+i don't know why."
+***Cosine Similarity: 0.3478, Euklidische Distanz: 16.8776, Manhattan-Distanz: 63.8741, Minkowski-Distanz (p=3): 1.7896***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Bush - Satz20: "we have no ambition in iraq, except to remove a threat and restore control of that country to its own people."
+***Cosine Similarity: 0.3471, Euklidische Distanz: 37.5770, Manhattan-Distanz: 98.4493, Minkowski-Distanz (p=3): 2.6010***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Bush - Satz6: "first, our coalition will remain on the offense -- finding and clearing out the enemy, transferring control of more territory to iraqi units, and building up the iraqi security forces so they can increasingly lead the fight."
+***Cosine Similarity: 0.3470, Euklidische Distanz: 19.3742, Manhattan-Distanz: 69.1925, Minkowski-Distanz (p=3): 1.8971***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3465, Euklidische Distanz: 28.1001, Manhattan-Distanz: 83.3914, Minkowski-Distanz (p=3): 2.2751***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3464, Euklidische Distanz: 16.9602, Manhattan-Distanz: 64.3826, Minkowski-Distanz (p=3): 1.7830***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3462, Euklidische Distanz: 19.9769, Manhattan-Distanz: 69.1116, Minkowski-Distanz (p=3): 1.9539***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3458, Euklidische Distanz: 19.1397, Manhattan-Distanz: 67.6126, Minkowski-Distanz (p=3): 1.9123***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3455, Euklidische Distanz: 22.8455, Manhattan-Distanz: 74.6737, Minkowski-Distanz (p=3): 2.0800***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3454, Euklidische Distanz: 18.4119, Manhattan-Distanz: 67.1043, Minkowski-Distanz (p=3): 1.8617***
+
+Hitler - Satz21: "in proportion to the extent that commerce assumed definite control of the state, money became more and more of a god whom all had to serve and before whom all had to bow."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3446, Euklidische Distanz: 20.8247, Manhattan-Distanz: 71.3527, Minkowski-Distanz (p=3): 1.9750***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz16: "the leaders of governments with long habits of control need to know: to serve your people you must learn to trust them."
+***Cosine Similarity: 0.3444, Euklidische Distanz: 22.8574, Manhattan-Distanz: 75.6268, Minkowski-Distanz (p=3): 2.0651***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Bush - Satz22: "it's just the rhetoric got out of control at times --
+
+i don't know why."
+***Cosine Similarity: 0.3443, Euklidische Distanz: 19.3997, Manhattan-Distanz: 67.8819, Minkowski-Distanz (p=3): 1.9153***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3443, Euklidische Distanz: 15.7752, Manhattan-Distanz: 62.3444, Minkowski-Distanz (p=3): 1.7170***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Bush - Satz28: "prevention is indispensable to any strategy of controlling a pandemic such as we now face."
+***Cosine Similarity: 0.3442, Euklidische Distanz: 18.7966, Manhattan-Distanz: 68.1819, Minkowski-Distanz (p=3): 1.8824***
+
+Hitler - Satz37: "prostitutes were medically examined and controlled as far as possible, and when signs of infection were apparent they were sent to hospital."
+Bush - Satz18: "they're distributing medical supplies, and they're executing a public health plan to control disease and other health-related issues that might arise."
+***Cosine Similarity: 0.3433, Euklidische Distanz: 23.6845, Manhattan-Distanz: 76.5347, Minkowski-Distanz (p=3): 2.1199***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3430, Euklidische Distanz: 24.6421, Manhattan-Distanz: 76.2985, Minkowski-Distanz (p=3): 2.1797***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Bush - Satz13: "five years ago, we rose above partisan differences to pass the no child left behind act, preserving local control, raising standards, and holding schools accountable for results."
+***Cosine Similarity: 0.3413, Euklidische Distanz: 15.1653, Manhattan-Distanz: 59.7046, Minkowski-Distanz (p=3): 1.6989***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Bush - Satz22: "it's just the rhetoric got out of control at times --
+
+i don't know why."
+***Cosine Similarity: 0.3411, Euklidische Distanz: 21.6267, Manhattan-Distanz: 70.8292, Minkowski-Distanz (p=3): 2.0821***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3409, Euklidische Distanz: 17.8103, Manhattan-Distanz: 66.7700, Minkowski-Distanz (p=3): 1.8228***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3406, Euklidische Distanz: 26.0168, Manhattan-Distanz: 79.3731, Minkowski-Distanz (p=3): 2.2363***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3401, Euklidische Distanz: 19.7301, Manhattan-Distanz: 69.4365, Minkowski-Distanz (p=3): 1.9150***
+
+Hitler - Satz21: "in proportion to the extent that commerce assumed definite control of the state, money became more and more of a god whom all had to serve and before whom all had to bow."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3395, Euklidische Distanz: 20.8740, Manhattan-Distanz: 71.0251, Minkowski-Distanz (p=3): 1.9833***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Bush - Satz15: "now, as then, they seek to impose a joyless conformity, to control every life and all of life."
+***Cosine Similarity: 0.3388, Euklidische Distanz: 14.2209, Manhattan-Distanz: 58.4057, Minkowski-Distanz (p=3): 1.6480***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Bush - Satz22: "it's just the rhetoric got out of control at times --
+
+i don't know why."
+***Cosine Similarity: 0.3382, Euklidische Distanz: 15.4029, Manhattan-Distanz: 60.9665, Minkowski-Distanz (p=3): 1.7112***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Bush - Satz15: "now, as then, they seek to impose a joyless conformity, to control every life and all of life."
+***Cosine Similarity: 0.3379, Euklidische Distanz: 18.8545, Manhattan-Distanz: 68.5308, Minkowski-Distanz (p=3): 1.8778***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Bush - Satz15: "now, as then, they seek to impose a joyless conformity, to control every life and all of life."
+***Cosine Similarity: 0.3377, Euklidische Distanz: 19.3079, Manhattan-Distanz: 66.8462, Minkowski-Distanz (p=3): 1.9310***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3373, Euklidische Distanz: 17.0401, Manhattan-Distanz: 63.9739, Minkowski-Distanz (p=3): 1.8033***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3372, Euklidische Distanz: 22.9294, Manhattan-Distanz: 75.2655, Minkowski-Distanz (p=3): 2.0703***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Bush - Satz6: "first, our coalition will remain on the offense -- finding and clearing out the enemy, transferring control of more territory to iraqi units, and building up the iraqi security forces so they can increasingly lead the fight."
+***Cosine Similarity: 0.3371, Euklidische Distanz: 14.3578, Manhattan-Distanz: 60.5622, Minkowski-Distanz (p=3): 1.6145***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Bush - Satz6: "first, our coalition will remain on the offense -- finding and clearing out the enemy, transferring control of more territory to iraqi units, and building up the iraqi security forces so they can increasingly lead the fight."
+***Cosine Similarity: 0.3369, Euklidische Distanz: 17.7919, Manhattan-Distanz: 65.1210, Minkowski-Distanz (p=3): 1.8344***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3366, Euklidische Distanz: 15.8394, Manhattan-Distanz: 62.4580, Minkowski-Distanz (p=3): 1.7135***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3365, Euklidische Distanz: 18.4933, Manhattan-Distanz: 67.2695, Minkowski-Distanz (p=3): 1.8690***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Bush - Satz23: "by keeping costs under control, expanding access, and helping more americans afford coverage, we will preserve the system of private medicine that makes america's health care the best in the world."
+***Cosine Similarity: 0.3365, Euklidische Distanz: 17.7963, Manhattan-Distanz: 65.0606, Minkowski-Distanz (p=3): 1.8417***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3359, Euklidische Distanz: 28.2172, Manhattan-Distanz: 83.9804, Minkowski-Distanz (p=3): 2.2799***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Bush - Satz36: "this new agency will control our borders and prevent terrorists and explosives from entering our country."
+***Cosine Similarity: 0.3358, Euklidische Distanz: 19.3259, Manhattan-Distanz: 68.0057, Minkowski-Distanz (p=3): 1.9139***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3358, Euklidische Distanz: 18.0855, Manhattan-Distanz: 65.9095, Minkowski-Distanz (p=3): 1.8708***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3356, Euklidische Distanz: 16.2656, Manhattan-Distanz: 62.2104, Minkowski-Distanz (p=3): 1.7728***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3351, Euklidische Distanz: 16.2699, Manhattan-Distanz: 61.6895, Minkowski-Distanz (p=3): 1.7755***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Bush - Satz24: "the only way to protect our people, the only way to secure the peace, the only way to control our destiny is by our leadership."
+***Cosine Similarity: 0.3350, Euklidische Distanz: 18.8807, Manhattan-Distanz: 68.9883, Minkowski-Distanz (p=3): 1.8734***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Bush - Satz16: "the leaders of governments with long habits of control need to know: to serve your people you must learn to trust them."
+***Cosine Similarity: 0.3348, Euklidische Distanz: 14.2526, Manhattan-Distanz: 58.6720, Minkowski-Distanz (p=3): 1.6484***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3344, Euklidische Distanz: 37.7387, Manhattan-Distanz: 98.6797, Minkowski-Distanz (p=3): 2.6193***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Bush - Satz12: "members of congress, we must work together to help control those costs and extend the benefits of modern medicine throughout our country."
+***Cosine Similarity: 0.3344, Euklidische Distanz: 32.4794, Manhattan-Distanz: 89.2280, Minkowski-Distanz (p=3): 2.4753***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Bush - Satz27: "america has a greater objective than controlling threats and containing resentment."
+***Cosine Similarity: 0.3332, Euklidische Distanz: 18.5230, Manhattan-Distanz: 67.6210, Minkowski-Distanz (p=3): 1.8693***
+
+Hitler - Satz38: "financial exchange circles began to triumph and made slow but sure progress in assuming control of the whole of national life."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3332, Euklidische Distanz: 23.2172, Manhattan-Distanz: 76.6770, Minkowski-Distanz (p=3): 2.0548***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3326, Euklidische Distanz: 22.9757, Manhattan-Distanz: 74.5399, Minkowski-Distanz (p=3): 2.0770***
+
+Hitler - Satz6: "jews control the financial forces of america on the stock exchange."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3317, Euklidische Distanz: 37.3782, Manhattan-Distanz: 96.3337, Minkowski-Distanz (p=3): 2.6348***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3308, Euklidische Distanz: 18.6239, Manhattan-Distanz: 68.2247, Minkowski-Distanz (p=3): 1.8543***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3301, Euklidische Distanz: 32.5305, Manhattan-Distanz: 88.2641, Minkowski-Distanz (p=3): 2.5064***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3297, Euklidische Distanz: 18.0930, Manhattan-Distanz: 66.0101, Minkowski-Distanz (p=3): 1.8466***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3287, Euklidische Distanz: 13.3113, Manhattan-Distanz: 57.8512, Minkowski-Distanz (p=3): 1.5638***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Bush - Satz30: "the leadership of al qaeda has great influence in afghanistan and supports the taliban regime in controlling most of that country."
+***Cosine Similarity: 0.3286, Euklidische Distanz: 32.5489, Manhattan-Distanz: 88.4274, Minkowski-Distanz (p=3): 2.4824***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Bush - Satz21: "in all these proposals, we seek to provide not just a government program, but a path -- a path to greater opportunity, more freedom, and more control over your own life."
+***Cosine Similarity: 0.3280, Euklidische Distanz: 18.6490, Manhattan-Distanz: 68.6242, Minkowski-Distanz (p=3): 1.8475***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3276, Euklidische Distanz: 13.3199, Manhattan-Distanz: 57.3881, Minkowski-Distanz (p=3): 1.5757***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3273, Euklidische Distanz: 21.4578, Manhattan-Distanz: 71.2998, Minkowski-Distanz (p=3): 2.0485***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3273, Euklidische Distanz: 17.0562, Manhattan-Distanz: 64.8081, Minkowski-Distanz (p=3): 1.7880***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3271, Euklidische Distanz: 21.6225, Manhattan-Distanz: 72.6533, Minkowski-Distanz (p=3): 2.0217***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3270, Euklidische Distanz: 19.3136, Manhattan-Distanz: 67.2880, Minkowski-Distanz (p=3): 1.9359***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3267, Euklidische Distanz: 19.4107, Manhattan-Distanz: 66.4524, Minkowski-Distanz (p=3): 1.9476***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Bush - Satz27: "america has a greater objective than controlling threats and containing resentment."
+***Cosine Similarity: 0.3263, Euklidische Distanz: 15.9261, Manhattan-Distanz: 61.9977, Minkowski-Distanz (p=3): 1.7307***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Bush - Satz10: "in this century, the greatest environmental progress will come about not through endless lawsuits or command-and-control regulations but through technology and innovation."
+***Cosine Similarity: 0.3262, Euklidische Distanz: 21.6307, Manhattan-Distanz: 72.3940, Minkowski-Distanz (p=3): 2.0312***
+
+Hitler - Satz13: "only in france does there exist to-day, in a greater degree than ever before, a profound harmony between the aims of the stock exchange, of the jews who control it and those of a chauvinistic national policy."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3258, Euklidische Distanz: 12.9856, Manhattan-Distanz: 55.2687, Minkowski-Distanz (p=3): 1.5832***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3257, Euklidische Distanz: 32.5832, Manhattan-Distanz: 88.2621, Minkowski-Distanz (p=3): 2.4983***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3253, Euklidische Distanz: 15.2977, Manhattan-Distanz: 60.0127, Minkowski-Distanz (p=3): 1.7173***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Bush - Satz24: "the only way to protect our people, the only way to secure the peace, the only way to control our destiny is by our leadership."
+***Cosine Similarity: 0.3252, Euklidische Distanz: 21.4782, Manhattan-Distanz: 71.3401, Minkowski-Distanz (p=3): 2.0549***
+
+Hitler - Satz30: "the consequence of it all was that, a few days later, i was assigned to a regiment then stationed in munich and given a position there as ‘instruction officer.’ at that time the spirit of discipline was rather weak among the troops which were still suffering from the after-effects of the period when the soldiers’ councils were in control."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3249, Euklidische Distanz: 13.6707, Manhattan-Distanz: 55.4812, Minkowski-Distanz (p=3): 1.6309***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Bush - Satz23: "by keeping costs under control, expanding access, and helping more americans afford coverage, we will preserve the system of private medicine that makes america's health care the best in the world."
+***Cosine Similarity: 0.3248, Euklidische Distanz: 19.8730, Manhattan-Distanz: 69.6290, Minkowski-Distanz (p=3): 1.9196***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Bush - Satz2: "they will point to the role of technology in frustrating censorship and central control -- and marvel at the power of instant communications to spread the truth, the news, and courage across borders."
+***Cosine Similarity: 0.3224, Euklidische Distanz: 18.6209, Manhattan-Distanz: 67.8551, Minkowski-Distanz (p=3): 1.8666***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz20: "we have no ambition in iraq, except to remove a threat and restore control of that country to its own people."
+***Cosine Similarity: 0.3205, Euklidische Distanz: 23.0977, Manhattan-Distanz: 75.4931, Minkowski-Distanz (p=3): 2.0732***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3205, Euklidische Distanz: 17.1154, Manhattan-Distanz: 64.6137, Minkowski-Distanz (p=3): 1.7953***
+
+Hitler - Satz13: "only in france does there exist to-day, in a greater degree than ever before, a profound harmony between the aims of the stock exchange, of the jews who control it and those of a chauvinistic national policy."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3203, Euklidische Distanz: 13.0269, Manhattan-Distanz: 55.5891, Minkowski-Distanz (p=3): 1.5888***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Bush - Satz13: "five years ago, we rose above partisan differences to pass the no child left behind act, preserving local control, raising standards, and holding schools accountable for results."
+***Cosine Similarity: 0.3202, Euklidische Distanz: 15.9773, Manhattan-Distanz: 62.1505, Minkowski-Distanz (p=3): 1.7336***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Bush - Satz7: "a captured al qaeda document describes the terrorists' plan to infiltrate and seize control of the province."
+***Cosine Similarity: 0.3189, Euklidische Distanz: 19.0286, Manhattan-Distanz: 68.2128, Minkowski-Distanz (p=3): 1.8978***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3175, Euklidische Distanz: 19.9298, Manhattan-Distanz: 71.5931, Minkowski-Distanz (p=3): 1.9040***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3175, Euklidische Distanz: 19.4958, Manhattan-Distanz: 67.5885, Minkowski-Distanz (p=3): 1.9414***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3174, Euklidische Distanz: 18.7456, Manhattan-Distanz: 69.5706, Minkowski-Distanz (p=3): 1.8465***
+
+Hitler - Satz6: "jews control the financial forces of america on the stock exchange."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3159, Euklidische Distanz: 37.5794, Manhattan-Distanz: 96.7080, Minkowski-Distanz (p=3): 2.6419***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3151, Euklidische Distanz: 17.9866, Manhattan-Distanz: 66.0297, Minkowski-Distanz (p=3): 1.8453***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3150, Euklidische Distanz: 16.0725, Manhattan-Distanz: 60.6526, Minkowski-Distanz (p=3): 1.7844***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3149, Euklidische Distanz: 28.4516, Manhattan-Distanz: 83.8447, Minkowski-Distanz (p=3): 2.3002***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Bush - Satz31: "the best way to achieve that goal is by expanding consumer choice, not government control."
+***Cosine Similarity: 0.3146, Euklidische Distanz: 21.7439, Manhattan-Distanz: 73.5081, Minkowski-Distanz (p=3): 2.0094***
+
+Hitler - Satz21: "in proportion to the extent that commerce assumed definite control of the state, money became more and more of a god whom all had to serve and before whom all had to bow."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3143, Euklidische Distanz: 21.1163, Manhattan-Distanz: 71.4817, Minkowski-Distanz (p=3): 1.9913***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Bush - Satz2: "they will point to the role of technology in frustrating censorship and central control -- and marvel at the power of instant communications to spread the truth, the news, and courage across borders."
+***Cosine Similarity: 0.3140, Euklidische Distanz: 19.9626, Manhattan-Distanz: 72.1649, Minkowski-Distanz (p=3): 1.8972***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Bush - Satz15: "now, as then, they seek to impose a joyless conformity, to control every life and all of life."
+***Cosine Similarity: 0.3135, Euklidische Distanz: 16.4534, Manhattan-Distanz: 62.6429, Minkowski-Distanz (p=3): 1.7826***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Bush - Satz32: "as we continue to work together to keep social security sound and reliable, we must offer younger workers a chance to invest in retirement accounts that they will control and they will own."
+***Cosine Similarity: 0.3131, Euklidische Distanz: 18.0038, Manhattan-Distanz: 65.4766, Minkowski-Distanz (p=3): 1.8583***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Bush - Satz22: "it's just the rhetoric got out of control at times --
+
+i don't know why."
+***Cosine Similarity: 0.3131, Euklidische Distanz: 19.9714, Manhattan-Distanz: 72.0854, Minkowski-Distanz (p=3): 1.9011***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3129, Euklidische Distanz: 21.5975, Manhattan-Distanz: 71.2304, Minkowski-Distanz (p=3): 2.0586***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3128, Euklidische Distanz: 19.0841, Manhattan-Distanz: 69.1160, Minkowski-Distanz (p=3): 1.8802***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3127, Euklidische Distanz: 38.0177, Manhattan-Distanz: 98.5696, Minkowski-Distanz (p=3): 2.6345***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3121, Euklidische Distanz: 13.4393, Manhattan-Distanz: 57.7234, Minkowski-Distanz (p=3): 1.5791***
+
+Hitler - Satz39: "the same applies to the control of prostitution, and, finally, even medical treatment and cure are today still unsafe and doubtful."
+Bush - Satz18: "they're distributing medical supplies, and they're executing a public health plan to control disease and other health-related issues that might arise."
+***Cosine Similarity: 0.3119, Euklidische Distanz: 26.0011, Manhattan-Distanz: 79.5027, Minkowski-Distanz (p=3): 2.2322***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3117, Euklidische Distanz: 19.4549, Manhattan-Distanz: 67.9120, Minkowski-Distanz (p=3): 1.9323***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3114, Euklidische Distanz: 18.2565, Manhattan-Distanz: 66.4982, Minkowski-Distanz (p=3): 1.8515***
+
+Hitler - Satz39: "the same applies to the control of prostitution, and, finally, even medical treatment and cure are today still unsafe and doubtful."
+Bush - Satz24: "the only way to protect our people, the only way to secure the peace, the only way to control our destiny is by our leadership."
+***Cosine Similarity: 0.3103, Euklidische Distanz: 26.0179, Manhattan-Distanz: 80.3329, Minkowski-Distanz (p=3): 2.2217***
+
+Hitler - Satz3: "hence, as early as —, practically all production was under the control of jewish finance."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3098, Euklidische Distanz: 29.3489, Manhattan-Distanz: 82.8403, Minkowski-Distanz (p=3): 2.3865***
+
+Hitler - Satz38: "financial exchange circles began to triumph and made slow but sure progress in assuming control of the whole of national life."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3087, Euklidische Distanz: 23.4645, Manhattan-Distanz: 76.9435, Minkowski-Distanz (p=3): 2.0724***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3084, Euklidische Distanz: 18.2835, Manhattan-Distanz: 66.0730, Minkowski-Distanz (p=3): 1.8745***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Bush - Satz24: "the only way to protect our people, the only way to secure the peace, the only way to control our destiny is by our leadership."
+***Cosine Similarity: 0.3084, Euklidische Distanz: 32.7895, Manhattan-Distanz: 89.2657, Minkowski-Distanz (p=3): 2.4964***
+
+Hitler - Satz9: "the cleavage between official, or rather traditional, british statesmanship and the controlling influence of the jew on the money-markets is nowhere so clearly manifested as in the various attitudes adopted towards problems of british foreign policy."
+Bush - Satz27: "america has a greater objective than controlling threats and containing resentment."
+***Cosine Similarity: 0.3082, Euklidische Distanz: 19.3096, Manhattan-Distanz: 68.1975, Minkowski-Distanz (p=3): 1.9040***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Bush - Satz10: "in this century, the greatest environmental progress will come about not through endless lawsuits or command-and-control regulations but through technology and innovation."
+***Cosine Similarity: 0.3076, Euklidische Distanz: 16.5035, Manhattan-Distanz: 62.6230, Minkowski-Distanz (p=3): 1.7900***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Bush - Satz28: "prevention is indispensable to any strategy of controlling a pandemic such as we now face."
+***Cosine Similarity: 0.3064, Euklidische Distanz: 21.6609, Manhattan-Distanz: 72.1625, Minkowski-Distanz (p=3): 2.0583***
+
+Hitler - Satz39: "the same applies to the control of prostitution, and, finally, even medical treatment and cure are today still unsafe and doubtful."
+Bush - Satz15: "now, as then, they seek to impose a joyless conformity, to control every life and all of life."
+***Cosine Similarity: 0.3064, Euklidische Distanz: 26.0602, Manhattan-Distanz: 79.2006, Minkowski-Distanz (p=3): 2.2280***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Bush - Satz17: "eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country."
+***Cosine Similarity: 0.3059, Euklidische Distanz: 32.8189, Manhattan-Distanz: 89.2146, Minkowski-Distanz (p=3): 2.5084***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3057, Euklidische Distanz: 19.7578, Manhattan-Distanz: 69.5683, Minkowski-Distanz (p=3): 1.9204***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Bush - Satz15: "now, as then, they seek to impose a joyless conformity, to control every life and all of life."
+***Cosine Similarity: 0.3047, Euklidische Distanz: 32.8327, Manhattan-Distanz: 90.1613, Minkowski-Distanz (p=3): 2.4930***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3046, Euklidische Distanz: 20.0624, Manhattan-Distanz: 70.7859, Minkowski-Distanz (p=3): 1.9268***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Bush - Satz15: "now, as then, they seek to impose a joyless conformity, to control every life and all of life."
+***Cosine Similarity: 0.3041, Euklidische Distanz: 17.3296, Manhattan-Distanz: 65.3362, Minkowski-Distanz (p=3): 1.7967***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Bush - Satz14: "some rulers adopted the dogmas of socialism, seized total control of political parties and the media and universities."
+***Cosine Similarity: 0.3041, Euklidische Distanz: 18.1384, Manhattan-Distanz: 66.9917, Minkowski-Distanz (p=3): 1.8440***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Bush - Satz27: "america has a greater objective than controlling threats and containing resentment."
+***Cosine Similarity: 0.3037, Euklidische Distanz: 16.1674, Manhattan-Distanz: 61.6666, Minkowski-Distanz (p=3): 1.7816***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Bush - Satz22: "it's just the rhetoric got out of control at times --
+
+i don't know why."
+***Cosine Similarity: 0.3024, Euklidische Distanz: 25.0658, Manhattan-Distanz: 77.5848, Minkowski-Distanz (p=3): 2.1846***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Bush - Satz2: "they will point to the role of technology in frustrating censorship and central control -- and marvel at the power of instant communications to spread the truth, the news, and courage across borders."
+***Cosine Similarity: 0.3024, Euklidische Distanz: 16.5479, Manhattan-Distanz: 63.0945, Minkowski-Distanz (p=3): 1.7946***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Bush - Satz5: "they seek to impose a heartless system of totalitarian control throughout the middle east and arm themselves with weapons of mass murder."
+***Cosine Similarity: 0.3023, Euklidische Distanz: 21.8647, Manhattan-Distanz: 73.5762, Minkowski-Distanz (p=3): 2.0216***
+
+Hitler - Satz7: "jewish international finance needed the bait of the austrian heritage in order to carry out its plans of ruining germany, for germany had not yet surrendered to their general and international control in the sphere of trade and finance."
+Bush - Satz35: "first, america must control its borders."
+***Cosine Similarity: 0.3021, Euklidische Distanz: 21.5823, Manhattan-Distanz: 70.9233, Minkowski-Distanz (p=3): 2.0411***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3020, Euklidische Distanz: 20.0869, Manhattan-Distanz: 69.9590, Minkowski-Distanz (p=3): 1.9380***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz30: "the leadership of al qaeda has great influence in afghanistan and supports the taliban regime in controlling most of that country."
+***Cosine Similarity: 0.3018, Euklidische Distanz: 23.2860, Manhattan-Distanz: 75.7482, Minkowski-Distanz (p=3): 2.0780***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3017, Euklidische Distanz: 13.5194, Manhattan-Distanz: 58.2551, Minkowski-Distanz (p=3): 1.5781***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Bush - Satz1: "throughout the 20th century, small groups of men seized control of great nations, built armies and arsenals, and set out to dominate the weak and intimidate the world."
+***Cosine Similarity: 0.3010, Euklidische Distanz: 19.8015, Manhattan-Distanz: 70.4166, Minkowski-Distanz (p=3): 1.9171***
+
+Hitler - Satz3: "hence, as early as —, practically all production was under the control of jewish finance."
+Bush - Satz4: "but some governments still cling to the old habits of central control."
+***Cosine Similarity: 0.3010, Euklidische Distanz: 29.4479, Manhattan-Distanz: 82.8953, Minkowski-Distanz (p=3): 2.3947***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Bush - Satz9: "they seek to impose and expand an empire of oppression, in which a tiny group of brutal, self-appointed rulers control every aspect of every life."
+***Cosine Similarity: 0.3004, Euklidische Distanz: 20.0905, Manhattan-Distanz: 71.7659, Minkowski-Distanz (p=3): 1.9056***
+

@@ -1,0 +1,1566 @@
+Gefilterte Sätze mit Cosine Similarity, euklidischer Distanz, Manhattan-Distanz und Minkowski-Distanz (nach Cosine Similarity sortiert):
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.6814, Euklidische Distanz: 20.1927, Manhattan-Distanz: 69.9378, Minkowski-Distanz (p=3): 1.9462***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Trump - Satz88: "he’s controlled by fascists and bad people."
+***Cosine Similarity: 0.6147, Euklidische Distanz: 23.0821, Manhattan-Distanz: 74.9828, Minkowski-Distanz (p=3): 2.1021***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.5705, Euklidische Distanz: 19.6930, Manhattan-Distanz: 70.5803, Minkowski-Distanz (p=3): 1.8923***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.5624, Euklidische Distanz: 20.6625, Manhattan-Distanz: 70.8357, Minkowski-Distanz (p=3): 1.9725***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz86: "and the strength is the president because he controls … i rebuilt the military."
+***Cosine Similarity: 0.5409, Euklidische Distanz: 20.8792, Manhattan-Distanz: 71.6491, Minkowski-Distanz (p=3): 1.9777***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Trump - Satz124: "they control the whole thing."
+***Cosine Similarity: 0.5230, Euklidische Distanz: 30.2333, Manhattan-Distanz: 85.7485, Minkowski-Distanz (p=3): 2.3929***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.5099, Euklidische Distanz: 14.4311, Manhattan-Distanz: 58.0214, Minkowski-Distanz (p=3): 1.6871***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Trump - Satz124: "they control the whole thing."
+***Cosine Similarity: 0.5034, Euklidische Distanz: 20.0376, Manhattan-Distanz: 69.0155, Minkowski-Distanz (p=3): 1.9666***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.4982, Euklidische Distanz: 14.5297, Manhattan-Distanz: 58.5953, Minkowski-Distanz (p=3): 1.6847***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.4979, Euklidische Distanz: 14.8839, Manhattan-Distanz: 59.8180, Minkowski-Distanz (p=3): 1.6963***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Trump - Satz49: "the ultimate form of local control."
+***Cosine Similarity: 0.4977, Euklidische Distanz: 22.0720, Manhattan-Distanz: 73.3410, Minkowski-Distanz (p=3): 2.0282***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Trump - Satz49: "the ultimate form of local control."
+***Cosine Similarity: 0.4961, Euklidische Distanz: 30.5541, Manhattan-Distanz: 86.0772, Minkowski-Distanz (p=3): 2.4051***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Trump - Satz50: "it’s a scandal and a tragedy that year after year democrats in washington continue to hold common sense school safety measures hostage to their radical gun control agenda, which in virtually all cases would do nothing to prevent attacks by demented and disturbed individuals, of which we have many and many are coming into our country, but we’re getting them out."
+***Cosine Similarity: 0.4952, Euklidische Distanz: 14.5548, Manhattan-Distanz: 59.0377, Minkowski-Distanz (p=3): 1.6795***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Trump - Satz88: "he’s controlled by fascists and bad people."
+***Cosine Similarity: 0.4932, Euklidische Distanz: 19.8443, Manhattan-Distanz: 68.7035, Minkowski-Distanz (p=3): 1.9623***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.4894, Euklidische Distanz: 14.6034, Manhattan-Distanz: 58.2918, Minkowski-Distanz (p=3): 1.7049***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Trump - Satz133: "the new weapon being used by out of control unhinged democrats to cheat on election is criminally investigating a candidate, bad publicity and all."
+***Cosine Similarity: 0.4851, Euklidische Distanz: 14.6397, Manhattan-Distanz: 57.6546, Minkowski-Distanz (p=3): 1.7072***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.4807, Euklidische Distanz: 20.1230, Manhattan-Distanz: 69.9732, Minkowski-Distanz (p=3): 1.9514***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Trump - Satz142: "the biden gun control agenda is part and parcel of the left wing crusade to organize government against law-abiding citizens, while letting criminals roam free."
+***Cosine Similarity: 0.4803, Euklidische Distanz: 20.5825, Manhattan-Distanz: 72.0399, Minkowski-Distanz (p=3): 1.9390***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Trump - Satz118: "under my leadership, we will seal it up and expand that wall till we have total control."
+***Cosine Similarity: 0.4784, Euklidische Distanz: 20.6009, Manhattan-Distanz: 72.2743, Minkowski-Distanz (p=3): 1.9473***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Trump - Satz49: "the ultimate form of local control."
+***Cosine Similarity: 0.4755, Euklidische Distanz: 20.3114, Manhattan-Distanz: 68.8375, Minkowski-Distanz (p=3): 1.9974***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.4675, Euklidische Distanz: 18.0150, Manhattan-Distanz: 64.6953, Minkowski-Distanz (p=3): 1.8717***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.4674, Euklidische Distanz: 36.0348, Manhattan-Distanz: 96.6905, Minkowski-Distanz (p=3): 2.5573***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Trump - Satz140: "you can only do it through the presidency, but you control the money coming in, coming out."
+***Cosine Similarity: 0.4653, Euklidische Distanz: 20.2730, Manhattan-Distanz: 70.1521, Minkowski-Distanz (p=3): 1.9679***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Trump - Satz88: "he’s controlled by fascists and bad people."
+***Cosine Similarity: 0.4653, Euklidische Distanz: 18.0360, Manhattan-Distanz: 64.2999, Minkowski-Distanz (p=3): 1.8868***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.4594, Euklidische Distanz: 20.1735, Manhattan-Distanz: 69.6009, Minkowski-Distanz (p=3): 1.9838***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.4592, Euklidische Distanz: 18.0920, Manhattan-Distanz: 64.8905, Minkowski-Distanz (p=3): 1.8878***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Trump - Satz124: "they control the whole thing."
+***Cosine Similarity: 0.4587, Euklidische Distanz: 22.4707, Manhattan-Distanz: 73.7913, Minkowski-Distanz (p=3): 2.0455***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.4587, Euklidische Distanz: 17.1509, Manhattan-Distanz: 65.0420, Minkowski-Distanz (p=3): 1.7970***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Trump - Satz88: "he’s controlled by fascists and bad people."
+***Cosine Similarity: 0.4582, Euklidische Distanz: 20.7998, Manhattan-Distanz: 72.5976, Minkowski-Distanz (p=3): 1.9394***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.4575, Euklidische Distanz: 20.8074, Manhattan-Distanz: 72.8520, Minkowski-Distanz (p=3): 1.9479***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Trump - Satz142: "the biden gun control agenda is part and parcel of the left wing crusade to organize government against law-abiding citizens, while letting criminals roam free."
+***Cosine Similarity: 0.4539, Euklidische Distanz: 17.1939, Manhattan-Distanz: 64.4669, Minkowski-Distanz (p=3): 1.8113***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.4538, Euklidische Distanz: 20.2274, Manhattan-Distanz: 69.1398, Minkowski-Distanz (p=3): 1.9945***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.4538, Euklidische Distanz: 24.8042, Manhattan-Distanz: 77.4728, Minkowski-Distanz (p=3): 2.1764***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.4537, Euklidische Distanz: 23.4874, Manhattan-Distanz: 74.7858, Minkowski-Distanz (p=3): 2.1273***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Trump - Satz6: "we’re much stronger than they are, because unlike their agenda, our movement is not driven by the lust for control and domination of others."
+***Cosine Similarity: 0.4530, Euklidische Distanz: 14.8610, Manhattan-Distanz: 60.0655, Minkowski-Distanz (p=3): 1.6626***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Trump - Satz18: "who is totally controlled by china."
+***Cosine Similarity: 0.4523, Euklidische Distanz: 31.0758, Manhattan-Distanz: 86.9421, Minkowski-Distanz (p=3): 2.4323***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Trump - Satz142: "the biden gun control agenda is part and parcel of the left wing crusade to organize government against law-abiding citizens, while letting criminals roam free."
+***Cosine Similarity: 0.4508, Euklidische Distanz: 17.8214, Manhattan-Distanz: 65.9956, Minkowski-Distanz (p=3): 1.8395***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.4497, Euklidische Distanz: 21.7968, Manhattan-Distanz: 73.6247, Minkowski-Distanz (p=3): 2.0135***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz56: "they will own our country because they own him, they control him and they know he will always be there to do their bidding."
+***Cosine Similarity: 0.4466, Euklidische Distanz: 21.8281, Manhattan-Distanz: 73.4402, Minkowski-Distanz (p=3): 2.0305***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Trump - Satz100: "i’ll direct a completely overhauled doj to investigate every radical out-of-control prosecutor in america for their illegal racist in reverse enforcement of the law, and i’m also going to indemnify all police officers and law enforcement officers throughout the whole united states to protect them from being destroyed by the radical left for taking strong actions on crime."
+***Cosine Similarity: 0.4463, Euklidische Distanz: 20.3011, Manhattan-Distanz: 69.7064, Minkowski-Distanz (p=3): 1.9912***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Trump - Satz13: "within about 25 seconds, he controlled the internet."
+***Cosine Similarity: 0.4443, Euklidische Distanz: 23.5850, Manhattan-Distanz: 75.5758, Minkowski-Distanz (p=3): 2.1139***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Trump - Satz124: "they control the whole thing."
+***Cosine Similarity: 0.4436, Euklidische Distanz: 17.5992, Manhattan-Distanz: 66.6647, Minkowski-Distanz (p=3): 1.8049***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.4423, Euklidische Distanz: 17.0852, Manhattan-Distanz: 63.8078, Minkowski-Distanz (p=3): 1.8009***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.4409, Euklidische Distanz: 19.0837, Manhattan-Distanz: 67.7399, Minkowski-Distanz (p=3): 1.8975***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Trump - Satz118: "under my leadership, we will seal it up and expand that wall till we have total control."
+***Cosine Similarity: 0.4402, Euklidische Distanz: 31.2189, Manhattan-Distanz: 88.1085, Minkowski-Distanz (p=3): 2.4240***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Trump - Satz124: "they control the whole thing."
+***Cosine Similarity: 0.4396, Euklidische Distanz: 18.3651, Manhattan-Distanz: 65.2060, Minkowski-Distanz (p=3): 1.8865***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.4386, Euklidische Distanz: 14.8967, Manhattan-Distanz: 59.0139, Minkowski-Distanz (p=3): 1.6973***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz140: "you can only do it through the presidency, but you control the money coming in, coming out."
+***Cosine Similarity: 0.4379, Euklidische Distanz: 21.9156, Manhattan-Distanz: 72.9100, Minkowski-Distanz (p=3): 2.0257***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.4375, Euklidische Distanz: 22.6879, Manhattan-Distanz: 74.6777, Minkowski-Distanz (p=3): 2.0566***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Trump - Satz27: "letitia james is totally controlled by washington."
+***Cosine Similarity: 0.4373, Euklidische Distanz: 31.2534, Manhattan-Distanz: 87.5080, Minkowski-Distanz (p=3): 2.4265***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.4360, Euklidische Distanz: 31.2693, Manhattan-Distanz: 87.9348, Minkowski-Distanz (p=3): 2.4345***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.4342, Euklidische Distanz: 21.9535, Manhattan-Distanz: 73.2058, Minkowski-Distanz (p=3): 2.0314***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.4340, Euklidische Distanz: 36.4634, Manhattan-Distanz: 96.6895, Minkowski-Distanz (p=3): 2.5785***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Trump - Satz140: "you can only do it through the presidency, but you control the money coming in, coming out."
+***Cosine Similarity: 0.4339, Euklidische Distanz: 13.4614, Manhattan-Distanz: 57.7268, Minkowski-Distanz (p=3): 1.5921***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Trump - Satz119: "i will direct a completely overhaul doj to investigate every radical, out of control prosecutor in america for their illegal, racist in reverse enforcement of the law."
+***Cosine Similarity: 0.4333, Euklidische Distanz: 20.4277, Manhattan-Distanz: 69.9550, Minkowski-Distanz (p=3): 1.9975***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Trump - Satz21: "so, violence is out of control."
+***Cosine Similarity: 0.4331, Euklidische Distanz: 25.0259, Manhattan-Distanz: 78.0594, Minkowski-Distanz (p=3): 2.1879***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Trump - Satz41: "the left controls higher education."
+***Cosine Similarity: 0.4324, Euklidische Distanz: 22.7400, Manhattan-Distanz: 74.7611, Minkowski-Distanz (p=3): 2.0563***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Trump - Satz129: "we had no control."
+***Cosine Similarity: 0.4323, Euklidische Distanz: 17.2206, Manhattan-Distanz: 64.6568, Minkowski-Distanz (p=3): 1.8208***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Trump - Satz92: "they own him, they control him, and they know he will always do their bidding."
+***Cosine Similarity: 0.4315, Euklidische Distanz: 17.7091, Manhattan-Distanz: 66.8957, Minkowski-Distanz (p=3): 1.8022***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Trump - Satz53: "we’re going to rebuild our beautiful washington dc and we’re going to take control of it."
+***Cosine Similarity: 0.4313, Euklidische Distanz: 16.9522, Manhattan-Distanz: 64.0158, Minkowski-Distanz (p=3): 1.7998***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.4311, Euklidische Distanz: 20.6074, Manhattan-Distanz: 70.1843, Minkowski-Distanz (p=3): 1.9758***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Trump - Satz12: "exactly one week ago, our citizens voted in the important midterm elections, and despite a ridiculously long and unnecessary period of waiting, far longer in fact than any third world country, just a short time ago, the republicans won back control of the house of representatives."
+***Cosine Similarity: 0.4306, Euklidische Distanz: 14.4296, Manhattan-Distanz: 58.9870, Minkowski-Distanz (p=3): 1.6668***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.4306, Euklidische Distanz: 21.0723, Manhattan-Distanz: 72.5839, Minkowski-Distanz (p=3): 1.9667***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Trump - Satz62: "i will direct a completely overhaul doj to investigate every radical out of control prosecutor in america for their illegal racist and reverse enforcement of the law."
+***Cosine Similarity: 0.4297, Euklidische Distanz: 20.4618, Manhattan-Distanz: 69.9278, Minkowski-Distanz (p=3): 1.9989***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Trump - Satz113: "he’s completely owned and controlled by pelosi and schumer."
+***Cosine Similarity: 0.4297, Euklidische Distanz: 31.3442, Manhattan-Distanz: 86.6597, Minkowski-Distanz (p=3): 2.4409***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Trump - Satz67: "i will direct a completely overhaul doj to investigate every radical out of control prosecutor in america for their illegal racist in reverse enforcement of the law."
+***Cosine Similarity: 0.4297, Euklidische Distanz: 20.4624, Manhattan-Distanz: 69.9322, Minkowski-Distanz (p=3): 1.9994***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Trump - Satz65: "and i will direct a completely overhaul doj to investigate every radical out of control, fake, crooked prosecutor in america for their illegal racist in reverse enforcement of the law."
+***Cosine Similarity: 0.4295, Euklidische Distanz: 20.4646, Manhattan-Distanz: 70.0420, Minkowski-Distanz (p=3): 1.9966***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.4291, Euklidische Distanz: 31.3515, Manhattan-Distanz: 87.3740, Minkowski-Distanz (p=3): 2.4417***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.4289, Euklidische Distanz: 17.4185, Manhattan-Distanz: 65.7875, Minkowski-Distanz (p=3): 1.8152***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Trump - Satz49: "the ultimate form of local control."
+***Cosine Similarity: 0.4277, Euklidische Distanz: 21.1014, Manhattan-Distanz: 72.5350, Minkowski-Distanz (p=3): 1.9730***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.4274, Euklidische Distanz: 18.3862, Manhattan-Distanz: 65.3974, Minkowski-Distanz (p=3): 1.8908***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Trump - Satz22: "we had it so under control."
+***Cosine Similarity: 0.4273, Euklidische Distanz: 13.6349, Manhattan-Distanz: 58.3414, Minkowski-Distanz (p=3): 1.5793***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz118: "under my leadership, we will seal it up and expand that wall till we have total control."
+***Cosine Similarity: 0.4272, Euklidische Distanz: 22.0232, Manhattan-Distanz: 73.8079, Minkowski-Distanz (p=3): 2.0276***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.4272, Euklidische Distanz: 21.1060, Manhattan-Distanz: 73.0888, Minkowski-Distanz (p=3): 1.9611***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.4271, Euklidische Distanz: 12.5530, Manhattan-Distanz: 55.7711, Minkowski-Distanz (p=3): 1.5341***
+
+Hitler - Satz6: "jews control the financial forces of america on the stock exchange."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.4269, Euklidische Distanz: 36.1642, Manhattan-Distanz: 94.0560, Minkowski-Distanz (p=3): 2.6042***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Trump - Satz106: "but really, the people out of control are the people that surround him."
+***Cosine Similarity: 0.4254, Euklidische Distanz: 25.1087, Manhattan-Distanz: 78.0050, Minkowski-Distanz (p=3): 2.1976***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Trump - Satz36: "they run it, they control it, and we shouldn’t let that happen."
+***Cosine Similarity: 0.4254, Euklidische Distanz: 20.8016, Manhattan-Distanz: 70.9078, Minkowski-Distanz (p=3): 2.0054***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.4243, Euklidische Distanz: 17.4605, Manhattan-Distanz: 65.1719, Minkowski-Distanz (p=3): 1.8303***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Trump - Satz22: "we had it so under control."
+***Cosine Similarity: 0.4242, Euklidische Distanz: 15.1529, Manhattan-Distanz: 59.4422, Minkowski-Distanz (p=3): 1.7254***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Trump - Satz47: "the democrat controlled media talks race, race, race for political reasons."
+***Cosine Similarity: 0.4232, Euklidische Distanz: 18.9411, Manhattan-Distanz: 70.6403, Minkowski-Distanz (p=3): 1.8410***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Trump - Satz12: "exactly one week ago, our citizens voted in the important midterm elections, and despite a ridiculously long and unnecessary period of waiting, far longer in fact than any third world country, just a short time ago, the republicans won back control of the house of representatives."
+***Cosine Similarity: 0.4227, Euklidische Distanz: 15.1652, Manhattan-Distanz: 59.1337, Minkowski-Distanz (p=3): 1.7281***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Trump - Satz124: "they control the whole thing."
+***Cosine Similarity: 0.4212, Euklidische Distanz: 21.1653, Manhattan-Distanz: 73.4273, Minkowski-Distanz (p=3): 1.9602***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Trump - Satz69: "they control him, and they know that he will always do their bidding."
+***Cosine Similarity: 0.4207, Euklidische Distanz: 31.4511, Manhattan-Distanz: 87.8758, Minkowski-Distanz (p=3): 2.4425***
+
+Hitler - Satz21: "in proportion to the extent that commerce assumed definite control of the state, money became more and more of a god whom all had to serve and before whom all had to bow."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.4205, Euklidische Distanz: 20.0941, Manhattan-Distanz: 70.8189, Minkowski-Distanz (p=3): 1.9251***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.4205, Euklidische Distanz: 23.8339, Manhattan-Distanz: 74.7749, Minkowski-Distanz (p=3): 2.1423***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz88: "he’s controlled by fascists and bad people."
+***Cosine Similarity: 0.4203, Euklidische Distanz: 22.0930, Manhattan-Distanz: 73.6854, Minkowski-Distanz (p=3): 2.0383***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Trump - Satz70: "they’re trying to criminalize free speech and take total control over the american people."
+***Cosine Similarity: 0.4201, Euklidische Distanz: 25.1655, Manhattan-Distanz: 77.4753, Minkowski-Distanz (p=3): 2.2078***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.4197, Euklidische Distanz: 20.7190, Manhattan-Distanz: 71.2443, Minkowski-Distanz (p=3): 1.9741***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Trump - Satz88: "he’s controlled by fascists and bad people."
+***Cosine Similarity: 0.4194, Euklidische Distanz: 15.1438, Manhattan-Distanz: 60.4673, Minkowski-Distanz (p=3): 1.6932***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Trump - Satz14: "doesn’t sound too right, and they had total control, by the way."
+***Cosine Similarity: 0.4189, Euklidische Distanz: 20.8653, Manhattan-Distanz: 70.1255, Minkowski-Distanz (p=3): 2.0147***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Trump - Satz64: "and remember, iraq is now controlled by iran."
+***Cosine Similarity: 0.4186, Euklidische Distanz: 21.1907, Manhattan-Distanz: 72.8165, Minkowski-Distanz (p=3): 1.9657***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Trump - Satz109: "when we win giant republican victories and reclaim control over congress and really reclaim it over our country, we will halt the radical biden agenda in its tracks."
+***Cosine Similarity: 0.4182, Euklidische Distanz: 17.5155, Manhattan-Distanz: 64.6925, Minkowski-Distanz (p=3): 1.8308***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.4179, Euklidische Distanz: 15.1562, Manhattan-Distanz: 61.3253, Minkowski-Distanz (p=3): 1.6804***
+
+Hitler - Satz9: "the cleavage between official, or rather traditional, british statesmanship and the controlling influence of the jew on the money-markets is nowhere so clearly manifested as in the various attitudes adopted towards problems of british foreign policy."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.4173, Euklidische Distanz: 18.3056, Manhattan-Distanz: 66.2794, Minkowski-Distanz (p=3): 1.8601***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz48: "the left controls the white house, the left, maybe most importantly controls the federal bureaucracy, but the left doesn’t control we, the people."
+***Cosine Similarity: 0.4172, Euklidische Distanz: 22.1240, Manhattan-Distanz: 73.9440, Minkowski-Distanz (p=3): 2.0256***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Trump - Satz36: "they run it, they control it, and we shouldn’t let that happen."
+***Cosine Similarity: 0.4166, Euklidische Distanz: 13.6001, Manhattan-Distanz: 57.5626, Minkowski-Distanz (p=3): 1.6044***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Trump - Satz103: "so i will direct a completely overhaul doj to investigate every radical out of control prosecutor in america for their illegal racist enforcement of the law."
+***Cosine Similarity: 0.4162, Euklidische Distanz: 20.5934, Manhattan-Distanz: 70.3021, Minkowski-Distanz (p=3): 2.0052***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Trump - Satz48: "the left controls the white house, the left, maybe most importantly controls the federal bureaucracy, but the left doesn’t control we, the people."
+***Cosine Similarity: 0.4146, Euklidische Distanz: 20.7687, Manhattan-Distanz: 71.0633, Minkowski-Distanz (p=3): 1.9843***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.4141, Euklidische Distanz: 17.5524, Manhattan-Distanz: 65.6698, Minkowski-Distanz (p=3): 1.8222***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Trump - Satz142: "the biden gun control agenda is part and parcel of the left wing crusade to organize government against law-abiding citizens, while letting criminals roam free."
+***Cosine Similarity: 0.4136, Euklidische Distanz: 20.9174, Manhattan-Distanz: 70.2321, Minkowski-Distanz (p=3): 2.0103***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.4130, Euklidische Distanz: 15.6069, Manhattan-Distanz: 60.7031, Minkowski-Distanz (p=3): 1.7456***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Trump - Satz91: "joe biden and the fascists that control him are the real threat to democracy."
+***Cosine Similarity: 0.4124, Euklidische Distanz: 25.2475, Manhattan-Distanz: 78.0528, Minkowski-Distanz (p=3): 2.2006***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Trump - Satz23: "a vote for biden is a vote to give control of government over to the globalists, and communists, and socialists, and wealthy, liberal hypocrites, and all of those that want to silence, censor, cancel, and punish you."
+***Cosine Similarity: 0.4122, Euklidische Distanz: 15.2538, Manhattan-Distanz: 59.2699, Minkowski-Distanz (p=3): 1.7461***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.4115, Euklidische Distanz: 25.2580, Manhattan-Distanz: 77.7052, Minkowski-Distanz (p=3): 2.2095***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Trump - Satz40: "i will direct a completely overhauled doj to investigate every radical, out-of-control prosecutor in america for their illegal, racist, and reverse enforcement of the law."
+***Cosine Similarity: 0.4114, Euklidische Distanz: 20.6401, Manhattan-Distanz: 70.3860, Minkowski-Distanz (p=3): 2.0065***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Trump - Satz140: "you can only do it through the presidency, but you control the money coming in, coming out."
+***Cosine Similarity: 0.4107, Euklidische Distanz: 27.3847, Manhattan-Distanz: 82.2807, Minkowski-Distanz (p=3): 2.2462***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz92: "they own him, they control him, and they know he will always do their bidding."
+***Cosine Similarity: 0.4107, Euklidische Distanz: 22.1898, Manhattan-Distanz: 73.7725, Minkowski-Distanz (p=3): 2.0459***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Trump - Satz106: "but really, the people out of control are the people that surround him."
+***Cosine Similarity: 0.4099, Euklidische Distanz: 17.9046, Manhattan-Distanz: 66.9775, Minkowski-Distanz (p=3): 1.8296***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.4078, Euklidische Distanz: 13.7914, Manhattan-Distanz: 59.5404, Minkowski-Distanz (p=3): 1.5803***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.4071, Euklidische Distanz: 22.9987, Manhattan-Distanz: 74.7006, Minkowski-Distanz (p=3): 2.0694***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.4069, Euklidische Distanz: 15.2981, Manhattan-Distanz: 59.8219, Minkowski-Distanz (p=3): 1.7338***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.4069, Euklidische Distanz: 13.7984, Manhattan-Distanz: 58.3924, Minkowski-Distanz (p=3): 1.5985***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Trump - Satz70: "they’re trying to criminalize free speech and take total control over the american people."
+***Cosine Similarity: 0.4064, Euklidische Distanz: 17.6212, Manhattan-Distanz: 65.6855, Minkowski-Distanz (p=3): 1.8244***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Trump - Satz70: "they’re trying to criminalize free speech and take total control over the american people."
+***Cosine Similarity: 0.4056, Euklidische Distanz: 15.3092, Manhattan-Distanz: 59.5274, Minkowski-Distanz (p=3): 1.7385***
+
+Hitler - Satz3: "hence, as early as —, practically all production was under the control of jewish finance."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.4056, Euklidische Distanz: 28.2671, Manhattan-Distanz: 81.4441, Minkowski-Distanz (p=3): 2.3482***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.4050, Euklidische Distanz: 18.5926, Manhattan-Distanz: 66.6205, Minkowski-Distanz (p=3): 1.8955***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Trump - Satz9: "our economy is crashing, inflation is out of control."
+***Cosine Similarity: 0.4050, Euklidische Distanz: 15.6746, Manhattan-Distanz: 61.1353, Minkowski-Distanz (p=3): 1.7325***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Trump - Satz35: "joe biden and his fascists that control him are the real threat to democracy in this country."
+***Cosine Similarity: 0.4047, Euklidische Distanz: 25.3308, Manhattan-Distanz: 78.3009, Minkowski-Distanz (p=3): 2.2006***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.4046, Euklidische Distanz: 27.4527, Manhattan-Distanz: 82.4187, Minkowski-Distanz (p=3): 2.2581***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.4046, Euklidische Distanz: 19.4257, Manhattan-Distanz: 67.9014, Minkowski-Distanz (p=3): 1.9311***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Trump - Satz88: "he’s controlled by fascists and bad people."
+***Cosine Similarity: 0.4043, Euklidische Distanz: 18.2471, Manhattan-Distanz: 68.7296, Minkowski-Distanz (p=3): 1.8351***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Trump - Satz8: "big tech controls the media and they control the politicians."
+***Cosine Similarity: 0.4037, Euklidische Distanz: 23.0333, Manhattan-Distanz: 75.0028, Minkowski-Distanz (p=3): 2.0725***
+
+Hitler - Satz28: "the volkisch state must not confine its control of physical training to the official school period, but must demand that, after leaving school, and while his adolescent body is still developing, the boy continues this training, for on such proper physical development, success in after-life largely depends."
+Trump - Satz41: "the left controls higher education."
+***Cosine Similarity: 0.4029, Euklidische Distanz: 14.5997, Manhattan-Distanz: 60.3215, Minkowski-Distanz (p=3): 1.6489***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.4028, Euklidische Distanz: 17.4845, Manhattan-Distanz: 64.4234, Minkowski-Distanz (p=3): 1.8473***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.4026, Euklidische Distanz: 23.0445, Manhattan-Distanz: 74.6611, Minkowski-Distanz (p=3): 2.0835***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Trump - Satz140: "you can only do it through the presidency, but you control the money coming in, coming out."
+***Cosine Similarity: 0.4026, Euklidische Distanz: 21.0249, Manhattan-Distanz: 70.8226, Minkowski-Distanz (p=3): 2.0137***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.4018, Euklidische Distanz: 17.4935, Manhattan-Distanz: 65.0492, Minkowski-Distanz (p=3): 1.8421***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Trump - Satz70: "they’re trying to criminalize free speech and take total control over the american people."
+***Cosine Similarity: 0.4005, Euklidische Distanz: 18.2812, Manhattan-Distanz: 67.7598, Minkowski-Distanz (p=3): 1.8446***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.4000, Euklidische Distanz: 17.6796, Manhattan-Distanz: 66.0073, Minkowski-Distanz (p=3): 1.8232***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.3988, Euklidische Distanz: 21.0623, Manhattan-Distanz: 70.2733, Minkowski-Distanz (p=3): 2.0178***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Trump - Satz48: "the left controls the white house, the left, maybe most importantly controls the federal bureaucracy, but the left doesn’t control we, the people."
+***Cosine Similarity: 0.3980, Euklidische Distanz: 15.2374, Manhattan-Distanz: 59.9067, Minkowski-Distanz (p=3): 1.7185***
+
+Hitler - Satz21: "in proportion to the extent that commerce assumed definite control of the state, money became more and more of a god whom all had to serve and before whom all had to bow."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.3979, Euklidische Distanz: 20.3120, Manhattan-Distanz: 70.5562, Minkowski-Distanz (p=3): 1.9494***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Trump - Satz92: "they own him, they control him, and they know he will always do their bidding."
+***Cosine Similarity: 0.3976, Euklidische Distanz: 21.0737, Manhattan-Distanz: 70.3810, Minkowski-Distanz (p=3): 2.0176***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Trump - Satz52: "china now controls it."
+***Cosine Similarity: 0.3967, Euklidische Distanz: 23.1053, Manhattan-Distanz: 75.2146, Minkowski-Distanz (p=3): 2.0743***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Trump - Satz14: "doesn’t sound too right, and they had total control, by the way."
+***Cosine Similarity: 0.3966, Euklidische Distanz: 14.9184, Manhattan-Distanz: 60.5835, Minkowski-Distanz (p=3): 1.6666***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Trump - Satz88: "he’s controlled by fascists and bad people."
+***Cosine Similarity: 0.3964, Euklidische Distanz: 12.7899, Manhattan-Distanz: 56.3180, Minkowski-Distanz (p=3): 1.5451***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Trump - Satz69: "they control him, and they know that he will always do their bidding."
+***Cosine Similarity: 0.3946, Euklidische Distanz: 18.0439, Manhattan-Distanz: 67.5908, Minkowski-Distanz (p=3): 1.8212***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.3944, Euklidische Distanz: 15.3538, Manhattan-Distanz: 61.4562, Minkowski-Distanz (p=3): 1.6924***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Trump - Satz56: "they will own our country because they own him, they control him and they know he will always be there to do their bidding."
+***Cosine Similarity: 0.3942, Euklidische Distanz: 21.1073, Manhattan-Distanz: 70.8039, Minkowski-Distanz (p=3): 2.0101***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Trump - Satz32: "we will restore law and order to our communities, and i will direct a completely overhaul doj to investigate every radical, out of control prosecutor, of which we have many."
+***Cosine Similarity: 0.3926, Euklidische Distanz: 23.1471, Manhattan-Distanz: 75.7509, Minkowski-Distanz (p=3): 2.0792***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.3926, Euklidische Distanz: 17.9848, Manhattan-Distanz: 66.3622, Minkowski-Distanz (p=3): 1.8386***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Trump - Satz35: "joe biden and his fascists that control him are the real threat to democracy in this country."
+***Cosine Similarity: 0.3924, Euklidische Distanz: 12.8207, Manhattan-Distanz: 56.7559, Minkowski-Distanz (p=3): 1.5459***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Trump - Satz140: "you can only do it through the presidency, but you control the money coming in, coming out."
+***Cosine Similarity: 0.3921, Euklidische Distanz: 17.7507, Manhattan-Distanz: 66.5657, Minkowski-Distanz (p=3): 1.8173***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.3912, Euklidische Distanz: 12.8296, Manhattan-Distanz: 56.6837, Minkowski-Distanz (p=3): 1.5491***
+
+Hitler - Satz6: "jews control the financial forces of america on the stock exchange."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.3910, Euklidische Distanz: 36.6221, Manhattan-Distanz: 94.8267, Minkowski-Distanz (p=3): 2.6051***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Trump - Satz131: "but think about it, dolan wants to have left-wing gun control."
+***Cosine Similarity: 0.3909, Euklidische Distanz: 21.1397, Manhattan-Distanz: 70.5566, Minkowski-Distanz (p=3): 2.0230***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Trump - Satz106: "but really, the people out of control are the people that surround him."
+***Cosine Similarity: 0.3908, Euklidische Distanz: 18.0007, Manhattan-Distanz: 66.6744, Minkowski-Distanz (p=3): 1.8369***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.3890, Euklidische Distanz: 37.0397, Manhattan-Distanz: 97.1677, Minkowski-Distanz (p=3): 2.5948***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Trump - Satz86: "and the strength is the president because he controls … i rebuilt the military."
+***Cosine Similarity: 0.3887, Euklidische Distanz: 15.4014, Manhattan-Distanz: 60.9959, Minkowski-Distanz (p=3): 1.7065***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Trump - Satz35: "joe biden and his fascists that control him are the real threat to democracy in this country."
+***Cosine Similarity: 0.3885, Euklidische Distanz: 15.4035, Manhattan-Distanz: 61.8479, Minkowski-Distanz (p=3): 1.6883***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Trump - Satz91: "joe biden and the fascists that control him are the real threat to democracy."
+***Cosine Similarity: 0.3879, Euklidische Distanz: 12.8554, Manhattan-Distanz: 56.6955, Minkowski-Distanz (p=3): 1.5497***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Trump - Satz83: "we are a nation where free speech is no longer allowed and where crime is rampant and out of control like never before."
+***Cosine Similarity: 0.3878, Euklidische Distanz: 17.7892, Manhattan-Distanz: 65.8071, Minkowski-Distanz (p=3): 1.8285***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.3873, Euklidische Distanz: 27.6457, Manhattan-Distanz: 82.2920, Minkowski-Distanz (p=3): 2.2817***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.3872, Euklidische Distanz: 14.7873, Manhattan-Distanz: 60.5028, Minkowski-Distanz (p=3): 1.6684***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Trump - Satz6: "we’re much stronger than they are, because unlike their agenda, our movement is not driven by the lust for control and domination of others."
+***Cosine Similarity: 0.3868, Euklidische Distanz: 19.0048, Manhattan-Distanz: 67.9712, Minkowski-Distanz (p=3): 1.8909***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Trump - Satz108: "my administration will crack down on these out of control monsters."
+***Cosine Similarity: 0.3862, Euklidische Distanz: 13.8421, Manhattan-Distanz: 57.6331, Minkowski-Distanz (p=3): 1.6157***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.3861, Euklidische Distanz: 19.6001, Manhattan-Distanz: 69.0508, Minkowski-Distanz (p=3): 1.9218***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.3860, Euklidische Distanz: 21.0472, Manhattan-Distanz: 72.6816, Minkowski-Distanz (p=3): 1.9777***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Trump - Satz50: "it’s a scandal and a tragedy that year after year democrats in washington continue to hold common sense school safety measures hostage to their radical gun control agenda, which in virtually all cases would do nothing to prevent attacks by demented and disturbed individuals, of which we have many and many are coming into our country, but we’re getting them out."
+***Cosine Similarity: 0.3859, Euklidische Distanz: 18.0456, Manhattan-Distanz: 66.3856, Minkowski-Distanz (p=3): 1.8430***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Trump - Satz127: "and they will never, ever, therefore, control you."
+***Cosine Similarity: 0.3854, Euklidische Distanz: 37.0852, Manhattan-Distanz: 97.3970, Minkowski-Distanz (p=3): 2.5964***
+
+Hitler - Satz3: "hence, as early as —, practically all production was under the control of jewish finance."
+Trump - Satz22: "we had it so under control."
+***Cosine Similarity: 0.3852, Euklidische Distanz: 28.4972, Manhattan-Distanz: 82.3066, Minkowski-Distanz (p=3): 2.3442***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.3850, Euklidische Distanz: 18.7780, Manhattan-Distanz: 66.8724, Minkowski-Distanz (p=3): 1.9064***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Trump - Satz142: "the biden gun control agenda is part and parcel of the left wing crusade to organize government against law-abiding citizens, while letting criminals roam free."
+***Cosine Similarity: 0.3844, Euklidische Distanz: 18.8759, Manhattan-Distanz: 66.1099, Minkowski-Distanz (p=3): 1.9098***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Trump - Satz84: "somebody else has already voted for you.” your vote tomorrow will decide which party controls the united states senate."
+***Cosine Similarity: 0.3843, Euklidische Distanz: 14.8111, Manhattan-Distanz: 59.0229, Minkowski-Distanz (p=3): 1.6859***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Trump - Satz104: "and we don’t have control of it."
+***Cosine Similarity: 0.3843, Euklidische Distanz: 13.8574, Manhattan-Distanz: 58.5599, Minkowski-Distanz (p=3): 1.6167***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Trump - Satz48: "the left controls the white house, the left, maybe most importantly controls the federal bureaucracy, but the left doesn’t control we, the people."
+***Cosine Similarity: 0.3830, Euklidische Distanz: 14.8218, Manhattan-Distanz: 59.0018, Minkowski-Distanz (p=3): 1.6876***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.3820, Euklidische Distanz: 19.3375, Manhattan-Distanz: 69.3053, Minkowski-Distanz (p=3): 1.8906***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Trump - Satz33: "they pretend like it’s under control."
+***Cosine Similarity: 0.3818, Euklidische Distanz: 13.8773, Manhattan-Distanz: 57.5278, Minkowski-Distanz (p=3): 1.6279***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Trump - Satz127: "and they will never, ever, therefore, control you."
+***Cosine Similarity: 0.3807, Euklidische Distanz: 13.8866, Manhattan-Distanz: 58.3362, Minkowski-Distanz (p=3): 1.6135***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Trump - Satz97: "it took them the new administration only a few weeks to turn this unprecedented accomplishment into self-inflicted humanitarian and national security disaster by recklessly eliminating our border, security measures, controls, all of the things that we put into place."
+***Cosine Similarity: 0.3802, Euklidische Distanz: 15.4735, Manhattan-Distanz: 61.8355, Minkowski-Distanz (p=3): 1.6995***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Trump - Satz8: "big tech controls the media and they control the politicians."
+***Cosine Similarity: 0.3801, Euklidische Distanz: 24.2553, Manhattan-Distanz: 75.7562, Minkowski-Distanz (p=3): 2.1673***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.3799, Euklidische Distanz: 19.3570, Manhattan-Distanz: 68.9208, Minkowski-Distanz (p=3): 1.9021***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.3796, Euklidische Distanz: 14.8504, Manhattan-Distanz: 59.0679, Minkowski-Distanz (p=3): 1.6942***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Trump - Satz10: "the prosecutors are out of control, especially if you happen to be a republican."
+***Cosine Similarity: 0.3794, Euklidische Distanz: 18.8288, Manhattan-Distanz: 66.8409, Minkowski-Distanz (p=3): 1.9092***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.3794, Euklidische Distanz: 18.1041, Manhattan-Distanz: 66.4122, Minkowski-Distanz (p=3): 1.8476***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Trump - Satz133: "the new weapon being used by out of control unhinged democrats to cheat on election is criminally investigating a candidate, bad publicity and all."
+***Cosine Similarity: 0.3793, Euklidische Distanz: 25.6022, Manhattan-Distanz: 78.7530, Minkowski-Distanz (p=3): 2.2163***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Trump - Satz100: "i’ll direct a completely overhauled doj to investigate every radical out-of-control prosecutor in america for their illegal racist in reverse enforcement of the law, and i’m also going to indemnify all police officers and law enforcement officers throughout the whole united states to protect them from being destroyed by the radical left for taking strong actions on crime."
+***Cosine Similarity: 0.3782, Euklidische Distanz: 18.4859, Manhattan-Distanz: 67.9854, Minkowski-Distanz (p=3): 1.8564***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Trump - Satz140: "you can only do it through the presidency, but you control the money coming in, coming out."
+***Cosine Similarity: 0.3781, Euklidische Distanz: 19.6758, Manhattan-Distanz: 68.5558, Minkowski-Distanz (p=3): 1.9351***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.3779, Euklidische Distanz: 17.4802, Manhattan-Distanz: 65.9470, Minkowski-Distanz (p=3): 1.8036***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Trump - Satz140: "you can only do it through the presidency, but you control the money coming in, coming out."
+***Cosine Similarity: 0.3777, Euklidische Distanz: 19.3779, Manhattan-Distanz: 69.5114, Minkowski-Distanz (p=3): 1.8942***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.3775, Euklidische Distanz: 15.9085, Manhattan-Distanz: 61.1985, Minkowski-Distanz (p=3): 1.7538***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.3772, Euklidische Distanz: 19.3824, Manhattan-Distanz: 68.7424, Minkowski-Distanz (p=3): 1.9004***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Trump - Satz23: "a vote for biden is a vote to give control of government over to the globalists, and communists, and socialists, and wealthy, liberal hypocrites, and all of those that want to silence, censor, cancel, and punish you."
+***Cosine Similarity: 0.3767, Euklidische Distanz: 18.9470, Manhattan-Distanz: 65.9167, Minkowski-Distanz (p=3): 1.9252***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Trump - Satz1: "the left controls big media."
+***Cosine Similarity: 0.3763, Euklidische Distanz: 19.3800, Manhattan-Distanz: 70.6658, Minkowski-Distanz (p=3): 1.8730***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Trump - Satz91: "joe biden and the fascists that control him are the real threat to democracy."
+***Cosine Similarity: 0.3761, Euklidische Distanz: 18.5050, Manhattan-Distanz: 68.4949, Minkowski-Distanz (p=3): 1.8544***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.3760, Euklidische Distanz: 18.5060, Manhattan-Distanz: 68.4307, Minkowski-Distanz (p=3): 1.8576***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Trump - Satz133: "the new weapon being used by out of control unhinged democrats to cheat on election is criminally investigating a candidate, bad publicity and all."
+***Cosine Similarity: 0.3755, Euklidische Distanz: 13.9280, Manhattan-Distanz: 58.9666, Minkowski-Distanz (p=3): 1.6115***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Trump - Satz48: "the left controls the white house, the left, maybe most importantly controls the federal bureaucracy, but the left doesn’t control we, the people."
+***Cosine Similarity: 0.3749, Euklidische Distanz: 37.2198, Manhattan-Distanz: 97.6160, Minkowski-Distanz (p=3): 2.6052***
+
+Hitler - Satz21: "in proportion to the extent that commerce assumed definite control of the state, money became more and more of a god whom all had to serve and before whom all had to bow."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.3739, Euklidische Distanz: 20.5430, Manhattan-Distanz: 71.2749, Minkowski-Distanz (p=3): 1.9531***
+
+Hitler - Satz35: "his extortionate tyranny became so unbearable that people rebelled against his control and used physical violence against him."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.3729, Euklidische Distanz: 25.6710, Manhattan-Distanz: 78.7528, Minkowski-Distanz (p=3): 2.2215***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Trump - Satz14: "doesn’t sound too right, and they had total control, by the way."
+***Cosine Similarity: 0.3728, Euklidische Distanz: 13.9492, Manhattan-Distanz: 57.7715, Minkowski-Distanz (p=3): 1.6268***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.3728, Euklidische Distanz: 15.5357, Manhattan-Distanz: 61.3767, Minkowski-Distanz (p=3): 1.7047***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Trump - Satz42: "in recent weeks, i’ve begun to introduce our bold, ambitious agenda to control and confront the colossal disasters that joe biden is leaving in his wake, what he’s done to this country, the damage."
+***Cosine Similarity: 0.3722, Euklidische Distanz: 15.5405, Manhattan-Distanz: 61.6589, Minkowski-Distanz (p=3): 1.7047***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Trump - Satz90: "frankly, the federal government should take over control and management of washington, dc, good project because it’s horrible."
+***Cosine Similarity: 0.3720, Euklidische Distanz: 17.7608, Manhattan-Distanz: 65.0744, Minkowski-Distanz (p=3): 1.8664***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.3718, Euklidische Distanz: 18.9923, Manhattan-Distanz: 66.5173, Minkowski-Distanz (p=3): 1.9144***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Trump - Satz23: "a vote for biden is a vote to give control of government over to the globalists, and communists, and socialists, and wealthy, liberal hypocrites, and all of those that want to silence, censor, cancel, and punish you."
+***Cosine Similarity: 0.3709, Euklidische Distanz: 18.1814, Manhattan-Distanz: 66.2215, Minkowski-Distanz (p=3): 1.8620***
+
+Hitler - Satz38: "financial exchange circles began to triumph and made slow but sure progress in assuming control of the whole of national life."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.3707, Euklidische Distanz: 22.8379, Manhattan-Distanz: 76.0579, Minkowski-Distanz (p=3): 2.0434***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Trump - Satz49: "the ultimate form of local control."
+***Cosine Similarity: 0.3705, Euklidische Distanz: 18.2627, Manhattan-Distanz: 67.9483, Minkowski-Distanz (p=3): 1.8341***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Trump - Satz23: "a vote for biden is a vote to give control of government over to the globalists, and communists, and socialists, and wealthy, liberal hypocrites, and all of those that want to silence, censor, cancel, and punish you."
+***Cosine Similarity: 0.3703, Euklidische Distanz: 18.5579, Manhattan-Distanz: 68.6045, Minkowski-Distanz (p=3): 1.8513***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.3702, Euklidische Distanz: 18.9142, Manhattan-Distanz: 66.4329, Minkowski-Distanz (p=3): 1.9078***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Trump - Satz73: "absolutely nothing wrong except win an election that a lot of people said, “couldn’t be won.”
+
+ 
+we are a nation where free speech is no longer allowed, and where crime is rampant and out of control like never before."
+***Cosine Similarity: 0.3701, Euklidische Distanz: 15.1385, Manhattan-Distanz: 59.8801, Minkowski-Distanz (p=3): 1.7048***
+
+Hitler - Satz6: "jews control the financial forces of america on the stock exchange."
+Trump - Satz89: "he controls 1.4 billion people with an iron fist."
+***Cosine Similarity: 0.3700, Euklidische Distanz: 36.8894, Manhattan-Distanz: 94.3452, Minkowski-Distanz (p=3): 2.6320***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.3680, Euklidische Distanz: 15.4887, Manhattan-Distanz: 60.5801, Minkowski-Distanz (p=3): 1.7299***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Trump - Satz14: "doesn’t sound too right, and they had total control, by the way."
+***Cosine Similarity: 0.3679, Euklidische Distanz: 14.1109, Manhattan-Distanz: 59.3689, Minkowski-Distanz (p=3): 1.6045***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Trump - Satz70: "they’re trying to criminalize free speech and take total control over the american people."
+***Cosine Similarity: 0.3674, Euklidische Distanz: 18.9403, Manhattan-Distanz: 67.0143, Minkowski-Distanz (p=3): 1.9053***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Trump - Satz48: "the left controls the white house, the left, maybe most importantly controls the federal bureaucracy, but the left doesn’t control we, the people."
+***Cosine Similarity: 0.3672, Euklidische Distanz: 19.0349, Manhattan-Distanz: 66.2759, Minkowski-Distanz (p=3): 1.9182***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Trump - Satz56: "they will own our country because they own him, they control him and they know he will always be there to do their bidding."
+***Cosine Similarity: 0.3670, Euklidische Distanz: 18.2949, Manhattan-Distanz: 68.4551, Minkowski-Distanz (p=3): 1.8249***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.3662, Euklidische Distanz: 19.0443, Manhattan-Distanz: 66.8305, Minkowski-Distanz (p=3): 1.9346***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.3662, Euklidische Distanz: 17.8129, Manhattan-Distanz: 64.6384, Minkowski-Distanz (p=3): 1.8764***
+
+Hitler - Satz30: "the consequence of it all was that, a few days later, i was assigned to a regiment then stationed in munich and given a position there as ‘instruction officer.’ at that time the spirit of discipline was rather weak among the troops which were still suffering from the after-effects of the period when the soldiers’ councils were in control."
+Trump - Satz86: "and the strength is the president because he controls … i rebuilt the military."
+***Cosine Similarity: 0.3660, Euklidische Distanz: 13.3497, Manhattan-Distanz: 54.6211, Minkowski-Distanz (p=3): 1.6182***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Trump - Satz36: "they run it, they control it, and we shouldn’t let that happen."
+***Cosine Similarity: 0.3657, Euklidische Distanz: 18.6005, Manhattan-Distanz: 68.5011, Minkowski-Distanz (p=3): 1.8608***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Trump - Satz35: "joe biden and his fascists that control him are the real threat to democracy in this country."
+***Cosine Similarity: 0.3656, Euklidische Distanz: 18.6007, Manhattan-Distanz: 68.6065, Minkowski-Distanz (p=3): 1.8591***
+
+Hitler - Satz30: "the consequence of it all was that, a few days later, i was assigned to a regiment then stationed in munich and given a position there as ‘instruction officer.’ at that time the spirit of discipline was rather weak among the troops which were still suffering from the after-effects of the period when the soldiers’ councils were in control."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.3652, Euklidische Distanz: 13.3561, Manhattan-Distanz: 54.8823, Minkowski-Distanz (p=3): 1.6022***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Trump - Satz88: "he’s controlled by fascists and bad people."
+***Cosine Similarity: 0.3650, Euklidische Distanz: 17.7770, Manhattan-Distanz: 64.8108, Minkowski-Distanz (p=3): 1.8342***
+
+Hitler - Satz30: "the consequence of it all was that, a few days later, i was assigned to a regiment then stationed in munich and given a position there as ‘instruction officer.’ at that time the spirit of discipline was rather weak among the troops which were still suffering from the after-effects of the period when the soldiers’ councils were in control."
+Trump - Satz38: "it was just what, as you know, the border controlled board and everybody else… border patrol, i had him in my office."
+***Cosine Similarity: 0.3650, Euklidische Distanz: 13.3578, Manhattan-Distanz: 55.4847, Minkowski-Distanz (p=3): 1.6072***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.3644, Euklidische Distanz: 15.5194, Manhattan-Distanz: 59.7206, Minkowski-Distanz (p=3): 1.7585***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.3642, Euklidische Distanz: 19.8070, Manhattan-Distanz: 68.8445, Minkowski-Distanz (p=3): 1.9418***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.3637, Euklidische Distanz: 17.8359, Manhattan-Distanz: 65.5804, Minkowski-Distanz (p=3): 1.8625***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Trump - Satz85: "if you-
+
+… want to send a message to the powerful forces that are trying to control your country, you must get out and vote tomorrow for david perdue and kelly loeffler."
+***Cosine Similarity: 0.3616, Euklidische Distanz: 17.5726, Manhattan-Distanz: 65.7859, Minkowski-Distanz (p=3): 1.8195***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Trump - Satz91: "joe biden and the fascists that control him are the real threat to democracy."
+***Cosine Similarity: 0.3613, Euklidische Distanz: 15.6318, Manhattan-Distanz: 62.3752, Minkowski-Distanz (p=3): 1.6988***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Trump - Satz131: "but think about it, dolan wants to have left-wing gun control."
+***Cosine Similarity: 0.3609, Euklidische Distanz: 18.6445, Manhattan-Distanz: 68.0230, Minkowski-Distanz (p=3): 1.8772***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Trump - Satz32: "we will restore law and order to our communities, and i will direct a completely overhaul doj to investigate every radical, out of control prosecutor, of which we have many."
+***Cosine Similarity: 0.3605, Euklidische Distanz: 17.5825, Manhattan-Distanz: 65.0187, Minkowski-Distanz (p=3): 1.8239***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Trump - Satz8: "big tech controls the media and they control the politicians."
+***Cosine Similarity: 0.3599, Euklidische Distanz: 18.2811, Manhattan-Distanz: 67.5350, Minkowski-Distanz (p=3): 1.8501***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.3593, Euklidische Distanz: 18.2861, Manhattan-Distanz: 66.8048, Minkowski-Distanz (p=3): 1.8672***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Trump - Satz29: "i read a story in one of the newspapers recently how i control the three supreme court justices."
+***Cosine Similarity: 0.3593, Euklidische Distanz: 19.5392, Manhattan-Distanz: 70.8612, Minkowski-Distanz (p=3): 1.8756***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.3591, Euklidische Distanz: 14.0586, Manhattan-Distanz: 58.5366, Minkowski-Distanz (p=3): 1.6188***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Trump - Satz17: "a vote for biden is a vote to give control of government over to the globalists, and the communists, socialists, and wealthy liberal hypocrites who want to silence, cancel and punish you."
+***Cosine Similarity: 0.3590, Euklidische Distanz: 19.1115, Manhattan-Distanz: 66.3393, Minkowski-Distanz (p=3): 1.9323***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Trump - Satz104: "and we don’t have control of it."
+***Cosine Similarity: 0.3583, Euklidische Distanz: 37.4328, Manhattan-Distanz: 98.1501, Minkowski-Distanz (p=3): 2.6058***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Trump - Satz16: "they cannot steer me, they cannot shake me, and they will never, ever control me."
+***Cosine Similarity: 0.3583, Euklidische Distanz: 37.4329, Manhattan-Distanz: 98.0340, Minkowski-Distanz (p=3): 2.6052***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Trump - Satz33: "they pretend like it’s under control."
+***Cosine Similarity: 0.3580, Euklidische Distanz: 16.7891, Manhattan-Distanz: 63.3239, Minkowski-Distanz (p=3): 1.7961***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Trump - Satz57: "it’s not under control."
+***Cosine Similarity: 0.3573, Euklidische Distanz: 19.2783, Manhattan-Distanz: 68.4936, Minkowski-Distanz (p=3): 1.8980***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Trump - Satz42: "in recent weeks, i’ve begun to introduce our bold, ambitious agenda to control and confront the colossal disasters that joe biden is leaving in his wake, what he’s done to this country, the damage."
+***Cosine Similarity: 0.3572, Euklidische Distanz: 13.0918, Manhattan-Distanz: 56.7549, Minkowski-Distanz (p=3): 1.5728***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Trump - Satz24: "a vote for biden is a vote to give control of government over to the globalist and communists and socialists and wealthy liberal hypocrites, hypocrites who want to silence, censor, cancel, and punish you."
+***Cosine Similarity: 0.3570, Euklidische Distanz: 19.1297, Manhattan-Distanz: 66.1902, Minkowski-Distanz (p=3): 1.9345***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.3568, Euklidische Distanz: 19.8771, Manhattan-Distanz: 69.3620, Minkowski-Distanz (p=3): 1.9397***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.3567, Euklidische Distanz: 17.6691, Manhattan-Distanz: 65.8661, Minkowski-Distanz (p=3): 1.8196***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.3565, Euklidische Distanz: 13.0968, Manhattan-Distanz: 56.6639, Minkowski-Distanz (p=3): 1.5696***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Trump - Satz124: "they control the whole thing."
+***Cosine Similarity: 0.3564, Euklidische Distanz: 14.0799, Manhattan-Distanz: 57.5681, Minkowski-Distanz (p=3): 1.6482***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.3564, Euklidische Distanz: 17.9007, Manhattan-Distanz: 64.7954, Minkowski-Distanz (p=3): 1.8753***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Trump - Satz70: "they’re trying to criminalize free speech and take total control over the american people."
+***Cosine Similarity: 0.3556, Euklidische Distanz: 37.4671, Manhattan-Distanz: 98.0383, Minkowski-Distanz (p=3): 2.6128***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.3553, Euklidische Distanz: 28.0017, Manhattan-Distanz: 83.2362, Minkowski-Distanz (p=3): 2.2763***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Trump - Satz60: "a vote for biden is a vote to give control of government over to the globalist, communist, socialist, the wealthy liberal hypocrites, who want to silent, sensor, cancel, and punish you."
+***Cosine Similarity: 0.3551, Euklidische Distanz: 19.1471, Manhattan-Distanz: 66.2496, Minkowski-Distanz (p=3): 1.9337***
+
+Hitler - Satz3: "hence, as early as —, practically all production was under the control of jewish finance."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.3548, Euklidische Distanz: 28.8401, Manhattan-Distanz: 82.8782, Minkowski-Distanz (p=3): 2.3631***
+
+Hitler - Satz21: "in proportion to the extent that commerce assumed definite control of the state, money became more and more of a god whom all had to serve and before whom all had to bow."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.3548, Euklidische Distanz: 20.7268, Manhattan-Distanz: 71.5181, Minkowski-Distanz (p=3): 1.9726***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Trump - Satz141: "they counted ballots cast after deadlines and they allowed ballots to be illegally fixed in democrat controlled areas."
+***Cosine Similarity: 0.3541, Euklidische Distanz: 15.0598, Manhattan-Distanz: 60.1441, Minkowski-Distanz (p=3): 1.6820***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Trump - Satz24: "a vote for biden is a vote to give control of government over to the globalist and communists and socialists and wealthy liberal hypocrites, hypocrites who want to silence, censor, cancel, and punish you."
+***Cosine Similarity: 0.3541, Euklidische Distanz: 18.3331, Manhattan-Distanz: 66.6176, Minkowski-Distanz (p=3): 1.8695***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Trump - Satz140: "you can only do it through the presidency, but you control the money coming in, coming out."
+***Cosine Similarity: 0.3538, Euklidische Distanz: 19.0658, Manhattan-Distanz: 66.7317, Minkowski-Distanz (p=3): 1.9240***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Trump - Satz88: "he’s controlled by fascists and bad people."
+***Cosine Similarity: 0.3536, Euklidische Distanz: 15.6096, Manhattan-Distanz: 61.2627, Minkowski-Distanz (p=3): 1.7348***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Trump - Satz93: "crime in our democrat-run cities is out of control like never before."
+***Cosine Similarity: 0.3535, Euklidische Distanz: 18.3385, Manhattan-Distanz: 67.1785, Minkowski-Distanz (p=3): 1.8542***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Trump - Satz8: "big tech controls the media and they control the politicians."
+***Cosine Similarity: 0.3534, Euklidische Distanz: 19.5937, Manhattan-Distanz: 71.2592, Minkowski-Distanz (p=3): 1.8774***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.3529, Euklidische Distanz: 28.0288, Manhattan-Distanz: 82.9305, Minkowski-Distanz (p=3): 2.2848***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Trump - Satz138: "a vote for biden is a vote to give control of government over to the globalist, communist, socialist, the wealthy liberal hypocrites who want to silent, censor, cancel and punish you."
+***Cosine Similarity: 0.3525, Euklidische Distanz: 19.1714, Manhattan-Distanz: 66.2363, Minkowski-Distanz (p=3): 1.9377***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.3525, Euklidische Distanz: 21.3745, Manhattan-Distanz: 71.9211, Minkowski-Distanz (p=3): 2.0151***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Trump - Satz7: "he controls the internet."
+***Cosine Similarity: 0.3520, Euklidische Distanz: 24.5489, Manhattan-Distanz: 76.5887, Minkowski-Distanz (p=3): 2.1638***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Trump - Satz109: "when we win giant republican victories and reclaim control over congress and really reclaim it over our country, we will halt the radical biden agenda in its tracks."
+***Cosine Similarity: 0.3520, Euklidische Distanz: 16.1262, Manhattan-Distanz: 61.6081, Minkowski-Distanz (p=3): 1.7701***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Trump - Satz97: "it took them the new administration only a few weeks to turn this unprecedented accomplishment into self-inflicted humanitarian and national security disaster by recklessly eliminating our border, security measures, controls, all of the things that we put into place."
+***Cosine Similarity: 0.3519, Euklidische Distanz: 16.1265, Manhattan-Distanz: 61.5723, Minkowski-Distanz (p=3): 1.7644***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Trump - Satz129: "we had no control."
+***Cosine Similarity: 0.3519, Euklidische Distanz: 14.2394, Manhattan-Distanz: 59.4406, Minkowski-Distanz (p=3): 1.6154***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Trump - Satz98: "inflation is out of control."
+***Cosine Similarity: 0.3512, Euklidische Distanz: 16.1328, Manhattan-Distanz: 62.5150, Minkowski-Distanz (p=3): 1.7495***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Trump - Satz17: "a vote for biden is a vote to give control of government over to the globalists, and the communists, socialists, and wealthy liberal hypocrites who want to silence, cancel and punish you."
+***Cosine Similarity: 0.3511, Euklidische Distanz: 18.3610, Manhattan-Distanz: 66.6137, Minkowski-Distanz (p=3): 1.8715***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.3507, Euklidische Distanz: 15.6337, Manhattan-Distanz: 61.1102, Minkowski-Distanz (p=3): 1.7362***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Trump - Satz33: "they pretend like it’s under control."
+***Cosine Similarity: 0.3507, Euklidische Distanz: 18.4426, Manhattan-Distanz: 68.3008, Minkowski-Distanz (p=3): 1.8482***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Trump - Satz79: "we are a nation where free speech is no longer allowed, where crime is rampant and out of control like never before."
+***Cosine Similarity: 0.3503, Euklidische Distanz: 15.3027, Manhattan-Distanz: 60.4002, Minkowski-Distanz (p=3): 1.7068***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.3495, Euklidische Distanz: 19.9457, Manhattan-Distanz: 68.8360, Minkowski-Distanz (p=3): 1.9590***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Trump - Satz14: "doesn’t sound too right, and they had total control, by the way."
+***Cosine Similarity: 0.3492, Euklidische Distanz: 17.7363, Manhattan-Distanz: 66.0740, Minkowski-Distanz (p=3): 1.8269***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.3491, Euklidische Distanz: 16.9371, Manhattan-Distanz: 64.4323, Minkowski-Distanz (p=3): 1.7883***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Trump - Satz48: "the left controls the white house, the left, maybe most importantly controls the federal bureaucracy, but the left doesn’t control we, the people."
+***Cosine Similarity: 0.3491, Euklidische Distanz: 17.9667, Manhattan-Distanz: 65.3612, Minkowski-Distanz (p=3): 1.8795***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.3484, Euklidische Distanz: 19.6404, Manhattan-Distanz: 70.7987, Minkowski-Distanz (p=3): 1.8849***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Trump - Satz19: "and your own senator raphael warnock has not uttered a single solitary word of criticism, because he’s a marxist controlled by the radical left democrats who don’t believe in borders, and they don’t believe in a nation."
+***Cosine Similarity: 0.3481, Euklidische Distanz: 15.3206, Manhattan-Distanz: 61.0639, Minkowski-Distanz (p=3): 1.6945***
+
+Hitler - Satz9: "the cleavage between official, or rather traditional, british statesmanship and the controlling influence of the jew on the money-markets is nowhere so clearly manifested as in the various attitudes adopted towards problems of british foreign policy."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.3475, Euklidische Distanz: 18.9482, Manhattan-Distanz: 67.9652, Minkowski-Distanz (p=3): 1.8922***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Trump - Satz83: "we are a nation where free speech is no longer allowed and where crime is rampant and out of control like never before."
+***Cosine Similarity: 0.3469, Euklidische Distanz: 15.3310, Manhattan-Distanz: 60.4490, Minkowski-Distanz (p=3): 1.7088***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Trump - Satz129: "we had no control."
+***Cosine Similarity: 0.3467, Euklidische Distanz: 37.5811, Manhattan-Distanz: 98.3497, Minkowski-Distanz (p=3): 2.6061***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.3467, Euklidische Distanz: 28.0978, Manhattan-Distanz: 82.8630, Minkowski-Distanz (p=3): 2.2761***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Trump - Satz81: "it’s so sad, and we have no control, by the way."
+***Cosine Similarity: 0.3466, Euklidische Distanz: 37.5830, Manhattan-Distanz: 98.5408, Minkowski-Distanz (p=3): 2.5981***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Trump - Satz129: "we had no control."
+***Cosine Similarity: 0.3455, Euklidische Distanz: 15.3421, Manhattan-Distanz: 60.8032, Minkowski-Distanz (p=3): 1.7132***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Trump - Satz74: "they are out of control."
+***Cosine Similarity: 0.3454, Euklidische Distanz: 16.1818, Manhattan-Distanz: 62.5656, Minkowski-Distanz (p=3): 1.7689***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Trump - Satz48: "the left controls the white house, the left, maybe most importantly controls the federal bureaucracy, but the left doesn’t control we, the people."
+***Cosine Similarity: 0.3448, Euklidische Distanz: 16.1874, Manhattan-Distanz: 61.8741, Minkowski-Distanz (p=3): 1.7687***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Trump - Satz14: "doesn’t sound too right, and they had total control, by the way."
+***Cosine Similarity: 0.3446, Euklidische Distanz: 18.4986, Manhattan-Distanz: 68.5325, Minkowski-Distanz (p=3): 1.8435***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.3445, Euklidische Distanz: 24.6264, Manhattan-Distanz: 75.7027, Minkowski-Distanz (p=3): 2.1847***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.3444, Euklidische Distanz: 18.0085, Manhattan-Distanz: 65.5955, Minkowski-Distanz (p=3): 1.8769***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.3442, Euklidische Distanz: 16.1925, Manhattan-Distanz: 62.0117, Minkowski-Distanz (p=3): 1.7619***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.3440, Euklidische Distanz: 28.1276, Manhattan-Distanz: 82.7370, Minkowski-Distanz (p=3): 2.2896***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Trump - Satz22: "we had it so under control."
+***Cosine Similarity: 0.3438, Euklidische Distanz: 17.9666, Manhattan-Distanz: 66.2068, Minkowski-Distanz (p=3): 1.8399***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Trump - Satz139: "we are a nation where free speech is no longer allowed and where crime is rampant and out of control like never ever before."
+***Cosine Similarity: 0.3437, Euklidische Distanz: 15.3572, Manhattan-Distanz: 60.4991, Minkowski-Distanz (p=3): 1.7103***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Trump - Satz75: "nara lacks any right duty or means to seize control of those tapes."
+***Cosine Similarity: 0.3436, Euklidische Distanz: 15.3577, Manhattan-Distanz: 61.3186, Minkowski-Distanz (p=3): 1.7056***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Trump - Satz86: "and the strength is the president because he controls … i rebuilt the military."
+***Cosine Similarity: 0.3435, Euklidische Distanz: 18.5082, Manhattan-Distanz: 67.8225, Minkowski-Distanz (p=3): 1.8519***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Trump - Satz88: "he’s controlled by fascists and bad people."
+***Cosine Similarity: 0.3435, Euklidische Distanz: 24.6374, Manhattan-Distanz: 75.9233, Minkowski-Distanz (p=3): 2.1857***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Trump - Satz22: "we had it so under control."
+***Cosine Similarity: 0.3431, Euklidische Distanz: 18.0205, Manhattan-Distanz: 65.4359, Minkowski-Distanz (p=3): 1.8687***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Trump - Satz27: "letitia james is totally controlled by washington."
+***Cosine Similarity: 0.3428, Euklidische Distanz: 24.6441, Manhattan-Distanz: 76.2121, Minkowski-Distanz (p=3): 2.1821***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Trump - Satz73: "absolutely nothing wrong except win an election that a lot of people said, “couldn’t be won.”
+
+ 
+we are a nation where free speech is no longer allowed, and where crime is rampant and out of control like never before."
+***Cosine Similarity: 0.3426, Euklidische Distanz: 14.3142, Manhattan-Distanz: 59.3597, Minkowski-Distanz (p=3): 1.6323***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Trump - Satz45: "we are a nation where free speech is no longer allowed, where crime is rampant and out of control, like never before."
+***Cosine Similarity: 0.3425, Euklidische Distanz: 15.3670, Manhattan-Distanz: 60.4872, Minkowski-Distanz (p=3): 1.7099***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Trump - Satz6: "we’re much stronger than they are, because unlike their agenda, our movement is not driven by the lust for control and domination of others."
+***Cosine Similarity: 0.3420, Euklidische Distanz: 15.7072, Manhattan-Distanz: 60.6029, Minkowski-Distanz (p=3): 1.7470***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Trump - Satz23: "a vote for biden is a vote to give control of government over to the globalists, and communists, and socialists, and wealthy, liberal hypocrites, and all of those that want to silence, censor, cancel, and punish you."
+***Cosine Similarity: 0.3414, Euklidische Distanz: 17.8054, Manhattan-Distanz: 66.4444, Minkowski-Distanz (p=3): 1.8229***
+
+Hitler - Satz21: "in proportion to the extent that commerce assumed definite control of the state, money became more and more of a god whom all had to serve and before whom all had to bow."
+Trump - Satz140: "you can only do it through the presidency, but you control the money coming in, coming out."
+***Cosine Similarity: 0.3412, Euklidische Distanz: 20.8577, Manhattan-Distanz: 72.9203, Minkowski-Distanz (p=3): 1.9478***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Trump - Satz36: "they run it, they control it, and we shouldn’t let that happen."
+***Cosine Similarity: 0.3406, Euklidische Distanz: 19.4342, Manhattan-Distanz: 68.5675, Minkowski-Distanz (p=3): 1.9119***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.3373, Euklidische Distanz: 28.2015, Manhattan-Distanz: 83.5004, Minkowski-Distanz (p=3): 2.2839***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.3369, Euklidische Distanz: 28.2069, Manhattan-Distanz: 83.4886, Minkowski-Distanz (p=3): 2.2887***
+
+Hitler - Satz21: "in proportion to the extent that commerce assumed definite control of the state, money became more and more of a god whom all had to serve and before whom all had to bow."
+Trump - Satz71: "just yesterday, it was revealed that crooked joe’s brother admitted under oath that joe biden personally received a massive check paid for with money that came directly from a chinese energy company controlled by the chinese communist party."
+***Cosine Similarity: 0.3363, Euklidische Distanz: 20.9046, Manhattan-Distanz: 72.2786, Minkowski-Distanz (p=3): 1.9615***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.3360, Euklidische Distanz: 18.0371, Manhattan-Distanz: 65.7478, Minkowski-Distanz (p=3): 1.8508***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Trump - Satz91: "joe biden and the fascists that control him are the real threat to democracy."
+***Cosine Similarity: 0.3358, Euklidische Distanz: 24.7180, Manhattan-Distanz: 76.0002, Minkowski-Distanz (p=3): 2.1882***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Trump - Satz50: "it’s a scandal and a tragedy that year after year democrats in washington continue to hold common sense school safety measures hostage to their radical gun control agenda, which in virtually all cases would do nothing to prevent attacks by demented and disturbed individuals, of which we have many and many are coming into our country, but we’re getting them out."
+***Cosine Similarity: 0.3353, Euklidische Distanz: 16.9861, Manhattan-Distanz: 64.0637, Minkowski-Distanz (p=3): 1.7942***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Trump - Satz48: "the left controls the white house, the left, maybe most importantly controls the federal bureaucracy, but the left doesn’t control we, the people."
+***Cosine Similarity: 0.3352, Euklidische Distanz: 20.0807, Manhattan-Distanz: 69.8280, Minkowski-Distanz (p=3): 1.9504***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Trump - Satz91: "joe biden and the fascists that control him are the real threat to democracy."
+***Cosine Similarity: 0.3351, Euklidische Distanz: 28.2264, Manhattan-Distanz: 83.4152, Minkowski-Distanz (p=3): 2.2878***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Trump - Satz88: "he’s controlled by fascists and bad people."
+***Cosine Similarity: 0.3350, Euklidische Distanz: 20.0825, Manhattan-Distanz: 68.8621, Minkowski-Distanz (p=3): 1.9594***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.3339, Euklidische Distanz: 19.4957, Manhattan-Distanz: 68.8163, Minkowski-Distanz (p=3): 1.9115***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Trump - Satz57: "it’s not under control."
+***Cosine Similarity: 0.3338, Euklidische Distanz: 15.4391, Manhattan-Distanz: 60.8055, Minkowski-Distanz (p=3): 1.7151***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.3336, Euklidische Distanz: 17.0015, Manhattan-Distanz: 64.2655, Minkowski-Distanz (p=3): 1.7875***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.3334, Euklidische Distanz: 18.0597, Manhattan-Distanz: 65.5864, Minkowski-Distanz (p=3): 1.8530***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Trump - Satz33: "they pretend like it’s under control."
+***Cosine Similarity: 0.3334, Euklidische Distanz: 19.5006, Manhattan-Distanz: 68.7123, Minkowski-Distanz (p=3): 1.9143***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Trump - Satz90: "frankly, the federal government should take over control and management of washington, dc, good project because it’s horrible."
+***Cosine Similarity: 0.3334, Euklidische Distanz: 21.5607, Manhattan-Distanz: 72.1809, Minkowski-Distanz (p=3): 2.0209***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Trump - Satz138: "a vote for biden is a vote to give control of government over to the globalist, communist, socialist, the wealthy liberal hypocrites who want to silent, censor, cancel and punish you."
+***Cosine Similarity: 0.3334, Euklidische Distanz: 17.8771, Manhattan-Distanz: 66.3753, Minkowski-Distanz (p=3): 1.8275***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Trump - Satz17: "a vote for biden is a vote to give control of government over to the globalists, and the communists, socialists, and wealthy liberal hypocrites who want to silence, cancel and punish you."
+***Cosine Similarity: 0.3334, Euklidische Distanz: 17.8772, Manhattan-Distanz: 66.4812, Minkowski-Distanz (p=3): 1.8279***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.3333, Euklidische Distanz: 15.7794, Manhattan-Distanz: 61.1307, Minkowski-Distanz (p=3): 1.7508***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Trump - Satz18: "who is totally controlled by china."
+***Cosine Similarity: 0.3329, Euklidische Distanz: 15.2349, Manhattan-Distanz: 60.8095, Minkowski-Distanz (p=3): 1.7049***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Trump - Satz104: "and we don’t have control of it."
+***Cosine Similarity: 0.3325, Euklidische Distanz: 19.5091, Manhattan-Distanz: 68.4849, Minkowski-Distanz (p=3): 1.9196***
+
+Hitler - Satz6: "jews control the financial forces of america on the stock exchange."
+Trump - Satz48: "the left controls the white house, the left, maybe most importantly controls the federal bureaucracy, but the left doesn’t control we, the people."
+***Cosine Similarity: 0.3323, Euklidische Distanz: 37.3699, Manhattan-Distanz: 95.7254, Minkowski-Distanz (p=3): 2.6344***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Trump - Satz53: "we’re going to rebuild our beautiful washington dc and we’re going to take control of it."
+***Cosine Similarity: 0.3322, Euklidische Distanz: 21.5726, Manhattan-Distanz: 71.6699, Minkowski-Distanz (p=3): 2.0311***
+
+Hitler - Satz6: "jews control the financial forces of america on the stock exchange."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.3316, Euklidische Distanz: 37.3788, Manhattan-Distanz: 95.5917, Minkowski-Distanz (p=3): 2.6474***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.3314, Euklidische Distanz: 19.8117, Manhattan-Distanz: 69.8061, Minkowski-Distanz (p=3): 1.9209***
+
+Hitler - Satz6: "jews control the financial forces of america on the stock exchange."
+Trump - Satz29: "i read a story in one of the newspapers recently how i control the three supreme court justices."
+***Cosine Similarity: 0.3308, Euklidische Distanz: 37.3890, Manhattan-Distanz: 95.1333, Minkowski-Distanz (p=3): 2.6602***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.3308, Euklidische Distanz: 15.8006, Manhattan-Distanz: 61.2926, Minkowski-Distanz (p=3): 1.7498***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Trump - Satz14: "doesn’t sound too right, and they had total control, by the way."
+***Cosine Similarity: 0.3303, Euklidische Distanz: 19.5295, Manhattan-Distanz: 68.8337, Minkowski-Distanz (p=3): 1.9070***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Trump - Satz94: "he’s at the top of his game.” the fake news media said, “how dare they say that?” i said, “what am i going to say?” he controls 1.5 billion people."
+***Cosine Similarity: 0.3303, Euklidische Distanz: 24.7753, Manhattan-Distanz: 76.6763, Minkowski-Distanz (p=3): 2.1896***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Trump - Satz60: "a vote for biden is a vote to give control of government over to the globalist, communist, socialist, the wealthy liberal hypocrites, who want to silent, sensor, cancel, and punish you."
+***Cosine Similarity: 0.3301, Euklidische Distanz: 17.9058, Manhattan-Distanz: 66.4668, Minkowski-Distanz (p=3): 1.8293***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Trump - Satz35: "joe biden and his fascists that control him are the real threat to democracy in this country."
+***Cosine Similarity: 0.3299, Euklidische Distanz: 18.0916, Manhattan-Distanz: 65.5185, Minkowski-Distanz (p=3): 1.8477***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Trump - Satz23: "a vote for biden is a vote to give control of government over to the globalists, and communists, and socialists, and wealthy, liberal hypocrites, and all of those that want to silence, censor, cancel, and punish you."
+***Cosine Similarity: 0.3297, Euklidische Distanz: 15.2613, Manhattan-Distanz: 60.3427, Minkowski-Distanz (p=3): 1.7198***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Trump - Satz24: "a vote for biden is a vote to give control of government over to the globalist and communists and socialists and wealthy liberal hypocrites, hypocrites who want to silence, censor, cancel, and punish you."
+***Cosine Similarity: 0.3294, Euklidische Distanz: 17.9125, Manhattan-Distanz: 66.5244, Minkowski-Distanz (p=3): 1.8291***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Trump - Satz91: "joe biden and the fascists that control him are the real threat to democracy."
+***Cosine Similarity: 0.3293, Euklidische Distanz: 17.9131, Manhattan-Distanz: 66.4101, Minkowski-Distanz (p=3): 1.8292***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Trump - Satz109: "when we win giant republican victories and reclaim control over congress and really reclaim it over our country, we will halt the radical biden agenda in its tracks."
+***Cosine Similarity: 0.3292, Euklidische Distanz: 17.8610, Manhattan-Distanz: 65.2636, Minkowski-Distanz (p=3): 1.8536***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.3288, Euklidische Distanz: 21.6055, Manhattan-Distanz: 72.6306, Minkowski-Distanz (p=3): 2.0190***
+
+Hitler - Satz6: "jews control the financial forces of america on the stock exchange."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.3288, Euklidische Distanz: 37.4151, Manhattan-Distanz: 96.3575, Minkowski-Distanz (p=3): 2.6252***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.3286, Euklidische Distanz: 19.8377, Manhattan-Distanz: 70.2037, Minkowski-Distanz (p=3): 1.9190***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Trump - Satz48: "the left controls the white house, the left, maybe most importantly controls the federal bureaucracy, but the left doesn’t control we, the people."
+***Cosine Similarity: 0.3285, Euklidische Distanz: 17.1169, Manhattan-Distanz: 64.3238, Minkowski-Distanz (p=3): 1.8048***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Trump - Satz74: "they are out of control."
+***Cosine Similarity: 0.3282, Euklidische Distanz: 17.0480, Manhattan-Distanz: 64.3508, Minkowski-Distanz (p=3): 1.8005***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Trump - Satz21: "so, violence is out of control."
+***Cosine Similarity: 0.3281, Euklidische Distanz: 19.5498, Manhattan-Distanz: 68.8695, Minkowski-Distanz (p=3): 1.9160***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Trump - Satz17: "a vote for biden is a vote to give control of government over to the globalists, and the communists, socialists, and wealthy liberal hypocrites who want to silence, cancel and punish you."
+***Cosine Similarity: 0.3275, Euklidische Distanz: 15.2790, Manhattan-Distanz: 60.3712, Minkowski-Distanz (p=3): 1.7209***
+
+Hitler - Satz13: "only in france does there exist to-day, in a greater degree than ever before, a profound harmony between the aims of the stock exchange, of the jews who control it and those of a chauvinistic national policy."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.3275, Euklidische Distanz: 12.9720, Manhattan-Distanz: 55.2963, Minkowski-Distanz (p=3): 1.5765***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Trump - Satz116: "when we regain control of congress, we will immediately regain control of our border, and it’s not that easy."
+***Cosine Similarity: 0.3275, Euklidische Distanz: 19.8479, Manhattan-Distanz: 70.3715, Minkowski-Distanz (p=3): 1.9134***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.3274, Euklidische Distanz: 15.8291, Manhattan-Distanz: 60.9374, Minkowski-Distanz (p=3): 1.7406***
+
+Hitler - Satz19: "in the years - the movement was controlled by a committee elected at meetings of the members, held in accordance with the constitution."
+Trump - Satz138: "a vote for biden is a vote to give control of government over to the globalist, communist, socialist, the wealthy liberal hypocrites who want to silent, censor, cancel and punish you."
+***Cosine Similarity: 0.3274, Euklidische Distanz: 15.2804, Manhattan-Distanz: 60.4272, Minkowski-Distanz (p=3): 1.7198***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.3273, Euklidische Distanz: 19.8501, Manhattan-Distanz: 69.7299, Minkowski-Distanz (p=3): 1.9217***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.3259, Euklidische Distanz: 17.9434, Manhattan-Distanz: 66.4566, Minkowski-Distanz (p=3): 1.8388***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.3255, Euklidische Distanz: 19.8554, Manhattan-Distanz: 72.0993, Minkowski-Distanz (p=3): 1.8923***
+
+Hitler - Satz39: "the same applies to the control of prostitution, and, finally, even medical treatment and cure are today still unsafe and doubtful."
+Trump - Satz79: "we are a nation where free speech is no longer allowed, where crime is rampant and out of control like never before."
+***Cosine Similarity: 0.3241, Euklidische Distanz: 25.8717, Manhattan-Distanz: 79.4868, Minkowski-Distanz (p=3): 2.2196***
+
+Hitler - Satz39: "the same applies to the control of prostitution, and, finally, even medical treatment and cure are today still unsafe and doubtful."
+Trump - Satz45: "we are a nation where free speech is no longer allowed, where crime is rampant and out of control, like never before."
+***Cosine Similarity: 0.3233, Euklidische Distanz: 25.8803, Manhattan-Distanz: 79.5149, Minkowski-Distanz (p=3): 2.2201***
+
+Hitler - Satz13: "only in france does there exist to-day, in a greater degree than ever before, a profound harmony between the aims of the stock exchange, of the jews who control it and those of a chauvinistic national policy."
+Trump - Satz140: "you can only do it through the presidency, but you control the money coming in, coming out."
+***Cosine Similarity: 0.3224, Euklidische Distanz: 13.0107, Manhattan-Distanz: 55.0073, Minkowski-Distanz (p=3): 1.5887***
+
+Hitler - Satz38: "financial exchange circles began to triumph and made slow but sure progress in assuming control of the whole of national life."
+Trump - Satz49: "the ultimate form of local control."
+***Cosine Similarity: 0.3224, Euklidische Distanz: 23.3260, Manhattan-Distanz: 76.6851, Minkowski-Distanz (p=3): 2.0642***
+
+Hitler - Satz39: "the same applies to the control of prostitution, and, finally, even medical treatment and cure are today still unsafe and doubtful."
+Trump - Satz36: "they run it, they control it, and we shouldn’t let that happen."
+***Cosine Similarity: 0.3211, Euklidische Distanz: 25.9037, Manhattan-Distanz: 79.9017, Minkowski-Distanz (p=3): 2.2158***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Trump - Satz6: "we’re much stronger than they are, because unlike their agenda, our movement is not driven by the lust for control and domination of others."
+***Cosine Similarity: 0.3211, Euklidische Distanz: 14.4866, Manhattan-Distanz: 60.7850, Minkowski-Distanz (p=3): 1.6208***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Trump - Satz118: "under my leadership, we will seal it up and expand that wall till we have total control."
+***Cosine Similarity: 0.3210, Euklidische Distanz: 17.9338, Manhattan-Distanz: 65.7454, Minkowski-Distanz (p=3): 1.8480***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Trump - Satz96: "but you don’t hear it by the people who want to deceive you and demoralize you and control you, big tech, media."
+***Cosine Similarity: 0.3209, Euklidische Distanz: 19.8978, Manhattan-Distanz: 71.5559, Minkowski-Distanz (p=3): 1.9035***
+
+Hitler - Satz39: "the same applies to the control of prostitution, and, finally, even medical treatment and cure are today still unsafe and doubtful."
+Trump - Satz83: "we are a nation where free speech is no longer allowed and where crime is rampant and out of control like never before."
+***Cosine Similarity: 0.3201, Euklidische Distanz: 25.9137, Manhattan-Distanz: 79.5414, Minkowski-Distanz (p=3): 2.2215***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.3201, Euklidische Distanz: 13.3775, Manhattan-Distanz: 57.0026, Minkowski-Distanz (p=3): 1.5873***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Trump - Satz91: "joe biden and the fascists that control him are the real threat to democracy."
+***Cosine Similarity: 0.3198, Euklidische Distanz: 18.1820, Manhattan-Distanz: 65.6197, Minkowski-Distanz (p=3): 1.8543***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Trump - Satz23: "a vote for biden is a vote to give control of government over to the globalists, and communists, and socialists, and wealthy, liberal hypocrites, and all of those that want to silence, censor, cancel, and punish you."
+***Cosine Similarity: 0.3197, Euklidische Distanz: 13.3807, Manhattan-Distanz: 57.6008, Minkowski-Distanz (p=3): 1.5766***
+
+Hitler - Satz39: "the same applies to the control of prostitution, and, finally, even medical treatment and cure are today still unsafe and doubtful."
+Trump - Satz78: "we are a nation where fentanyl and all other forms of illegal drugs are easier to get than formula for our beautiful little babies, a nation where once revered airports are dirty, they’re a crowded mess, you sit and wait for hours and then are notified that the plane won’t leave and they have no idea when it will, where ticket prices have tripled, yhey don’t have the pilots to fly the planes, they don’t seek qualified air traffic controllers, and they just don’t know what the hell they are doing."
+***Cosine Similarity: 0.3196, Euklidische Distanz: 25.9195, Manhattan-Distanz: 79.6740, Minkowski-Distanz (p=3): 2.2228***
+
+Hitler - Satz38: "financial exchange circles began to triumph and made slow but sure progress in assuming control of the whole of national life."
+Trump - Satz13: "within about 25 seconds, he controlled the internet."
+***Cosine Similarity: 0.3180, Euklidische Distanz: 23.3705, Manhattan-Distanz: 76.2937, Minkowski-Distanz (p=3): 2.0712***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Trump - Satz111: "“oh, you’re saying nice things.” now, he controls 1.4 billion people rather ruthlessly, right?"
+***Cosine Similarity: 0.3173, Euklidische Distanz: 17.1433, Manhattan-Distanz: 64.0689, Minkowski-Distanz (p=3): 1.7978***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Trump - Satz2: "the radical left democrats have embraced an extreme ideology of government domination and control."
+***Cosine Similarity: 0.3161, Euklidische Distanz: 19.9428, Manhattan-Distanz: 71.2722, Minkowski-Distanz (p=3): 1.9088***
+
+Hitler - Satz20: "if i were to sketch roughly the actual struggle which is now beginning i should describe it somewhat thus: not satisfied with the economic conquest of the world, but demanding that it must also come under his political control, the jew subdivides the organised marxist power into two parts, which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under his direction."
+Trump - Satz142: "the biden gun control agenda is part and parcel of the left wing crusade to organize government against law-abiding citizens, while letting criminals roam free."
+***Cosine Similarity: 0.3160, Euklidische Distanz: 13.4090, Manhattan-Distanz: 57.7337, Minkowski-Distanz (p=3): 1.5791***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Trump - Satz58: "biden and his accomplices want to collapse the american system, nullify the will of the actual american voters, and establish a new base of power that gives them absolute control over you."
+***Cosine Similarity: 0.3160, Euklidische Distanz: 17.9781, Manhattan-Distanz: 65.8562, Minkowski-Distanz (p=3): 1.8488***
+
+Hitler - Satz39: "the same applies to the control of prostitution, and, finally, even medical treatment and cure are today still unsafe and doubtful."
+Trump - Satz139: "we are a nation where free speech is no longer allowed and where crime is rampant and out of control like never ever before."
+***Cosine Similarity: 0.3151, Euklidische Distanz: 25.9675, Manhattan-Distanz: 79.6179, Minkowski-Distanz (p=3): 2.2237***
+
+Hitler - Satz7: "jewish international finance needed the bait of the austrian heritage in order to carry out its plans of ruining germany, for germany had not yet surrendered to their general and international control in the sphere of trade and finance."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.3133, Euklidische Distanz: 21.4730, Manhattan-Distanz: 70.8723, Minkowski-Distanz (p=3): 2.0389***
+
+Hitler - Satz3: "hence, as early as —, practically all production was under the control of jewish finance."
+Trump - Satz129: "we had no control."
+***Cosine Similarity: 0.3129, Euklidische Distanz: 29.3138, Manhattan-Distanz: 83.5739, Minkowski-Distanz (p=3): 2.3724***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Trump - Satz70: "they’re trying to criminalize free speech and take total control over the american people."
+***Cosine Similarity: 0.3124, Euklidische Distanz: 17.1856, Manhattan-Distanz: 65.6710, Minkowski-Distanz (p=3): 1.7862***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Trump - Satz115: "we will restore law and order to our communities, and i will direct a completely overhauled doj to investigate every radical out-of-control prosecutor in america for their illegal racist in reverse enforcement of the law."
+***Cosine Similarity: 0.3119, Euklidische Distanz: 18.0149, Manhattan-Distanz: 65.4538, Minkowski-Distanz (p=3): 1.8464***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.3110, Euklidische Distanz: 19.9908, Manhattan-Distanz: 71.1765, Minkowski-Distanz (p=3): 1.9103***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Trump - Satz74: "they are out of control."
+***Cosine Similarity: 0.3108, Euklidische Distanz: 19.7104, Manhattan-Distanz: 69.5011, Minkowski-Distanz (p=3): 1.9196***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Trump - Satz131: "but think about it, dolan wants to have left-wing gun control."
+***Cosine Similarity: 0.3107, Euklidische Distanz: 18.0258, Manhattan-Distanz: 66.1540, Minkowski-Distanz (p=3): 1.8456***
+
+Hitler - Satz31: "the german played the foremost part in carrying on the foreign trade of the country, as far as that sphere of activity was not under jewish control."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.3106, Euklidische Distanz: 19.4188, Manhattan-Distanz: 70.1878, Minkowski-Distanz (p=3): 1.8924***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Trump - Satz63: "the left controls big corporations."
+***Cosine Similarity: 0.3100, Euklidische Distanz: 17.2069, Manhattan-Distanz: 64.8248, Minkowski-Distanz (p=3): 1.8077***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Trump - Satz118: "under my leadership, we will seal it up and expand that wall till we have total control."
+***Cosine Similarity: 0.3094, Euklidische Distanz: 20.0178, Manhattan-Distanz: 70.5576, Minkowski-Distanz (p=3): 1.9316***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.3089, Euklidische Distanz: 20.0220, Manhattan-Distanz: 70.0147, Minkowski-Distanz (p=3): 1.9343***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Trump - Satz127: "and they will never, ever, therefore, control you."
+***Cosine Similarity: 0.3075, Euklidische Distanz: 19.7412, Manhattan-Distanz: 69.3442, Minkowski-Distanz (p=3): 1.9211***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.3073, Euklidische Distanz: 17.3015, Manhattan-Distanz: 64.7010, Minkowski-Distanz (p=3): 1.8101***
+
+Hitler - Satz30: "the consequence of it all was that, a few days later, i was assigned to a regiment then stationed in munich and given a position there as ‘instruction officer.’ at that time the spirit of discipline was rather weak among the troops which were still suffering from the after-effects of the period when the soldiers’ councils were in control."
+Trump - Satz14: "doesn’t sound too right, and they had total control, by the way."
+***Cosine Similarity: 0.3060, Euklidische Distanz: 13.8180, Manhattan-Distanz: 56.1227, Minkowski-Distanz (p=3): 1.6350***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.3057, Euklidische Distanz: 14.6094, Manhattan-Distanz: 61.2685, Minkowski-Distanz (p=3): 1.6303***
+
+Hitler - Satz38: "financial exchange circles began to triumph and made slow but sure progress in assuming control of the whole of national life."
+Trump - Satz43: "tragically, over the course of the past year made so difficult because of covid-19, we have seen political violence spiral out of control."
+***Cosine Similarity: 0.3049, Euklidische Distanz: 23.5027, Manhattan-Distanz: 77.0155, Minkowski-Distanz (p=3): 2.0674***
+
+Hitler - Satz39: "the same applies to the control of prostitution, and, finally, even medical treatment and cure are today still unsafe and doubtful."
+Trump - Satz50: "it’s a scandal and a tragedy that year after year democrats in washington continue to hold common sense school safety measures hostage to their radical gun control agenda, which in virtually all cases would do nothing to prevent attacks by demented and disturbed individuals, of which we have many and many are coming into our country, but we’re getting them out."
+***Cosine Similarity: 0.3048, Euklidische Distanz: 26.0769, Manhattan-Distanz: 80.6461, Minkowski-Distanz (p=3): 2.2184***
+
+Hitler - Satz13: "only in france does there exist to-day, in a greater degree than ever before, a profound harmony between the aims of the stock exchange, of the jews who control it and those of a chauvinistic national policy."
+Trump - Satz56: "they will own our country because they own him, they control him and they know he will always be there to do their bidding."
+***Cosine Similarity: 0.3047, Euklidische Distanz: 13.1459, Manhattan-Distanz: 55.4371, Minkowski-Distanz (p=3): 1.5901***
+
+Hitler - Satz29: "i gradually discovered that the social democratic press was mainly controlled by jews, but i did not attach special importance to this circumstance, for the same was true of other newspapers."
+Trump - Satz48: "the left controls the white house, the left, maybe most importantly controls the federal bureaucracy, but the left doesn’t control we, the people."
+***Cosine Similarity: 0.3043, Euklidische Distanz: 20.0540, Manhattan-Distanz: 71.5691, Minkowski-Distanz (p=3): 1.9098***
+
+Hitler - Satz31: "the german played the foremost part in carrying on the foreign trade of the country, as far as that sphere of activity was not under jewish control."
+Trump - Satz95: "we had total control militarily."
+***Cosine Similarity: 0.3042, Euklidische Distanz: 19.4786, Manhattan-Distanz: 70.2685, Minkowski-Distanz (p=3): 1.9028***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Trump - Satz123: "but joe biden and the fascists that control him are a true threat to democracy."
+***Cosine Similarity: 0.3030, Euklidische Distanz: 18.3323, Manhattan-Distanz: 66.0690, Minkowski-Distanz (p=3): 1.8604***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Trump - Satz56: "they will own our country because they own him, they control him and they know he will always be there to do their bidding."
+***Cosine Similarity: 0.3023, Euklidische Distanz: 18.1001, Manhattan-Distanz: 67.5452, Minkowski-Distanz (p=3): 1.8440***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Trump - Satz135: "then they said, “he wants total control of the united states."
+***Cosine Similarity: 0.3023, Euklidische Distanz: 14.6371, Manhattan-Distanz: 60.5326, Minkowski-Distanz (p=3): 1.6440***
+
+Hitler - Satz28: "the volkisch state must not confine its control of physical training to the official school period, but must demand that, after leaving school, and while his adolescent body is still developing, the boy continues this training, for on such proper physical development, success in after-life largely depends."
+Trump - Satz132: "they control the state."
+***Cosine Similarity: 0.3015, Euklidische Distanz: 15.4330, Manhattan-Distanz: 62.1277, Minkowski-Distanz (p=3): 1.6977***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Trump - Satz1: "the left controls big media."
+***Cosine Similarity: 0.3013, Euklidische Distanz: 17.2818, Manhattan-Distanz: 65.1917, Minkowski-Distanz (p=3): 1.8028***
+
+Hitler - Satz38: "financial exchange circles began to triumph and made slow but sure progress in assuming control of the whole of national life."
+Trump - Satz140: "you can only do it through the presidency, but you control the money coming in, coming out."
+***Cosine Similarity: 0.3008, Euklidische Distanz: 23.5447, Manhattan-Distanz: 76.5087, Minkowski-Distanz (p=3): 2.0776***
+
+Hitler - Satz21: "in proportion to the extent that commerce assumed definite control of the state, money became more and more of a god whom all had to serve and before whom all had to bow."
+Trump - Satz3: "in reality, they don’t represent you, they represent deep state bureaucracy, a global financial class and a political class that have taken control of this country for their own enrichment and self purposes."
+***Cosine Similarity: 0.3001, Euklidische Distanz: 21.2527, Manhattan-Distanz: 72.0796, Minkowski-Distanz (p=3): 1.9860***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Trump - Satz35: "joe biden and his fascists that control him are the real threat to democracy in this country."
+***Cosine Similarity: 0.3000, Euklidische Distanz: 14.6553, Manhattan-Distanz: 61.3654, Minkowski-Distanz (p=3): 1.6338***
+

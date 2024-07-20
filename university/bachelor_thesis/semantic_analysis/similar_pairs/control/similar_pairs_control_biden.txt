@@ -1,0 +1,526 @@
+Gefilterte Sätze mit Cosine Similarity, euklidischer Distanz, Manhattan-Distanz und Minkowski-Distanz (nach Cosine Similarity sortiert):
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Biden - Satz7: "and i realize, it’s a thing that concerns the most about being able to get control of it because i’ve got to, number one, get enough funding to provide for immediate determination of whether or not someone that is in fact legitimately claiming a right to stay in the country because of legitimate fears and if purely for economic reasons to get in line, but not get in the country."
+***Cosine Similarity: 0.4969, Euklidische Distanz: 20.1020, Manhattan-Distanz: 68.5538, Minkowski-Distanz (p=3): 1.9732***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Biden - Satz32: "but we can’t let it get out of control."
+***Cosine Similarity: 0.4891, Euklidische Distanz: 13.0212, Manhattan-Distanz: 56.5412, Minkowski-Distanz (p=3): 1.5667***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Biden - Satz35: "bedrock commitments, like freedom of navigation, adherence to international laws and treaties, support for arms control measures to reduce the risk and enhance transparency."
+***Cosine Similarity: 0.4887, Euklidische Distanz: 20.1816, Manhattan-Distanz: 67.7973, Minkowski-Distanz (p=3): 1.9936***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Biden - Satz3: "and so we’re going to be able to control this."
+***Cosine Similarity: 0.4675, Euklidische Distanz: 22.3805, Manhattan-Distanz: 74.5028, Minkowski-Distanz (p=3): 2.0361***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Biden - Satz8: "they’re going to be in a situation where they begin to gain control again."
+***Cosine Similarity: 0.4519, Euklidische Distanz: 15.2750, Manhattan-Distanz: 60.2758, Minkowski-Distanz (p=3): 1.7329***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Biden - Satz8: "they’re going to be in a situation where they begin to gain control again."
+***Cosine Similarity: 0.4446, Euklidische Distanz: 18.4672, Manhattan-Distanz: 67.1968, Minkowski-Distanz (p=3): 1.8552***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Biden - Satz13: "we don’t control that, but we’re doing all we can to minimize the amount of time it’s going to take to get power back up for everyone in the region."
+***Cosine Similarity: 0.4415, Euklidische Distanz: 13.4011, Manhattan-Distanz: 57.5960, Minkowski-Distanz (p=3): 1.5873***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Biden - Satz7: "and i realize, it’s a thing that concerns the most about being able to get control of it because i’ve got to, number one, get enough funding to provide for immediate determination of whether or not someone that is in fact legitimately claiming a right to stay in the country because of legitimate fears and if purely for economic reasons to get in line, but not get in the country."
+***Cosine Similarity: 0.4358, Euklidische Distanz: 21.0214, Manhattan-Distanz: 72.8706, Minkowski-Distanz (p=3): 1.9629***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Biden - Satz3: "and so we’re going to be able to control this."
+***Cosine Similarity: 0.4338, Euklidische Distanz: 20.7194, Manhattan-Distanz: 69.6765, Minkowski-Distanz (p=3): 2.0098***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Biden - Satz3: "and so we’re going to be able to control this."
+***Cosine Similarity: 0.4313, Euklidische Distanz: 31.3253, Manhattan-Distanz: 87.8064, Minkowski-Distanz (p=3): 2.4297***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Biden - Satz7: "and i realize, it’s a thing that concerns the most about being able to get control of it because i’ve got to, number one, get enough funding to provide for immediate determination of whether or not someone that is in fact legitimately claiming a right to stay in the country because of legitimate fears and if purely for economic reasons to get in line, but not get in the country."
+***Cosine Similarity: 0.4303, Euklidische Distanz: 20.6151, Manhattan-Distanz: 71.0574, Minkowski-Distanz (p=3): 1.9666***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Biden - Satz7: "and i realize, it’s a thing that concerns the most about being able to get control of it because i’ve got to, number one, get enough funding to provide for immediate determination of whether or not someone that is in fact legitimately claiming a right to stay in the country because of legitimate fears and if purely for economic reasons to get in line, but not get in the country."
+***Cosine Similarity: 0.4299, Euklidische Distanz: 21.9969, Manhattan-Distanz: 73.9974, Minkowski-Distanz (p=3): 2.0210***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Biden - Satz3: "and so we’re going to be able to control this."
+***Cosine Similarity: 0.4283, Euklidische Distanz: 16.9789, Manhattan-Distanz: 64.3805, Minkowski-Distanz (p=3): 1.7937***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Biden - Satz32: "but we can’t let it get out of control."
+***Cosine Similarity: 0.4254, Euklidische Distanz: 20.8012, Manhattan-Distanz: 69.8229, Minkowski-Distanz (p=3): 2.0321***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Biden - Satz13: "we don’t control that, but we’re doing all we can to minimize the amount of time it’s going to take to get power back up for everyone in the region."
+***Cosine Similarity: 0.4246, Euklidische Distanz: 17.0118, Manhattan-Distanz: 64.0978, Minkowski-Distanz (p=3): 1.8004***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Biden - Satz7: "and i realize, it’s a thing that concerns the most about being able to get control of it because i’ve got to, number one, get enough funding to provide for immediate determination of whether or not someone that is in fact legitimately claiming a right to stay in the country because of legitimate fears and if purely for economic reasons to get in line, but not get in the country."
+***Cosine Similarity: 0.4188, Euklidische Distanz: 22.8791, Manhattan-Distanz: 75.5496, Minkowski-Distanz (p=3): 2.0569***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Biden - Satz35: "bedrock commitments, like freedom of navigation, adherence to international laws and treaties, support for arms control measures to reduce the risk and enhance transparency."
+***Cosine Similarity: 0.4161, Euklidische Distanz: 21.2156, Manhattan-Distanz: 72.9382, Minkowski-Distanz (p=3): 1.9657***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Biden - Satz3: "and so we’re going to be able to control this."
+***Cosine Similarity: 0.4160, Euklidische Distanz: 20.7551, Manhattan-Distanz: 70.3461, Minkowski-Distanz (p=3): 1.9882***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Biden - Satz9: "that’s why i’ve made getting covid under control my top priority from my first day as president."
+***Cosine Similarity: 0.4133, Euklidische Distanz: 31.5392, Manhattan-Distanz: 87.1105, Minkowski-Distanz (p=3): 2.4552***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Biden - Satz35: "bedrock commitments, like freedom of navigation, adherence to international laws and treaties, support for arms control measures to reduce the risk and enhance transparency."
+***Cosine Similarity: 0.4123, Euklidische Distanz: 20.7905, Manhattan-Distanz: 71.2276, Minkowski-Distanz (p=3): 1.9701***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Biden - Satz35: "bedrock commitments, like freedom of navigation, adherence to international laws and treaties, support for arms control measures to reduce the risk and enhance transparency."
+***Cosine Similarity: 0.4106, Euklidische Distanz: 17.5835, Manhattan-Distanz: 65.0511, Minkowski-Distanz (p=3): 1.8295***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Biden - Satz30: "the pandemic no longer controls our lives."
+***Cosine Similarity: 0.4096, Euklidische Distanz: 17.4236, Manhattan-Distanz: 64.5536, Minkowski-Distanz (p=3): 1.8456***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Biden - Satz11: "like every country in the world we have to deal with these issues of rising cost, but we should remember we have the skill and tools to get it under control."
+***Cosine Similarity: 0.4073, Euklidische Distanz: 20.8397, Manhattan-Distanz: 70.7715, Minkowski-Distanz (p=3): 1.9872***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Biden - Satz11: "like every country in the world we have to deal with these issues of rising cost, but we should remember we have the skill and tools to get it under control."
+***Cosine Similarity: 0.3948, Euklidische Distanz: 23.1241, Manhattan-Distanz: 75.0535, Minkowski-Distanz (p=3): 2.0749***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Biden - Satz35: "bedrock commitments, like freedom of navigation, adherence to international laws and treaties, support for arms control measures to reduce the risk and enhance transparency."
+***Cosine Similarity: 0.3946, Euklidische Distanz: 23.1268, Manhattan-Distanz: 75.9141, Minkowski-Distanz (p=3): 2.0724***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Biden - Satz13: "we don’t control that, but we’re doing all we can to minimize the amount of time it’s going to take to get power back up for everyone in the region."
+***Cosine Similarity: 0.3908, Euklidische Distanz: 23.1656, Manhattan-Distanz: 75.4486, Minkowski-Distanz (p=3): 2.0714***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Biden - Satz6: "and i’m sure they don’t control all of the forces."
+***Cosine Similarity: 0.3903, Euklidische Distanz: 16.5780, Manhattan-Distanz: 62.8372, Minkowski-Distanz (p=3): 1.7715***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Biden - Satz8: "they’re going to be in a situation where they begin to gain control again."
+***Cosine Similarity: 0.3896, Euklidische Distanz: 16.5147, Manhattan-Distanz: 63.7033, Minkowski-Distanz (p=3): 1.7637***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Biden - Satz3: "and so we’re going to be able to control this."
+***Cosine Similarity: 0.3875, Euklidische Distanz: 21.4976, Manhattan-Distanz: 73.9442, Minkowski-Distanz (p=3): 1.9831***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Biden - Satz6: "and i’m sure they don’t control all of the forces."
+***Cosine Similarity: 0.3859, Euklidische Distanz: 19.0123, Manhattan-Distanz: 68.2138, Minkowski-Distanz (p=3): 1.8828***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Biden - Satz24: "there still would have been a rush to the airport, a breakdown in confidence and control of the government, and it still would have been a very difficult and dangerous mission."
+***Cosine Similarity: 0.3855, Euklidische Distanz: 15.8409, Manhattan-Distanz: 61.0076, Minkowski-Distanz (p=3): 1.7574***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Biden - Satz6: "and i’m sure they don’t control all of the forces."
+***Cosine Similarity: 0.3852, Euklidische Distanz: 37.0885, Manhattan-Distanz: 97.6336, Minkowski-Distanz (p=3): 2.6002***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Biden - Satz11: "like every country in the world we have to deal with these issues of rising cost, but we should remember we have the skill and tools to get it under control."
+***Cosine Similarity: 0.3849, Euklidische Distanz: 27.6724, Manhattan-Distanz: 81.6161, Minkowski-Distanz (p=3): 2.2854***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Biden - Satz9: "that’s why i’ve made getting covid under control my top priority from my first day as president."
+***Cosine Similarity: 0.3847, Euklidische Distanz: 21.5252, Manhattan-Distanz: 74.3248, Minkowski-Distanz (p=3): 1.9793***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Biden - Satz32: "but we can’t let it get out of control."
+***Cosine Similarity: 0.3841, Euklidische Distanz: 15.4902, Manhattan-Distanz: 61.1641, Minkowski-Distanz (p=3): 1.7252***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Biden - Satz7: "and i realize, it’s a thing that concerns the most about being able to get control of it because i’ve got to, number one, get enough funding to provide for immediate determination of whether or not someone that is in fact legitimately claiming a right to stay in the country because of legitimate fears and if purely for economic reasons to get in line, but not get in the country."
+***Cosine Similarity: 0.3819, Euklidische Distanz: 13.8765, Manhattan-Distanz: 58.8203, Minkowski-Distanz (p=3): 1.6202***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Biden - Satz11: "like every country in the world we have to deal with these issues of rising cost, but we should remember we have the skill and tools to get it under control."
+***Cosine Similarity: 0.3813, Euklidische Distanz: 21.2331, Manhattan-Distanz: 69.9492, Minkowski-Distanz (p=3): 2.0466***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Biden - Satz13: "we don’t control that, but we’re doing all we can to minimize the amount of time it’s going to take to get power back up for everyone in the region."
+***Cosine Similarity: 0.3813, Euklidische Distanz: 21.2337, Manhattan-Distanz: 70.8889, Minkowski-Distanz (p=3): 2.0420***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Biden - Satz29: "look, we’re also taking a closer look at places in our economy where fewer and fewer corporate giants are controlling more and more of the marketplace in the area they work."
+***Cosine Similarity: 0.3806, Euklidische Distanz: 15.8822, Manhattan-Distanz: 60.9236, Minkowski-Distanz (p=3): 1.7669***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Biden - Satz8: "they’re going to be in a situation where they begin to gain control again."
+***Cosine Similarity: 0.3777, Euklidische Distanz: 18.1977, Manhattan-Distanz: 67.3003, Minkowski-Distanz (p=3): 1.8374***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Biden - Satz13: "we don’t control that, but we’re doing all we can to minimize the amount of time it’s going to take to get power back up for everyone in the region."
+***Cosine Similarity: 0.3743, Euklidische Distanz: 21.1613, Manhattan-Distanz: 71.0136, Minkowski-Distanz (p=3): 2.0134***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Biden - Satz21: "even though the taliban completely controlled afghanistan at the time, would we have ever gone?"
+***Cosine Similarity: 0.3742, Euklidische Distanz: 15.5232, Manhattan-Distanz: 61.5594, Minkowski-Distanz (p=3): 1.7017***
+
+Hitler - Satz11: "but this usually happens as the result of mutual rivalry, for here it is less a question of human intelligence than of the play of the forces whose development may indeed be foreseen from the start, but not perpetually controlled."
+Biden - Satz32: "but we can’t let it get out of control."
+***Cosine Similarity: 0.3732, Euklidische Distanz: 19.1308, Manhattan-Distanz: 67.4792, Minkowski-Distanz (p=3): 1.9027***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Biden - Satz23: "it’ll also give me, as president, the emergency authority to shut down the border until it could get back under control."
+***Cosine Similarity: 0.3717, Euklidische Distanz: 13.9583, Manhattan-Distanz: 57.9385, Minkowski-Distanz (p=3): 1.6299***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Biden - Satz32: "but we can’t let it get out of control."
+***Cosine Similarity: 0.3635, Euklidische Distanz: 16.0279, Manhattan-Distanz: 62.1200, Minkowski-Distanz (p=3): 1.7632***
+
+Hitler - Satz18: "therefore, he seeks to destroy the japanese national state by using other  national states as his instruments, so that he may rid himself of a dangerous opponent before he takes over supreme control of the last existing national state and transforms that control into a tyranny for the oppression of the defenceless."
+Biden - Satz23: "it’ll also give me, as president, the emergency authority to shut down the border until it could get back under control."
+***Cosine Similarity: 0.3614, Euklidische Distanz: 21.1265, Manhattan-Distanz: 71.0232, Minkowski-Distanz (p=3): 2.0297***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Biden - Satz3: "and so we’re going to be able to control this."
+***Cosine Similarity: 0.3607, Euklidische Distanz: 14.0461, Manhattan-Distanz: 58.7935, Minkowski-Distanz (p=3): 1.6256***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Biden - Satz21: "even though the taliban completely controlled afghanistan at the time, would we have ever gone?"
+***Cosine Similarity: 0.3595, Euklidische Distanz: 17.5911, Manhattan-Distanz: 64.8469, Minkowski-Distanz (p=3): 1.8309***
+
+Hitler - Satz8: "hence, a multiplicity of societies or parties is, as soon as it comes under the control of a board of management consisting of several persons elected by the parties, the victim of weakness and cowardice."
+Biden - Satz8: "they’re going to be in a situation where they begin to gain control again."
+***Cosine Similarity: 0.3564, Euklidische Distanz: 18.3129, Manhattan-Distanz: 67.3753, Minkowski-Distanz (p=3): 1.8556***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Biden - Satz11: "like every country in the world we have to deal with these issues of rising cost, but we should remember we have the skill and tools to get it under control."
+***Cosine Similarity: 0.3560, Euklidische Distanz: 17.9047, Manhattan-Distanz: 65.2619, Minkowski-Distanz (p=3): 1.8685***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Biden - Satz30: "the pandemic no longer controls our lives."
+***Cosine Similarity: 0.3518, Euklidische Distanz: 37.5160, Manhattan-Distanz: 98.3700, Minkowski-Distanz (p=3): 2.6008***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Biden - Satz12: "by the time i came to office the taliban was in it’s strongest military position since 2001, controlling or contesting nearly half of the country."
+***Cosine Similarity: 0.3514, Euklidische Distanz: 21.8536, Manhattan-Distanz: 74.2375, Minkowski-Distanz (p=3): 2.0006***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Biden - Satz13: "we don’t control that, but we’re doing all we can to minimize the amount of time it’s going to take to get power back up for everyone in the region."
+***Cosine Similarity: 0.3494, Euklidische Distanz: 18.4546, Manhattan-Distanz: 68.3381, Minkowski-Distanz (p=3): 1.8454***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Biden - Satz11: "like every country in the world we have to deal with these issues of rising cost, but we should remember we have the skill and tools to get it under control."
+***Cosine Similarity: 0.3481, Euklidische Distanz: 17.6929, Manhattan-Distanz: 65.4619, Minkowski-Distanz (p=3): 1.8446***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Biden - Satz23: "it’ll also give me, as president, the emergency authority to shut down the border until it could get back under control."
+***Cosine Similarity: 0.3478, Euklidische Distanz: 21.4206, Manhattan-Distanz: 72.0542, Minkowski-Distanz (p=3): 2.0184***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Biden - Satz13: "we don’t control that, but we’re doing all we can to minimize the amount of time it’s going to take to get power back up for everyone in the region."
+***Cosine Similarity: 0.3464, Euklidische Distanz: 18.1620, Manhattan-Distanz: 66.4869, Minkowski-Distanz (p=3): 1.8528***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Biden - Satz12: "by the time i came to office the taliban was in it’s strongest military position since 2001, controlling or contesting nearly half of the country."
+***Cosine Similarity: 0.3463, Euklidische Distanz: 22.8376, Manhattan-Distanz: 74.8364, Minkowski-Distanz (p=3): 2.0626***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Biden - Satz8: "they’re going to be in a situation where they begin to gain control again."
+***Cosine Similarity: 0.3462, Euklidische Distanz: 21.5769, Manhattan-Distanz: 71.1447, Minkowski-Distanz (p=3): 2.0549***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Biden - Satz8: "they’re going to be in a situation where they begin to gain control again."
+***Cosine Similarity: 0.3461, Euklidische Distanz: 15.8100, Manhattan-Distanz: 61.1787, Minkowski-Distanz (p=3): 1.7545***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Biden - Satz23: "it’ll also give me, as president, the emergency authority to shut down the border until it could get back under control."
+***Cosine Similarity: 0.3413, Euklidische Distanz: 21.9530, Manhattan-Distanz: 74.4509, Minkowski-Distanz (p=3): 2.0086***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Biden - Satz16: "i’ve never supported it, but i have been a fan of controlling police and making sure they’re held accountable."
+***Cosine Similarity: 0.3386, Euklidische Distanz: 21.9796, Manhattan-Distanz: 74.5030, Minkowski-Distanz (p=3): 2.0020***
+
+Hitler - Satz39: "the same applies to the control of prostitution, and, finally, even medical treatment and cure are today still unsafe and doubtful."
+Biden - Satz7: "and i realize, it’s a thing that concerns the most about being able to get control of it because i’ve got to, number one, get enough funding to provide for immediate determination of whether or not someone that is in fact legitimately claiming a right to stay in the country because of legitimate fears and if purely for economic reasons to get in line, but not get in the country."
+***Cosine Similarity: 0.3380, Euklidische Distanz: 25.7240, Manhattan-Distanz: 80.0526, Minkowski-Distanz (p=3): 2.2130***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Biden - Satz11: "like every country in the world we have to deal with these issues of rising cost, but we should remember we have the skill and tools to get it under control."
+***Cosine Similarity: 0.3376, Euklidische Distanz: 18.5620, Manhattan-Distanz: 68.8645, Minkowski-Distanz (p=3): 1.8347***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Biden - Satz33: "no, i’m telling the american people that we’re going to get control of inflation, and their prescription drug prices are going to be a hell of a lot lower, their healthcare costs are going to be a lot lower, their basic costs for everybody."
+***Cosine Similarity: 0.3371, Euklidische Distanz: 16.2523, Manhattan-Distanz: 61.6930, Minkowski-Distanz (p=3): 1.7772***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Biden - Satz13: "we don’t control that, but we’re doing all we can to minimize the amount of time it’s going to take to get power back up for everyone in the region."
+***Cosine Similarity: 0.3369, Euklidische Distanz: 15.8878, Manhattan-Distanz: 61.1598, Minkowski-Distanz (p=3): 1.7677***
+
+Hitler - Satz41: "as a sovereign state, this cannot, be controlled by any of the other  states."
+Biden - Satz32: "but we can’t let it get out of control."
+***Cosine Similarity: 0.3358, Euklidische Distanz: 37.7218, Manhattan-Distanz: 98.4474, Minkowski-Distanz (p=3): 2.6165***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Biden - Satz9: "that’s why i’ve made getting covid under control my top priority from my first day as president."
+***Cosine Similarity: 0.3352, Euklidische Distanz: 14.2495, Manhattan-Distanz: 59.2527, Minkowski-Distanz (p=3): 1.6441***
+
+Hitler - Satz24: "not only had france now assumed from the military standpoint alone a position in europe such as germany herself had not held previously, but she thus obtained control of economic resources which, from the practical point of view, combined her ability to compete in the political world with economic advantages almost amounting to a monopoly."
+Biden - Satz7: "and i realize, it’s a thing that concerns the most about being able to get control of it because i’ve got to, number one, get enough funding to provide for immediate determination of whether or not someone that is in fact legitimately claiming a right to stay in the country because of legitimate fears and if purely for economic reasons to get in line, but not get in the country."
+***Cosine Similarity: 0.3342, Euklidische Distanz: 20.0902, Manhattan-Distanz: 69.5399, Minkowski-Distanz (p=3): 1.9536***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Biden - Satz33: "no, i’m telling the american people that we’re going to get control of inflation, and their prescription drug prices are going to be a hell of a lot lower, their healthcare costs are going to be a lot lower, their basic costs for everybody."
+***Cosine Similarity: 0.3326, Euklidische Distanz: 21.5689, Manhattan-Distanz: 72.0944, Minkowski-Distanz (p=3): 2.0314***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Biden - Satz30: "the pandemic no longer controls our lives."
+***Cosine Similarity: 0.3319, Euklidische Distanz: 15.9297, Manhattan-Distanz: 60.7943, Minkowski-Distanz (p=3): 1.7834***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Biden - Satz27: "that’s why we immediately passed what we call the american rescue plan to get shots in people’s arms as fast as possible at home and around the world to help get this pandemic under control and to stimulate inclusive and lasting economic recovery."
+***Cosine Similarity: 0.3319, Euklidische Distanz: 14.3996, Manhattan-Distanz: 59.7376, Minkowski-Distanz (p=3): 1.6241***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Biden - Satz6: "and i’m sure they don’t control all of the forces."
+***Cosine Similarity: 0.3308, Euklidische Distanz: 18.1302, Manhattan-Distanz: 65.7191, Minkowski-Distanz (p=3): 1.8870***
+
+Hitler - Satz6: "jews control the financial forces of america on the stock exchange."
+Biden - Satz8: "they’re going to be in a situation where they begin to gain control again."
+***Cosine Similarity: 0.3304, Euklidische Distanz: 37.3946, Manhattan-Distanz: 95.4816, Minkowski-Distanz (p=3): 2.6481***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Biden - Satz11: "like every country in the world we have to deal with these issues of rising cost, but we should remember we have the skill and tools to get it under control."
+***Cosine Similarity: 0.3299, Euklidische Distanz: 18.0913, Manhattan-Distanz: 66.3530, Minkowski-Distanz (p=3): 1.8409***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Biden - Satz21: "even though the taliban completely controlled afghanistan at the time, would we have ever gone?"
+***Cosine Similarity: 0.3290, Euklidische Distanz: 14.4229, Manhattan-Distanz: 60.7080, Minkowski-Distanz (p=3): 1.6123***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Biden - Satz35: "bedrock commitments, like freedom of navigation, adherence to international laws and treaties, support for arms control measures to reduce the risk and enhance transparency."
+***Cosine Similarity: 0.3288, Euklidische Distanz: 17.8642, Manhattan-Distanz: 65.1434, Minkowski-Distanz (p=3): 1.8475***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Biden - Satz23: "it’ll also give me, as president, the emergency authority to shut down the border until it could get back under control."
+***Cosine Similarity: 0.3275, Euklidische Distanz: 18.3323, Manhattan-Distanz: 66.9513, Minkowski-Distanz (p=3): 1.8688***
+
+Hitler - Satz16: "by means of the press he began gradually to control public life in its entirety."
+Biden - Satz21: "even though the taliban completely controlled afghanistan at the time, would we have ever gone?"
+***Cosine Similarity: 0.3272, Euklidische Distanz: 24.8074, Manhattan-Distanz: 77.5529, Minkowski-Distanz (p=3): 2.1666***
+
+Hitler - Satz25: "in many cases it is adopted simply as a means of removing from the  sovereign control of the individual states certain institutions and of placing these in the hands of the revolutionary parties."
+Biden - Satz32: "but we can’t let it get out of control."
+***Cosine Similarity: 0.3272, Euklidische Distanz: 18.3351, Manhattan-Distanz: 66.7132, Minkowski-Distanz (p=3): 1.8630***
+
+Hitler - Satz33: "the internationalisation of our german economic system, that is to say, the transference of our productive forces to the control of jewish international finance, can be completely carried out only in a state that has been politically bolshevised."
+Biden - Satz11: "like every country in the world we have to deal with these issues of rising cost, but we should remember we have the skill and tools to get it under control."
+***Cosine Similarity: 0.3254, Euklidische Distanz: 19.8675, Manhattan-Distanz: 69.2638, Minkowski-Distanz (p=3): 1.9303***
+
+Hitler - Satz48: "it was difficult to control the action of these newly awakened national forces, because, adjacent to the frontiers of the dual monarchy, new national states were springing up whose people were of the same or kindred racial stock as the respective nationalities that constituted the habsburg empire."
+Biden - Satz8: "they’re going to be in a situation where they begin to gain control again."
+***Cosine Similarity: 0.3253, Euklidische Distanz: 15.8468, Manhattan-Distanz: 61.2881, Minkowski-Distanz (p=3): 1.7541***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Biden - Satz30: "the pandemic no longer controls our lives."
+***Cosine Similarity: 0.3251, Euklidische Distanz: 15.5116, Manhattan-Distanz: 61.7331, Minkowski-Distanz (p=3): 1.7116***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Biden - Satz13: "we don’t control that, but we’re doing all we can to minimize the amount of time it’s going to take to get power back up for everyone in the region."
+***Cosine Similarity: 0.3242, Euklidische Distanz: 23.0603, Manhattan-Distanz: 75.6254, Minkowski-Distanz (p=3): 2.0755***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Biden - Satz35: "bedrock commitments, like freedom of navigation, adherence to international laws and treaties, support for arms control measures to reduce the risk and enhance transparency."
+***Cosine Similarity: 0.3241, Euklidische Distanz: 28.3494, Manhattan-Distanz: 84.5775, Minkowski-Distanz (p=3): 2.2774***
+
+Hitler - Satz39: "the same applies to the control of prostitution, and, finally, even medical treatment and cure are today still unsafe and doubtful."
+Biden - Satz24: "there still would have been a rush to the airport, a breakdown in confidence and control of the government, and it still would have been a very difficult and dangerous mission."
+***Cosine Similarity: 0.3237, Euklidische Distanz: 25.8752, Manhattan-Distanz: 80.0139, Minkowski-Distanz (p=3): 2.2152***
+
+Hitler - Satz30: "the consequence of it all was that, a few days later, i was assigned to a regiment then stationed in munich and given a position there as ‘instruction officer.’ at that time the spirit of discipline was rather weak among the troops which were still suffering from the after-effects of the period when the soldiers’ councils were in control."
+Biden - Satz24: "there still would have been a rush to the airport, a breakdown in confidence and control of the government, and it still would have been a very difficult and dangerous mission."
+***Cosine Similarity: 0.3230, Euklidische Distanz: 13.6855, Manhattan-Distanz: 56.4867, Minkowski-Distanz (p=3): 1.6213***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Biden - Satz11: "like every country in the world we have to deal with these issues of rising cost, but we should remember we have the skill and tools to get it under control."
+***Cosine Similarity: 0.3228, Euklidische Distanz: 23.0748, Manhattan-Distanz: 75.6581, Minkowski-Distanz (p=3): 2.0718***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Biden - Satz28: "so what i was saying is that we have an agreement that they will let pass through the checkpoints that they, the taliban control, the americans through."
+***Cosine Similarity: 0.3219, Euklidische Distanz: 22.1448, Manhattan-Distanz: 74.6180, Minkowski-Distanz (p=3): 2.0089***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Biden - Satz3: "and so we’re going to be able to control this."
+***Cosine Similarity: 0.3203, Euklidische Distanz: 23.0991, Manhattan-Distanz: 75.3153, Minkowski-Distanz (p=3): 2.0802***
+
+Hitler - Satz43: "if we would transform our ideal picture of the vol/kisch state into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal."
+Biden - Satz34: "would there ever be any reason we’d be in afghanistan, controlled by the taliban?"
+***Cosine Similarity: 0.3200, Euklidische Distanz: 17.9427, Manhattan-Distanz: 65.6932, Minkowski-Distanz (p=3): 1.8460***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Biden - Satz11: "like every country in the world we have to deal with these issues of rising cost, but we should remember we have the skill and tools to get it under control."
+***Cosine Similarity: 0.3189, Euklidische Distanz: 16.4075, Manhattan-Distanz: 62.0618, Minkowski-Distanz (p=3): 1.7844***
+
+Hitler - Satz14: "with ruthless determination the state must keep control of this instrument of popular education and place it at the service of the state and the nation."
+Biden - Satz23: "it’ll also give me, as president, the emergency authority to shut down the border until it could get back under control."
+***Cosine Similarity: 0.3183, Euklidische Distanz: 23.9073, Manhattan-Distanz: 77.2871, Minkowski-Distanz (p=3): 2.1085***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Biden - Satz20: "i respectfully suggest you ask yourself this question, “if we’ve been attacked on september 11th, 2001 from yemen, instead of afghanistan, would we have ever gone to war in afghanistan, even though the tali bond controlled afghanistan in the year 2001?” i believe the honest answer is no."
+***Cosine Similarity: 0.3179, Euklidische Distanz: 15.5714, Manhattan-Distanz: 61.6334, Minkowski-Distanz (p=3): 1.7040***
+
+Hitler - Satz12: "the most important phase of his policy was therefore to secure control over the people."
+Biden - Satz13: "we don’t control that, but we’re doing all we can to minimize the amount of time it’s going to take to get power back up for everyone in the region."
+***Cosine Similarity: 0.3162, Euklidische Distanz: 22.2007, Manhattan-Distanz: 75.1370, Minkowski-Distanz (p=3): 2.0132***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Biden - Satz23: "it’ll also give me, as president, the emergency authority to shut down the border until it could get back under control."
+***Cosine Similarity: 0.3155, Euklidische Distanz: 21.8778, Manhattan-Distanz: 71.6095, Minkowski-Distanz (p=3): 2.0588***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Biden - Satz27: "that’s why we immediately passed what we call the american rescue plan to get shots in people’s arms as fast as possible at home and around the world to help get this pandemic under control and to stimulate inclusive and lasting economic recovery."
+***Cosine Similarity: 0.3143, Euklidische Distanz: 21.8890, Manhattan-Distanz: 70.8191, Minkowski-Distanz (p=3): 2.0849***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Biden - Satz9: "that’s why i’ve made getting covid under control my top priority from my first day as president."
+***Cosine Similarity: 0.3142, Euklidische Distanz: 23.1613, Manhattan-Distanz: 75.2505, Minkowski-Distanz (p=3): 2.0765***
+
+Hitler - Satz17: "the incredible fashion in which our national economy was administered during the war through an absolutely crazy system of centralisation by means of which the whole reich territory was brought under its control and exploited, furnished the principal grounds for the growth of anti-prussian feeling."
+Biden - Satz36: "in the past week, we’ve seen shelling increase in the donbas, a region in eastern ukraine controlled by russian backed separatists."
+***Cosine Similarity: 0.3141, Euklidische Distanz: 18.2329, Manhattan-Distanz: 66.1164, Minkowski-Distanz (p=3): 1.8540***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Biden - Satz7: "and i realize, it’s a thing that concerns the most about being able to get control of it because i’ve got to, number one, get enough funding to provide for immediate determination of whether or not someone that is in fact legitimately claiming a right to stay in the country because of legitimate fears and if purely for economic reasons to get in line, but not get in the country."
+***Cosine Similarity: 0.3138, Euklidische Distanz: 17.2447, Manhattan-Distanz: 65.9794, Minkowski-Distanz (p=3): 1.7861***
+
+Hitler - Satz4: "a coup d’etat cannot, therefore, he considered successful if, as many empty-headed critics in germany now, believe, the revolutionaries succeeded in seizing control of the state, but only f, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice."
+Biden - Satz12: "by the time i came to office the taliban was in it’s strongest military position since 2001, controlling or contesting nearly half of the country."
+***Cosine Similarity: 0.3135, Euklidische Distanz: 16.0336, Manhattan-Distanz: 62.4736, Minkowski-Distanz (p=3): 1.7310***
+
+Hitler - Satz49: "the trade-union organisation is the organ of control for the political activity of its members and whips in the masses for all great political demonstrations."
+Biden - Satz3: "and so we’re going to be able to control this."
+***Cosine Similarity: 0.3130, Euklidische Distanz: 19.5371, Manhattan-Distanz: 68.2130, Minkowski-Distanz (p=3): 1.9337***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Biden - Satz3: "and so we’re going to be able to control this."
+***Cosine Similarity: 0.3126, Euklidische Distanz: 18.7893, Manhattan-Distanz: 68.9664, Minkowski-Distanz (p=3): 1.8527***
+
+Hitler - Satz27: "economically, he brings about the destruction of the state by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the state and submitted to the control of jewish finance."
+Biden - Satz11: "like every country in the world we have to deal with these issues of rising cost, but we should remember we have the skill and tools to get it under control."
+***Cosine Similarity: 0.3125, Euklidische Distanz: 19.4469, Manhattan-Distanz: 67.6358, Minkowski-Distanz (p=3): 1.9353***
+
+Hitler - Satz23: "a serious state of economic disruption was being brought about by the slow elimination of the personal control of vested interests and the gradual transference of the whole economic structure into the hands of joint-stock companies."
+Biden - Satz13: "we don’t control that, but we’re doing all we can to minimize the amount of time it’s going to take to get power back up for everyone in the region."
+***Cosine Similarity: 0.3125, Euklidische Distanz: 16.4621, Manhattan-Distanz: 62.7553, Minkowski-Distanz (p=3): 1.7772***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Biden - Satz32: "but we can’t let it get out of control."
+***Cosine Similarity: 0.3124, Euklidische Distanz: 18.2958, Manhattan-Distanz: 66.0029, Minkowski-Distanz (p=3): 1.8947***
+
+Hitler - Satz44: "it aims its attacks especially against all men of character who refuse to fall into line with the jewish efforts to obtain control over the state, or who appear dangerous to the jews merely because of their superior intelligence."
+Biden - Satz6: "and i’m sure they don’t control all of the forces."
+***Cosine Similarity: 0.3122, Euklidische Distanz: 19.0897, Manhattan-Distanz: 69.9916, Minkowski-Distanz (p=3): 1.8777***
+
+Hitler - Satz5: "it is not only the right, but the duty, of the protagonists of any world-  shattering ideal to secure control of such means as will enable them to realise that idea."
+Biden - Satz6: "and i’m sure they don’t control all of the forces."
+***Cosine Similarity: 0.3121, Euklidische Distanz: 21.9106, Manhattan-Distanz: 71.8474, Minkowski-Distanz (p=3): 2.0724***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Biden - Satz7: "and i realize, it’s a thing that concerns the most about being able to get control of it because i’ve got to, number one, get enough funding to provide for immediate determination of whether or not someone that is in fact legitimately claiming a right to stay in the country because of legitimate fears and if purely for economic reasons to get in line, but not get in the country."
+***Cosine Similarity: 0.3117, Euklidische Distanz: 18.7974, Manhattan-Distanz: 69.1510, Minkowski-Distanz (p=3): 1.8613***
+
+Hitler - Satz13: "only in france does there exist to-day, in a greater degree than ever before, a profound harmony between the aims of the stock exchange, of the jews who control it and those of a chauvinistic national policy."
+Biden - Satz8: "they’re going to be in a situation where they begin to gain control again."
+***Cosine Similarity: 0.3108, Euklidische Distanz: 13.0991, Manhattan-Distanz: 54.9076, Minkowski-Distanz (p=3): 1.6003***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Biden - Satz8: "they’re going to be in a situation where they begin to gain control again."
+***Cosine Similarity: 0.3098, Euklidische Distanz: 14.4518, Manhattan-Distanz: 58.9698, Minkowski-Distanz (p=3): 1.6580***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Biden - Satz1: "they control more than 75% of the battery market."
+***Cosine Similarity: 0.3097, Euklidische Distanz: 32.7739, Manhattan-Distanz: 88.0496, Minkowski-Distanz (p=3): 2.5101***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Biden - Satz20: "i respectfully suggest you ask yourself this question, “if we’ve been attacked on september 11th, 2001 from yemen, instead of afghanistan, would we have ever gone to war in afghanistan, even though the tali bond controlled afghanistan in the year 2001?” i believe the honest answer is no."
+***Cosine Similarity: 0.3089, Euklidische Distanz: 14.5844, Manhattan-Distanz: 60.7838, Minkowski-Distanz (p=3): 1.6258***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Biden - Satz34: "would there ever be any reason we’d be in afghanistan, controlled by the taliban?"
+***Cosine Similarity: 0.3069, Euklidische Distanz: 14.6003, Manhattan-Distanz: 60.9422, Minkowski-Distanz (p=3): 1.6240***
+
+Hitler - Satz46: "of course, here, as everywhere else, one must take account of those human weaknesses which make men hesitate, especially at the beginning, to submit to the control of a superior mind."
+Biden - Satz6: "and i’m sure they don’t control all of the forces."
+***Cosine Similarity: 0.3060, Euklidische Distanz: 18.8487, Manhattan-Distanz: 68.8924, Minkowski-Distanz (p=3): 1.8661***
+
+Hitler - Satz40: "it was only natural and logical that the federal states should lose all sovereign control over their finances, the moment the reich, in consequence of a lost war, was subjected to financial obligations which could never have been met by means of individual agreements concluded with the individual states."
+Biden - Satz13: "we don’t control that, but we’re doing all we can to minimize the amount of time it’s going to take to get power back up for everyone in the region."
+***Cosine Similarity: 0.3059, Euklidische Distanz: 18.3533, Manhattan-Distanz: 66.3784, Minkowski-Distanz (p=3): 1.8876***
+
+Hitler - Satz7: "jewish international finance needed the bait of the austrian heritage in order to carry out its plans of ruining germany, for germany had not yet surrendered to their general and international control in the sphere of trade and finance."
+Biden - Satz35: "bedrock commitments, like freedom of navigation, adherence to international laws and treaties, support for arms control measures to reduce the risk and enhance transparency."
+***Cosine Similarity: 0.3053, Euklidische Distanz: 21.5511, Manhattan-Distanz: 70.7723, Minkowski-Distanz (p=3): 2.0507***
+
+Hitler - Satz34: "it is easy to imagine how we felt when we were howled at and threatened by a raging crowd, which was beyond all control and composed of men who, while we had been defending our country, had for the most part been deserters and shirkers skulking in billets behind the lines or at home."
+Biden - Satz24: "there still would have been a rush to the airport, a breakdown in confidence and control of the government, and it still would have been a very difficult and dangerous mission."
+***Cosine Similarity: 0.3046, Euklidische Distanz: 14.6182, Manhattan-Distanz: 60.4506, Minkowski-Distanz (p=3): 1.6413***
+
+Hitler - Satz42: "from year to year it fell more and more under the political control of the social democrats, until it finally came to be used solely as a battering-ram in the class struggle."
+Biden - Satz33: "no, i’m telling the american people that we’re going to get control of inflation, and their prescription drug prices are going to be a hell of a lot lower, their healthcare costs are going to be a lot lower, their basic costs for everybody."
+***Cosine Similarity: 0.3044, Euklidische Distanz: 16.1616, Manhattan-Distanz: 61.0351, Minkowski-Distanz (p=3): 1.7742***
+
+Hitler - Satz32: "certainly in days to come the jews will raise a tremendous cry in their newspapers once a hand is laid on their favourite nest, once a move is made to put an end to this scandalous press and once this instrument which moulds public opinion is brought under state control and no longer left in the hands of aliens and enemies of the people."
+Biden - Satz32: "but we can’t let it get out of control."
+***Cosine Similarity: 0.3041, Euklidische Distanz: 17.2578, Manhattan-Distanz: 64.8110, Minkowski-Distanz (p=3): 1.8033***
+
+Hitler - Satz1: "it was, therefore, possible for the reich to dispense with the necessity for financial control over the federal states and to live on their contributions."
+Biden - Satz30: "the pandemic no longer controls our lives."
+***Cosine Similarity: 0.3037, Euklidische Distanz: 21.8503, Manhattan-Distanz: 72.5801, Minkowski-Distanz (p=3): 2.0326***
+
+Hitler - Satz26: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Biden - Satz34: "would there ever be any reason we’d be in afghanistan, controlled by the taliban?"
+***Cosine Similarity: 0.3033, Euklidische Distanz: 23.2706, Manhattan-Distanz: 75.9398, Minkowski-Distanz (p=3): 2.0793***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Biden - Satz24: "there still would have been a rush to the airport, a breakdown in confidence and control of the government, and it still would have been a very difficult and dangerous mission."
+***Cosine Similarity: 0.3027, Euklidische Distanz: 28.5872, Manhattan-Distanz: 84.4383, Minkowski-Distanz (p=3): 2.2962***
+
+Hitler - Satz45: "there was only one possible way to controlling and holding in check the centrifugal forces of the different and differing nationalities in the austrian state."
+Biden - Satz35: "bedrock commitments, like freedom of navigation, adherence to international laws and treaties, support for arms control measures to reduce the risk and enhance transparency."
+***Cosine Similarity: 0.3024, Euklidische Distanz: 17.3439, Manhattan-Distanz: 65.5650, Minkowski-Distanz (p=3): 1.7979***
+
+Hitler - Satz15: "the feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them—though more intuitively than consciously—that the whole party system as it had hitherto existed was not the kind of force that could restore the german nation or repair the damage that had been done to the german people by those who had hitherto controlled the internal affairs of the nation."
+Biden - Satz24: "there still would have been a rush to the airport, a breakdown in confidence and control of the government, and it still would have been a very difficult and dangerous mission."
+***Cosine Similarity: 0.3023, Euklidische Distanz: 18.1535, Manhattan-Distanz: 67.1416, Minkowski-Distanz (p=3): 1.8495***
+
+Hitler - Satz22: "the chairman is responsible for the whole control of the movement."
+Biden - Satz8: "they’re going to be in a situation where they begin to gain control again."
+***Cosine Similarity: 0.3016, Euklidische Distanz: 32.8703, Manhattan-Distanz: 88.9646, Minkowski-Distanz (p=3): 2.5097***
+
+Hitler - Satz10: "the defence put up by the government in those days against a mainly jew-controlled press that was slowly corrupting the nation, followed no definite line of action, it had no determination ‘behind it and above all, no fixed objective’ whatsoever in view."
+Biden - Satz32: "but we can’t let it get out of control."
+***Cosine Similarity: 0.3015, Euklidische Distanz: 15.7069, Manhattan-Distanz: 61.3853, Minkowski-Distanz (p=3): 1.7344***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Biden - Satz23: "it’ll also give me, as president, the emergency authority to shut down the border until it could get back under control."
+***Cosine Similarity: 0.3014, Euklidische Distanz: 28.6013, Manhattan-Distanz: 83.9467, Minkowski-Distanz (p=3): 2.2957***
+
+Hitler - Satz38: "financial exchange circles began to triumph and made slow but sure progress in assuming control of the whole of national life."
+Biden - Satz9: "that’s why i’ve made getting covid under control my top priority from my first day as president."
+***Cosine Similarity: 0.3009, Euklidische Distanz: 23.5439, Manhattan-Distanz: 76.6010, Minkowski-Distanz (p=3): 2.0701***
+
+Hitler - Satz7: "jewish international finance needed the bait of the austrian heritage in order to carry out its plans of ruining germany, for germany had not yet surrendered to their general and international control in the sphere of trade and finance."
+Biden - Satz30: "the pandemic no longer controls our lives."
+***Cosine Similarity: 0.3007, Euklidische Distanz: 21.5958, Manhattan-Distanz: 70.7097, Minkowski-Distanz (p=3): 2.0504***
+
+Hitler - Satz47: "that is the only way in which a party policy, according to the evil meaning it has to-day, can be put into effect, and by this method alone is it possible for the wire-puller, who exercises the real control, to remain in the dark, so that he personally can never be brought to account for his actions."
+Biden - Satz6: "and i’m sure they don’t control all of the forces."
+***Cosine Similarity: 0.3004, Euklidische Distanz: 14.5272, Manhattan-Distanz: 59.7957, Minkowski-Distanz (p=3): 1.6503***
+
+Hitler - Satz2: "then international finance would assume control over germany and the internal objective of the marxist betrayal of the nations would be achieved."
+Biden - Satz21: "even though the taliban completely controlled afghanistan at the time, would we have ever gone?"
+***Cosine Similarity: 0.3003, Euklidische Distanz: 28.6134, Manhattan-Distanz: 83.4588, Minkowski-Distanz (p=3): 2.3027***
+
