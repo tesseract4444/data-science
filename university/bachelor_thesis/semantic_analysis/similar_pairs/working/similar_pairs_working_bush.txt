@@ -1,0 +1,1050 @@
+Gefilterte Sätze mit Cosine Similarity, euklidischer Distanz, Manhattan-Distanz und Minkowski-Distanz (nach Cosine Similarity sortiert):
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.5647, Euklidische Distanz: 20.4868, Manhattan-Distanz: 69.8351, Minkowski-Distanz (p=3): 1.9812***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.5097, Euklidische Distanz: 11.0942, Manhattan-Distanz: 51.9533, Minkowski-Distanz (p=3): 1.4467***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Bush - Satz40: "our nation, working with allies and friends, has also confronted the enemy abroad, with measures that are determined, successful, and continuing."
+***Cosine Similarity: 0.5082, Euklidische Distanz: 11.1055, Manhattan-Distanz: 52.7714, Minkowski-Distanz (p=3): 1.4263***
+
+Hitler - Satz18: "therefore, although under the older system a working day of fourteen or even fifteen hours was not unendurable, now it was beyond the limits of human endurance, because under the new system every minute was utilised to the extreme."
+Bush - Satz32: "we have seen the state of our union in the endurance of rescuers, working past exhaustion."
+***Cosine Similarity: 0.5057, Euklidische Distanz: 17.4138, Manhattan-Distanz: 64.6908, Minkowski-Distanz (p=3): 1.8053***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Bush - Satz26: "in iraq, the coalition provisional authority and the iraqi governing council are also working together to build a democracy -- and after three decades of tyranny, this work is not easy."
+***Cosine Similarity: 0.4917, Euklidische Distanz: 11.2283, Manhattan-Distanz: 52.1079, Minkowski-Distanz (p=3): 1.4566***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.4896, Euklidische Distanz: 13.3843, Manhattan-Distanz: 55.5457, Minkowski-Distanz (p=3): 1.6130***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.4858, Euklidische Distanz: 15.8701, Manhattan-Distanz: 62.2137, Minkowski-Distanz (p=3): 1.7408***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.4779, Euklidische Distanz: 11.3317, Manhattan-Distanz: 53.1108, Minkowski-Distanz (p=3): 1.4443***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.4747, Euklidische Distanz: 14.7775, Manhattan-Distanz: 60.4654, Minkowski-Distanz (p=3): 1.6663***
+
+Hitler - Satz38: "the present epoch is working out its own ruin."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.4744, Euklidische Distanz: 34.3875, Manhattan-Distanz: 93.2465, Minkowski-Distanz (p=3): 2.5118***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.4714, Euklidische Distanz: 14.2961, Manhattan-Distanz: 60.0454, Minkowski-Distanz (p=3): 1.6205***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Bush - Satz75: "this is a good agreement that will keep our economy growing and our people working, and this congress must pass it as soon as possible."
+***Cosine Similarity: 0.4701, Euklidische Distanz: 20.9793, Manhattan-Distanz: 70.9491, Minkowski-Distanz (p=3): 2.0082***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.4637, Euklidische Distanz: 13.5938, Manhattan-Distanz: 56.3219, Minkowski-Distanz (p=3): 1.6164***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.4553, Euklidische Distanz: 14.4296, Manhattan-Distanz: 59.9734, Minkowski-Distanz (p=3): 1.6275***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.4545, Euklidische Distanz: 13.6680, Manhattan-Distanz: 57.0909, Minkowski-Distanz (p=3): 1.6238***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Bush - Satz53: "decent, hard-working people will now be protected by labor laws, with the right to change jobs, earn fair wages, and enjoy the same working conditions that the law requires for american workers."
+***Cosine Similarity: 0.4539, Euklidische Distanz: 21.1404, Manhattan-Distanz: 72.0410, Minkowski-Distanz (p=3): 1.9956***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Bush - Satz82: "you know, one of the very difficult parts of the decision i made on the financial crisis was to use hardworking people's money to help prevent there to be a crisis, and in so doing, some of that money went into wall street firms that caused the crisis in the first place."
+***Cosine Similarity: 0.4512, Euklidische Distanz: 24.1361, Manhattan-Distanz: 76.4319, Minkowski-Distanz (p=3): 2.1307***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Bush - Satz81: "america, our coalition, and iraqi leaders are working toward the same goal -- a democratic iraq that can defend itself, that will never again be a safe haven for terrorists, and that will serve as a model of freedom for the middle east."
+***Cosine Similarity: 0.4490, Euklidische Distanz: 11.5465, Manhattan-Distanz: 53.5076, Minkowski-Distanz (p=3): 1.4666***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Bush - Satz22: "and we will reduce taxes, to recover the momentum of our economy and reward the effort and enterprise of working americans."
+***Cosine Similarity: 0.4411, Euklidische Distanz: 21.2679, Manhattan-Distanz: 70.6986, Minkowski-Distanz (p=3): 2.0271***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Bush - Satz19: "even when these nations have vast natural resources, they do not respect or develop their greatest resources -- the talent and energy of men and women working and living in freedom."
+***Cosine Similarity: 0.4383, Euklidische Distanz: 22.3975, Manhattan-Distanz: 72.4072, Minkowski-Distanz (p=3): 2.0686***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.4338, Euklidische Distanz: 12.1870, Manhattan-Distanz: 54.2676, Minkowski-Distanz (p=3): 1.5222***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.4334, Euklidische Distanz: 15.1256, Manhattan-Distanz: 61.1644, Minkowski-Distanz (p=3): 1.6830***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Bush - Satz19: "even when these nations have vast natural resources, they do not respect or develop their greatest resources -- the talent and energy of men and women working and living in freedom."
+***Cosine Similarity: 0.4297, Euklidische Distanz: 15.1569, Manhattan-Distanz: 60.2468, Minkowski-Distanz (p=3): 1.7006***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Bush - Satz8: "most begin their working lives in america by taking hard jobs and clocking long hours in important industries."
+***Cosine Similarity: 0.4291, Euklidische Distanz: 26.5124, Manhattan-Distanz: 78.7275, Minkowski-Distanz (p=3): 2.2699***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.4200, Euklidische Distanz: 16.4459, Manhattan-Distanz: 63.5259, Minkowski-Distanz (p=3): 1.7608***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Bush - Satz26: "in iraq, the coalition provisional authority and the iraqi governing council are also working together to build a democracy -- and after three decades of tyranny, this work is not easy."
+***Cosine Similarity: 0.4192, Euklidische Distanz: 15.2456, Manhattan-Distanz: 60.4789, Minkowski-Distanz (p=3): 1.7169***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.4190, Euklidische Distanz: 15.2471, Manhattan-Distanz: 61.3267, Minkowski-Distanz (p=3): 1.7011***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.4186, Euklidische Distanz: 21.4906, Manhattan-Distanz: 72.1143, Minkowski-Distanz (p=3): 2.0160***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Bush - Satz53: "decent, hard-working people will now be protected by labor laws, with the right to change jobs, earn fair wages, and enjoy the same working conditions that the law requires for american workers."
+***Cosine Similarity: 0.4180, Euklidische Distanz: 16.4633, Manhattan-Distanz: 62.8067, Minkowski-Distanz (p=3): 1.7797***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.4171, Euklidische Distanz: 16.4707, Manhattan-Distanz: 63.5200, Minkowski-Distanz (p=3): 1.7714***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Bush - Satz71: "these developments have placed a heavy burden on hardworking people around the world."
+***Cosine Similarity: 0.4165, Euklidische Distanz: 22.6199, Manhattan-Distanz: 72.5546, Minkowski-Distanz (p=3): 2.0829***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Bush - Satz80: "we are working with european allies to make clear to the iranian regime that it must give up its uranium enrichment program and any plutonium re-processing, and end its support for terror."
+***Cosine Similarity: 0.4162, Euklidische Distanz: 11.7911, Manhattan-Distanz: 54.4832, Minkowski-Distanz (p=3): 1.4665***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Bush - Satz19: "even when these nations have vast natural resources, they do not respect or develop their greatest resources -- the talent and energy of men and women working and living in freedom."
+***Cosine Similarity: 0.4160, Euklidische Distanz: 11.7931, Manhattan-Distanz: 54.3210, Minkowski-Distanz (p=3): 1.4779***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.4159, Euklidische Distanz: 22.6252, Manhattan-Distanz: 72.6194, Minkowski-Distanz (p=3): 2.0800***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Bush - Satz28: "in this time of change, government must take the side of working families."
+***Cosine Similarity: 0.4148, Euklidische Distanz: 16.4908, Manhattan-Distanz: 63.1893, Minkowski-Distanz (p=3): 1.7791***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.4141, Euklidische Distanz: 15.2885, Manhattan-Distanz: 61.4501, Minkowski-Distanz (p=3): 1.6912***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.4138, Euklidische Distanz: 13.9972, Manhattan-Distanz: 56.8552, Minkowski-Distanz (p=3): 1.6522***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Bush - Satz28: "in this time of change, government must take the side of working families."
+***Cosine Similarity: 0.4131, Euklidische Distanz: 16.9013, Manhattan-Distanz: 63.3237, Minkowski-Distanz (p=3): 1.7973***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Bush - Satz64: "so we're working to break down barriers to trade and investment wherever we can."
+***Cosine Similarity: 0.4128, Euklidische Distanz: 21.5487, Manhattan-Distanz: 71.5051, Minkowski-Distanz (p=3): 2.0371***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Bush - Satz71: "these developments have placed a heavy burden on hardworking people around the world."
+***Cosine Similarity: 0.4101, Euklidische Distanz: 16.5320, Manhattan-Distanz: 63.1279, Minkowski-Distanz (p=3): 1.7834***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Bush - Satz2: "ladies and gentlemen, some may deny the surge is working, but among the terrorists there is no doubt."
+***Cosine Similarity: 0.4087, Euklidische Distanz: 11.8473, Manhattan-Distanz: 54.1229, Minkowski-Distanz (p=3): 1.4752***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Bush - Satz33: "and for every terrorist working to stop freedom in iraq, there are many more iraqis and americans working to defeat them."
+***Cosine Similarity: 0.4035, Euklidische Distanz: 11.8858, Manhattan-Distanz: 54.2549, Minkowski-Distanz (p=3): 1.4874***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.4018, Euklidische Distanz: 19.5821, Manhattan-Distanz: 69.1252, Minkowski-Distanz (p=3): 1.9192***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Bush - Satz90: "we're working with other governments to secure nuclear materials in the former soviet union and to strengthen global treaties banning the production and shipment of missile technologies and weapons of mass destruction."
+***Cosine Similarity: 0.4009, Euklidische Distanz: 11.9055, Manhattan-Distanz: 54.8669, Minkowski-Distanz (p=3): 1.4740***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3965, Euklidische Distanz: 13.4031, Manhattan-Distanz: 58.2445, Minkowski-Distanz (p=3): 1.5655***
+
+Hitler - Satz41: "the country lad who migrates to the big city feels attracted by what has been described as easy work (which it may be in reality) and shorter working hours and especially by the magic glamour of the big city."
+Bush - Satz8: "most begin their working lives in america by taking hard jobs and clocking long hours in important industries."
+***Cosine Similarity: 0.3952, Euklidische Distanz: 17.5102, Manhattan-Distanz: 64.6300, Minkowski-Distanz (p=3): 1.8158***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Bush - Satz19: "even when these nations have vast natural resources, they do not respect or develop their greatest resources -- the talent and energy of men and women working and living in freedom."
+***Cosine Similarity: 0.3937, Euklidische Distanz: 14.1592, Manhattan-Distanz: 57.4478, Minkowski-Distanz (p=3): 1.6541***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3929, Euklidische Distanz: 14.1659, Manhattan-Distanz: 57.5494, Minkowski-Distanz (p=3): 1.6543***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz26: "in iraq, the coalition provisional authority and the iraqi governing council are also working together to build a democracy -- and after three decades of tyranny, this work is not easy."
+***Cosine Similarity: 0.3927, Euklidische Distanz: 22.3709, Manhattan-Distanz: 74.5470, Minkowski-Distanz (p=3): 2.0337***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Bush - Satz20: "my temporary worker program will preserve the citizenship path for those who respect the law while bringing millions of hard-working men and women out from the shadows of american life."
+***Cosine Similarity: 0.3909, Euklidische Distanz: 16.7003, Manhattan-Distanz: 63.1421, Minkowski-Distanz (p=3): 1.7863***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Bush - Satz92: "the point man in my administration on this issue was secretary tommy thompson, and he and his team did a fabulous job of working with the congress to get this important piece of legislation passed."
+***Cosine Similarity: 0.3908, Euklidische Distanz: 24.7737, Manhattan-Distanz: 77.8754, Minkowski-Distanz (p=3): 2.1480***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.3907, Euklidische Distanz: 22.0642, Manhattan-Distanz: 73.5993, Minkowski-Distanz (p=3): 2.0117***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Bush - Satz32: "we have seen the state of our union in the endurance of rescuers, working past exhaustion."
+***Cosine Similarity: 0.3907, Euklidische Distanz: 26.9345, Manhattan-Distanz: 78.7079, Minkowski-Distanz (p=3): 2.2971***
+
+Hitler - Satz30: "the leaders recognised the value of propaganda on a large scale and they were veritable virtuosos in working up the spiritual instincts of the broad masses of their adherents."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3905, Euklidische Distanz: 16.7947, Manhattan-Distanz: 66.1621, Minkowski-Distanz (p=3): 1.7390***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.3900, Euklidische Distanz: 17.7298, Manhattan-Distanz: 64.8837, Minkowski-Distanz (p=3): 1.8329***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.3873, Euklidische Distanz: 17.1288, Manhattan-Distanz: 64.6229, Minkowski-Distanz (p=3): 1.7971***
+
+Hitler - Satz6: "); the fatherland, because it was held to be an instrument in the hands of the bourgeoisie for the exploitation of the working classes; the authority of the law, because that was a means of oppressing the proletariat; the school system, as a means of training not only slaves, but also slave-drivers; religion, as a means of doping the people, in order to exploit them afterwards; morality, as the badge of stupid and sheepish docility."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3864, Euklidische Distanz: 13.9485, Manhattan-Distanz: 58.6947, Minkowski-Distanz (p=3): 1.5988***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Bush - Satz70: "my economic advisors believe that such a collapse would deal an unacceptably painful blow to hardworking americans far beyond the auto industry."
+***Cosine Similarity: 0.3859, Euklidische Distanz: 26.9870, Manhattan-Distanz: 78.7345, Minkowski-Distanz (p=3): 2.3121***
+
+Hitler - Satz19: "it cannot be objected here that in other countries similar conditions exist and that nevertheless the working classes in those countries have remained patriotic."
+Bush - Satz19: "even when these nations have vast natural resources, they do not respect or develop their greatest resources -- the talent and energy of men and women working and living in freedom."
+***Cosine Similarity: 0.3859, Euklidische Distanz: 24.2755, Manhattan-Distanz: 78.9253, Minkowski-Distanz (p=3): 2.1048***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3845, Euklidische Distanz: 22.4536, Manhattan-Distanz: 74.2827, Minkowski-Distanz (p=3): 2.0444***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3837, Euklidische Distanz: 22.9527, Manhattan-Distanz: 73.1650, Minkowski-Distanz (p=3): 2.0991***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Bush - Satz28: "in this time of change, government must take the side of working families."
+***Cosine Similarity: 0.3828, Euklidische Distanz: 21.8469, Manhattan-Distanz: 72.6853, Minkowski-Distanz (p=3): 2.0199***
+
+Hitler - Satz30: "the leaders recognised the value of propaganda on a large scale and they were veritable virtuosos in working up the spiritual instincts of the broad masses of their adherents."
+Bush - Satz44: "our greatest advantage in the world has always been our educated, hard-working, ambitious people."
+***Cosine Similarity: 0.3810, Euklidische Distanz: 16.8778, Manhattan-Distanz: 65.3977, Minkowski-Distanz (p=3): 1.7593***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Bush - Satz26: "in iraq, the coalition provisional authority and the iraqi governing council are also working together to build a democracy -- and after three decades of tyranny, this work is not easy."
+***Cosine Similarity: 0.3809, Euklidische Distanz: 14.2628, Manhattan-Distanz: 57.4215, Minkowski-Distanz (p=3): 1.6702***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Bush - Satz8: "most begin their working lives in america by taking hard jobs and clocking long hours in important industries."
+***Cosine Similarity: 0.3809, Euklidische Distanz: 25.5194, Manhattan-Distanz: 77.4382, Minkowski-Distanz (p=3): 2.2308***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Bush - Satz17: "it's tough for a lot of working people out there."
+***Cosine Similarity: 0.3806, Euklidische Distanz: 22.9841, Manhattan-Distanz: 73.3526, Minkowski-Distanz (p=3): 2.0932***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.3781, Euklidische Distanz: 19.8061, Manhattan-Distanz: 69.1427, Minkowski-Distanz (p=3): 1.9382***
+
+Hitler - Satz15: "on the contrary, the persistent economic depression of that period and the constant want and misery strengthened his resolution to give up working at a trade and strive for ‘something higher.’ as a boy it had seemed to him that the position of the parish priest in his native village was the highest in the scale of human attainment, but now that the big city had enlarged his outlook the young man looked up to the dignity of a state official as the highest of all."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3778, Euklidische Distanz: 13.7268, Manhattan-Distanz: 58.2093, Minkowski-Distanz (p=3): 1.6038***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.3775, Euklidische Distanz: 22.3647, Manhattan-Distanz: 73.2501, Minkowski-Distanz (p=3): 2.0679***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3771, Euklidische Distanz: 12.6187, Manhattan-Distanz: 55.1643, Minkowski-Distanz (p=3): 1.5614***
+
+Hitler - Satz19: "it cannot be objected here that in other countries similar conditions exist and that nevertheless the working classes in those countries have remained patriotic."
+Bush - Satz40: "our nation, working with allies and friends, has also confronted the enemy abroad, with measures that are determined, successful, and continuing."
+***Cosine Similarity: 0.3767, Euklidische Distanz: 24.3714, Manhattan-Distanz: 78.9146, Minkowski-Distanz (p=3): 2.1145***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Bush - Satz21: "americans are proving once again to be the hardest working people in the world."
+***Cosine Similarity: 0.3767, Euklidische Distanz: 15.0818, Manhattan-Distanz: 61.6420, Minkowski-Distanz (p=3): 1.6641***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3764, Euklidische Distanz: 25.5673, Manhattan-Distanz: 76.9008, Minkowski-Distanz (p=3): 2.2488***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Bush - Satz91: "and i want to thank congress for working on this issue."
+***Cosine Similarity: 0.3747, Euklidische Distanz: 21.9269, Manhattan-Distanz: 72.6612, Minkowski-Distanz (p=3): 2.0477***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Bush - Satz19: "even when these nations have vast natural resources, they do not respect or develop their greatest resources -- the talent and energy of men and women working and living in freedom."
+***Cosine Similarity: 0.3746, Euklidische Distanz: 16.8424, Manhattan-Distanz: 64.5343, Minkowski-Distanz (p=3): 1.7823***
+
+Hitler - Satz16: "on innumerable occasions the bourgeoisie took a definite stand against even the most legitimate human demands of the working classes."
+Bush - Satz12: "we see millions of hard-working men and women condemned to fear and insecurity in a massive, undocumented economy."
+***Cosine Similarity: 0.3746, Euklidische Distanz: 20.8087, Manhattan-Distanz: 71.0471, Minkowski-Distanz (p=3): 1.9898***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3727, Euklidische Distanz: 12.3294, Manhattan-Distanz: 53.8972, Minkowski-Distanz (p=3): 1.5402***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3727, Euklidische Distanz: 22.4128, Manhattan-Distanz: 72.9884, Minkowski-Distanz (p=3): 2.0830***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3716, Euklidische Distanz: 17.2683, Manhattan-Distanz: 64.5730, Minkowski-Distanz (p=3): 1.8086***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Bush - Satz65: "the united states is committed to working with other nations to reduce suffering and to spare lives."
+***Cosine Similarity: 0.3703, Euklidische Distanz: 21.9706, Manhattan-Distanz: 72.5933, Minkowski-Distanz (p=3): 2.0406***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Bush - Satz32: "we have seen the state of our union in the endurance of rescuers, working past exhaustion."
+***Cosine Similarity: 0.3694, Euklidische Distanz: 13.6168, Manhattan-Distanz: 58.0438, Minkowski-Distanz (p=3): 1.5887***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Bush - Satz90: "we're working with other governments to secure nuclear materials in the former soviet union and to strengthen global treaties banning the production and shipment of missile technologies and weapons of mass destruction."
+***Cosine Similarity: 0.3694, Euklidische Distanz: 21.9797, Manhattan-Distanz: 72.3071, Minkowski-Distanz (p=3): 2.0583***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Bush - Satz21: "americans are proving once again to be the hardest working people in the world."
+***Cosine Similarity: 0.3690, Euklidische Distanz: 23.1022, Manhattan-Distanz: 72.6315, Minkowski-Distanz (p=3): 2.1195***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3688, Euklidische Distanz: 15.6704, Manhattan-Distanz: 61.8286, Minkowski-Distanz (p=3): 1.7206***
+
+Hitler - Satz40: "these movements, parties, religious groups, etc., originate entirely independently of one another out of the general urge of the age, and all witha view to working towards the same goal."
+Bush - Satz26: "in iraq, the coalition provisional authority and the iraqi governing council are also working together to build a democracy -- and after three decades of tyranny, this work is not easy."
+***Cosine Similarity: 0.3670, Euklidische Distanz: 14.4499, Manhattan-Distanz: 59.2885, Minkowski-Distanz (p=3): 1.6398***
+
+Hitler - Satz22: "at one stroke, in the august of , all the empty nonsense about international solidarity was knocked out of the heads of the german working classes."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3666, Euklidische Distanz: 21.7971, Manhattan-Distanz: 71.7745, Minkowski-Distanz (p=3): 2.0448***
+
+Hitler - Satz47: "my lungs became so seriously affected that the doctor advised my mother very strongly not in any circumstances to allow me to take up a career which would necessitate working in an office."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3665, Euklidische Distanz: 17.5042, Manhattan-Distanz: 65.4173, Minkowski-Distanz (p=3): 1.8054***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Bush - Satz12: "we see millions of hard-working men and women condemned to fear and insecurity in a massive, undocumented economy."
+***Cosine Similarity: 0.3653, Euklidische Distanz: 17.9526, Manhattan-Distanz: 65.2872, Minkowski-Distanz (p=3): 1.8451***
+
+Hitler - Satz6: "); the fatherland, because it was held to be an instrument in the hands of the bourgeoisie for the exploitation of the working classes; the authority of the law, because that was a means of oppressing the proletariat; the school system, as a means of training not only slaves, but also slave-drivers; religion, as a means of doping the people, in order to exploit them afterwards; morality, as the badge of stupid and sheepish docility."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.3652, Euklidische Distanz: 14.1187, Manhattan-Distanz: 58.1764, Minkowski-Distanz (p=3): 1.6262***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Bush - Satz79: "the tax relief you passed is working."
+***Cosine Similarity: 0.3649, Euklidische Distanz: 22.0243, Manhattan-Distanz: 72.9113, Minkowski-Distanz (p=3): 2.0513***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3648, Euklidische Distanz: 25.0483, Manhattan-Distanz: 78.5863, Minkowski-Distanz (p=3): 2.1608***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Bush - Satz19: "even when these nations have vast natural resources, they do not respect or develop their greatest resources -- the talent and energy of men and women working and living in freedom."
+***Cosine Similarity: 0.3647, Euklidische Distanz: 13.6541, Manhattan-Distanz: 58.5695, Minkowski-Distanz (p=3): 1.5872***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3646, Euklidische Distanz: 16.9299, Manhattan-Distanz: 63.9747, Minkowski-Distanz (p=3): 1.7990***
+
+Hitler - Satz29: "if, in , the german working class had consisted of real marxists, the war would have ended within three weeks."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3642, Euklidische Distanz: 25.0656, Manhattan-Distanz: 77.8512, Minkowski-Distanz (p=3): 2.1769***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Bush - Satz71: "these developments have placed a heavy burden on hardworking people around the world."
+***Cosine Similarity: 0.3634, Euklidische Distanz: 19.8958, Manhattan-Distanz: 70.1238, Minkowski-Distanz (p=3): 1.9200***
+
+Hitler - Satz24: "the bavarian did not see the berlin of four million industrious and efficient working people, but only the lazy and decadent berlin which haunts the worst quarters of the west end, and yet antipathy was not directed against the west end of berlin but against the ‘prussian’ city."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3631, Euklidische Distanz: 19.8228, Manhattan-Distanz: 70.2717, Minkowski-Distanz (p=3): 1.9184***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Bush - Satz12: "we see millions of hard-working men and women condemned to fear and insecurity in a massive, undocumented economy."
+***Cosine Similarity: 0.3628, Euklidische Distanz: 19.9510, Manhattan-Distanz: 70.4743, Minkowski-Distanz (p=3): 1.9321***
+
+Hitler - Satz6: "); the fatherland, because it was held to be an instrument in the hands of the bourgeoisie for the exploitation of the working classes; the authority of the law, because that was a means of oppressing the proletariat; the school system, as a means of training not only slaves, but also slave-drivers; religion, as a means of doping the people, in order to exploit them afterwards; morality, as the badge of stupid and sheepish docility."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.3624, Euklidische Distanz: 14.1411, Manhattan-Distanz: 59.3307, Minkowski-Distanz (p=3): 1.6050***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3623, Euklidische Distanz: 17.9790, Manhattan-Distanz: 65.2460, Minkowski-Distanz (p=3): 1.8491***
+
+Hitler - Satz40: "these movements, parties, religious groups, etc., originate entirely independently of one another out of the general urge of the age, and all witha view to working towards the same goal."
+Bush - Satz28: "in this time of change, government must take the side of working families."
+***Cosine Similarity: 0.3623, Euklidische Distanz: 14.4877, Manhattan-Distanz: 59.9232, Minkowski-Distanz (p=3): 1.6359***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Bush - Satz71: "these developments have placed a heavy burden on hardworking people around the world."
+***Cosine Similarity: 0.3619, Euklidische Distanz: 19.9595, Manhattan-Distanz: 70.1251, Minkowski-Distanz (p=3): 1.9379***
+
+Hitler - Satz3: "having once understood the working of the colossal system for poisoning the popular mind, only a fool could blame the victims of it."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3617, Euklidische Distanz: 23.6062, Manhattan-Distanz: 74.5808, Minkowski-Distanz (p=3): 2.1354***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz40: "our nation, working with allies and friends, has also confronted the enemy abroad, with measures that are determined, successful, and continuing."
+***Cosine Similarity: 0.3607, Euklidische Distanz: 22.6934, Manhattan-Distanz: 75.6166, Minkowski-Distanz (p=3): 2.0452***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Bush - Satz2: "ladies and gentlemen, some may deny the surge is working, but among the terrorists there is no doubt."
+***Cosine Similarity: 0.3599, Euklidische Distanz: 22.3720, Manhattan-Distanz: 74.3762, Minkowski-Distanz (p=3): 2.0254***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3591, Euklidische Distanz: 15.7517, Manhattan-Distanz: 62.6799, Minkowski-Distanz (p=3): 1.7151***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3579, Euklidische Distanz: 18.0189, Manhattan-Distanz: 65.8515, Minkowski-Distanz (p=3): 1.8428***
+
+Hitler - Satz22: "at one stroke, in the august of , all the empty nonsense about international solidarity was knocked out of the heads of the german working classes."
+Bush - Satz32: "we have seen the state of our union in the endurance of rescuers, working past exhaustion."
+***Cosine Similarity: 0.3567, Euklidische Distanz: 21.8950, Manhattan-Distanz: 72.8756, Minkowski-Distanz (p=3): 2.0382***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Bush - Satz17: "it's tough for a lot of working people out there."
+***Cosine Similarity: 0.3567, Euklidische Distanz: 19.9587, Manhattan-Distanz: 70.0497, Minkowski-Distanz (p=3): 1.9227***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz38: "i'm supportive of the president-elect working out a plan with congress that best suits him -- and congress."
+***Cosine Similarity: 0.3566, Euklidische Distanz: 22.7339, Manhattan-Distanz: 75.2120, Minkowski-Distanz (p=3): 2.0564***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3565, Euklidische Distanz: 17.0011, Manhattan-Distanz: 64.6944, Minkowski-Distanz (p=3): 1.7940***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Bush - Satz17: "it's tough for a lot of working people out there."
+***Cosine Similarity: 0.3559, Euklidische Distanz: 22.4121, Manhattan-Distanz: 74.1492, Minkowski-Distanz (p=3): 2.0249***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3553, Euklidische Distanz: 25.7932, Manhattan-Distanz: 76.1870, Minkowski-Distanz (p=3): 2.2629***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Bush - Satz73: "with us today are 15 of the many families i met as i toured our country making the case for tax relief—hard-working americans."
+***Cosine Similarity: 0.3544, Euklidische Distanz: 25.1583, Manhattan-Distanz: 78.2582, Minkowski-Distanz (p=3): 2.1742***
+
+Hitler - Satz18: "therefore, although under the older system a working day of fourteen or even fifteen hours was not unendurable, now it was beyond the limits of human endurance, because under the new system every minute was utilised to the extreme."
+Bush - Satz17: "it's tough for a lot of working people out there."
+***Cosine Similarity: 0.3542, Euklidische Distanz: 18.8036, Manhattan-Distanz: 67.5244, Minkowski-Distanz (p=3): 1.8815***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Bush - Satz37: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3535, Euklidische Distanz: 25.1677, Manhattan-Distanz: 77.8781, Minkowski-Distanz (p=3): 2.1837***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3533, Euklidische Distanz: 27.3454, Manhattan-Distanz: 78.6167, Minkowski-Distanz (p=3): 2.3306***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz90: "we're working with other governments to secure nuclear materials in the former soviet union and to strengthen global treaties banning the production and shipment of missile technologies and weapons of mass destruction."
+***Cosine Similarity: 0.3527, Euklidische Distanz: 22.7733, Manhattan-Distanz: 74.9638, Minkowski-Distanz (p=3): 2.0590***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3524, Euklidische Distanz: 12.4818, Manhattan-Distanz: 53.9539, Minkowski-Distanz (p=3): 1.5567***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3513, Euklidische Distanz: 26.6123, Manhattan-Distanz: 78.0260, Minkowski-Distanz (p=3): 2.2658***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Bush - Satz56: "and working together is the key."
+***Cosine Similarity: 0.3509, Euklidische Distanz: 22.4625, Manhattan-Distanz: 74.9939, Minkowski-Distanz (p=3): 2.0255***
+
+Hitler - Satz39: "if the german trade-unions had defended the interests of the working- classes uncompromisingly during the war; - if, even during the war, they had used the weapon of the strike to force the industrialists (who were greedy for higher dividends) to grant the demands of the workers for whom the unions acted; - if at the same time they had stood up as good germans for the defence of the nation as stoutly as for their own claims; and - if they had given as unstintedly to their country that which was their country’s due—then the war would never have been lost."
+Bush - Satz40: "our nation, working with allies and friends, has also confronted the enemy abroad, with measures that are determined, successful, and continuing."
+***Cosine Similarity: 0.3507, Euklidische Distanz: 17.3280, Manhattan-Distanz: 64.7025, Minkowski-Distanz (p=3): 1.8142***
+
+Hitler - Satz39: "if the german trade-unions had defended the interests of the working- classes uncompromisingly during the war; - if, even during the war, they had used the weapon of the strike to force the industrialists (who were greedy for higher dividends) to grant the demands of the workers for whom the unions acted; - if at the same time they had stood up as good germans for the defence of the nation as stoutly as for their own claims; and - if they had given as unstintedly to their country that which was their country’s due—then the war would never have been lost."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3505, Euklidische Distanz: 17.3301, Manhattan-Distanz: 64.5123, Minkowski-Distanz (p=3): 1.8229***
+
+Hitler - Satz23: "that is the way in which the jew endeavoured to gain the confidence of the working class."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3504, Euklidische Distanz: 27.7486, Manhattan-Distanz: 82.6936, Minkowski-Distanz (p=3): 2.2821***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.3503, Euklidische Distanz: 15.3007, Manhattan-Distanz: 61.8493, Minkowski-Distanz (p=3): 1.6868***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz92: "the point man in my administration on this issue was secretary tommy thompson, and he and his team did a fabulous job of working with the congress to get this important piece of legislation passed."
+***Cosine Similarity: 0.3501, Euklidische Distanz: 22.7994, Manhattan-Distanz: 74.6065, Minkowski-Distanz (p=3): 2.0620***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.3490, Euklidische Distanz: 22.8107, Manhattan-Distanz: 75.0928, Minkowski-Distanz (p=3): 2.0579***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Bush - Satz81: "america, our coalition, and iraqi leaders are working toward the same goal -- a democratic iraq that can defend itself, that will never again be a safe haven for terrorists, and that will serve as a model of freedom for the middle east."
+***Cosine Similarity: 0.3489, Euklidische Distanz: 15.8380, Manhattan-Distanz: 62.0702, Minkowski-Distanz (p=3): 1.7415***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3488, Euklidische Distanz: 23.3077, Manhattan-Distanz: 73.5562, Minkowski-Distanz (p=3): 2.1163***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Bush - Satz19: "even when these nations have vast natural resources, they do not respect or develop their greatest resources -- the talent and energy of men and women working and living in freedom."
+***Cosine Similarity: 0.3488, Euklidische Distanz: 20.0833, Manhattan-Distanz: 70.2881, Minkowski-Distanz (p=3): 1.9354***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3483, Euklidische Distanz: 27.4011, Manhattan-Distanz: 78.8567, Minkowski-Distanz (p=3): 2.3268***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Bush - Satz22: "and we will reduce taxes, to recover the momentum of our economy and reward the effort and enterprise of working americans."
+***Cosine Similarity: 0.3479, Euklidische Distanz: 15.8464, Manhattan-Distanz: 62.8942, Minkowski-Distanz (p=3): 1.7386***
+
+Hitler - Satz8: "that its avowed purpose was to raise the level of the working classes (which, in my ignorance, i then foolishly believed) was a further point in favour of social democracy rather than against it,) but the feature that contributed most to estrange me from the social democratic movement was its hostile attitude towards the struggle for the preservation of germanism in austria and its undignified wooing of the slav ‘comrades,’ who received these approaches favourably as long as any, practical advantages  were forthcoming, but otherwise maintained a haughty reserve, thus giving the suitors the answer their behaviour deserved."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3473, Euklidische Distanz: 13.1288, Manhattan-Distanz: 57.3055, Minkowski-Distanz (p=3): 1.5664***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.3459, Euklidische Distanz: 12.6477, Manhattan-Distanz: 55.1648, Minkowski-Distanz (p=3): 1.5489***
+
+Hitler - Satz19: "it cannot be objected here that in other countries similar conditions exist and that nevertheless the working classes in those countries have remained patriotic."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.3454, Euklidische Distanz: 24.6985, Manhattan-Distanz: 78.7468, Minkowski-Distanz (p=3): 2.1436***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3445, Euklidische Distanz: 15.3487, Manhattan-Distanz: 62.8104, Minkowski-Distanz (p=3): 1.6775***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3444, Euklidische Distanz: 12.5420, Manhattan-Distanz: 54.1431, Minkowski-Distanz (p=3): 1.5525***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz41: "america is working with russia and china and india, in ways we have never before, to achieve peace and prosperity."
+***Cosine Similarity: 0.3437, Euklidische Distanz: 22.8641, Manhattan-Distanz: 75.7225, Minkowski-Distanz (p=3): 2.0576***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3434, Euklidische Distanz: 26.6973, Manhattan-Distanz: 77.7718, Minkowski-Distanz (p=3): 2.2743***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Bush - Satz71: "these developments have placed a heavy burden on hardworking people around the world."
+***Cosine Similarity: 0.3428, Euklidische Distanz: 14.5711, Manhattan-Distanz: 57.9985, Minkowski-Distanz (p=3): 1.6877***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Bush - Satz44: "our greatest advantage in the world has always been our educated, hard-working, ambitious people."
+***Cosine Similarity: 0.3414, Euklidische Distanz: 20.1030, Manhattan-Distanz: 70.1446, Minkowski-Distanz (p=3): 1.9390***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz57: "and we're working closely with iraqi citizens as they prepare a constitution, as they move toward free elections and take increasing responsibility for their own affairs."
+***Cosine Similarity: 0.3413, Euklidische Distanz: 22.8880, Manhattan-Distanz: 75.1633, Minkowski-Distanz (p=3): 2.0630***
+
+Hitler - Satz30: "the leaders recognised the value of propaganda on a large scale and they were veritable virtuosos in working up the spiritual instincts of the broad masses of their adherents."
+Bush - Satz71: "these developments have placed a heavy burden on hardworking people around the world."
+***Cosine Similarity: 0.3409, Euklidische Distanz: 17.2293, Manhattan-Distanz: 65.8298, Minkowski-Distanz (p=3): 1.7754***
+
+Hitler - Satz19: "it cannot be objected here that in other countries similar conditions exist and that nevertheless the working classes in those countries have remained patriotic."
+Bush - Satz53: "decent, hard-working people will now be protected by labor laws, with the right to change jobs, earn fair wages, and enjoy the same working conditions that the law requires for american workers."
+***Cosine Similarity: 0.3403, Euklidische Distanz: 24.7517, Manhattan-Distanz: 79.8088, Minkowski-Distanz (p=3): 2.1219***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3400, Euklidische Distanz: 13.8488, Manhattan-Distanz: 58.8800, Minkowski-Distanz (p=3): 1.6026***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Bush - Satz12: "we see millions of hard-working men and women condemned to fear and insecurity in a massive, undocumented economy."
+***Cosine Similarity: 0.3394, Euklidische Distanz: 12.6968, Manhattan-Distanz: 55.7188, Minkowski-Distanz (p=3): 1.5523***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Bush - Satz93: "we can begin by working together to increase the size of the active army and marine corps, so that america has the armed forces we need for the 21st century."
+***Cosine Similarity: 0.3388, Euklidische Distanz: 20.8267, Manhattan-Distanz: 71.6437, Minkowski-Distanz (p=3): 1.9733***
+
+Hitler - Satz8: "that its avowed purpose was to raise the level of the working classes (which, in my ignorance, i then foolishly believed) was a further point in favour of social democracy rather than against it,) but the feature that contributed most to estrange me from the social democratic movement was its hostile attitude towards the struggle for the preservation of germanism in austria and its undignified wooing of the slav ‘comrades,’ who received these approaches favourably as long as any, practical advantages  were forthcoming, but otherwise maintained a haughty reserve, thus giving the suitors the answer their behaviour deserved."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3380, Euklidische Distanz: 13.1999, Manhattan-Distanz: 57.0170, Minkowski-Distanz (p=3): 1.5614***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3380, Euklidische Distanz: 22.5915, Manhattan-Distanz: 75.1546, Minkowski-Distanz (p=3): 2.0293***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Bush - Satz51: "by working hard for a better life, immigrants contribute to the life of our nation."
+***Cosine Similarity: 0.3379, Euklidische Distanz: 13.8647, Manhattan-Distanz: 59.6104, Minkowski-Distanz (p=3): 1.5828***
+
+Hitler - Satz6: "); the fatherland, because it was held to be an instrument in the hands of the bourgeoisie for the exploitation of the working classes; the authority of the law, because that was a means of oppressing the proletariat; the school system, as a means of training not only slaves, but also slave-drivers; religion, as a means of doping the people, in order to exploit them afterwards; morality, as the badge of stupid and sheepish docility."
+Bush - Satz19: "even when these nations have vast natural resources, they do not respect or develop their greatest resources -- the talent and energy of men and women working and living in freedom."
+***Cosine Similarity: 0.3374, Euklidische Distanz: 14.3411, Manhattan-Distanz: 58.5145, Minkowski-Distanz (p=3): 1.6313***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Bush - Satz19: "even when these nations have vast natural resources, they do not respect or develop their greatest resources -- the talent and energy of men and women working and living in freedom."
+***Cosine Similarity: 0.3371, Euklidische Distanz: 15.4100, Manhattan-Distanz: 62.1134, Minkowski-Distanz (p=3): 1.6883***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Bush - Satz53: "decent, hard-working people will now be protected by labor laws, with the right to change jobs, earn fair wages, and enjoy the same working conditions that the law requires for american workers."
+***Cosine Similarity: 0.3369, Euklidische Distanz: 15.4117, Manhattan-Distanz: 62.5536, Minkowski-Distanz (p=3): 1.6855***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3367, Euklidische Distanz: 15.4135, Manhattan-Distanz: 62.0867, Minkowski-Distanz (p=3): 1.6803***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Bush - Satz70: "my economic advisors believe that such a collapse would deal an unacceptably painful blow to hardworking americans far beyond the auto industry."
+***Cosine Similarity: 0.3366, Euklidische Distanz: 22.7751, Manhattan-Distanz: 73.5118, Minkowski-Distanz (p=3): 2.0978***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3362, Euklidische Distanz: 13.8783, Manhattan-Distanz: 59.2162, Minkowski-Distanz (p=3): 1.5907***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Bush - Satz18: "i remember standing in the rubble of the world trade center three days later, surrounded by rescuers who had been working around the clock."
+***Cosine Similarity: 0.3360, Euklidische Distanz: 27.5357, Manhattan-Distanz: 79.9005, Minkowski-Distanz (p=3): 2.3251***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3349, Euklidische Distanz: 12.6140, Manhattan-Distanz: 54.2064, Minkowski-Distanz (p=3): 1.5611***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.3348, Euklidische Distanz: 17.5936, Manhattan-Distanz: 65.2603, Minkowski-Distanz (p=3): 1.8274***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3347, Euklidische Distanz: 12.7324, Manhattan-Distanz: 55.9609, Minkowski-Distanz (p=3): 1.5490***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Bush - Satz70: "my economic advisors believe that such a collapse would deal an unacceptably painful blow to hardworking americans far beyond the auto industry."
+***Cosine Similarity: 0.3343, Euklidische Distanz: 20.2208, Manhattan-Distanz: 70.4545, Minkowski-Distanz (p=3): 1.9546***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Bush - Satz21: "americans are proving once again to be the hardest working people in the world."
+***Cosine Similarity: 0.3341, Euklidische Distanz: 26.0193, Manhattan-Distanz: 77.9983, Minkowski-Distanz (p=3): 2.2614***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Bush - Satz81: "america, our coalition, and iraqi leaders are working toward the same goal -- a democratic iraq that can defend itself, that will never again be a safe haven for terrorists, and that will serve as a model of freedom for the middle east."
+***Cosine Similarity: 0.3337, Euklidische Distanz: 22.9647, Manhattan-Distanz: 75.4698, Minkowski-Distanz (p=3): 2.0632***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Bush - Satz12: "we see millions of hard-working men and women condemned to fear and insecurity in a massive, undocumented economy."
+***Cosine Similarity: 0.3334, Euklidische Distanz: 22.8074, Manhattan-Distanz: 73.7369, Minkowski-Distanz (p=3): 2.1015***
+
+Hitler - Satz19: "it cannot be objected here that in other countries similar conditions exist and that nevertheless the working classes in those countries have remained patriotic."
+Bush - Satz41: "america is working with russia and china and india, in ways we have never before, to achieve peace and prosperity."
+***Cosine Similarity: 0.3333, Euklidische Distanz: 24.8248, Manhattan-Distanz: 79.7131, Minkowski-Distanz (p=3): 2.1329***
+
+Hitler - Satz23: "that is the way in which the jew endeavoured to gain the confidence of the working class."
+Bush - Satz53: "decent, hard-working people will now be protected by labor laws, with the right to change jobs, earn fair wages, and enjoy the same working conditions that the law requires for american workers."
+***Cosine Similarity: 0.3327, Euklidische Distanz: 27.9446, Manhattan-Distanz: 81.9153, Minkowski-Distanz (p=3): 2.2983***
+
+Hitler - Satz19: "it cannot be objected here that in other countries similar conditions exist and that nevertheless the working classes in those countries have remained patriotic."
+Bush - Satz20: "my temporary worker program will preserve the citizenship path for those who respect the law while bringing millions of hard-working men and women out from the shadows of american life."
+***Cosine Similarity: 0.3326, Euklidische Distanz: 24.8321, Manhattan-Distanz: 79.4492, Minkowski-Distanz (p=3): 2.1381***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3322, Euklidische Distanz: 14.6568, Manhattan-Distanz: 59.1576, Minkowski-Distanz (p=3): 1.6703***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3321, Euklidische Distanz: 12.9614, Manhattan-Distanz: 55.2625, Minkowski-Distanz (p=3): 1.5882***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Bush - Satz17: "it's tough for a lot of working people out there."
+***Cosine Similarity: 0.3312, Euklidische Distanz: 12.6415, Manhattan-Distanz: 55.0409, Minkowski-Distanz (p=3): 1.5448***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3306, Euklidische Distanz: 22.8355, Manhattan-Distanz: 74.1265, Minkowski-Distanz (p=3): 2.0973***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3303, Euklidische Distanz: 15.4660, Manhattan-Distanz: 62.5233, Minkowski-Distanz (p=3): 1.6879***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Bush - Satz33: "and for every terrorist working to stop freedom in iraq, there are many more iraqis and americans working to defeat them."
+***Cosine Similarity: 0.3303, Euklidische Distanz: 22.8385, Manhattan-Distanz: 74.0806, Minkowski-Distanz (p=3): 2.0856***
+
+Hitler - Satz10: "that group of people is the german working-class."
+Bush - Satz78: "today, our coalition is working with the iraqi governing council to draft a basic law with a bill of rights."
+***Cosine Similarity: 0.3300, Euklidische Distanz: 36.8166, Manhattan-Distanz: 92.3083, Minkowski-Distanz (p=3): 2.6918***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Bush - Satz20: "my temporary worker program will preserve the citizenship path for those who respect the law while bringing millions of hard-working men and women out from the shadows of american life."
+***Cosine Similarity: 0.3299, Euklidische Distanz: 26.8437, Manhattan-Distanz: 78.7105, Minkowski-Distanz (p=3): 2.2806***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Bush - Satz21: "americans are proving once again to be the hardest working people in the world."
+***Cosine Similarity: 0.3299, Euklidische Distanz: 12.7685, Manhattan-Distanz: 56.0166, Minkowski-Distanz (p=3): 1.5430***
+
+Hitler - Satz41: "the country lad who migrates to the big city feels attracted by what has been described as easy work (which it may be in reality) and shorter working hours and especially by the magic glamour of the big city."
+Bush - Satz21: "americans are proving once again to be the hardest working people in the world."
+***Cosine Similarity: 0.3290, Euklidische Distanz: 18.1025, Manhattan-Distanz: 65.6401, Minkowski-Distanz (p=3): 1.8572***
+
+Hitler - Satz18: "therefore, although under the older system a working day of fourteen or even fifteen hours was not unendurable, now it was beyond the limits of human endurance, because under the new system every minute was utilised to the extreme."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3287, Euklidische Distanz: 19.0380, Manhattan-Distanz: 67.9828, Minkowski-Distanz (p=3): 1.8877***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Bush - Satz2: "ladies and gentlemen, some may deny the surge is working, but among the terrorists there is no doubt."
+***Cosine Similarity: 0.3281, Euklidische Distanz: 15.4845, Manhattan-Distanz: 62.7735, Minkowski-Distanz (p=3): 1.6897***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Bush - Satz40: "our nation, working with allies and friends, has also confronted the enemy abroad, with measures that are determined, successful, and continuing."
+***Cosine Similarity: 0.3276, Euklidische Distanz: 20.9339, Manhattan-Distanz: 71.5531, Minkowski-Distanz (p=3): 1.9871***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Bush - Satz22: "and we will reduce taxes, to recover the momentum of our economy and reward the effort and enterprise of working americans."
+***Cosine Similarity: 0.3270, Euklidische Distanz: 26.8756, Manhattan-Distanz: 78.2615, Minkowski-Distanz (p=3): 2.2835***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Bush - Satz37: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3270, Euklidische Distanz: 26.8757, Manhattan-Distanz: 78.5269, Minkowski-Distanz (p=3): 2.2775***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Bush - Satz32: "we have seen the state of our union in the endurance of rescuers, working past exhaustion."
+***Cosine Similarity: 0.3268, Euklidische Distanz: 26.0973, Manhattan-Distanz: 78.0170, Minkowski-Distanz (p=3): 2.2660***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Bush - Satz39: "our soldiers, working with the bosnian government, seized terrorists who were plotting to bomb our embassy."
+***Cosine Similarity: 0.3266, Euklidische Distanz: 12.7934, Manhattan-Distanz: 55.1957, Minkowski-Distanz (p=3): 1.5681***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Bush - Satz2: "ladies and gentlemen, some may deny the surge is working, but among the terrorists there is no doubt."
+***Cosine Similarity: 0.3265, Euklidische Distanz: 14.7033, Manhattan-Distanz: 58.6956, Minkowski-Distanz (p=3): 1.6884***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3264, Euklidische Distanz: 13.0053, Manhattan-Distanz: 55.3509, Minkowski-Distanz (p=3): 1.5910***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Bush - Satz56: "and working together is the key."
+***Cosine Similarity: 0.3263, Euklidische Distanz: 20.2460, Manhattan-Distanz: 70.1251, Minkowski-Distanz (p=3): 1.9472***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Bush - Satz20: "my temporary worker program will preserve the citizenship path for those who respect the law while bringing millions of hard-working men and women out from the shadows of american life."
+***Cosine Similarity: 0.3261, Euklidische Distanz: 20.2476, Manhattan-Distanz: 70.5588, Minkowski-Distanz (p=3): 1.9401***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Bush - Satz70: "my economic advisors believe that such a collapse would deal an unacceptably painful blow to hardworking americans far beyond the auto industry."
+***Cosine Similarity: 0.3260, Euklidische Distanz: 13.0077, Manhattan-Distanz: 56.2606, Minkowski-Distanz (p=3): 1.5725***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Bush - Satz23: "and working democracies always need time to develop -- as did our own."
+***Cosine Similarity: 0.3259, Euklidische Distanz: 25.8435, Manhattan-Distanz: 79.6502, Minkowski-Distanz (p=3): 2.1922***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Bush - Satz20: "my temporary worker program will preserve the citizenship path for those who respect the law while bringing millions of hard-working men and women out from the shadows of american life."
+***Cosine Similarity: 0.3259, Euklidische Distanz: 22.7118, Manhattan-Distanz: 74.4754, Minkowski-Distanz (p=3): 2.0504***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3256, Euklidische Distanz: 13.0113, Manhattan-Distanz: 56.8825, Minkowski-Distanz (p=3): 1.5643***
+
+Hitler - Satz19: "it cannot be objected here that in other countries similar conditions exist and that nevertheless the working classes in those countries have remained patriotic."
+Bush - Satz26: "in iraq, the coalition provisional authority and the iraqi governing council are also working together to build a democracy -- and after three decades of tyranny, this work is not easy."
+***Cosine Similarity: 0.3255, Euklidische Distanz: 24.9062, Manhattan-Distanz: 78.9835, Minkowski-Distanz (p=3): 2.1501***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Bush - Satz51: "by working hard for a better life, immigrants contribute to the life of our nation."
+***Cosine Similarity: 0.3251, Euklidische Distanz: 26.8957, Manhattan-Distanz: 78.4184, Minkowski-Distanz (p=3): 2.2873***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Bush - Satz48: "the surge is working."
+***Cosine Similarity: 0.3249, Euklidische Distanz: 22.7219, Manhattan-Distanz: 75.0309, Minkowski-Distanz (p=3): 2.0393***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3243, Euklidische Distanz: 26.9043, Manhattan-Distanz: 78.6516, Minkowski-Distanz (p=3): 2.2804***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.3242, Euklidische Distanz: 26.9059, Manhattan-Distanz: 78.0929, Minkowski-Distanz (p=3): 2.2868***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Bush - Satz81: "america, our coalition, and iraqi leaders are working toward the same goal -- a democratic iraq that can defend itself, that will never again be a safe haven for terrorists, and that will serve as a model of freedom for the middle east."
+***Cosine Similarity: 0.3240, Euklidische Distanz: 13.9745, Manhattan-Distanz: 57.8133, Minkowski-Distanz (p=3): 1.6291***
+
+Hitler - Satz18: "therefore, although under the older system a working day of fourteen or even fifteen hours was not unendurable, now it was beyond the limits of human endurance, because under the new system every minute was utilised to the extreme."
+Bush - Satz8: "most begin their working lives in america by taking hard jobs and clocking long hours in important industries."
+***Cosine Similarity: 0.3238, Euklidische Distanz: 19.0826, Manhattan-Distanz: 68.3848, Minkowski-Distanz (p=3): 1.8917***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Bush - Satz12: "we see millions of hard-working men and women condemned to fear and insecurity in a massive, undocumented economy."
+***Cosine Similarity: 0.3224, Euklidische Distanz: 20.2829, Manhattan-Distanz: 70.3015, Minkowski-Distanz (p=3): 1.9424***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Bush - Satz74: "first, we're working toward a common understanding of the causes behind the global crisis."
+***Cosine Similarity: 0.3223, Euklidische Distanz: 13.9881, Manhattan-Distanz: 58.9119, Minkowski-Distanz (p=3): 1.6041***
+
+Hitler - Satz22: "at one stroke, in the august of , all the empty nonsense about international solidarity was knocked out of the heads of the german working classes."
+Bush - Satz39: "our soldiers, working with the bosnian government, seized terrorists who were plotting to bomb our embassy."
+***Cosine Similarity: 0.3222, Euklidische Distanz: 22.2359, Manhattan-Distanz: 72.7901, Minkowski-Distanz (p=3): 2.0600***
+
+Hitler - Satz16: "on innumerable occasions the bourgeoisie took a definite stand against even the most legitimate human demands of the working classes."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3221, Euklidische Distanz: 21.3166, Manhattan-Distanz: 72.1708, Minkowski-Distanz (p=3): 2.0161***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Bush - Satz69: "i appreciate -- i do appreciate working with you."
+***Cosine Similarity: 0.3219, Euklidische Distanz: 25.8862, Manhattan-Distanz: 80.1016, Minkowski-Distanz (p=3): 2.1964***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Bush - Satz21: "americans are proving once again to be the hardest working people in the world."
+***Cosine Similarity: 0.3216, Euklidische Distanz: 13.9933, Manhattan-Distanz: 59.4936, Minkowski-Distanz (p=3): 1.5980***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Bush - Satz56: "and working together is the key."
+***Cosine Similarity: 0.3206, Euklidische Distanz: 25.9007, Manhattan-Distanz: 79.5627, Minkowski-Distanz (p=3): 2.2002***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Bush - Satz40: "our nation, working with allies and friends, has also confronted the enemy abroad, with measures that are determined, successful, and continuing."
+***Cosine Similarity: 0.3205, Euklidische Distanz: 22.7662, Manhattan-Distanz: 74.5751, Minkowski-Distanz (p=3): 2.0536***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Bush - Satz12: "we see millions of hard-working men and women condemned to fear and insecurity in a massive, undocumented economy."
+***Cosine Similarity: 0.3192, Euklidische Distanz: 21.0144, Manhattan-Distanz: 71.2991, Minkowski-Distanz (p=3): 1.9924***
+
+Hitler - Satz16: "on innumerable occasions the bourgeoisie took a definite stand against even the most legitimate human demands of the working classes."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.3182, Euklidische Distanz: 21.3544, Manhattan-Distanz: 72.0622, Minkowski-Distanz (p=3): 2.0229***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Bush - Satz59: "police and firefighters, air marshals, researchers, and so many others are working every day to make our homeland safer, and we thank them all."
+***Cosine Similarity: 0.3181, Euklidische Distanz: 20.3231, Manhattan-Distanz: 70.9497, Minkowski-Distanz (p=3): 1.9422***
+
+Hitler - Satz39: "if the german trade-unions had defended the interests of the working- classes uncompromisingly during the war; - if, even during the war, they had used the weapon of the strike to force the industrialists (who were greedy for higher dividends) to grant the demands of the workers for whom the unions acted; - if at the same time they had stood up as good germans for the defence of the nation as stoutly as for their own claims; and - if they had given as unstintedly to their country that which was their country’s due—then the war would never have been lost."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.3171, Euklidische Distanz: 17.6242, Manhattan-Distanz: 65.4556, Minkowski-Distanz (p=3): 1.8277***
+
+Hitler - Satz8: "that its avowed purpose was to raise the level of the working classes (which, in my ignorance, i then foolishly believed) was a further point in favour of social democracy rather than against it,) but the feature that contributed most to estrange me from the social democratic movement was its hostile attitude towards the struggle for the preservation of germanism in austria and its undignified wooing of the slav ‘comrades,’ who received these approaches favourably as long as any, practical advantages  were forthcoming, but otherwise maintained a haughty reserve, thus giving the suitors the answer their behaviour deserved."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.3170, Euklidische Distanz: 13.3617, Manhattan-Distanz: 57.9347, Minkowski-Distanz (p=3): 1.5697***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.3170, Euklidische Distanz: 20.3845, Manhattan-Distanz: 69.7744, Minkowski-Distanz (p=3): 1.9640***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Bush - Satz26: "in iraq, the coalition provisional authority and the iraqi governing council are also working together to build a democracy -- and after three decades of tyranny, this work is not easy."
+***Cosine Similarity: 0.3168, Euklidische Distanz: 17.7527, Manhattan-Distanz: 65.1155, Minkowski-Distanz (p=3): 1.8360***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Bush - Satz28: "in this time of change, government must take the side of working families."
+***Cosine Similarity: 0.3167, Euklidische Distanz: 26.9868, Manhattan-Distanz: 78.8762, Minkowski-Distanz (p=3): 2.2863***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3165, Euklidische Distanz: 17.7549, Manhattan-Distanz: 65.4876, Minkowski-Distanz (p=3): 1.8288***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Bush - Satz87: "and, therefore, we need to work together to come up with a practical solution to this problem, and i know people in congress are working hard on this issue."
+***Cosine Similarity: 0.3159, Euklidische Distanz: 25.5651, Manhattan-Distanz: 78.9423, Minkowski-Distanz (p=3): 2.1912***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Bush - Satz87: "and, therefore, we need to work together to come up with a practical solution to this problem, and i know people in congress are working hard on this issue."
+***Cosine Similarity: 0.3155, Euklidische Distanz: 22.8160, Manhattan-Distanz: 75.0407, Minkowski-Distanz (p=3): 2.0511***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Bush - Satz71: "these developments have placed a heavy burden on hardworking people around the world."
+***Cosine Similarity: 0.3154, Euklidische Distanz: 27.7626, Manhattan-Distanz: 79.9172, Minkowski-Distanz (p=3): 2.3425***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Bush - Satz30: "for hard-working lower income families, we have cut the bottom rate of federal income tax from 15 percent to 10 percent."
+***Cosine Similarity: 0.3151, Euklidische Distanz: 22.9903, Manhattan-Distanz: 74.3609, Minkowski-Distanz (p=3): 2.1110***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Bush - Satz67: "these are very tough times for hardworking families, but the toll would be far worse if we had not acted."
+***Cosine Similarity: 0.3150, Euklidische Distanz: 12.8810, Manhattan-Distanz: 55.8803, Minkowski-Distanz (p=3): 1.5588***
+
+Hitler - Satz10: "that group of people is the german working-class."
+Bush - Satz17: "it's tough for a lot of working people out there."
+***Cosine Similarity: 0.3147, Euklidische Distanz: 37.0100, Manhattan-Distanz: 92.0106, Minkowski-Distanz (p=3): 2.6889***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Bush - Satz53: "decent, hard-working people will now be protected by labor laws, with the right to change jobs, earn fair wages, and enjoy the same working conditions that the law requires for american workers."
+***Cosine Similarity: 0.3145, Euklidische Distanz: 20.3574, Manhattan-Distanz: 71.1153, Minkowski-Distanz (p=3): 1.9388***
+
+Hitler - Satz24: "the bavarian did not see the berlin of four million industrious and efficient working people, but only the lazy and decadent berlin which haunts the worst quarters of the west end, and yet antipathy was not directed against the west end of berlin but against the ‘prussian’ city."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.3144, Euklidische Distanz: 20.2830, Manhattan-Distanz: 70.5012, Minkowski-Distanz (p=3): 1.9424***
+
+Hitler - Satz10: "that group of people is the german working-class."
+Bush - Satz32: "we have seen the state of our union in the endurance of rescuers, working past exhaustion."
+***Cosine Similarity: 0.3142, Euklidische Distanz: 37.0162, Manhattan-Distanz: 91.7460, Minkowski-Distanz (p=3): 2.6992***
+
+Hitler - Satz15: "on the contrary, the persistent economic depression of that period and the constant want and misery strengthened his resolution to give up working at a trade and strive for ‘something higher.’ as a boy it had seemed to him that the position of the parish priest in his native village was the highest in the scale of human attainment, but now that the big city had enlarged his outlook the young man looked up to the dignity of a state official as the highest of all."
+Bush - Satz44: "our greatest advantage in the world has always been our educated, hard-working, ambitious people."
+***Cosine Similarity: 0.3136, Euklidische Distanz: 14.2363, Manhattan-Distanz: 59.4066, Minkowski-Distanz (p=3): 1.6239***
+
+Hitler - Satz25: "at that time my lot in life seemed to me a harsh one; but to-day i see in it the wise workings of providence."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3129, Euklidische Distanz: 17.7093, Manhattan-Distanz: 66.5953, Minkowski-Distanz (p=3): 1.8013***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Bush - Satz11: "the imf and world bank are working to ensure that developing nations can weather this crisis."
+***Cosine Similarity: 0.3127, Euklidische Distanz: 21.0772, Manhattan-Distanz: 71.7629, Minkowski-Distanz (p=3): 1.9895***
+
+Hitler - Satz23: "that is the way in which the jew endeavoured to gain the confidence of the working class."
+Bush - Satz44: "our greatest advantage in the world has always been our educated, hard-working, ambitious people."
+***Cosine Similarity: 0.3121, Euklidische Distanz: 28.1728, Manhattan-Distanz: 82.3885, Minkowski-Distanz (p=3): 2.3044***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Bush - Satz86: "you're outdoors, you're working with good people, and you're making a solid contribution to the united states of america."
+***Cosine Similarity: 0.3120, Euklidische Distanz: 22.8506, Manhattan-Distanz: 75.2724, Minkowski-Distanz (p=3): 2.0494***
+
+Hitler - Satz41: "the country lad who migrates to the big city feels attracted by what has been described as easy work (which it may be in reality) and shorter working hours and especially by the magic glamour of the big city."
+Bush - Satz86: "you're outdoors, you're working with good people, and you're making a solid contribution to the united states of america."
+***Cosine Similarity: 0.3120, Euklidische Distanz: 18.2554, Manhattan-Distanz: 65.8995, Minkowski-Distanz (p=3): 1.8540***
+
+Hitler - Satz41: "the country lad who migrates to the big city feels attracted by what has been described as easy work (which it may be in reality) and shorter working hours and especially by the magic glamour of the big city."
+Bush - Satz51: "by working hard for a better life, immigrants contribute to the life of our nation."
+***Cosine Similarity: 0.3108, Euklidische Distanz: 18.2658, Manhattan-Distanz: 65.5525, Minkowski-Distanz (p=3): 1.8693***
+
+Hitler - Satz38: "the present epoch is working out its own ruin."
+Bush - Satz70: "my economic advisors believe that such a collapse would deal an unacceptably painful blow to hardworking americans far beyond the auto industry."
+***Cosine Similarity: 0.3107, Euklidische Distanz: 36.4407, Manhattan-Distanz: 94.5723, Minkowski-Distanz (p=3): 2.6097***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Bush - Satz37: "i look forward to hearing from them, as well as i look forward to working with the people in this room and the social entrepreneurs all across america who have heard the universal call to love a neighbor like they'd like to be loved themselves; to exist and work hard, not out of the love of money, but out of the love of their fellow human beings."
+***Cosine Similarity: 0.3096, Euklidische Distanz: 14.0880, Manhattan-Distanz: 58.5071, Minkowski-Distanz (p=3): 1.6235***
+
+Hitler - Satz36: "marxism, whose final objective was, is, and will continue to be, the destruction of all non-jewish national states, had to witness in those days of july  how the german working-classes, which it had been ensnaring, were aroused by the national spirit and rapidly ranged themselves on the side of the fatherland."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3091, Euklidische Distanz: 17.4046, Manhattan-Distanz: 64.7943, Minkowski-Distanz (p=3): 1.8061***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Bush - Satz70: "my economic advisors believe that such a collapse would deal an unacceptably painful blow to hardworking americans far beyond the auto industry."
+***Cosine Similarity: 0.3089, Euklidische Distanz: 26.2895, Manhattan-Distanz: 78.2185, Minkowski-Distanz (p=3): 2.2861***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Bush - Satz8: "most begin their working lives in america by taking hard jobs and clocking long hours in important industries."
+***Cosine Similarity: 0.3086, Euklidische Distanz: 26.0286, Manhattan-Distanz: 80.6640, Minkowski-Distanz (p=3): 2.1886***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Bush - Satz3: "by land, by sea, and by air, good people wanting to make a difference deployed to the gulf coast, and they've been working around the clock ever since."
+***Cosine Similarity: 0.3081, Euklidische Distanz: 26.0331, Manhattan-Distanz: 80.4797, Minkowski-Distanz (p=3): 2.1999***
+
+Hitler - Satz16: "on innumerable occasions the bourgeoisie took a definite stand against even the most legitimate human demands of the working classes."
+Bush - Satz53: "decent, hard-working people will now be protected by labor laws, with the right to change jobs, earn fair wages, and enjoy the same working conditions that the law requires for american workers."
+***Cosine Similarity: 0.3075, Euklidische Distanz: 21.4576, Manhattan-Distanz: 72.1769, Minkowski-Distanz (p=3): 2.0229***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Bush - Satz22: "and we will reduce taxes, to recover the momentum of our economy and reward the effort and enterprise of working americans."
+***Cosine Similarity: 0.3075, Euklidische Distanz: 23.0664, Manhattan-Distanz: 74.4398, Minkowski-Distanz (p=3): 2.1087***
+
+Hitler - Satz19: "it cannot be objected here that in other countries similar conditions exist and that nevertheless the working classes in those countries have remained patriotic."
+Bush - Satz81: "america, our coalition, and iraqi leaders are working toward the same goal -- a democratic iraq that can defend itself, that will never again be a safe haven for terrorists, and that will serve as a model of freedom for the middle east."
+***Cosine Similarity: 0.3051, Euklidische Distanz: 25.1195, Manhattan-Distanz: 79.4005, Minkowski-Distanz (p=3): 2.1588***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Bush - Satz44: "our greatest advantage in the world has always been our educated, hard-working, ambitious people."
+***Cosine Similarity: 0.3050, Euklidische Distanz: 12.9567, Manhattan-Distanz: 55.7473, Minkowski-Distanz (p=3): 1.5714***
+
+Hitler - Satz36: "marxism, whose final objective was, is, and will continue to be, the destruction of all non-jewish national states, had to witness in those days of july  how the german working-classes, which it had been ensnaring, were aroused by the national spirit and rapidly ranged themselves on the side of the fatherland."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3047, Euklidische Distanz: 17.4433, Manhattan-Distanz: 65.3459, Minkowski-Distanz (p=3): 1.8003***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Bush - Satz71: "these developments have placed a heavy burden on hardworking people around the world."
+***Cosine Similarity: 0.3045, Euklidische Distanz: 18.4997, Manhattan-Distanz: 67.0842, Minkowski-Distanz (p=3): 1.8771***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3044, Euklidische Distanz: 18.5001, Manhattan-Distanz: 66.3827, Minkowski-Distanz (p=3): 1.8699***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Bush - Satz91: "and i want to thank congress for working on this issue."
+***Cosine Similarity: 0.3044, Euklidische Distanz: 25.6864, Manhattan-Distanz: 79.0228, Minkowski-Distanz (p=3): 2.1912***
+
+Hitler - Satz31: "the reservoir from which the young movement has to draw its members will be first of all the working classes."
+Bush - Satz78: "today, our coalition is working with the iraqi governing council to draft a basic law with a bill of rights."
+***Cosine Similarity: 0.3041, Euklidische Distanz: 26.9218, Manhattan-Distanz: 80.8129, Minkowski-Distanz (p=3): 2.2475***
+
+Hitler - Satz30: "the leaders recognised the value of propaganda on a large scale and they were veritable virtuosos in working up the spiritual instincts of the broad masses of their adherents."
+Bush - Satz19: "even when these nations have vast natural resources, they do not respect or develop their greatest resources -- the talent and energy of men and women working and living in freedom."
+***Cosine Similarity: 0.3037, Euklidische Distanz: 17.5556, Manhattan-Distanz: 66.9060, Minkowski-Distanz (p=3): 1.7862***
+
+Hitler - Satz43: "thus, at the end of a long and hard-working career, he returned to the life which his father had led."
+Bush - Satz68: "instead, by systematically destroying a proud and working society, they left behind suffering and starvation."
+***Cosine Similarity: 0.3035, Euklidische Distanz: 20.9271, Manhattan-Distanz: 71.2166, Minkowski-Distanz (p=3): 1.9682***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Bush - Satz87: "and, therefore, we need to work together to come up with a practical solution to this problem, and i know people in congress are working hard on this issue."
+***Cosine Similarity: 0.3033, Euklidische Distanz: 17.8724, Manhattan-Distanz: 65.7088, Minkowski-Distanz (p=3): 1.8470***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Bush - Satz79: "the tax relief you passed is working."
+***Cosine Similarity: 0.3032, Euklidische Distanz: 25.6989, Manhattan-Distanz: 79.1164, Minkowski-Distanz (p=3): 2.1956***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Bush - Satz90: "we're working with other governments to secure nuclear materials in the former soviet union and to strengthen global treaties banning the production and shipment of missile technologies and weapons of mass destruction."
+***Cosine Similarity: 0.3032, Euklidische Distanz: 21.1686, Manhattan-Distanz: 72.0010, Minkowski-Distanz (p=3): 1.9977***
+
+Hitler - Satz39: "if the german trade-unions had defended the interests of the working- classes uncompromisingly during the war; - if, even during the war, they had used the weapon of the strike to force the industrialists (who were greedy for higher dividends) to grant the demands of the workers for whom the unions acted; - if at the same time they had stood up as good germans for the defence of the nation as stoutly as for their own claims; and - if they had given as unstintedly to their country that which was their country’s due—then the war would never have been lost."
+Bush - Satz81: "america, our coalition, and iraqi leaders are working toward the same goal -- a democratic iraq that can defend itself, that will never again be a safe haven for terrorists, and that will serve as a model of freedom for the middle east."
+***Cosine Similarity: 0.3030, Euklidische Distanz: 17.7487, Manhattan-Distanz: 64.3558, Minkowski-Distanz (p=3): 1.8605***
+
+Hitler - Satz6: "); the fatherland, because it was held to be an instrument in the hands of the bourgeoisie for the exploitation of the working classes; the authority of the law, because that was a means of oppressing the proletariat; the school system, as a means of training not only slaves, but also slave-drivers; religion, as a means of doping the people, in order to exploit them afterwards; morality, as the badge of stupid and sheepish docility."
+Bush - Satz53: "decent, hard-working people will now be protected by labor laws, with the right to change jobs, earn fair wages, and enjoy the same working conditions that the law requires for american workers."
+***Cosine Similarity: 0.3029, Euklidische Distanz: 14.6177, Manhattan-Distanz: 60.5122, Minkowski-Distanz (p=3): 1.6318***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Bush - Satz52: "working for the spread of freedom can be hard."
+***Cosine Similarity: 0.3027, Euklidische Distanz: 23.1152, Manhattan-Distanz: 74.6895, Minkowski-Distanz (p=3): 2.0992***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3026, Euklidische Distanz: 17.8778, Manhattan-Distanz: 65.0307, Minkowski-Distanz (p=3): 1.8489***
+
+Hitler - Satz36: "marxism, whose final objective was, is, and will continue to be, the destruction of all non-jewish national states, had to witness in those days of july  how the german working-classes, which it had been ensnaring, were aroused by the national spirit and rapidly ranged themselves on the side of the fatherland."
+Bush - Satz40: "our nation, working with allies and friends, has also confronted the enemy abroad, with measures that are determined, successful, and continuing."
+***Cosine Similarity: 0.3024, Euklidische Distanz: 17.4634, Manhattan-Distanz: 65.3120, Minkowski-Distanz (p=3): 1.8050***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Bush - Satz82: "you know, one of the very difficult parts of the decision i made on the financial crisis was to use hardworking people's money to help prevent there to be a crisis, and in so doing, some of that money went into wall street firms that caused the crisis in the first place."
+***Cosine Similarity: 0.3017, Euklidische Distanz: 27.9129, Manhattan-Distanz: 79.9274, Minkowski-Distanz (p=3): 2.3493***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Bush - Satz36: "yet there's power, wonder-working power, in the goodness and idealism and faith of the american people."
+***Cosine Similarity: 0.3014, Euklidische Distanz: 20.5322, Manhattan-Distanz: 71.1769, Minkowski-Distanz (p=3): 1.9648***
+
+Hitler - Satz19: "it cannot be objected here that in other countries similar conditions exist and that nevertheless the working classes in those countries have remained patriotic."
+Bush - Satz57: "and we're working closely with iraqi citizens as they prepare a constitution, as they move toward free elections and take increasing responsibility for their own affairs."
+***Cosine Similarity: 0.3011, Euklidische Distanz: 25.1612, Manhattan-Distanz: 79.2700, Minkowski-Distanz (p=3): 2.1690***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Bush - Satz42: "and their strategy of using violence in iraq to cause divisions in america was working as pressures built here in washington for withdrawal before the job was done."
+***Cosine Similarity: 0.3005, Euklidische Distanz: 27.9263, Manhattan-Distanz: 80.0236, Minkowski-Distanz (p=3): 2.3477***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Bush - Satz72: "we should not be content with laws that punish hardworking people who want only to provide for their families, and deny businesses willing workers, and invite chaos at our border."
+***Cosine Similarity: 0.3001, Euklidische Distanz: 13.2056, Manhattan-Distanz: 55.8605, Minkowski-Distanz (p=3): 1.5910***
+
+Hitler - Satz8: "that its avowed purpose was to raise the level of the working classes (which, in my ignorance, i then foolishly believed) was a further point in favour of social democracy rather than against it,) but the feature that contributed most to estrange me from the social democratic movement was its hostile attitude towards the struggle for the preservation of germanism in austria and its undignified wooing of the slav ‘comrades,’ who received these approaches favourably as long as any, practical advantages  were forthcoming, but otherwise maintained a haughty reserve, thus giving the suitors the answer their behaviour deserved."
+Bush - Satz66: "honorable people in both parties are working on reforms to strengthen the ethical standards of washington."
+***Cosine Similarity: 0.3000, Euklidische Distanz: 13.4921, Manhattan-Distanz: 57.8208, Minkowski-Distanz (p=3): 1.5792***
+

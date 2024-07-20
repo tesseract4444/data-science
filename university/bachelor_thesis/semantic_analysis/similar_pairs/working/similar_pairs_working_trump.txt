@@ -1,0 +1,1188 @@
+Gefilterte Sätze mit Cosine Similarity, euklidischer Distanz, Manhattan-Distanz und Minkowski-Distanz (nach Cosine Similarity sortiert):
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Trump - Satz67: "they had two and a half years of economic death because what they were doing wasn’t working."
+***Cosine Similarity: 0.5127, Euklidische Distanz: 25.5926, Manhattan-Distanz: 76.7447, Minkowski-Distanz (p=3): 2.2376***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Trump - Satz191: "i mean, i’m working harder on this one than i have on all six that i did today."
+***Cosine Similarity: 0.5046, Euklidische Distanz: 23.9420, Manhattan-Distanz: 77.2337, Minkowski-Distanz (p=3): 2.1126***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Trump - Satz25: "the task for our movement and our party is to stand up to this destructive agenda with confidence and with result, the future of the republican party is as a party that defends the social economic and cultural interests and values of working american families of every race, color, and creed."
+***Cosine Similarity: 0.4963, Euklidische Distanz: 14.5949, Manhattan-Distanz: 59.9856, Minkowski-Distanz (p=3): 1.6666***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.4953, Euklidische Distanz: 21.0194, Manhattan-Distanz: 71.7434, Minkowski-Distanz (p=3): 1.9656***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Trump - Satz67: "they had two and a half years of economic death because what they were doing wasn’t working."
+***Cosine Similarity: 0.4849, Euklidische Distanz: 24.4065, Manhattan-Distanz: 75.9085, Minkowski-Distanz (p=3): 2.1723***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Trump - Satz183: "this is a job for tens of millions of proud people working together from all across the land and from all walks of life."
+***Cosine Similarity: 0.4764, Euklidische Distanz: 18.8271, Manhattan-Distanz: 68.6768, Minkowski-Distanz (p=3): 1.8607***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Trump - Satz73: "we had great people working for me."
+***Cosine Similarity: 0.4753, Euklidische Distanz: 24.2543, Manhattan-Distanz: 77.1530, Minkowski-Distanz (p=3): 2.1206***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Trump - Satz140: "these are the convictions that define our movement today, and must define the republican party, which has truly become the party of the working man and woman."
+***Cosine Similarity: 0.4746, Euklidische Distanz: 14.7779, Manhattan-Distanz: 60.0964, Minkowski-Distanz (p=3): 1.6773***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.4704, Euklidische Distanz: 25.3192, Manhattan-Distanz: 76.7696, Minkowski-Distanz (p=3): 2.2129***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Trump - Satz38: "and if we can afford to send hundreds of billions of dollars to ukraine, then we can afford to have an auto industry that pays our workers a good living wage and keeps our workers working."
+***Cosine Similarity: 0.4655, Euklidische Distanz: 19.6090, Manhattan-Distanz: 70.0947, Minkowski-Distanz (p=3): 1.9140***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Trump - Satz187: "and they were real unemployment, not like you have today where nobody’s working and they consider it to be."
+***Cosine Similarity: 0.4516, Euklidische Distanz: 24.7628, Manhattan-Distanz: 76.9617, Minkowski-Distanz (p=3): 2.1803***
+
+Hitler - Satz40: "these movements, parties, religious groups, etc., originate entirely independently of one another out of the general urge of the age, and all witha view to working towards the same goal."
+Trump - Satz25: "the task for our movement and our party is to stand up to this destructive agenda with confidence and with result, the future of the republican party is as a party that defends the social economic and cultural interests and values of working american families of every race, color, and creed."
+***Cosine Similarity: 0.4500, Euklidische Distanz: 13.7770, Manhattan-Distanz: 58.1386, Minkowski-Distanz (p=3): 1.6004***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Trump - Satz25: "the task for our movement and our party is to stand up to this destructive agenda with confidence and with result, the future of the republican party is as a party that defends the social economic and cultural interests and values of working american families of every race, color, and creed."
+***Cosine Similarity: 0.4468, Euklidische Distanz: 21.6691, Manhattan-Distanz: 72.1643, Minkowski-Distanz (p=3): 2.0418***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.4430, Euklidische Distanz: 16.2448, Manhattan-Distanz: 63.8981, Minkowski-Distanz (p=3): 1.7354***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.4421, Euklidische Distanz: 15.0523, Manhattan-Distanz: 60.9318, Minkowski-Distanz (p=3): 1.6882***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Trump - Satz8: "before i stepped into the political arena seven years ago, i spent my whole life working alongside of americans just like you, spent a lot of time with you."
+***Cosine Similarity: 0.4353, Euklidische Distanz: 24.3035, Manhattan-Distanz: 76.6726, Minkowski-Distanz (p=3): 2.1299***
+
+Hitler - Satz30: "the leaders recognised the value of propaganda on a large scale and they were veritable virtuosos in working up the spiritual instincts of the broad masses of their adherents."
+Trump - Satz91: "social media has given extraordinary power to a group of big tech giants that are working with government, the mainstream media and a large segment of a political party to silence and suppress the views of the american people and they’ve been very, very successful at that."
+***Cosine Similarity: 0.4341, Euklidische Distanz: 16.4123, Manhattan-Distanz: 64.2109, Minkowski-Distanz (p=3): 1.7425***
+
+Hitler - Satz41: "the country lad who migrates to the big city feels attracted by what has been described as easy work (which it may be in reality) and shorter working hours and especially by the magic glamour of the big city."
+Trump - Satz196: "you see how that’s working in new york city, right?"
+***Cosine Similarity: 0.4325, Euklidische Distanz: 17.1758, Manhattan-Distanz: 64.5542, Minkowski-Distanz (p=3): 1.7946***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Trump - Satz37: "or if the media did its job, which they don’t, they’re callous indifference to working family is equally clear when it comes to the critical matter of getting america’s children back to school."
+***Cosine Similarity: 0.4300, Euklidische Distanz: 13.8661, Manhattan-Distanz: 56.6943, Minkowski-Distanz (p=3): 1.6620***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Trump - Satz50: "that’s what happened to our workers in this country and that’s why we came up with numbers the likes of which … we had 160 million people working, there’s never been anything like it."
+***Cosine Similarity: 0.4286, Euklidische Distanz: 25.0090, Manhattan-Distanz: 77.3564, Minkowski-Distanz (p=3): 2.2020***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Trump - Satz37: "or if the media did its job, which they don’t, they’re callous indifference to working family is equally clear when it comes to the critical matter of getting america’s children back to school."
+***Cosine Similarity: 0.4236, Euklidische Distanz: 16.8081, Manhattan-Distanz: 64.1893, Minkowski-Distanz (p=3): 1.7810***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Trump - Satz72: "throughout the democrat effort to dramatically expand mail-in voting, the democrat party leaders were also, feverishly working to block measures, designed to protect against fraud, such as signature verification, residency verification, or voter id."
+***Cosine Similarity: 0.4228, Euklidische Distanz: 15.2150, Manhattan-Distanz: 62.0528, Minkowski-Distanz (p=3): 1.6729***
+
+Hitler - Satz16: "on innumerable occasions the bourgeoisie took a definite stand against even the most legitimate human demands of the working classes."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.4203, Euklidische Distanz: 20.3663, Manhattan-Distanz: 70.1211, Minkowski-Distanz (p=3): 1.9769***
+
+Hitler - Satz40: "these movements, parties, religious groups, etc., originate entirely independently of one another out of the general urge of the age, and all witha view to working towards the same goal."
+Trump - Satz140: "these are the convictions that define our movement today, and must define the republican party, which has truly become the party of the working man and woman."
+***Cosine Similarity: 0.4185, Euklidische Distanz: 14.0324, Manhattan-Distanz: 58.6608, Minkowski-Distanz (p=3): 1.6149***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Trump - Satz127: "but the inner workings of the us… very, very difficult."
+***Cosine Similarity: 0.4159, Euklidische Distanz: 11.7936, Manhattan-Distanz: 53.9322, Minkowski-Distanz (p=3): 1.4715***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Trump - Satz20: "we fired close to 9,000 people working in the va who were sadists, who were thieves, who were horrible people, who were beating up our veterans because it’s not prime time for the veterans."
+***Cosine Similarity: 0.4157, Euklidische Distanz: 14.7578, Manhattan-Distanz: 60.6848, Minkowski-Distanz (p=3): 1.6504***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.4122, Euklidische Distanz: 22.0163, Manhattan-Distanz: 73.2480, Minkowski-Distanz (p=3): 2.0457***
+
+Hitler - Satz30: "the leaders recognised the value of propaganda on a large scale and they were veritable virtuosos in working up the spiritual instincts of the broad masses of their adherents."
+Trump - Satz76: "together with millions of hardworking patriots across this land, we built the greatest political movement in the history of our country."
+***Cosine Similarity: 0.4088, Euklidische Distanz: 16.6345, Manhattan-Distanz: 64.5462, Minkowski-Distanz (p=3): 1.7480***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Trump - Satz27: "and where a radical left judge has refused to let go of the case, which was brought by the most corrupt attorney general in the united states, working in close association with washington and the doj."
+***Cosine Similarity: 0.4077, Euklidische Distanz: 14.8239, Manhattan-Distanz: 61.1333, Minkowski-Distanz (p=3): 1.6454***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Trump - Satz52: "but they couldn’t get anything and they were hardworking."
+***Cosine Similarity: 0.4068, Euklidische Distanz: 22.7185, Manhattan-Distanz: 72.8896, Minkowski-Distanz (p=3): 2.0958***
+
+Hitler - Satz43: "thus, at the end of a long and hard-working career, he returned to the life which his father had led."
+Trump - Satz135: "i finally said to him, “you know, you’ve been working so hard."
+***Cosine Similarity: 0.4046, Euklidische Distanz: 19.9615, Manhattan-Distanz: 69.2639, Minkowski-Distanz (p=3): 1.9320***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Trump - Satz1: "and all of the people working on immigration, they’re not even allowed to work."
+***Cosine Similarity: 0.4017, Euklidische Distanz: 17.6248, Manhattan-Distanz: 65.7824, Minkowski-Distanz (p=3): 1.8181***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.4014, Euklidische Distanz: 19.5367, Manhattan-Distanz: 68.9057, Minkowski-Distanz (p=3): 1.9149***
+
+Hitler - Satz22: "at one stroke, in the august of , all the empty nonsense about international solidarity was knocked out of the heads of the german working classes."
+Trump - Satz114: "i was working very hard on europe and that was going to be a deal that was done because they don’t treat us very well."
+***Cosine Similarity: 0.4008, Euklidische Distanz: 21.4591, Manhattan-Distanz: 71.6074, Minkowski-Distanz (p=3): 2.0268***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Trump - Satz143: "we have, we have 12 months ago, we had 160 million people working in this country."
+***Cosine Similarity: 0.3994, Euklidische Distanz: 20.2440, Manhattan-Distanz: 70.3712, Minkowski-Distanz (p=3): 1.9478***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Trump - Satz62: "and yet what are the leftists and the attorney general and district attorney’s offices working on so diligently?"
+***Cosine Similarity: 0.3977, Euklidische Distanz: 15.4262, Manhattan-Distanz: 61.4754, Minkowski-Distanz (p=3): 1.7029***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Trump - Satz56: "it was hard-working patriots like you who built this country and it is hard-working patriots like you who are going to save our country."
+***Cosine Similarity: 0.3973, Euklidische Distanz: 11.9324, Manhattan-Distanz: 55.0141, Minkowski-Distanz (p=3): 1.4773***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Trump - Satz62: "and yet what are the leftists and the attorney general and district attorney’s offices working on so diligently?"
+***Cosine Similarity: 0.3971, Euklidische Distanz: 16.6458, Manhattan-Distanz: 63.5288, Minkowski-Distanz (p=3): 1.7834***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Trump - Satz83: "and we’ll be working with them because they know everyone."
+***Cosine Similarity: 0.3960, Euklidische Distanz: 19.5868, Manhattan-Distanz: 69.7471, Minkowski-Distanz (p=3): 1.9046***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Trump - Satz86: "and by the way, one of the big elements of the wall that make it so successful is we can have far fewer people working now."
+***Cosine Similarity: 0.3954, Euklidische Distanz: 22.8338, Manhattan-Distanz: 72.4114, Minkowski-Distanz (p=3): 2.1011***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Trump - Satz137: "i’m staying longer.” this is the hardest working, wherever you are, the most incredible woman."
+***Cosine Similarity: 0.3954, Euklidische Distanz: 25.1043, Manhattan-Distanz: 78.4953, Minkowski-Distanz (p=3): 2.1655***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Trump - Satz114: "i was working very hard on europe and that was going to be a deal that was done because they don’t treat us very well."
+***Cosine Similarity: 0.3949, Euklidische Distanz: 17.6865, Manhattan-Distanz: 64.8065, Minkowski-Distanz (p=3): 1.8415***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Trump - Satz62: "and yet what are the leftists and the attorney general and district attorney’s offices working on so diligently?"
+***Cosine Similarity: 0.3944, Euklidische Distanz: 14.9341, Manhattan-Distanz: 60.4752, Minkowski-Distanz (p=3): 1.6690***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Trump - Satz20: "we fired close to 9,000 people working in the va who were sadists, who were thieves, who were horrible people, who were beating up our veterans because it’s not prime time for the veterans."
+***Cosine Similarity: 0.3936, Euklidische Distanz: 26.9030, Manhattan-Distanz: 78.9492, Minkowski-Distanz (p=3): 2.2961***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Trump - Satz126: "defeating this pandemic and rebuilding the greatest economy on earth will require all of us working together."
+***Cosine Similarity: 0.3932, Euklidische Distanz: 11.9630, Manhattan-Distanz: 54.9271, Minkowski-Distanz (p=3): 1.4725***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Trump - Satz58: "and we got to remember, in a year from now, you’re going to start working on congress."
+***Cosine Similarity: 0.3920, Euklidische Distanz: 24.7607, Manhattan-Distanz: 78.0624, Minkowski-Distanz (p=3): 2.1447***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Trump - Satz59: "and it turned out to be the opposite, because a lot of these companies didn’t want to have bad results where they’re working with people that are terminally ill. and it’s actually making people that are terminally ill better."
+***Cosine Similarity: 0.3916, Euklidische Distanz: 14.9580, Manhattan-Distanz: 61.1352, Minkowski-Distanz (p=3): 1.6661***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Trump - Satz50: "that’s what happened to our workers in this country and that’s why we came up with numbers the likes of which … we had 160 million people working, there’s never been anything like it."
+***Cosine Similarity: 0.3882, Euklidische Distanz: 26.9620, Manhattan-Distanz: 78.9299, Minkowski-Distanz (p=3): 2.2967***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Trump - Satz91: "social media has given extraordinary power to a group of big tech giants that are working with government, the mainstream media and a large segment of a political party to silence and suppress the views of the american people and they’ve been very, very successful at that."
+***Cosine Similarity: 0.3861, Euklidische Distanz: 15.5247, Manhattan-Distanz: 62.0156, Minkowski-Distanz (p=3): 1.7142***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Trump - Satz140: "these are the convictions that define our movement today, and must define the republican party, which has truly become the party of the working man and woman."
+***Cosine Similarity: 0.3840, Euklidische Distanz: 22.1318, Manhattan-Distanz: 73.2578, Minkowski-Distanz (p=3): 2.0235***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Trump - Satz106: "they weren’t working too well in iowa."
+***Cosine Similarity: 0.3837, Euklidische Distanz: 25.4895, Manhattan-Distanz: 77.4013, Minkowski-Distanz (p=3): 2.2262***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Trump - Satz52: "but they couldn’t get anything and they were hardworking."
+***Cosine Similarity: 0.3831, Euklidische Distanz: 25.4954, Manhattan-Distanz: 76.9868, Minkowski-Distanz (p=3): 2.2329***
+
+Hitler - Satz8: "that its avowed purpose was to raise the level of the working classes (which, in my ignorance, i then foolishly believed) was a further point in favour of social democracy rather than against it,) but the feature that contributed most to estrange me from the social democratic movement was its hostile attitude towards the struggle for the preservation of germanism in austria and its undignified wooing of the slav ‘comrades,’ who received these approaches favourably as long as any, practical advantages  were forthcoming, but otherwise maintained a haughty reserve, thus giving the suitors the answer their behaviour deserved."
+Trump - Satz114: "i was working very hard on europe and that was going to be a deal that was done because they don’t treat us very well."
+***Cosine Similarity: 0.3827, Euklidische Distanz: 12.8564, Manhattan-Distanz: 56.8965, Minkowski-Distanz (p=3): 1.5417***
+
+Hitler - Satz25: "at that time my lot in life seemed to me a harsh one; but to-day i see in it the wise workings of providence."
+Trump - Satz6: "there was a picture and a little story about a mental institution in a certain country, and the doctor said, “i’ve been working so hard for 20 years."
+***Cosine Similarity: 0.3819, Euklidische Distanz: 17.1007, Manhattan-Distanz: 64.6477, Minkowski-Distanz (p=3): 1.7954***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Trump - Satz183: "this is a job for tens of millions of proud people working together from all across the land and from all walks of life."
+***Cosine Similarity: 0.3817, Euklidische Distanz: 22.1548, Manhattan-Distanz: 73.2552, Minkowski-Distanz (p=3): 2.0229***
+
+Hitler - Satz30: "the leaders recognised the value of propaganda on a large scale and they were veritable virtuosos in working up the spiritual instincts of the broad masses of their adherents."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3814, Euklidische Distanz: 16.8744, Manhattan-Distanz: 66.1653, Minkowski-Distanz (p=3): 1.7437***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Trump - Satz152: "it will end the pandemic and we’re working with other nations."
+***Cosine Similarity: 0.3792, Euklidische Distanz: 21.8820, Manhattan-Distanz: 72.2493, Minkowski-Distanz (p=3): 2.0439***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Trump - Satz52: "but they couldn’t get anything and they were hardworking."
+***Cosine Similarity: 0.3790, Euklidische Distanz: 22.3493, Manhattan-Distanz: 72.9166, Minkowski-Distanz (p=3): 2.0731***
+
+Hitler - Satz41: "the country lad who migrates to the big city feels attracted by what has been described as easy work (which it may be in reality) and shorter working hours and especially by the magic glamour of the big city."
+Trump - Satz86: "and by the way, one of the big elements of the wall that make it so successful is we can have far fewer people working now."
+***Cosine Similarity: 0.3789, Euklidische Distanz: 17.6565, Manhattan-Distanz: 64.8361, Minkowski-Distanz (p=3): 1.8330***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Trump - Satz121: "i’m working for you, not for me."
+***Cosine Similarity: 0.3771, Euklidische Distanz: 25.2994, Manhattan-Distanz: 80.3805, Minkowski-Distanz (p=3): 2.1501***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Trump - Satz101: "this is what they’re working on so diligently and with such passion, it’s get trump."
+***Cosine Similarity: 0.3770, Euklidische Distanz: 22.2012, Manhattan-Distanz: 74.7105, Minkowski-Distanz (p=3): 2.0098***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Trump - Satz57: "they’re over there working like you’ve never seen before, studying, talking, actually going all the way back, studying the roots of the constitution, because they know we have the right to send a bad vote that was illegally got, they gave these people bad things to vote for and they voted, because what did they know?"
+***Cosine Similarity: 0.3759, Euklidische Distanz: 12.4209, Manhattan-Distanz: 54.7895, Minkowski-Distanz (p=3): 1.5333***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Trump - Satz175: "we did all of this and we did so much more working now and going to finish everything that we started."
+***Cosine Similarity: 0.3753, Euklidische Distanz: 25.3187, Manhattan-Distanz: 79.4636, Minkowski-Distanz (p=3): 2.1708***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Trump - Satz38: "and if we can afford to send hundreds of billions of dollars to ukraine, then we can afford to have an auto industry that pays our workers a good living wage and keeps our workers working."
+***Cosine Similarity: 0.3752, Euklidische Distanz: 21.9215, Manhattan-Distanz: 73.0277, Minkowski-Distanz (p=3): 2.0245***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Trump - Satz113: "the hardworking american taxpayer will once again have a friend and a fighter and a champion in the white house."
+***Cosine Similarity: 0.3745, Euklidische Distanz: 12.1022, Manhattan-Distanz: 54.6217, Minkowski-Distanz (p=3): 1.4944***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Trump - Satz171: "working together, we will make america powerful again."
+***Cosine Similarity: 0.3743, Euklidische Distanz: 12.1039, Manhattan-Distanz: 54.4555, Minkowski-Distanz (p=3): 1.4966***
+
+Hitler - Satz47: "my lungs became so seriously affected that the doctor advised my mother very strongly not in any circumstances to allow me to take up a career which would necessitate working in an office."
+Trump - Satz6: "there was a picture and a little story about a mental institution in a certain country, and the doctor said, “i’ve been working so hard for 20 years."
+***Cosine Similarity: 0.3741, Euklidische Distanz: 17.4366, Manhattan-Distanz: 65.6797, Minkowski-Distanz (p=3): 1.8040***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Trump - Satz154: "we’re working hard and jd and everybody else that’s working on it because our auto industry is going to be dead very quickly because of the head of the united auto workers, the deal he made is so crazy."
+***Cosine Similarity: 0.3738, Euklidische Distanz: 25.5945, Manhattan-Distanz: 77.5305, Minkowski-Distanz (p=3): 2.2401***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3737, Euklidische Distanz: 23.0545, Manhattan-Distanz: 73.0307, Minkowski-Distanz (p=3): 2.1085***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Trump - Satz65: "and he is working hard, but it’s horrible because what’s happening is they’re just sending hundreds of thousands of people right through his state, right through arizona, right through all of the states."
+***Cosine Similarity: 0.3737, Euklidische Distanz: 19.8476, Manhattan-Distanz: 69.1166, Minkowski-Distanz (p=3): 1.9484***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Trump - Satz114: "i was working very hard on europe and that was going to be a deal that was done because they don’t treat us very well."
+***Cosine Similarity: 0.3736, Euklidische Distanz: 12.4385, Manhattan-Distanz: 55.0225, Minkowski-Distanz (p=3): 1.5324***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Trump - Satz8: "before i stepped into the political arena seven years ago, i spent my whole life working alongside of americans just like you, spent a lot of time with you."
+***Cosine Similarity: 0.3725, Euklidische Distanz: 12.4468, Manhattan-Distanz: 54.6193, Minkowski-Distanz (p=3): 1.5323***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.3724, Euklidische Distanz: 14.3318, Manhattan-Distanz: 57.2621, Minkowski-Distanz (p=3): 1.6737***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Trump - Satz57: "they’re over there working like you’ve never seen before, studying, talking, actually going all the way back, studying the roots of the constitution, because they know we have the right to send a bad vote that was illegally got, they gave these people bad things to vote for and they voted, because what did they know?"
+***Cosine Similarity: 0.3702, Euklidische Distanz: 17.9084, Manhattan-Distanz: 64.7600, Minkowski-Distanz (p=3): 1.8620***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz163: "he’s working on middle east peace and doing a great job."
+***Cosine Similarity: 0.3701, Euklidische Distanz: 22.5986, Manhattan-Distanz: 74.2854, Minkowski-Distanz (p=3): 2.0563***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Trump - Satz165: "in prime time he didn’t work and now it’s really not working."
+***Cosine Similarity: 0.3697, Euklidische Distanz: 25.6385, Manhattan-Distanz: 77.9531, Minkowski-Distanz (p=3): 2.2220***
+
+Hitler - Satz6: "); the fatherland, because it was held to be an instrument in the hands of the bourgeoisie for the exploitation of the working classes; the authority of the law, because that was a means of oppressing the proletariat; the school system, as a means of training not only slaves, but also slave-drivers; religion, as a means of doping the people, in order to exploit them afterwards; morality, as the badge of stupid and sheepish docility."
+Trump - Satz140: "these are the convictions that define our movement today, and must define the republican party, which has truly become the party of the working man and woman."
+***Cosine Similarity: 0.3696, Euklidische Distanz: 14.0836, Manhattan-Distanz: 58.5848, Minkowski-Distanz (p=3): 1.6171***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Trump - Satz115: "you could have had all you wanted, but they were not working too well in iowa."
+***Cosine Similarity: 0.3692, Euklidische Distanz: 12.3556, Manhattan-Distanz: 54.6809, Minkowski-Distanz (p=3): 1.5257***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Trump - Satz54: "that was like, he had 600 lawyers working for him and there was nobody tougher on stop the steal."
+***Cosine Similarity: 0.3680, Euklidische Distanz: 15.1538, Manhattan-Distanz: 62.0975, Minkowski-Distanz (p=3): 1.6670***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Trump - Satz177: "a trump victory will be bad for the globalists, the rhinos, the communists, the marxists, but it will be great for the hardworking people of new hampshire."
+***Cosine Similarity: 0.3678, Euklidische Distanz: 15.6789, Manhattan-Distanz: 62.7569, Minkowski-Distanz (p=3): 1.7245***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Trump - Satz99: "but i’ll be here and we’re going to be working the caucuses personally."
+***Cosine Similarity: 0.3676, Euklidische Distanz: 25.0192, Manhattan-Distanz: 78.0226, Minkowski-Distanz (p=3): 2.1628***
+
+Hitler - Satz23: "that is the way in which the jew endeavoured to gain the confidence of the working class."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3671, Euklidische Distanz: 27.5646, Manhattan-Distanz: 81.9033, Minkowski-Distanz (p=3): 2.2707***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Trump - Satz140: "these are the convictions that define our movement today, and must define the republican party, which has truly become the party of the working man and woman."
+***Cosine Similarity: 0.3663, Euklidische Distanz: 25.0330, Manhattan-Distanz: 78.0594, Minkowski-Distanz (p=3): 2.1648***
+
+Hitler - Satz25: "at that time my lot in life seemed to me a harsh one; but to-day i see in it the wise workings of providence."
+Trump - Satz191: "i mean, i’m working harder on this one than i have on all six that i did today."
+***Cosine Similarity: 0.3662, Euklidische Distanz: 17.2392, Manhattan-Distanz: 65.2218, Minkowski-Distanz (p=3): 1.7972***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Trump - Satz131: "they want to tell you the nice liberal way, but it’s not working out too well."
+***Cosine Similarity: 0.3660, Euklidische Distanz: 15.6937, Manhattan-Distanz: 62.7755, Minkowski-Distanz (p=3): 1.7052***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Trump - Satz50: "that’s what happened to our workers in this country and that’s why we came up with numbers the likes of which … we had 160 million people working, there’s never been anything like it."
+***Cosine Similarity: 0.3659, Euklidische Distanz: 20.5664, Manhattan-Distanz: 71.6019, Minkowski-Distanz (p=3): 1.9518***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Trump - Satz154: "we’re working hard and jd and everybody else that’s working on it because our auto industry is going to be dead very quickly because of the head of the united auto workers, the deal he made is so crazy."
+***Cosine Similarity: 0.3655, Euklidische Distanz: 27.2121, Manhattan-Distanz: 79.6134, Minkowski-Distanz (p=3): 2.2971***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Trump - Satz62: "and yet what are the leftists and the attorney general and district attorney’s offices working on so diligently?"
+***Cosine Similarity: 0.3648, Euklidische Distanz: 14.3930, Manhattan-Distanz: 57.8215, Minkowski-Distanz (p=3): 1.6772***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.3640, Euklidische Distanz: 12.5109, Manhattan-Distanz: 55.0014, Minkowski-Distanz (p=3): 1.5363***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Trump - Satz29: "and all of you who are hard working american patriots that we know and we love you all, as we get there tonight, millions of americans are realizing that joe biden and the radical left have brought our nation to the brink of ruin."
+***Cosine Similarity: 0.3638, Euklidische Distanz: 12.1817, Manhattan-Distanz: 55.7217, Minkowski-Distanz (p=3): 1.4913***
+
+Hitler - Satz15: "on the contrary, the persistent economic depression of that period and the constant want and misery strengthened his resolution to give up working at a trade and strive for ‘something higher.’ as a boy it had seemed to him that the position of the parish priest in his native village was the highest in the scale of human attainment, but now that the big city had enlarged his outlook the young man looked up to the dignity of a state official as the highest of all."
+Trump - Satz6: "there was a picture and a little story about a mental institution in a certain country, and the doctor said, “i’ve been working so hard for 20 years."
+***Cosine Similarity: 0.3632, Euklidische Distanz: 13.8427, Manhattan-Distanz: 58.6590, Minkowski-Distanz (p=3): 1.6107***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Trump - Satz59: "and it turned out to be the opposite, because a lot of these companies didn’t want to have bad results where they’re working with people that are terminally ill. and it’s actually making people that are terminally ill better."
+***Cosine Similarity: 0.3630, Euklidische Distanz: 17.9730, Manhattan-Distanz: 65.4418, Minkowski-Distanz (p=3): 1.8480***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.3629, Euklidische Distanz: 19.9498, Manhattan-Distanz: 70.1142, Minkowski-Distanz (p=3): 1.9398***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Trump - Satz114: "i was working very hard on europe and that was going to be a deal that was done because they don’t treat us very well."
+***Cosine Similarity: 0.3628, Euklidische Distanz: 14.4093, Manhattan-Distanz: 58.3670, Minkowski-Distanz (p=3): 1.6636***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Trump - Satz62: "and yet what are the leftists and the attorney general and district attorney’s offices working on so diligently?"
+***Cosine Similarity: 0.3627, Euklidische Distanz: 17.3463, Manhattan-Distanz: 64.5714, Minkowski-Distanz (p=3): 1.8189***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Trump - Satz3: "despite two and a half years of working and all of the things we did, i mean, to get this stuff in place, and then they just walk away from it."
+***Cosine Similarity: 0.3626, Euklidische Distanz: 25.7146, Manhattan-Distanz: 78.2805, Minkowski-Distanz (p=3): 2.2323***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Trump - Satz37: "or if the media did its job, which they don’t, they’re callous indifference to working family is equally clear when it comes to the critical matter of getting america’s children back to school."
+***Cosine Similarity: 0.3620, Euklidische Distanz: 12.5257, Manhattan-Distanz: 54.9361, Minkowski-Distanz (p=3): 1.5364***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Trump - Satz37: "or if the media did its job, which they don’t, they’re callous indifference to working family is equally clear when it comes to the critical matter of getting america’s children back to school."
+***Cosine Similarity: 0.3619, Euklidische Distanz: 15.7289, Manhattan-Distanz: 61.9148, Minkowski-Distanz (p=3): 1.7304***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Trump - Satz51: "imposing a stealth tax on hard-working americans and especially on middle income americans."
+***Cosine Similarity: 0.3618, Euklidische Distanz: 22.0550, Manhattan-Distanz: 73.2226, Minkowski-Distanz (p=3): 2.0446***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Trump - Satz8: "before i stepped into the political arena seven years ago, i spent my whole life working alongside of americans just like you, spent a lot of time with you."
+***Cosine Similarity: 0.3617, Euklidische Distanz: 25.4627, Manhattan-Distanz: 78.9338, Minkowski-Distanz (p=3): 2.1834***
+
+Hitler - Satz17: "the refusal of the social democrats, to improve the miserable living conditions of the working classes, ought to have induced the bourgeois parties to make the most energetic efforts in this direction and to snatch from the hands of the class-warfare leaders their most precious weapon; but nothing of this kind happened."
+Trump - Satz86: "and by the way, one of the big elements of the wall that make it so successful is we can have far fewer people working now."
+***Cosine Similarity: 0.3616, Euklidische Distanz: 15.7307, Manhattan-Distanz: 62.0915, Minkowski-Distanz (p=3): 1.7326***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Trump - Satz25: "the task for our movement and our party is to stand up to this destructive agenda with confidence and with result, the future of the republican party is as a party that defends the social economic and cultural interests and values of working american families of every race, color, and creed."
+***Cosine Similarity: 0.3608, Euklidische Distanz: 14.4255, Manhattan-Distanz: 58.5131, Minkowski-Distanz (p=3): 1.6632***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Trump - Satz114: "i was working very hard on europe and that was going to be a deal that was done because they don’t treat us very well."
+***Cosine Similarity: 0.3599, Euklidische Distanz: 15.2211, Manhattan-Distanz: 61.7846, Minkowski-Distanz (p=3): 1.6729***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Trump - Satz166: "so working together, we will make america powerful again."
+***Cosine Similarity: 0.3598, Euklidische Distanz: 12.2117, Manhattan-Distanz: 54.7153, Minkowski-Distanz (p=3): 1.5036***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Trump - Satz20: "we fired close to 9,000 people working in the va who were sadists, who were thieves, who were horrible people, who were beating up our veterans because it’s not prime time for the veterans."
+***Cosine Similarity: 0.3594, Euklidische Distanz: 25.7490, Manhattan-Distanz: 78.0884, Minkowski-Distanz (p=3): 2.2367***
+
+Hitler - Satz36: "marxism, whose final objective was, is, and will continue to be, the destruction of all non-jewish national states, had to witness in those days of july  how the german working-classes, which it had been ensnaring, were aroused by the national spirit and rapidly ranged themselves on the side of the fatherland."
+Trump - Satz25: "the task for our movement and our party is to stand up to this destructive agenda with confidence and with result, the future of the republican party is as a party that defends the social economic and cultural interests and values of working american families of every race, color, and creed."
+***Cosine Similarity: 0.3590, Euklidische Distanz: 16.9687, Manhattan-Distanz: 63.5809, Minkowski-Distanz (p=3): 1.7903***
+
+Hitler - Satz41: "the country lad who migrates to the big city feels attracted by what has been described as easy work (which it may be in reality) and shorter working hours and especially by the magic glamour of the big city."
+Trump - Satz119: "i know wall street very well for a lot of years working here, owning property on wall street and being in this great city that’s under tremendous seize right now."
+***Cosine Similarity: 0.3589, Euklidische Distanz: 17.8351, Manhattan-Distanz: 65.8919, Minkowski-Distanz (p=3): 1.8354***
+
+Hitler - Satz10: "that group of people is the german working-class."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3588, Euklidische Distanz: 36.4523, Manhattan-Distanz: 91.3651, Minkowski-Distanz (p=3): 2.6808***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Trump - Satz25: "the task for our movement and our party is to stand up to this destructive agenda with confidence and with result, the future of the republican party is as a party that defends the social economic and cultural interests and values of working american families of every race, color, and creed."
+***Cosine Similarity: 0.3586, Euklidische Distanz: 22.3848, Manhattan-Distanz: 73.8452, Minkowski-Distanz (p=3): 2.0384***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Trump - Satz59: "and it turned out to be the opposite, because a lot of these companies didn’t want to have bad results where they’re working with people that are terminally ill. and it’s actually making people that are terminally ill better."
+***Cosine Similarity: 0.3584, Euklidische Distanz: 27.2895, Manhattan-Distanz: 79.3227, Minkowski-Distanz (p=3): 2.3112***
+
+Hitler - Satz37: "this absurd transference of the old working hours to the new industrial system proved fatal in two directions."
+Trump - Satz138: "we have to work very quickly, but unfortunately for seven months and now really for two months after that, you’re not going to be working."
+***Cosine Similarity: 0.3583, Euklidische Distanz: 25.7613, Manhattan-Distanz: 78.2075, Minkowski-Distanz (p=3): 2.2344***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Trump - Satz24: "he’d be working in a pizza shop or perhaps a law firm if i didn’t endorse him."
+***Cosine Similarity: 0.3579, Euklidische Distanz: 15.2376, Manhattan-Distanz: 62.1852, Minkowski-Distanz (p=3): 1.6660***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Trump - Satz31: "this is the hardest working people, hard working american patriots is just getting started."
+***Cosine Similarity: 0.3565, Euklidische Distanz: 22.4058, Manhattan-Distanz: 74.2566, Minkowski-Distanz (p=3): 2.0268***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Trump - Satz31: "this is the hardest working people, hard working american patriots is just getting started."
+***Cosine Similarity: 0.3565, Euklidische Distanz: 25.1366, Manhattan-Distanz: 78.1661, Minkowski-Distanz (p=3): 2.1675***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Trump - Satz187: "and they were real unemployment, not like you have today where nobody’s working and they consider it to be."
+***Cosine Similarity: 0.3564, Euklidische Distanz: 27.3117, Manhattan-Distanz: 79.6412, Minkowski-Distanz (p=3): 2.3002***
+
+Hitler - Satz8: "that its avowed purpose was to raise the level of the working classes (which, in my ignorance, i then foolishly believed) was a further point in favour of social democracy rather than against it,) but the feature that contributed most to estrange me from the social democratic movement was its hostile attitude towards the struggle for the preservation of germanism in austria and its undignified wooing of the slav ‘comrades,’ who received these approaches favourably as long as any, practical advantages  were forthcoming, but otherwise maintained a haughty reserve, thus giving the suitors the answer their behaviour deserved."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3560, Euklidische Distanz: 13.0616, Manhattan-Distanz: 56.9751, Minkowski-Distanz (p=3): 1.5537***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Trump - Satz113: "the hardworking american taxpayer will once again have a friend and a fighter and a champion in the white house."
+***Cosine Similarity: 0.3553, Euklidische Distanz: 25.1492, Manhattan-Distanz: 78.7910, Minkowski-Distanz (p=3): 2.1632***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Trump - Satz57: "they’re over there working like you’ve never seen before, studying, talking, actually going all the way back, studying the roots of the constitution, because they know we have the right to send a bad vote that was illegally got, they gave these people bad things to vote for and they voted, because what did they know?"
+***Cosine Similarity: 0.3552, Euklidische Distanz: 22.5883, Manhattan-Distanz: 73.6992, Minkowski-Distanz (p=3): 2.0700***
+
+Hitler - Satz43: "thus, at the end of a long and hard-working career, he returned to the life which his father had led."
+Trump - Satz10: "he’s been working for 11 years."
+***Cosine Similarity: 0.3544, Euklidische Distanz: 20.4406, Manhattan-Distanz: 70.6844, Minkowski-Distanz (p=3): 1.9596***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3536, Euklidische Distanz: 12.5894, Manhattan-Distanz: 55.4072, Minkowski-Distanz (p=3): 1.5398***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Trump - Satz31: "this is the hardest working people, hard working american patriots is just getting started."
+***Cosine Similarity: 0.3536, Euklidische Distanz: 12.2582, Manhattan-Distanz: 55.6643, Minkowski-Distanz (p=3): 1.4902***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Trump - Satz39: "and we are working all together because we’re working as a country."
+***Cosine Similarity: 0.3531, Euklidische Distanz: 12.2616, Manhattan-Distanz: 55.6434, Minkowski-Distanz (p=3): 1.4983***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Trump - Satz157: "they’re all working hard."
+***Cosine Similarity: 0.3530, Euklidische Distanz: 19.9941, Manhattan-Distanz: 70.0272, Minkowski-Distanz (p=3): 1.9256***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Trump - Satz187: "and they were real unemployment, not like you have today where nobody’s working and they consider it to be."
+***Cosine Similarity: 0.3502, Euklidische Distanz: 15.3015, Manhattan-Distanz: 61.7961, Minkowski-Distanz (p=3): 1.6812***
+
+Hitler - Satz49: "it is not only the struggle itself which could not be waged if the working classes of the nation did not join the storm battalions, but the necessary technical preparations could not be made without a united will and a common front within the nation itself: our nation which has to exist disarmed under tie thousand eyes appointed by the versailles peace treaty, cannot make any technical preparations for the recovery of its freedom and human independence, until the whole army of spies employed within the country is cut down to those few whose inborn baseness would lead them to betray anything and everything for  the proverbial thirty pieces of silver."
+Trump - Satz152: "it will end the pandemic and we’re working with other nations."
+***Cosine Similarity: 0.3499, Euklidische Distanz: 12.2854, Manhattan-Distanz: 55.5201, Minkowski-Distanz (p=3): 1.4984***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz171: "working together, we will make america powerful again."
+***Cosine Similarity: 0.3498, Euklidische Distanz: 22.8027, Manhattan-Distanz: 74.8938, Minkowski-Distanz (p=3): 2.0612***
+
+Hitler - Satz18: "therefore, although under the older system a working day of fourteen or even fifteen hours was not unendurable, now it was beyond the limits of human endurance, because under the new system every minute was utilised to the extreme."
+Trump - Satz191: "i mean, i’m working harder on this one than i have on all six that i did today."
+***Cosine Similarity: 0.3495, Euklidische Distanz: 18.8467, Manhattan-Distanz: 67.2310, Minkowski-Distanz (p=3): 1.8799***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Trump - Satz20: "we fired close to 9,000 people working in the va who were sadists, who were thieves, who were horrible people, who were beating up our veterans because it’s not prime time for the veterans."
+***Cosine Similarity: 0.3494, Euklidische Distanz: 12.6210, Manhattan-Distanz: 55.3586, Minkowski-Distanz (p=3): 1.5394***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Trump - Satz133: "so, everybody had incentive and everybody was happy and everybody was working."
+***Cosine Similarity: 0.3494, Euklidische Distanz: 20.0281, Manhattan-Distanz: 70.3097, Minkowski-Distanz (p=3): 1.9363***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Trump - Satz6: "there was a picture and a little story about a mental institution in a certain country, and the doctor said, “i’ve been working so hard for 20 years."
+***Cosine Similarity: 0.3489, Euklidische Distanz: 25.5993, Manhattan-Distanz: 80.7623, Minkowski-Distanz (p=3): 2.1683***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Trump - Satz140: "these are the convictions that define our movement today, and must define the republican party, which has truly become the party of the working man and woman."
+***Cosine Similarity: 0.3486, Euklidische Distanz: 22.6541, Manhattan-Distanz: 73.3927, Minkowski-Distanz (p=3): 2.0894***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Trump - Satz73: "we had great people working for me."
+***Cosine Similarity: 0.3480, Euklidische Distanz: 12.6318, Manhattan-Distanz: 55.5964, Minkowski-Distanz (p=3): 1.5333***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Trump - Satz126: "defeating this pandemic and rebuilding the greatest economy on earth will require all of us working together."
+***Cosine Similarity: 0.3474, Euklidische Distanz: 22.1976, Manhattan-Distanz: 72.8697, Minkowski-Distanz (p=3): 2.0532***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Trump - Satz131: "they want to tell you the nice liberal way, but it’s not working out too well."
+***Cosine Similarity: 0.3472, Euklidische Distanz: 14.5359, Manhattan-Distanz: 58.3310, Minkowski-Distanz (p=3): 1.6810***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Trump - Satz68: "they can be working on other things, other things related to crime and drug prevention and a lot of other elements they’re working on because we saved massive numbers of people."
+***Cosine Similarity: 0.3466, Euklidische Distanz: 22.5050, Manhattan-Distanz: 74.4227, Minkowski-Distanz (p=3): 2.0390***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Trump - Satz152: "it will end the pandemic and we’re working with other nations."
+***Cosine Similarity: 0.3460, Euklidische Distanz: 20.7577, Manhattan-Distanz: 71.1608, Minkowski-Distanz (p=3): 1.9864***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Trump - Satz132: "it is worse actually, in my opinion, hard to believe anything could be worse than this, but i think it’s worse than ballot stuffing, or media manipulation by the fbi working together with twitter, facebook, and the rest."
+***Cosine Similarity: 0.3447, Euklidische Distanz: 14.5561, Manhattan-Distanz: 59.0402, Minkowski-Distanz (p=3): 1.6707***
+
+Hitler - Satz18: "therefore, although under the older system a working day of fourteen or even fifteen hours was not unendurable, now it was beyond the limits of human endurance, because under the new system every minute was utilised to the extreme."
+Trump - Satz137: "i’m staying longer.” this is the hardest working, wherever you are, the most incredible woman."
+***Cosine Similarity: 0.3445, Euklidische Distanz: 18.8927, Manhattan-Distanz: 66.8196, Minkowski-Distanz (p=3): 1.8906***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Trump - Satz141: "with your help, your devotion, your drive, we are going to keep on working."
+***Cosine Similarity: 0.3444, Euklidische Distanz: 22.5271, Manhattan-Distanz: 74.0236, Minkowski-Distanz (p=3): 2.0401***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Trump - Satz24: "he’d be working in a pizza shop or perhaps a law firm if i didn’t endorse him."
+***Cosine Similarity: 0.3443, Euklidische Distanz: 20.1259, Manhattan-Distanz: 68.8424, Minkowski-Distanz (p=3): 1.9671***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Trump - Satz37: "or if the media did its job, which they don’t, they’re callous indifference to working family is equally clear when it comes to the critical matter of getting america’s children back to school."
+***Cosine Similarity: 0.3441, Euklidische Distanz: 12.8705, Manhattan-Distanz: 55.1580, Minkowski-Distanz (p=3): 1.5852***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz11: "so, he’s endorsed somebody that can’t win, has no chance of winning and he’s out there working, but he’s a selfish guy."
+***Cosine Similarity: 0.3437, Euklidische Distanz: 22.8637, Manhattan-Distanz: 75.1847, Minkowski-Distanz (p=3): 2.0613***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Trump - Satz47: "but if you take a look, crooked joe cannot talk about a single issue that matters to hardworking americans because he’s failed you, and he’s betrayed us on every single issue."
+***Cosine Similarity: 0.3435, Euklidische Distanz: 15.3567, Manhattan-Distanz: 61.7360, Minkowski-Distanz (p=3): 1.6802***
+
+Hitler - Satz23: "that is the way in which the jew endeavoured to gain the confidence of the working class."
+Trump - Satz78: "and he saw people working out."
+***Cosine Similarity: 0.3434, Euklidische Distanz: 27.8270, Manhattan-Distanz: 82.5381, Minkowski-Distanz (p=3): 2.2820***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Trump - Satz68: "they can be working on other things, other things related to crime and drug prevention and a lot of other elements they’re working on because we saved massive numbers of people."
+***Cosine Similarity: 0.3434, Euklidische Distanz: 26.6979, Manhattan-Distanz: 78.0982, Minkowski-Distanz (p=3): 2.2764***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Trump - Satz37: "or if the media did its job, which they don’t, they’re callous indifference to working family is equally clear when it comes to the critical matter of getting america’s children back to school."
+***Cosine Similarity: 0.3428, Euklidische Distanz: 18.1545, Manhattan-Distanz: 65.7998, Minkowski-Distanz (p=3): 1.8699***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Trump - Satz27: "and where a radical left judge has refused to let go of the case, which was brought by the most corrupt attorney general in the united states, working in close association with washington and the doj."
+***Cosine Similarity: 0.3424, Euklidische Distanz: 17.5259, Manhattan-Distanz: 65.2857, Minkowski-Distanz (p=3): 1.8122***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Trump - Satz85: "we were working on that for 54 years."
+***Cosine Similarity: 0.3416, Euklidische Distanz: 25.6771, Manhattan-Distanz: 80.2673, Minkowski-Distanz (p=3): 2.1791***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz54: "that was like, he had 600 lawyers working for him and there was nobody tougher on stop the steal."
+***Cosine Similarity: 0.3416, Euklidische Distanz: 22.8856, Manhattan-Distanz: 74.2604, Minkowski-Distanz (p=3): 2.0762***
+
+Hitler - Satz6: "); the fatherland, because it was held to be an instrument in the hands of the bourgeoisie for the exploitation of the working classes; the authority of the law, because that was a means of oppressing the proletariat; the school system, as a means of training not only slaves, but also slave-drivers; religion, as a means of doping the people, in order to exploit them afterwards; morality, as the badge of stupid and sheepish docility."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.3412, Euklidische Distanz: 14.3112, Manhattan-Distanz: 58.6732, Minkowski-Distanz (p=3): 1.6305***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Trump - Satz54: "that was like, he had 600 lawyers working for him and there was nobody tougher on stop the steal."
+***Cosine Similarity: 0.3404, Euklidische Distanz: 20.1630, Manhattan-Distanz: 70.2892, Minkowski-Distanz (p=3): 1.9483***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Trump - Satz44: "as you see actually by looking at your screen today, we’re working very closely with other nations also to get the vaccines out to other nations."
+***Cosine Similarity: 0.3402, Euklidische Distanz: 20.8134, Manhattan-Distanz: 71.5681, Minkowski-Distanz (p=3): 1.9723***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz113: "the hardworking american taxpayer will once again have a friend and a fighter and a champion in the white house."
+***Cosine Similarity: 0.3397, Euklidische Distanz: 22.9043, Manhattan-Distanz: 75.2317, Minkowski-Distanz (p=3): 2.0636***
+
+Hitler - Satz3: "having once understood the working of the colossal system for poisoning the popular mind, only a fool could blame the victims of it."
+Trump - Satz132: "it is worse actually, in my opinion, hard to believe anything could be worse than this, but i think it’s worse than ballot stuffing, or media manipulation by the fbi working together with twitter, facebook, and the rest."
+***Cosine Similarity: 0.3394, Euklidische Distanz: 23.8352, Manhattan-Distanz: 75.3441, Minkowski-Distanz (p=3): 2.1384***
+
+Hitler - Satz26: "in my opinion the, most culpable were not to be found among the workers, but rather among those who did not think it worthwhile to take the trouble to sympathise with these, and in accordance with the iron law of justice to give to the hard-working son of the people what was his, while at the same time executing his seducer and corrupter."
+Trump - Satz86: "and by the way, one of the big elements of the wall that make it so successful is we can have far fewer people working now."
+***Cosine Similarity: 0.3392, Euklidische Distanz: 15.3927, Manhattan-Distanz: 62.3063, Minkowski-Distanz (p=3): 1.6726***
+
+Hitler - Satz6: "); the fatherland, because it was held to be an instrument in the hands of the bourgeoisie for the exploitation of the working classes; the authority of the law, because that was a means of oppressing the proletariat; the school system, as a means of training not only slaves, but also slave-drivers; religion, as a means of doping the people, in order to exploit them afterwards; morality, as the badge of stupid and sheepish docility."
+Trump - Satz57: "they’re over there working like you’ve never seen before, studying, talking, actually going all the way back, studying the roots of the constitution, because they know we have the right to send a bad vote that was illegally got, they gave these people bad things to vote for and they voted, because what did they know?"
+***Cosine Similarity: 0.3390, Euklidische Distanz: 14.3288, Manhattan-Distanz: 59.3772, Minkowski-Distanz (p=3): 1.6290***
+
+Hitler - Satz36: "marxism, whose final objective was, is, and will continue to be, the destruction of all non-jewish national states, had to witness in those days of july  how the german working-classes, which it had been ensnaring, were aroused by the national spirit and rapidly ranged themselves on the side of the fatherland."
+Trump - Satz41: "the democrat immigration bill is a globalist corp. you take a look at the corporatist, big tech attack on hardworking citizens of every race, religion, color, and creed."
+***Cosine Similarity: 0.3389, Euklidische Distanz: 17.1443, Manhattan-Distanz: 64.6920, Minkowski-Distanz (p=3): 1.7890***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz32: "we will win because we will fight with every measure of our strength and with every ounce of our energy to lift up the working men and working women of america and to restore the fabric of this nation."
+***Cosine Similarity: 0.3384, Euklidische Distanz: 22.9169, Manhattan-Distanz: 75.5038, Minkowski-Distanz (p=3): 2.0640***
+
+Hitler - Satz40: "these movements, parties, religious groups, etc., originate entirely independently of one another out of the general urge of the age, and all witha view to working towards the same goal."
+Trump - Satz76: "together with millions of hardworking patriots across this land, we built the greatest political movement in the history of our country."
+***Cosine Similarity: 0.3382, Euklidische Distanz: 14.6829, Manhattan-Distanz: 60.1990, Minkowski-Distanz (p=3): 1.6473***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Trump - Satz144: "by the way, at some time, does joe biden say, “the son just not working out very well.” at some point, but it won’t matter if the press doesn’t catch it."
+***Cosine Similarity: 0.3381, Euklidische Distanz: 17.5646, Manhattan-Distanz: 66.1211, Minkowski-Distanz (p=3): 1.7998***
+
+Hitler - Satz27: "moreover, i was master of my own time and could arrange my working-hours better than formerly."
+Trump - Satz61: "they’ve been working on that for 55 years and i got it done."
+***Cosine Similarity: 0.3379, Euklidische Distanz: 25.7166, Manhattan-Distanz: 79.5737, Minkowski-Distanz (p=3): 2.1850***
+
+Hitler - Satz19: "it cannot be objected here that in other countries similar conditions exist and that nevertheless the working classes in those countries have remained patriotic."
+Trump - Satz1: "and all of the people working on immigration, they’re not even allowed to work."
+***Cosine Similarity: 0.3378, Euklidische Distanz: 24.7778, Manhattan-Distanz: 78.8356, Minkowski-Distanz (p=3): 2.1416***
+
+Hitler - Satz41: "the country lad who migrates to the big city feels attracted by what has been described as easy work (which it may be in reality) and shorter working hours and especially by the magic glamour of the big city."
+Trump - Satz183: "this is a job for tens of millions of proud people working together from all across the land and from all walks of life."
+***Cosine Similarity: 0.3374, Euklidische Distanz: 18.0274, Manhattan-Distanz: 65.4503, Minkowski-Distanz (p=3): 1.8499***
+
+Hitler - Satz35: "i was now working independently in a small way, as a painter in water colours."
+Trump - Satz49: "and we’ve had a great run together, and i’ve been working very hard with the farmers, and making them hopefully very rich."
+***Cosine Similarity: 0.3370, Euklidische Distanz: 24.8761, Manhattan-Distanz: 77.8330, Minkowski-Distanz (p=3): 2.1684***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Trump - Satz62: "and yet what are the leftists and the attorney general and district attorney’s offices working on so diligently?"
+***Cosine Similarity: 0.3363, Euklidische Distanz: 25.3493, Manhattan-Distanz: 78.6712, Minkowski-Distanz (p=3): 2.1779***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Trump - Satz37: "or if the media did its job, which they don’t, they’re callous indifference to working family is equally clear when it comes to the critical matter of getting america’s children back to school."
+***Cosine Similarity: 0.3360, Euklidische Distanz: 12.6054, Manhattan-Distanz: 54.4038, Minkowski-Distanz (p=3): 1.5525***
+
+Hitler - Satz29: "if, in , the german working class had consisted of real marxists, the war would have ended within three weeks."
+Trump - Satz63: "because the fake news is totally bought in, and now they’re saying, “this is not working out.”
+
+ 
+no, we got to get that war settled, and i’ll get it settled."
+***Cosine Similarity: 0.3355, Euklidische Distanz: 25.3691, Manhattan-Distanz: 78.5323, Minkowski-Distanz (p=3): 2.1818***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Trump - Satz41: "the democrat immigration bill is a globalist corp. you take a look at the corporatist, big tech attack on hardworking citizens of every race, religion, color, and creed."
+***Cosine Similarity: 0.3343, Euklidische Distanz: 17.1952, Manhattan-Distanz: 63.8847, Minkowski-Distanz (p=3): 1.8209***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Trump - Satz59: "and it turned out to be the opposite, because a lot of these companies didn’t want to have bad results where they’re working with people that are terminally ill. and it’s actually making people that are terminally ill better."
+***Cosine Similarity: 0.3338, Euklidische Distanz: 12.6224, Manhattan-Distanz: 55.0944, Minkowski-Distanz (p=3): 1.5437***
+
+Hitler - Satz41: "the country lad who migrates to the big city feels attracted by what has been described as easy work (which it may be in reality) and shorter working hours and especially by the magic glamour of the big city."
+Trump - Satz187: "and they were real unemployment, not like you have today where nobody’s working and they consider it to be."
+***Cosine Similarity: 0.3335, Euklidische Distanz: 18.0628, Manhattan-Distanz: 67.1068, Minkowski-Distanz (p=3): 1.8361***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz166: "so working together, we will make america powerful again."
+***Cosine Similarity: 0.3333, Euklidische Distanz: 22.9687, Manhattan-Distanz: 75.0759, Minkowski-Distanz (p=3): 2.0690***
+
+Hitler - Satz18: "therefore, although under the older system a working day of fourteen or even fifteen hours was not unendurable, now it was beyond the limits of human endurance, because under the new system every minute was utilised to the extreme."
+Trump - Satz138: "we have to work very quickly, but unfortunately for seven months and now really for two months after that, you’re not going to be working."
+***Cosine Similarity: 0.3331, Euklidische Distanz: 18.9978, Manhattan-Distanz: 67.3977, Minkowski-Distanz (p=3): 1.8956***
+
+Hitler - Satz18: "therefore, although under the older system a working day of fourteen or even fifteen hours was not unendurable, now it was beyond the limits of human endurance, because under the new system every minute was utilised to the extreme."
+Trump - Satz86: "and by the way, one of the big elements of the wall that make it so successful is we can have far fewer people working now."
+***Cosine Similarity: 0.3330, Euklidische Distanz: 18.9983, Manhattan-Distanz: 67.2385, Minkowski-Distanz (p=3): 1.8899***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Trump - Satz160: "they’ve been treated terribly and very unfairly and you know that and everybody knows that, and we’re going to be working on that sooner."
+***Cosine Similarity: 0.3327, Euklidische Distanz: 18.2457, Manhattan-Distanz: 65.6503, Minkowski-Distanz (p=3): 1.8697***
+
+Hitler - Satz18: "therefore, although under the older system a working day of fourteen or even fifteen hours was not unendurable, now it was beyond the limits of human endurance, because under the new system every minute was utilised to the extreme."
+Trump - Satz50: "that’s what happened to our workers in this country and that’s why we came up with numbers the likes of which … we had 160 million people working, there’s never been anything like it."
+***Cosine Similarity: 0.3326, Euklidische Distanz: 19.0019, Manhattan-Distanz: 68.1064, Minkowski-Distanz (p=3): 1.8818***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Trump - Satz72: "throughout the democrat effort to dramatically expand mail-in voting, the democrat party leaders were also, feverishly working to block measures, designed to protect against fraud, such as signature verification, residency verification, or voter id."
+***Cosine Similarity: 0.3323, Euklidische Distanz: 25.3916, Manhattan-Distanz: 78.5691, Minkowski-Distanz (p=3): 2.1896***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Trump - Satz11: "so, he’s endorsed somebody that can’t win, has no chance of winning and he’s out there working, but he’s a selfish guy."
+***Cosine Similarity: 0.3323, Euklidische Distanz: 20.2398, Manhattan-Distanz: 70.8819, Minkowski-Distanz (p=3): 1.9489***
+
+Hitler - Satz39: "if the german trade-unions had defended the interests of the working- classes uncompromisingly during the war; - if, even during the war, they had used the weapon of the strike to force the industrialists (who were greedy for higher dividends) to grant the demands of the workers for whom the unions acted; - if at the same time they had stood up as good germans for the defence of the nation as stoutly as for their own claims; and - if they had given as unstintedly to their country that which was their country’s due—then the war would never have been lost."
+Trump - Satz38: "and if we can afford to send hundreds of billions of dollars to ukraine, then we can afford to have an auto industry that pays our workers a good living wage and keeps our workers working."
+***Cosine Similarity: 0.3322, Euklidische Distanz: 17.4912, Manhattan-Distanz: 65.1292, Minkowski-Distanz (p=3): 1.8262***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Trump - Satz25: "the task for our movement and our party is to stand up to this destructive agenda with confidence and with result, the future of the republican party is as a party that defends the social economic and cultural interests and values of working american families of every race, color, and creed."
+***Cosine Similarity: 0.3319, Euklidische Distanz: 25.3956, Manhattan-Distanz: 77.9374, Minkowski-Distanz (p=3): 2.1937***
+
+Hitler - Satz32: "i first came into contact with the social democrats while working in the building trade."
+Trump - Satz182: "and we’re going to be working with democrat mayors and democrat governors if we have to."
+***Cosine Similarity: 0.3319, Euklidische Distanz: 25.3966, Manhattan-Distanz: 77.9752, Minkowski-Distanz (p=3): 2.1896***
+
+Hitler - Satz16: "on innumerable occasions the bourgeoisie took a definite stand against even the most legitimate human demands of the working classes."
+Trump - Satz62: "and yet what are the leftists and the attorney general and district attorney’s offices working on so diligently?"
+***Cosine Similarity: 0.3316, Euklidische Distanz: 21.2252, Manhattan-Distanz: 71.5201, Minkowski-Distanz (p=3): 2.0284***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Trump - Satz106: "they weren’t working too well in iowa."
+***Cosine Similarity: 0.3312, Euklidische Distanz: 27.5890, Manhattan-Distanz: 79.9107, Minkowski-Distanz (p=3): 2.3211***
+
+Hitler - Satz29: "if, in , the german working class had consisted of real marxists, the war would have ended within three weeks."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.3307, Euklidische Distanz: 25.4194, Manhattan-Distanz: 78.5471, Minkowski-Distanz (p=3): 2.1839***
+
+Hitler - Satz44: "a movement which has this for its aim must try to recruit its followers mainly from the ranks of the working class."
+Trump - Satz35: "and that’s why i’m announcing that i will be actively working to elect strong, tough and smart republican leaders."
+***Cosine Similarity: 0.3306, Euklidische Distanz: 22.6651, Manhattan-Distanz: 73.4596, Minkowski-Distanz (p=3): 2.0581***
+
+Hitler - Satz15: "on the contrary, the persistent economic depression of that period and the constant want and misery strengthened his resolution to give up working at a trade and strive for ‘something higher.’ as a boy it had seemed to him that the position of the parish priest in his native village was the highest in the scale of human attainment, but now that the big city had enlarged his outlook the young man looked up to the dignity of a state official as the highest of all."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3305, Euklidische Distanz: 14.1018, Manhattan-Distanz: 58.7603, Minkowski-Distanz (p=3): 1.6263***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Trump - Satz50: "that’s what happened to our workers in this country and that’s why we came up with numbers the likes of which … we had 160 million people working, there’s never been anything like it."
+***Cosine Similarity: 0.3302, Euklidische Distanz: 20.2590, Manhattan-Distanz: 70.5419, Minkowski-Distanz (p=3): 1.9521***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Trump - Satz113: "the hardworking american taxpayer will once again have a friend and a fighter and a champion in the white house."
+***Cosine Similarity: 0.3291, Euklidische Distanz: 26.8529, Manhattan-Distanz: 80.1965, Minkowski-Distanz (p=3): 2.2644***
+
+Hitler - Satz25: "at that time my lot in life seemed to me a harsh one; but to-day i see in it the wise workings of providence."
+Trump - Satz73: "we had great people working for me."
+***Cosine Similarity: 0.3285, Euklidische Distanz: 17.5724, Manhattan-Distanz: 66.1662, Minkowski-Distanz (p=3): 1.8051***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Trump - Satz38: "and if we can afford to send hundreds of billions of dollars to ukraine, then we can afford to have an auto industry that pays our workers a good living wage and keeps our workers working."
+***Cosine Similarity: 0.3279, Euklidische Distanz: 20.2813, Manhattan-Distanz: 70.8714, Minkowski-Distanz (p=3): 1.9541***
+
+Hitler - Satz30: "the leaders recognised the value of propaganda on a large scale and they were veritable virtuosos in working up the spiritual instincts of the broad masses of their adherents."
+Trump - Satz62: "and yet what are the leftists and the attorney general and district attorney’s offices working on so diligently?"
+***Cosine Similarity: 0.3278, Euklidische Distanz: 17.3440, Manhattan-Distanz: 66.5336, Minkowski-Distanz (p=3): 1.7842***
+
+Hitler - Satz35: "i was now working independently in a small way, as a painter in water colours."
+Trump - Satz191: "i mean, i’m working harder on this one than i have on all six that i did today."
+***Cosine Similarity: 0.3275, Euklidische Distanz: 24.9750, Manhattan-Distanz: 78.1081, Minkowski-Distanz (p=3): 2.1778***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Trump - Satz187: "and they were real unemployment, not like you have today where nobody’s working and they consider it to be."
+***Cosine Similarity: 0.3272, Euklidische Distanz: 23.5279, Manhattan-Distanz: 73.7381, Minkowski-Distanz (p=3): 2.1348***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Trump - Satz140: "these are the convictions that define our movement today, and must define the republican party, which has truly become the party of the working man and woman."
+***Cosine Similarity: 0.3263, Euklidische Distanz: 12.7958, Manhattan-Distanz: 55.2476, Minkowski-Distanz (p=3): 1.5564***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Trump - Satz16: "the windmills aren’t working, the most expensive form of energy ever."
+***Cosine Similarity: 0.3250, Euklidische Distanz: 23.5497, Manhattan-Distanz: 73.7022, Minkowski-Distanz (p=3): 2.1370***
+
+Hitler - Satz6: "); the fatherland, because it was held to be an instrument in the hands of the bourgeoisie for the exploitation of the working classes; the authority of the law, because that was a means of oppressing the proletariat; the school system, as a means of training not only slaves, but also slave-drivers; religion, as a means of doping the people, in order to exploit them afterwards; morality, as the badge of stupid and sheepish docility."
+Trump - Satz127: "but the inner workings of the us… very, very difficult."
+***Cosine Similarity: 0.3236, Euklidische Distanz: 14.4517, Manhattan-Distanz: 59.3979, Minkowski-Distanz (p=3): 1.6386***
+
+Hitler - Satz6: "); the fatherland, because it was held to be an instrument in the hands of the bourgeoisie for the exploitation of the working classes; the authority of the law, because that was a means of oppressing the proletariat; the school system, as a means of training not only slaves, but also slave-drivers; religion, as a means of doping the people, in order to exploit them afterwards; morality, as the badge of stupid and sheepish docility."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3235, Euklidische Distanz: 14.4523, Manhattan-Distanz: 60.2441, Minkowski-Distanz (p=3): 1.6231***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Trump - Satz177: "a trump victory will be bad for the globalists, the rhinos, the communists, the marxists, but it will be great for the hardworking people of new hampshire."
+***Cosine Similarity: 0.3234, Euklidische Distanz: 22.9076, Manhattan-Distanz: 74.3085, Minkowski-Distanz (p=3): 2.0953***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Trump - Satz72: "throughout the democrat effort to dramatically expand mail-in voting, the democrat party leaders were also, feverishly working to block measures, designed to protect against fraud, such as signature verification, residency verification, or voter id."
+***Cosine Similarity: 0.3231, Euklidische Distanz: 22.9105, Manhattan-Distanz: 73.8846, Minkowski-Distanz (p=3): 2.0918***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Trump - Satz180: "the republicans went up to vote and none of the machines were working."
+***Cosine Similarity: 0.3226, Euklidische Distanz: 22.9148, Manhattan-Distanz: 74.4949, Minkowski-Distanz (p=3): 2.0888***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3226, Euklidische Distanz: 13.9859, Manhattan-Distanz: 59.4365, Minkowski-Distanz (p=3): 1.6068***
+
+Hitler - Satz30: "the leaders recognised the value of propaganda on a large scale and they were veritable virtuosos in working up the spiritual instincts of the broad masses of their adherents."
+Trump - Satz28: "but i’m with thousands of proud, hardworking, incredible american patriots."
+***Cosine Similarity: 0.3223, Euklidische Distanz: 17.3925, Manhattan-Distanz: 66.1537, Minkowski-Distanz (p=3): 1.7886***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Trump - Satz26: "and that’s what we are working on very, very stringently."
+***Cosine Similarity: 0.3220, Euklidische Distanz: 20.2870, Manhattan-Distanz: 70.2287, Minkowski-Distanz (p=3): 1.9561***
+
+Hitler - Satz6: "); the fatherland, because it was held to be an instrument in the hands of the bourgeoisie for the exploitation of the working classes; the authority of the law, because that was a means of oppressing the proletariat; the school system, as a means of training not only slaves, but also slave-drivers; religion, as a means of doping the people, in order to exploit them afterwards; morality, as the badge of stupid and sheepish docility."
+Trump - Satz37: "or if the media did its job, which they don’t, they’re callous indifference to working family is equally clear when it comes to the critical matter of getting america’s children back to school."
+***Cosine Similarity: 0.3213, Euklidische Distanz: 14.4704, Manhattan-Distanz: 58.9114, Minkowski-Distanz (p=3): 1.6500***
+
+Hitler - Satz36: "marxism, whose final objective was, is, and will continue to be, the destruction of all non-jewish national states, had to witness in those days of july  how the german working-classes, which it had been ensnaring, were aroused by the national spirit and rapidly ranged themselves on the side of the fatherland."
+Trump - Satz152: "it will end the pandemic and we’re working with other nations."
+***Cosine Similarity: 0.3211, Euklidische Distanz: 17.3004, Manhattan-Distanz: 64.6262, Minkowski-Distanz (p=3): 1.8039***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Trump - Satz126: "defeating this pandemic and rebuilding the greatest economy on earth will require all of us working together."
+***Cosine Similarity: 0.3209, Euklidische Distanz: 20.9989, Manhattan-Distanz: 71.7882, Minkowski-Distanz (p=3): 1.9840***
+
+Hitler - Satz41: "the country lad who migrates to the big city feels attracted by what has been described as easy work (which it may be in reality) and shorter working hours and especially by the magic glamour of the big city."
+Trump - Satz6: "there was a picture and a little story about a mental institution in a certain country, and the doctor said, “i’ve been working so hard for 20 years."
+***Cosine Similarity: 0.3206, Euklidische Distanz: 18.1786, Manhattan-Distanz: 66.5625, Minkowski-Distanz (p=3): 1.8554***
+
+Hitler - Satz13: "daily ‘reference’ was made to us solely for the purpose of ridiculing us in the eyes of the working classes."
+Trump - Satz175: "we did all of this and we did so much more working now and going to finish everything that we started."
+***Cosine Similarity: 0.3205, Euklidische Distanz: 14.2652, Manhattan-Distanz: 60.2467, Minkowski-Distanz (p=3): 1.6099***
+
+Hitler - Satz10: "that group of people is the german working-class."
+Trump - Satz157: "they’re all working hard."
+***Cosine Similarity: 0.3203, Euklidische Distanz: 36.9390, Manhattan-Distanz: 92.2224, Minkowski-Distanz (p=3): 2.6851***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz118: "i appreciate that and i also look forward to working with ron and everybody else to defeat crooked joe biden."
+***Cosine Similarity: 0.3198, Euklidische Distanz: 23.1041, Manhattan-Distanz: 75.2801, Minkowski-Distanz (p=3): 2.0755***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Trump - Satz86: "and by the way, one of the big elements of the wall that make it so successful is we can have far fewer people working now."
+***Cosine Similarity: 0.3198, Euklidische Distanz: 14.7569, Manhattan-Distanz: 58.5292, Minkowski-Distanz (p=3): 1.6948***
+
+Hitler - Satz20: "in those days i took up the standpoint that it was immaterial whether they laughed at us or reviled us, whether they depicted us as fools or criminals; the important point was that they took notice of us and that in the eyes of the working classes we came to be regarded as the only force capable of putting up a fight."
+Trump - Satz179: "we were working so hard on human trafficking."
+***Cosine Similarity: 0.3195, Euklidische Distanz: 12.8468, Manhattan-Distanz: 56.0721, Minkowski-Distanz (p=3): 1.5450***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Trump - Satz59: "and it turned out to be the opposite, because a lot of these companies didn’t want to have bad results where they’re working with people that are terminally ill. and it’s actually making people that are terminally ill better."
+***Cosine Similarity: 0.3191, Euklidische Distanz: 17.3282, Manhattan-Distanz: 64.5701, Minkowski-Distanz (p=3): 1.8287***
+
+Hitler - Satz19: "it cannot be objected here that in other countries similar conditions exist and that nevertheless the working classes in those countries have remained patriotic."
+Trump - Satz39: "and we are working all together because we’re working as a country."
+***Cosine Similarity: 0.3189, Euklidische Distanz: 24.9755, Manhattan-Distanz: 79.2362, Minkowski-Distanz (p=3): 2.1532***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Trump - Satz132: "it is worse actually, in my opinion, hard to believe anything could be worse than this, but i think it’s worse than ballot stuffing, or media manipulation by the fbi working together with twitter, facebook, and the rest."
+***Cosine Similarity: 0.3186, Euklidische Distanz: 22.9550, Manhattan-Distanz: 74.6834, Minkowski-Distanz (p=3): 2.0923***
+
+Hitler - Satz10: "that group of people is the german working-class."
+Trump - Satz62: "and yet what are the leftists and the attorney general and district attorney’s offices working on so diligently?"
+***Cosine Similarity: 0.3183, Euklidische Distanz: 36.9647, Manhattan-Distanz: 92.7897, Minkowski-Distanz (p=3): 2.6788***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Trump - Satz86: "and by the way, one of the big elements of the wall that make it so successful is we can have far fewer people working now."
+***Cosine Similarity: 0.3177, Euklidische Distanz: 12.7429, Manhattan-Distanz: 55.0998, Minkowski-Distanz (p=3): 1.5484***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz23: "he’s supposed to be working, he’s supposed to be getting us out of that horrible, horrible war that we’re very much involved in with russia and ukraine."
+***Cosine Similarity: 0.3176, Euklidische Distanz: 23.1267, Manhattan-Distanz: 75.6600, Minkowski-Distanz (p=3): 2.0729***
+
+Hitler - Satz30: "the leaders recognised the value of propaganda on a large scale and they were veritable virtuosos in working up the spiritual instincts of the broad masses of their adherents."
+Trump - Satz71: "but i’m with thousands of proud, hardworking american patriots."
+***Cosine Similarity: 0.3175, Euklidische Distanz: 17.4342, Manhattan-Distanz: 66.2150, Minkowski-Distanz (p=3): 1.7911***
+
+Hitler - Satz28: "he secured, if not the ownership, at least the control of the working capacity of the nation."
+Trump - Satz29: "and all of you who are hard working american patriots that we know and we love you all, as we get there tonight, millions of americans are realizing that joe biden and the radical left have brought our nation to the brink of ruin."
+***Cosine Similarity: 0.3171, Euklidische Distanz: 23.1320, Manhattan-Distanz: 75.5293, Minkowski-Distanz (p=3): 2.0788***
+
+Hitler - Satz15: "on the contrary, the persistent economic depression of that period and the constant want and misery strengthened his resolution to give up working at a trade and strive for ‘something higher.’ as a boy it had seemed to him that the position of the parish priest in his native village was the highest in the scale of human attainment, but now that the big city had enlarged his outlook the young man looked up to the dignity of a state official as the highest of all."
+Trump - Satz163: "he’s working on middle east peace and doing a great job."
+***Cosine Similarity: 0.3168, Euklidische Distanz: 14.2108, Manhattan-Distanz: 59.0310, Minkowski-Distanz (p=3): 1.6380***
+
+Hitler - Satz33: "yet this defeat was due to the stupidity of the bourgeois parties, who had opposed every social demand put forward by the working classes."
+Trump - Satz67: "they had two and a half years of economic death because what they were doing wasn’t working."
+***Cosine Similarity: 0.3167, Euklidische Distanz: 22.9747, Manhattan-Distanz: 74.4283, Minkowski-Distanz (p=3): 2.0967***
+
+Hitler - Satz10: "that group of people is the german working-class."
+Trump - Satz78: "and he saw people working out."
+***Cosine Similarity: 0.3162, Euklidische Distanz: 36.9908, Manhattan-Distanz: 91.9808, Minkowski-Distanz (p=3): 2.6925***
+
+Hitler - Satz10: "that group of people is the german working-class."
+Trump - Satz151: "and they’re working hard and you saw a lot of them this weekend."
+***Cosine Similarity: 0.3161, Euklidische Distanz: 36.9927, Manhattan-Distanz: 91.6608, Minkowski-Distanz (p=3): 2.6970***
+
+Hitler - Satz39: "if the german trade-unions had defended the interests of the working- classes uncompromisingly during the war; - if, even during the war, they had used the weapon of the strike to force the industrialists (who were greedy for higher dividends) to grant the demands of the workers for whom the unions acted; - if at the same time they had stood up as good germans for the defence of the nation as stoutly as for their own claims; and - if they had given as unstintedly to their country that which was their country’s due—then the war would never have been lost."
+Trump - Satz63: "because the fake news is totally bought in, and now they’re saying, “this is not working out.”
+
+ 
+no, we got to get that war settled, and i’ll get it settled."
+***Cosine Similarity: 0.3160, Euklidische Distanz: 17.6343, Manhattan-Distanz: 64.2404, Minkowski-Distanz (p=3): 1.8419***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Trump - Satz132: "it is worse actually, in my opinion, hard to believe anything could be worse than this, but i think it’s worse than ballot stuffing, or media manipulation by the fbi working together with twitter, facebook, and the rest."
+***Cosine Similarity: 0.3159, Euklidische Distanz: 18.3971, Manhattan-Distanz: 66.4855, Minkowski-Distanz (p=3): 1.8675***
+
+Hitler - Satz24: "the bavarian did not see the berlin of four million industrious and efficient working people, but only the lazy and decadent berlin which haunts the worst quarters of the west end, and yet antipathy was not directed against the west end of berlin but against the ‘prussian’ city."
+Trump - Satz114: "i was working very hard on europe and that was going to be a deal that was done because they don’t treat us very well."
+***Cosine Similarity: 0.3158, Euklidische Distanz: 20.2693, Manhattan-Distanz: 71.0164, Minkowski-Distanz (p=3): 1.9362***
+
+Hitler - Satz10: "that group of people is the german working-class."
+Trump - Satz60: "they’re working hard, i’ll tell you."
+***Cosine Similarity: 0.3157, Euklidische Distanz: 36.9980, Manhattan-Distanz: 91.6313, Minkowski-Distanz (p=3): 2.7006***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.3156, Euklidische Distanz: 13.0873, Manhattan-Distanz: 55.8903, Minkowski-Distanz (p=3): 1.5799***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Trump - Satz57: "they’re over there working like you’ve never seen before, studying, talking, actually going all the way back, studying the roots of the constitution, because they know we have the right to send a bad vote that was illegally got, they gave these people bad things to vote for and they voted, because what did they know?"
+***Cosine Similarity: 0.3155, Euklidische Distanz: 17.3591, Manhattan-Distanz: 65.6917, Minkowski-Distanz (p=3): 1.7973***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Trump - Satz50: "that’s what happened to our workers in this country and that’s why we came up with numbers the likes of which … we had 160 million people working, there’s never been anything like it."
+***Cosine Similarity: 0.3154, Euklidische Distanz: 23.6471, Manhattan-Distanz: 74.4529, Minkowski-Distanz (p=3): 2.1266***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Trump - Satz139: "we’re working with the world."
+***Cosine Similarity: 0.3154, Euklidische Distanz: 21.0509, Manhattan-Distanz: 72.1842, Minkowski-Distanz (p=3): 1.9779***
+
+Hitler - Satz22: "at one stroke, in the august of , all the empty nonsense about international solidarity was knocked out of the heads of the german working classes."
+Trump - Satz20: "we fired close to 9,000 people working in the va who were sadists, who were thieves, who were horrible people, who were beating up our veterans because it’s not prime time for the veterans."
+***Cosine Similarity: 0.3150, Euklidische Distanz: 22.3071, Manhattan-Distanz: 72.8932, Minkowski-Distanz (p=3): 2.0677***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Trump - Satz60: "they’re working hard, i’ll tell you."
+***Cosine Similarity: 0.3148, Euklidische Distanz: 20.3551, Manhattan-Distanz: 70.7113, Minkowski-Distanz (p=3): 1.9465***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Trump - Satz67: "they had two and a half years of economic death because what they were doing wasn’t working."
+***Cosine Similarity: 0.3146, Euklidische Distanz: 20.4070, Manhattan-Distanz: 70.6381, Minkowski-Distanz (p=3): 1.9686***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3143, Euklidische Distanz: 13.0971, Manhattan-Distanz: 56.0936, Minkowski-Distanz (p=3): 1.5774***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Trump - Satz51: "imposing a stealth tax on hard-working americans and especially on middle income americans."
+***Cosine Similarity: 0.3142, Euklidische Distanz: 27.0144, Manhattan-Distanz: 78.5092, Minkowski-Distanz (p=3): 2.3000***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Trump - Satz37: "or if the media did its job, which they don’t, they’re callous indifference to working family is equally clear when it comes to the critical matter of getting america’s children back to school."
+***Cosine Similarity: 0.3142, Euklidische Distanz: 17.3712, Manhattan-Distanz: 64.1271, Minkowski-Distanz (p=3): 1.8372***
+
+Hitler - Satz6: "); the fatherland, because it was held to be an instrument in the hands of the bourgeoisie for the exploitation of the working classes; the authority of the law, because that was a means of oppressing the proletariat; the school system, as a means of training not only slaves, but also slave-drivers; religion, as a means of doping the people, in order to exploit them afterwards; morality, as the badge of stupid and sheepish docility."
+Trump - Satz62: "and yet what are the leftists and the attorney general and district attorney’s offices working on so diligently?"
+***Cosine Similarity: 0.3137, Euklidische Distanz: 14.5313, Manhattan-Distanz: 60.3261, Minkowski-Distanz (p=3): 1.6344***
+
+Hitler - Satz31: "the reservoir from which the young movement has to draw its members will be first of all the working classes."
+Trump - Satz58: "and we got to remember, in a year from now, you’re going to start working on congress."
+***Cosine Similarity: 0.3130, Euklidische Distanz: 26.8251, Manhattan-Distanz: 80.6834, Minkowski-Distanz (p=3): 2.2386***
+
+Hitler - Satz46: "but an industrialist also acts against the spirit of the folk-community, if he adopts inhumane methods of exploitation and misuses the working capacity of the nation and, by sweating the workers, amasses million for himself."
+Trump - Satz183: "this is a job for tens of millions of proud people working together from all across the land and from all walks of life."
+***Cosine Similarity: 0.3128, Euklidische Distanz: 20.4240, Manhattan-Distanz: 70.3918, Minkowski-Distanz (p=3): 1.9727***
+
+Hitler - Satz22: "at one stroke, in the august of , all the empty nonsense about international solidarity was knocked out of the heads of the german working classes."
+Trump - Satz106: "they weren’t working too well in iowa."
+***Cosine Similarity: 0.3128, Euklidische Distanz: 22.3295, Manhattan-Distanz: 73.9312, Minkowski-Distanz (p=3): 2.0574***
+
+Hitler - Satz30: "the leaders recognised the value of propaganda on a large scale and they were veritable virtuosos in working up the spiritual instincts of the broad masses of their adherents."
+Trump - Satz68: "they can be working on other things, other things related to crime and drug prevention and a lot of other elements they’re working on because we saved massive numbers of people."
+***Cosine Similarity: 0.3127, Euklidische Distanz: 17.4762, Manhattan-Distanz: 66.5197, Minkowski-Distanz (p=3): 1.7948***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Trump - Satz57: "they’re over there working like you’ve never seen before, studying, talking, actually going all the way back, studying the roots of the constitution, because they know we have the right to send a bad vote that was illegally got, they gave these people bad things to vote for and they voted, because what did they know?"
+***Cosine Similarity: 0.3127, Euklidische Distanz: 12.7808, Manhattan-Distanz: 54.8640, Minkowski-Distanz (p=3): 1.5693***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Trump - Satz113: "the hardworking american taxpayer will once again have a friend and a fighter and a champion in the white house."
+***Cosine Similarity: 0.3125, Euklidische Distanz: 17.3852, Manhattan-Distanz: 64.6763, Minkowski-Distanz (p=3): 1.8201***
+
+Hitler - Satz8: "that its avowed purpose was to raise the level of the working classes (which, in my ignorance, i then foolishly believed) was a further point in favour of social democracy rather than against it,) but the feature that contributed most to estrange me from the social democratic movement was its hostile attitude towards the struggle for the preservation of germanism in austria and its undignified wooing of the slav ‘comrades,’ who received these approaches favourably as long as any, practical advantages  were forthcoming, but otherwise maintained a haughty reserve, thus giving the suitors the answer their behaviour deserved."
+Trump - Satz62: "and yet what are the leftists and the attorney general and district attorney’s offices working on so diligently?"
+***Cosine Similarity: 0.3123, Euklidische Distanz: 13.3979, Manhattan-Distanz: 57.9082, Minkowski-Distanz (p=3): 1.5779***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Trump - Satz51: "imposing a stealth tax on hard-working americans and especially on middle income americans."
+***Cosine Similarity: 0.3119, Euklidische Distanz: 17.3907, Manhattan-Distanz: 64.4073, Minkowski-Distanz (p=3): 1.8286***
+
+Hitler - Satz47: "my lungs became so seriously affected that the doctor advised my mother very strongly not in any circumstances to allow me to take up a career which would necessitate working in an office."
+Trump - Satz114: "i was working very hard on europe and that was going to be a deal that was done because they don’t treat us very well."
+***Cosine Similarity: 0.3115, Euklidische Distanz: 17.9939, Manhattan-Distanz: 65.8634, Minkowski-Distanz (p=3): 1.8411***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Trump - Satz25: "the task for our movement and our party is to stand up to this destructive agenda with confidence and with result, the future of the republican party is as a party that defends the social economic and cultural interests and values of working american families of every race, color, and creed."
+***Cosine Similarity: 0.3113, Euklidische Distanz: 17.8016, Manhattan-Distanz: 65.0500, Minkowski-Distanz (p=3): 1.8490***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Trump - Satz86: "and by the way, one of the big elements of the wall that make it so successful is we can have far fewer people working now."
+***Cosine Similarity: 0.3111, Euklidische Distanz: 13.1216, Manhattan-Distanz: 56.3575, Minkowski-Distanz (p=3): 1.5891***
+
+Hitler - Satz39: "if the german trade-unions had defended the interests of the working- classes uncompromisingly during the war; - if, even during the war, they had used the weapon of the strike to force the industrialists (who were greedy for higher dividends) to grant the demands of the workers for whom the unions acted; - if at the same time they had stood up as good germans for the defence of the nation as stoutly as for their own claims; and - if they had given as unstintedly to their country that which was their country’s due—then the war would never have been lost."
+Trump - Satz114: "i was working very hard on europe and that was going to be a deal that was done because they don’t treat us very well."
+***Cosine Similarity: 0.3107, Euklidische Distanz: 17.6810, Manhattan-Distanz: 65.4567, Minkowski-Distanz (p=3): 1.8293***
+
+Hitler - Satz13: "daily ‘reference’ was made to us solely for the purpose of ridiculing us in the eyes of the working classes."
+Trump - Satz26: "and that’s what we are working on very, very stringently."
+***Cosine Similarity: 0.3104, Euklidische Distanz: 14.3456, Manhattan-Distanz: 60.0325, Minkowski-Distanz (p=3): 1.6235***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Trump - Satz97: "i also want to thank the republican congress because people can be critical, but they are working so hard."
+***Cosine Similarity: 0.3102, Euklidische Distanz: 22.5677, Manhattan-Distanz: 74.2180, Minkowski-Distanz (p=3): 2.0647***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Trump - Satz131: "they want to tell you the nice liberal way, but it’s not working out too well."
+***Cosine Similarity: 0.3101, Euklidische Distanz: 13.1293, Manhattan-Distanz: 56.3547, Minkowski-Distanz (p=3): 1.5862***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Trump - Satz17: "we have great companies and we’re working with the world."
+***Cosine Similarity: 0.3101, Euklidische Distanz: 21.1026, Manhattan-Distanz: 72.3580, Minkowski-Distanz (p=3): 1.9764***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Trump - Satz52: "but they couldn’t get anything and they were hardworking."
+***Cosine Similarity: 0.3098, Euklidische Distanz: 27.8244, Manhattan-Distanz: 79.7198, Minkowski-Distanz (p=3): 2.3450***
+
+Hitler - Satz3: "having once understood the working of the colossal system for poisoning the popular mind, only a fool could blame the victims of it."
+Trump - Satz95: "i forgot to pick it up, and this repair guy went a little crazy when he saw what was on it.”
+
+ 
+“what’s on it, son?”
+
+ 
+“every crime that you’ve ever committed, pa.”
+
+ 
+at what point does the father get angry, like, “this kid is not working out well for me.”
+
+ 
+then the fbi goes and convinces the media that it’s russian disinformation."
+***Cosine Similarity: 0.3095, Euklidische Distanz: 24.1425, Manhattan-Distanz: 75.7273, Minkowski-Distanz (p=3): 2.1547***
+
+Hitler - Satz25: "at that time my lot in life seemed to me a harsh one; but to-day i see in it the wise workings of providence."
+Trump - Satz14: "they like to say that i’m obstructing, which i’m not, because i was working with nara very nicely until the raid on my home."
+***Cosine Similarity: 0.3093, Euklidische Distanz: 17.7414, Manhattan-Distanz: 66.3273, Minkowski-Distanz (p=3): 1.8213***
+
+Hitler - Satz12: "the interests of the working class were not for one moment permitted to interfere with this aim, for, in the political sphere the application of economic pressure always renders extortion, successful, if the one side be sufficiently unscrupulous and the other sufficiently inert and docile."
+Trump - Satz59: "and it turned out to be the opposite, because a lot of these companies didn’t want to have bad results where they’re working with people that are terminally ill. and it’s actually making people that are terminally ill better."
+***Cosine Similarity: 0.3092, Euklidische Distanz: 14.8427, Manhattan-Distanz: 59.3638, Minkowski-Distanz (p=3): 1.6908***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Trump - Satz52: "but they couldn’t get anything and they were hardworking."
+***Cosine Similarity: 0.3091, Euklidische Distanz: 18.4584, Manhattan-Distanz: 66.7697, Minkowski-Distanz (p=3): 1.8778***
+
+Hitler - Satz14: "the formal taking over of the old working hours by the mammoth industrial enterprises had fatal results."
+Trump - Satz151: "and they’re working hard and you saw a lot of them this weekend."
+***Cosine Similarity: 0.3088, Euklidische Distanz: 27.8355, Manhattan-Distanz: 80.6599, Minkowski-Distanz (p=3): 2.3346***
+
+Hitler - Satz48: "to-day there are eighty million germans in europe, and our foreign policy will be recognised as rightly conducted only when, after barely a hundred years, there will be two hundred and fifty million germans living on this continent, not packed together like coolies and working in factories at the bidding of the rest of the world, but as tillers of the soil and workers whose labours will be a mutual guarantee for their existence."
+Trump - Satz29: "and all of you who are hard working american patriots that we know and we love you all, as we get there tonight, millions of americans are realizing that joe biden and the radical left have brought our nation to the brink of ruin."
+***Cosine Similarity: 0.3084, Euklidische Distanz: 21.1185, Manhattan-Distanz: 71.6257, Minkowski-Distanz (p=3): 1.9987***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Trump - Satz114: "i was working very hard on europe and that was going to be a deal that was done because they don’t treat us very well."
+***Cosine Similarity: 0.3074, Euklidische Distanz: 12.8208, Manhattan-Distanz: 55.1092, Minkowski-Distanz (p=3): 1.5676***
+
+Hitler - Satz35: "i was now working independently in a small way, as a painter in water colours."
+Trump - Satz73: "we had great people working for me."
+***Cosine Similarity: 0.3072, Euklidische Distanz: 25.1878, Manhattan-Distanz: 78.3956, Minkowski-Distanz (p=3): 2.1715***
+
+Hitler - Satz25: "at that time my lot in life seemed to me a harsh one; but to-day i see in it the wise workings of providence."
+Trump - Satz127: "but the inner workings of the us… very, very difficult."
+***Cosine Similarity: 0.3072, Euklidische Distanz: 17.7603, Manhattan-Distanz: 66.6507, Minkowski-Distanz (p=3): 1.8268***
+
+Hitler - Satz29: "if, in , the german working class had consisted of real marxists, the war would have ended within three weeks."
+Trump - Satz67: "they had two and a half years of economic death because what they were doing wasn’t working."
+***Cosine Similarity: 0.3068, Euklidische Distanz: 25.6723, Manhattan-Distanz: 79.4082, Minkowski-Distanz (p=3): 2.1851***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Trump - Satz52: "but they couldn’t get anything and they were hardworking."
+***Cosine Similarity: 0.3065, Euklidische Distanz: 12.8271, Manhattan-Distanz: 54.9569, Minkowski-Distanz (p=3): 1.5663***
+
+Hitler - Satz22: "at one stroke, in the august of , all the empty nonsense about international solidarity was knocked out of the heads of the german working classes."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.3056, Euklidische Distanz: 22.3999, Manhattan-Distanz: 73.0891, Minkowski-Distanz (p=3): 2.0641***
+
+Hitler - Satz50: "often they used abusive language against the public officials, whom they accused of having no sympathy with the situation of the working people."
+Trump - Satz131: "they want to tell you the nice liberal way, but it’s not working out too well."
+***Cosine Similarity: 0.3053, Euklidische Distanz: 18.4921, Manhattan-Distanz: 65.6599, Minkowski-Distanz (p=3): 1.8959***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Trump - Satz182: "and we’re going to be working with democrat mayors and democrat governors if we have to."
+***Cosine Similarity: 0.3052, Euklidische Distanz: 22.6170, Manhattan-Distanz: 73.8066, Minkowski-Distanz (p=3): 2.0777***
+
+Hitler - Satz34: "to consider their wishes would mean to sacrifice the interests of the working-classes for the benefit of a gang of thieves."
+Trump - Satz67: "they had two and a half years of economic death because what they were doing wasn’t working."
+***Cosine Similarity: 0.3051, Euklidische Distanz: 27.1128, Manhattan-Distanz: 78.3748, Minkowski-Distanz (p=3): 2.2947***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Trump - Satz32: "we will win because we will fight with every measure of our strength and with every ounce of our energy to lift up the working men and working women of america and to restore the fabric of this nation."
+***Cosine Similarity: 0.3049, Euklidische Distanz: 14.1252, Manhattan-Distanz: 59.4372, Minkowski-Distanz (p=3): 1.6227***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Trump - Satz114: "i was working very hard on europe and that was going to be a deal that was done because they don’t treat us very well."
+***Cosine Similarity: 0.3049, Euklidische Distanz: 23.7545, Manhattan-Distanz: 74.5179, Minkowski-Distanz (p=3): 2.1432***
+
+Hitler - Satz41: "the country lad who migrates to the big city feels attracted by what has been described as easy work (which it may be in reality) and shorter working hours and especially by the magic glamour of the big city."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3045, Euklidische Distanz: 18.3223, Manhattan-Distanz: 65.8231, Minkowski-Distanz (p=3): 1.8737***
+
+Hitler - Satz8: "that its avowed purpose was to raise the level of the working classes (which, in my ignorance, i then foolishly believed) was a further point in favour of social democracy rather than against it,) but the feature that contributed most to estrange me from the social democratic movement was its hostile attitude towards the struggle for the preservation of germanism in austria and its undignified wooing of the slav ‘comrades,’ who received these approaches favourably as long as any, practical advantages  were forthcoming, but otherwise maintained a haughty reserve, thus giving the suitors the answer their behaviour deserved."
+Trump - Satz57: "they’re over there working like you’ve never seen before, studying, talking, actually going all the way back, studying the roots of the constitution, because they know we have the right to send a bad vote that was illegally got, they gave these people bad things to vote for and they voted, because what did they know?"
+***Cosine Similarity: 0.3043, Euklidische Distanz: 13.4591, Manhattan-Distanz: 57.9248, Minkowski-Distanz (p=3): 1.5843***
+
+Hitler - Satz5: "every section of the working community and every class of employee is carefully studied and their secret wishes weighed and considered."
+Trump - Satz192: "they’re working all the time, all of them."
+***Cosine Similarity: 0.3037, Euklidische Distanz: 20.4593, Manhattan-Distanz: 71.0690, Minkowski-Distanz (p=3): 1.9509***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3034, Euklidische Distanz: 17.4656, Manhattan-Distanz: 65.3255, Minkowski-Distanz (p=3): 1.8162***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Trump - Satz9: "our movement of proud, hardworking, and you know what?"
+***Cosine Similarity: 0.3032, Euklidische Distanz: 12.8521, Manhattan-Distanz: 55.3583, Minkowski-Distanz (p=3): 1.5662***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Trump - Satz187: "and they were real unemployment, not like you have today where nobody’s working and they consider it to be."
+***Cosine Similarity: 0.3026, Euklidische Distanz: 12.8564, Manhattan-Distanz: 55.6958, Minkowski-Distanz (p=3): 1.5647***
+
+Hitler - Satz21: "it will be the duty of the economic chambers to keep the national economic system in smooth working order and to remove whatever defects or errors may affect it adversely."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.3025, Euklidische Distanz: 22.6442, Manhattan-Distanz: 73.7776, Minkowski-Distanz (p=3): 2.0639***
+
+Hitler - Satz43: "thus, at the end of a long and hard-working career, he returned to the life which his father had led."
+Trump - Satz159: "he is a man who really knows what’s happening and he loves his country and he also loves the united states, but i want to thank for his friendship and his professional working relationship."
+***Cosine Similarity: 0.3023, Euklidische Distanz: 20.9390, Manhattan-Distanz: 71.0524, Minkowski-Distanz (p=3): 1.9874***
+
+Hitler - Satz25: "at that time my lot in life seemed to me a harsh one; but to-day i see in it the wise workings of providence."
+Trump - Satz8: "before i stepped into the political arena seven years ago, i spent my whole life working alongside of americans just like you, spent a lot of time with you."
+***Cosine Similarity: 0.3022, Euklidische Distanz: 17.8043, Manhattan-Distanz: 66.3701, Minkowski-Distanz (p=3): 1.8245***
+
+Hitler - Satz7: "not only does this bourgeoisie hinder all efforts to bring in legislation which would shorten the inhumanly long hours of work, prohibit child-labour, grant security and protection to women and improve the hygienic conditions in the workshops and the dwellings of the working class, but while it is engaged in so doing, the shrewd jew takes the cause of the oppressed into his own hands."
+Trump - Satz1: "and all of the people working on immigration, they’re not even allowed to work."
+***Cosine Similarity: 0.3016, Euklidische Distanz: 17.4812, Manhattan-Distanz: 64.8846, Minkowski-Distanz (p=3): 1.8236***
+
+Hitler - Satz8: "that its avowed purpose was to raise the level of the working classes (which, in my ignorance, i then foolishly believed) was a further point in favour of social democracy rather than against it,) but the feature that contributed most to estrange me from the social democratic movement was its hostile attitude towards the struggle for the preservation of germanism in austria and its undignified wooing of the slav ‘comrades,’ who received these approaches favourably as long as any, practical advantages  were forthcoming, but otherwise maintained a haughty reserve, thus giving the suitors the answer their behaviour deserved."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.3015, Euklidische Distanz: 13.4805, Manhattan-Distanz: 57.7028, Minkowski-Distanz (p=3): 1.5793***
+
+Hitler - Satz2: "as in  the dream of international solidarity was suddenly banished from the minds of our german working class and they were brought back to the world of everlasting struggle, where one creature feeds on the other and where the death of the weaker implies the life of the stronger, so again in the spring of ."
+Trump - Satz125: "i’ve risked it all to defend working class from the corrupt political class that has spent decades sucking the life, wealth, and blood out of this country."
+***Cosine Similarity: 0.3014, Euklidische Distanz: 14.1530, Manhattan-Distanz: 59.5913, Minkowski-Distanz (p=3): 1.6147***
+
+Hitler - Satz16: "on innumerable occasions the bourgeoisie took a definite stand against even the most legitimate human demands of the working classes."
+Trump - Satz140: "these are the convictions that define our movement today, and must define the republican party, which has truly become the party of the working man and woman."
+***Cosine Similarity: 0.3012, Euklidische Distanz: 21.5191, Manhattan-Distanz: 72.0570, Minkowski-Distanz (p=3): 2.0345***
+
+Hitler - Satz43: "thus, at the end of a long and hard-working career, he returned to the life which his father had led."
+Trump - Satz84: "he’s going to be working with us and he’ll be working with us for a long time."
+***Cosine Similarity: 0.3011, Euklidische Distanz: 20.9504, Manhattan-Distanz: 71.2216, Minkowski-Distanz (p=3): 1.9854***
+
+Hitler - Satz16: "on innumerable occasions the bourgeoisie took a definite stand against even the most legitimate human demands of the working classes."
+Trump - Satz25: "the task for our movement and our party is to stand up to this destructive agenda with confidence and with result, the future of the republican party is as a party that defends the social economic and cultural interests and values of working american families of every race, color, and creed."
+***Cosine Similarity: 0.3010, Euklidische Distanz: 21.5214, Manhattan-Distanz: 72.0877, Minkowski-Distanz (p=3): 2.0361***
+
+Hitler - Satz42: "as the masses were taught to increase and raise their demands, the possibility of satisfying them dwindled, and whatever ameliorative measures were taken seemed less and less significant, so that it was always possible to persuade the masses that this ridiculous degree in which the most sacred claims of the working classes were being granted, represented a diabolical plane to weaken their fighting power and, if possible, to paralyse it."
+Trump - Satz114: "i was working very hard on europe and that was going to be a deal that was done because they don’t treat us very well."
+***Cosine Similarity: 0.3008, Euklidische Distanz: 13.1997, Manhattan-Distanz: 55.7614, Minkowski-Distanz (p=3): 1.5950***
+
+Hitler - Satz45: "furthermore, it was because no other section of the community bothered itself about the lot of the working classes, and social conditions finally proved more powerful than any feelings which might have led them to adopt a different attitude."
+Trump - Satz127: "but the inner workings of the us… very, very difficult."
+***Cosine Similarity: 0.3007, Euklidische Distanz: 12.8709, Manhattan-Distanz: 55.7066, Minkowski-Distanz (p=3): 1.5570***
+
+Hitler - Satz1: "the objection will at once be raised, that it is too much to expect from the favourite son of a highly-placed civil servant, for instance, that he shall work with his hands simply because somebody else, whose parents belong to the working-class, seems more capable of filling a job in the civil service."
+Trump - Satz131: "they want to tell you the nice liberal way, but it’s not working out too well."
+***Cosine Similarity: 0.3005, Euklidische Distanz: 17.8966, Manhattan-Distanz: 65.7467, Minkowski-Distanz (p=3): 1.8380***
+
+Hitler - Satz4: "the more or less mechanical transformation of the methods of work hitherto in vogue among the artisans and peasants did not fit in well with the habits or mentality of this new working-class."
+Trump - Satz106: "they weren’t working too well in iowa."
+***Cosine Similarity: 0.3005, Euklidische Distanz: 23.7995, Manhattan-Distanz: 74.5460, Minkowski-Distanz (p=3): 2.1492***
+
+Hitler - Satz41: "the country lad who migrates to the big city feels attracted by what has been described as easy work (which it may be in reality) and shorter working hours and especially by the magic glamour of the big city."
+Trump - Satz39: "and we are working all together because we’re working as a country."
+***Cosine Similarity: 0.3005, Euklidische Distanz: 18.3585, Manhattan-Distanz: 65.8657, Minkowski-Distanz (p=3): 1.8670***
+
