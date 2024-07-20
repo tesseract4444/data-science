@@ -1,5 +1,4 @@
-Semantic analysis of stylometry (code close to https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python).
-in speeches by Donald Trump, George W. Bush, Barack Obama and Joseph Biden.
+Semantic analysis of speeches by Donald Trump, George W. Bush, Barack Obama and Joseph Biden.
 
 According to word embeddings Facebook's FAISS algorithm was used with Python to examine similarities (cosine similarity, minkowski and manhattan distance) 
 between sentences from speeches by Donald Trump, George W. Bush, Barack Obama and Joseph Biden.
