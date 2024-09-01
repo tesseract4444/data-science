@@ -4,7 +4,7 @@ folder university:
 
 folder my_projects (code files):
 - individual projects
-- computer science homeworks
+- homework (from lectures like computer science or data science)
 - university projects (diskmags project: co-worker (data analysis) for 1 semester, fmi about diskmags see http://diskmags.de/index.php?title=Main_Page OR https://github.com/zpd-digital-editions/Diskmags)
 
 folder packt:
