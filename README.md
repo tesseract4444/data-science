@@ -8,7 +8,7 @@ folder my_projects (code files):
 - university projects (diskmags project: co-worker (data analysis) for 1 semester, fmi about diskmags see http://diskmags.de/index.php?title=Main_Page OR https://github.com/zpd-digital-editions/Diskmags)
 
 folder packt:
--  updated and commented code from packt.com on topics like data science, machine learning, or Power BI.
+-  updated and commented code from https://www.packtpub.com on topics like data science, machine learning, or Power BI.
 
 folder sololearn:
 - code data science courses from https://www.sololearn.com/
