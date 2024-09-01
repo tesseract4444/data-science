@@ -1,4 +1,5 @@
 folder university:
+- code bachelor thesis
 - code files from lectures
 
 folder my_projects (code files):
