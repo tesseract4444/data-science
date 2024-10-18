@@ -9,6 +9,3 @@ folder my_projects (code files):
 
 folder packt:
 -  updated and commented code from https://www.packtpub.com on topics like data science, machine learning, or Power BI.
-
-folder sololearn:
-- code data science courses from https://www.sololearn.com/
