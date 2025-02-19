@@ -1,0 +1,7 @@
+- customer analysis using real world or randomly created data sets
+- folder includes examples of:
+    - churn rate prediction based on age and income
+    - sentiment analysis from book reviews
+    - customer data analysis: revenue and customer classification
+    - receipt data analysis (the product type and the product quantity customers bought)
+    - supply chain data analysis: delivery time, available stock, sales per month
