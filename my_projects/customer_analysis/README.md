@@ -6,3 +6,4 @@
     - receipt data analysis (the product type and the product quantity customers bought)
     - supply chain data analysis: delivery time, available stock, sales per month
     - financial metrics and calculations: return on investment (roi), break-even quantity, break-even point, contribution margin
+    - break even point: a calculation and visualization of the break-even point for random financial data
